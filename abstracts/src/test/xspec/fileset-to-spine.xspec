@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:description xmlns:x="http://www.jenitennison.com/xslt/xspec" stylesheet="../../../src/main/resources/fileset-to-spine.xsl" xmlns:d="http://www.daisy.org/ns/pipeline/data">
+
+    <x:scenario label="MP3">
+        <x:context>
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data">
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0001.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0002.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0006.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0005.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0004.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0007.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0003.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/tpbnarrator_res.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/subdir/audio.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/non-audio-file.txt"/>
+            </d:fileset>
+        </x:context>
+
+        <x:expect label="The result should be the audio files in reading order">
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data" format="MP3">
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0001.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0002.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0003.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0004.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0005.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0006.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0007.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/subdir/audio.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/tpbnarrator_res.mp3"/>
+            </d:fileset>
+        </x:expect>
+    </x:scenario>
+
+    <x:scenario label="DAISY 2.02">
+        <x:context>
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data">
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0001.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0001.smil"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/content.html"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/ncc.html"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0002.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0006.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0002.smil"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0005.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0004.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0007.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0003.smil"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0003.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/tpbnarrator_res.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/default.css"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0004.smil"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0006.smil"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0007.smil"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0005.smil"/>
+            </d:fileset>
+        </x:context>
+
+        <x:expect label="The result should be the audio files in reading order">
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data" format="DAISY 2.02">
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0001.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0002.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0007.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0003.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0004.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0005.mp3"/>
+                <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0006.mp3"/>
+            </d:fileset>
+        </x:expect>
+    </x:scenario>
+
+</x:description>

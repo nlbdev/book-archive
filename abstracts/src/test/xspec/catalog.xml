@@ -1,0 +1,22 @@
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri    uri="dummy.dtd" name="http://www.w3.org/TR/REC-SMIL/SMIL10.dtd"/>
+    <public uri="dummy.dtd" publicId="-//W3C//DTD SMIL 1.0//EN"/>
+    <system uri="dummy.dtd" systemId="http://www.w3.org/TR/REC-SMIL/SMIL10.dtd"/>
+    <system uri="dummy.dtd" systemId="SMIL10.dtd"/>
+    <uri    uri="dummy.dtd" name="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
+    <public uri="dummy.dtd" publicId="-//W3C//DTD XHTML 1.0 Transitional//EN"/>
+    <system uri="dummy.dtd" systemId="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
+    <system uri="dummy.dtd" systemId="xhtml1-transitional.dtd"/>
+    <uri    uri="dummy.dtd" name="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/>
+    <public uri="dummy.dtd" publicId="-//W3C//DTD XHTML 1.0 Strict//EN"/>
+    <system uri="dummy.dtd" systemId="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/>
+    <system uri="dummy.dtd" systemId="xhtml1-strict.dtd"/>
+    <uri    uri="dummy.dtd" name="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"/>
+    <public uri="dummy.dtd" publicId="-//W3C//DTD XHTML 1.1//EN"/>
+    <system uri="dummy.dtd" systemId="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"/>
+    <system uri="dummy.dtd" systemId="xhtml11.dtd"/>
+    <public uri="dummy.dtd" publicId="-//W3C//DTD XHTML 1.0 Strict//EN"/>
+    <system uri="dummy.dtd" systemId="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"/>
+    <public uri="dummy.dtd" publicId="-//UTF-X//DTD utfx-tests 1.0//EN"/>
+    <system uri="dummy.dtd" systemId="utfx_tests.dtd"/>
+</catalog>

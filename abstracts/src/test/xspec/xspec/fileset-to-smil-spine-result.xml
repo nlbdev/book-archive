@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/home/jostein/Oxygen%20XML%20Editor%2017/frameworks/xspec/src/compiler/format-xspec-report.xsl"?>
+<x:report xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+          xmlns:xs="http://www.w3.org/2001/XMLSchema"
+          xmlns:test="http://www.jenitennison.com/xslt/unit-test"
+          xmlns:x="http://www.jenitennison.com/xslt/xspec"
+          xmlns:pkg="http://expath.org/ns/pkg"
+          xmlns:impl="urn:x-xspec:compile:xslt:impl"
+          xmlns:d="http://www.daisy.org/ns/pipeline/data"
+          stylesheet="file:/home/jostein/nlb/book-archive/abstracts/src/main/resources/fileset-to-smil-spine.xsl"
+          date="2015-07-28T09:58:33.619+02:00">
+   <x:scenario>
+      <x:label>MP3</x:label>
+      <x:context>
+         <d:directory>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0001.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0002.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0006.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0005.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0004.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0007.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0003.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/tpbnarrator_res.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/subdir/audio.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/non-audio-file.txt"/>
+         </d:directory>
+      </x:context>
+      <x:result>
+         <d:directory format="MP3">
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0001.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0002.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0003.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0004.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0005.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0006.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0007.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/subdir/audio.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/tpbnarrator_res.mp3"/>
+         </d:directory>
+      </x:result>
+      <x:test successful="true">
+         <x:label>The result should be the audio files in reading order</x:label>
+         <x:expect>
+            <d:directory format="MP3">
+               <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0001.mp3"/>
+               <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0002.mp3"/>
+               <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0003.mp3"/>
+               <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0004.mp3"/>
+               <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0005.mp3"/>
+               <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0006.mp3"/>
+               <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0007.mp3"/>
+               <d:file href="../../../src/test/resources/dontworrybehappy/subdir/audio.mp3"/>
+               <d:file href="../../../src/test/resources/dontworrybehappy/tpbnarrator_res.mp3"/>
+            </d:directory>
+         </x:expect>
+      </x:test>
+   </x:scenario>
+   <x:scenario>
+      <x:label>DAISY 2.02</x:label>
+      <x:context>
+         <d:directory>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0001.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0001.smil"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/content.html"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/ncc.html"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0002.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0006.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0002.smil"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0005.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0004.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0007.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0003.smil"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0003.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/tpbnarrator_res.mp3"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/default.css"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0004.smil"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0006.smil"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0007.smil"/>
+            <d:file href="../../../src/test/resources/dontworrybehappy/speechgen0005.smil"/>
+         </d:directory>
+      </x:context>
