@@ -24,6 +24,7 @@ def main(argv):
     assert book_id != None and len(book_id) > 0, "Unable to determine book ID based on path"
     
     shutil.copy(source_audio, "/tmp/source_audio.mp3")
+    sys.stdout.flush()
     check_call(["mp3splt", "/tmp/source_audio.mp3", "-o", "output/"+book_id, "0.00.00", "1.15.00"], timeout=300)
     os.chmod("/tmp/output/"+book_id+".mp3", 0o666)
 
@@ -74,6 +75,7 @@ def fileset_to_spine(fullpaths):
         item = ET.SubElement(fileset, '{http://www.daisy.org/ns/pipeline/data}file', href=fullpath)
     fileset_document = ET.ElementTree(fileset)
     fileset_document.write("/tmp/fileset.xml")
+    sys.stdout.flush()
     check_call(["saxon", "-s:/tmp/fileset.xml", "-xsl:/tmp/script/fileset-to-spine.xsl", "-o:/tmp/spine.xml"], timeout=300)
     spine_document = ET.parse('/tmp/spine.xml').getroot()
     spine = []
