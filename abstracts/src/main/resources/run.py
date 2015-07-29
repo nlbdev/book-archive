@@ -2,20 +2,10 @@
 # -*- coding: utf-8 -*-
 
 import sys
-#from urllib.parse import urlparse
-#import argparse
 import os
 import shutil
-#import re
-#import json
-#import tempfile
-#import time
-#import traceback
-#from dateutil import parser
-#from datetime import datetime, timedelta
 from pprint import pprint
 from subprocess import call, check_call, check_output
-#import socket
 import xml.etree.ElementTree as ET
 from mutagen.mp3 import MP3
 
@@ -35,6 +25,7 @@ def main(argv):
     
     shutil.copy(source_audio, "/tmp/source_audio.mp3")
     check_call(["mp3splt", "/tmp/source_audio.mp3", "-o", "output/"+book_id, "0.00.00", "1.15.00"], timeout=300)
+    os.chmod("/tmp/output/"+book_id+".mp3", 0o666)
 
 def pick_abstract(spine):
     # list which files are longest and which files are in the middle of the book
@@ -84,13 +75,10 @@ def fileset_to_spine(fullpaths):
     fileset_document = ET.ElementTree(fileset)
     fileset_document.write("/tmp/fileset.xml")
     check_call(["saxon", "-s:/tmp/fileset.xml", "-xsl:/tmp/script/fileset-to-spine.xsl", "-o:/tmp/spine.xml"], timeout=300)
-    shutil.copy("/tmp/fileset.xml", "/tmp/output/")
-    shutil.copy("/tmp/spine.xml", "/tmp/output/")
     spine_document = ET.parse('/tmp/spine.xml').getroot()
     spine = []
     for item in spine_document.findall('{http://www.daisy.org/ns/pipeline/data}file'):
         spine.append(item.get("href"))
-    pprint(spine)
     return spine
 
 
