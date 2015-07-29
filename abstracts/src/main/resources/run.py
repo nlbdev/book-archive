@@ -8,6 +8,7 @@ from pprint import pprint
 from subprocess import call, check_call, check_output
 import xml.etree.ElementTree as ET
 from mutagen.mp3 import MP3
+from slacker import Slacker
 
 
 def main(argv):
@@ -27,6 +28,31 @@ def main(argv):
     sys.stdout.flush()
     check_call(["mp3splt", "/tmp/source_audio.mp3", "-o", "output/"+book_id, "0.00.00", "1.15.00"], timeout=300)
     os.chmod("/tmp/output/"+book_id+".mp3", 0o666)
+    
+    # Send message to Slack if there's a slack token available
+    if os.path.exists("/tmp/config/slack.token"):
+        with open("/tmp/config/slack.token", 'r') as f:
+            slack_token = f.readline().rstrip()
+        book_title = None
+        for path in fullpaths:
+            if os.path.basename(path) == "ncc.html":
+                try:
+                    with open(path, 'r') as f:
+                        lines = f.readlines()
+                    for line in lines:
+                        if "<title" in line:
+                            book_title = line
+                            book_title = line.split("<title",1)[1].split(">",1)[1].split("<",1)[0]
+                            break
+                except UnicodeDecodeError as e:
+                    print(e)
+        slack = Slacker(slack_token)
+        slack.auth.test()
+        book_title = " ("+book_title+")"
+        slack.chat.post_message('#autoprod', 'Audio abstract is ready for '+book_id+book_title)
+    else:
+        print("(no slack token in /tmp/config/slack.token; won't post to slack)")
+
 
 def pick_abstract(spine):
     # list which files are longest and which files are in the middle of the book

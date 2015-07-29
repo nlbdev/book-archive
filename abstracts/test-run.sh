@@ -25,6 +25,8 @@ fi
 
 BOOK_ID="1001"
 docker run \
+    -e LANG=C.UTF-8 \
+    -v "$HOME/config":"/tmp/config" \
     -v "$DIR/target/book-archive/$BOOK_ID":"/tmp/input/$BOOK_ID" \
     -v "$DIR/target/output":"/tmp/output" \
     -v "$DIR/src/main/resources":"/tmp/script" \
