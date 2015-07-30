@@ -9,17 +9,30 @@ from subprocess import call, check_call, check_output
 import xml.etree.ElementTree as ET
 from mutagen.mp3 import MP3
 from slacker import Slacker
+import yaml
+import gettext
+
+global config
+global translation
+global _
 
 
 def main(argv):
+    config = load_config("/tmp/config/config.yml")
+    if config:
+        translation = gettext.translation('messages', os.path.join(os.path.dirname(__file__), "i18n"), [config["language"]])
+    else:
+        translation = gettext.translation('messages', os.path.join(os.path.dirname(__file__), "i18n"), ["en"])
+    translation.install()
+    
     fullpaths = list_files("/tmp/input")
-    print(str(len(fullpaths))+" files in fileset")
+    print(str(len(fullpaths))+translation.ngettext(" file in fileset", " files in fileset", len(fullpaths)))
     
     spine = fileset_to_spine(fullpaths)
-    print(str(len(spine))+" audio files in spine")
+    print(str(len(spine))+translation.ngettext(" audio file in spine", " audio files in spine", len(spine)))
     
     source_audio = pick_abstract(spine)
-    print(source_audio+" will be used as input")
+    print(source_audio+_(" will be used as input"))
     
     book_id = os.path.relpath(source_audio, "/tmp/input").rsplit("/")[0]
     assert book_id != None and len(book_id) > 0, "Unable to determine book ID based on path"
@@ -47,9 +60,15 @@ def main(argv):
                 except UnicodeDecodeError as e:
                     print(e)
         slack = Slacker(slack_token)
-        slack.auth.test()
-        book_title = " ("+book_title+")"
-        slack.chat.post_message('#autoprod', 'Audio abstract is ready for '+book_id+book_title)
+        if book_title == None or len(book_title) == 0:
+            book_title = ""
+        else:
+            book_title = " ("+book_title+")"
+        slack.chat.post_message(
+                                '#autoprod',
+                                _('Audio abstract is ready for')+' '+book_id+book_title,
+                                username="abstracts-bot"
+                                )
     else:
         print("(no slack token in /tmp/config/slack.token; won't post to slack)")
 
@@ -75,14 +94,14 @@ def pick_abstract(spine):
     source_audio = None
     for mp3_filepath in spine:
         if mp3_filepath in spine_longest_files and mp3_filepath in spine_middle_files:
-            print("strategy for picking abstract: first of the longest files that are in the middle of the book")
+            print(_("strategy for picking abstract")+": "+_("first of the longest files that are in the middle of the book"))
             source_audio = mp3_filepath
             break
     if source_audio == None and len(spine_longest_files) > 0:
-        print("strategy for picking abstract: first of the longest files in the book")
+        print(_("strategy for picking abstract")+": "+_("first of the longest files in the book"))
         source_audio = spine_longest_files[0]
     if source_audio == None:
-        print("strategy for picking abstract: the longest file in the book")
+        print(_("strategy for picking abstract")+": "+_("the longest file in the book"))
         longest = -1.0
         for mp3_filepath in spine:
             info = MP3(mp3_filepath).info
@@ -102,11 +121,18 @@ def fileset_to_spine(fullpaths):
     fileset_document = ET.ElementTree(fileset)
     fileset_document.write("/tmp/fileset.xml")
     sys.stdout.flush()
-    check_call(["saxon", "-s:/tmp/fileset.xml", "-xsl:/tmp/script/fileset-to-spine.xsl", "-o:/tmp/spine.xml"], timeout=300)
-    spine_document = ET.parse('/tmp/spine.xml').getroot()
     spine = []
-    for item in spine_document.findall('{http://www.daisy.org/ns/pipeline/data}file'):
-        spine.append(item.get("href"))
+    try:
+        check_call(["saxon", "-s:/tmp/fileset.xml", "-xsl:/tmp/script/fileset-to-spine.xsl", "-o:/tmp/spine.xml"], timeout=300)
+        spine_document = ET.parse('/tmp/spine.xml').getroot()
+        for item in spine_document.findall('{http://www.daisy.org/ns/pipeline/data}file'):
+            spine.append(item.get("href"))
+    except:
+        print(_("XSLT failed; fall back to alphabetical listing of MP3s"))
+        for fullpath in fullpaths:
+            if fullpath.endswith(".mp3"):
+                spine.append(fullpath)
+        spine.sort
     return spine
 
 
@@ -119,6 +145,16 @@ def list_files(directory):
         elif os.path.isdir(item_fullpath):
             files.extend(list_files(item_fullpath))
     return files
+
+
+def load_config(config_file):
+    if os.path.exists(config_file):
+        try:
+            with open(config_file, 'r') as config_file:
+                config = yaml.load(config_file)
+        except:
+            config = None
+    return config
 
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
 #!/bin/bash
 
-pip3 install slacker # temp until new docker image is built
+pip3 install pyyaml # temp
 /tmp/script/run.py "$@"

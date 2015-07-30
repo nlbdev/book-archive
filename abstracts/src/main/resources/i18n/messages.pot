@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-30 23:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: run.py:30
+msgid " file in fileset"
+msgid_plural " files in fileset"
+msgstr[0] ""
+msgstr[1] ""
+
+#: run.py:33
+msgid " audio file in spine"
+msgid_plural " audio files in spine"
+msgstr[0] ""
+msgstr[1] ""
+
+#: run.py:36
+msgid " will be used as input"
+msgstr ""
+
+#: run.py:70
+msgid "Audio abstract is ready for"
+msgstr ""
+
+#: run.py:98 run.py:102 run.py:105
+msgid "strategy for picking abstract"
+msgstr ""
+
+#: run.py:98
+msgid "first of the longest files that are in the middle of the book"
+msgstr ""
+
+#: run.py:102
+msgid "first of the longest files in the book"
+msgstr ""
+
+#: run.py:105
+msgid "the longest file in the book"
+msgstr ""
+
+#: run.py:132
+msgid "XSLT failed; fall back to alphabetical listing of MP3s"
+msgstr ""
