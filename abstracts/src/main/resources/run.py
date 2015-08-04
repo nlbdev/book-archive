@@ -64,10 +64,16 @@ def main(argv):
             book_title = ""
         else:
             book_title = " ("+book_title+")"
+        botname = "abstracts-bot"
+        channel = "#general"
+        if config["abstracts-botname"]:
+            botname = config["abstracts-botname"]
+        if config["abstracts-channel"]:
+            channel = config["abstracts-channel"]
         slack.chat.post_message(
-                                '#autoprod',
+                                channel,
                                 _('Audio abstract is ready for')+' '+book_id+book_title,
-                                username="abstracts-bot"
+                                botname
                                 )
     else:
         print("(no slack token in /tmp/config/slack.token; won't post to slack)")
