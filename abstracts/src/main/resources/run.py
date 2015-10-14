@@ -132,7 +132,8 @@ def fileset_to_spine(fullpaths):
         check_call(["saxon", "-s:/tmp/fileset.xml", "-xsl:/tmp/script/fileset-to-spine.xsl", "-o:/tmp/spine.xml"], timeout=300)
         spine_document = ET.parse('/tmp/spine.xml').getroot()
         for item in spine_document.findall('{http://www.daisy.org/ns/pipeline/data}file'):
-            spine.append(item.get("href"))
+            if len(item.get("href")) > 0:
+                spine.append(item.get("href"))
     except:
         print(_("XSLT failed; fall back to alphabetical listing of MP3s"))
         for fullpath in fullpaths:
