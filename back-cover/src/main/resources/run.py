@@ -12,6 +12,7 @@ from slacker import Slacker
 import yaml
 import gettext
 import re
+from pathlib import Path
 
 global config
 global translation
@@ -29,15 +30,23 @@ def main(argv):
     fullpaths = list_files("/tmp/input")
     print(str(len(fullpaths))+translation.ngettext(" file in fileset", " files in fileset", len(fullpaths)))
     
-    source_audio = pick_back_cover(fullpaths)
-    print(source_audio+_(" will be used as input"))
-    
-    book_id = os.path.relpath(source_audio, "/tmp/input").rsplit("/")[0]
+    book_id = os.path.relpath(fullpaths[0], "/tmp/input").rsplit("/")[0]
     assert book_id != None and len(book_id) > 0, "Unable to determine book ID based on path"
     
-    shutil.copy(source_audio, "/tmp/output/"+book_id+".mp3")
-    sys.stdout.flush()
-    os.chmod("/tmp/output/"+book_id+".mp3", 0o666)
+    source_audio = pick_back_cover(fullpaths)
+    
+    if source_audio != None:
+        print(source_audio+_(" will be used as input"))
+        
+        shutil.copy(source_audio, "/tmp/output/"+book_id+".mp3")
+        sys.stdout.flush()
+        os.chmod("/tmp/output/"+book_id+".mp3", 0o666)
+    else:
+        print(_("Unable to find a back cover for")+" "+book_id)
+        
+        Path("/tmp/output/"+book_id+".missing").touch()
+        sys.stdout.flush()
+        os.chmod("/tmp/output/"+book_id+".missing", 0o666)
     
     # Send message to Slack if there's a slack token available
     if os.path.exists("/tmp/config/slack.token"):
@@ -65,7 +74,7 @@ def main(argv):
         channel = config.get("back-cover-channel", "#general")
         slack.chat.post_message(
                                 channel,
-                                _('Audio back cover is ready for')+' '+book_id+book_title,
+                                (_('Audio back cover is ready for') if source_audio != None else _('Audio back cover is not available for'))+' '+book_id+book_title,
                                 botname
                                 )
     else:
@@ -90,8 +99,6 @@ def pick_back_cover(fullpaths):
     except:
         print(_("XSLT failed"))
         sys.exit(1)
-    
-    assert source_audio != None, "Unable to find an audio file for the back cover."
     
     return source_audio
 

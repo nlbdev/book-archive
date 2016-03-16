@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-16 14:31+0100\n"
+"POT-Creation-Date: 2016-03-16 16:11+0100\n"
 "PO-Revision-Date: 2015-07-30 22:58+0200\n"
 "Last-Translator: Jostein Austvik Jacobsen <josteinaj@gmail.com>\n"
 "Language-Team: Engelsk <>\n"
@@ -19,20 +19,28 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Gtranslator 2.91.6\n"
 
-#: run.py:30
+#: run.py:31
 msgid " file in fileset"
 msgid_plural " files in fileset"
 msgstr[0] " file in fileset"
 msgstr[1] " files in fileset"
 
-#: run.py:33
+#: run.py:39
 msgid " will be used as input"
 msgstr " will be used as input"
 
-#: run.py:68
+#: run.py:45
+msgid "Unable to find a back cover for"
+msgstr "Unable to find a back cover for"
+
+#: run.py:77
 msgid "Audio back cover is ready for"
 msgstr "Audio back cover is ready for"
 
-#: run.py:91
+#: run.py:77
+msgid "Audio back cover is not available for"
+msgstr "Audio back cover is not available for"
+
+#: run.py:100
 msgid "XSLT failed"
 msgstr "XSLT failed"
