@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="612923"/>
+		<meta name="dc:title" content="HAMLON"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="01:59:15.721"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<ref src="iqhc0001.smil" title="HAMLON" id="rgn_smil_0001"/>
+		<ref src="nlb_norge_annonsering.smil" title="Lydbokavtalen" id="rgn_smil_0002"/>
+		<ref src="iqhc0002.smil" title="Bokinformasjon" id="rgn_smil_0003"/>
+		<ref src="iqhc0003.smil" title="Bokomtale og forfatteromtale" id="rgn_smil_0004"/>
+		<ref src="iqhc0004.smil" title="Etter en stund..." id="rgn_smil_0005"/>
+		<ref src="iqhc0005.smil" title="Special agent Macduff..." id="rgn_smil_0006"/>
+		<ref src="iqhc0006.smil" title="FÃ¸rsteinntrykket til Linda..." id="rgn_smil_0007"/>
+		<ref src="iqhc0007.smil" title="Det kom sikkert av den..." id="rgn_smil_0008"/>
+		<ref src="iqhc0008.smil" title="Special agent Macduffs..." id="rgn_smil_0009"/>
+		<ref src="iqhc0009.smil" title="Visst var spekkhoggere..." id="rgn_smil_0010"/>
+		<ref src="iqhc000a.smil" title="ETTERORD" id="rgn_smil_0011"/>
+		<ref src="iqhc000b.smil" title="Hamlon, Jan Guillou, Slutt" id="rgn_smil_0012"/>
+	</body>
+</smil>

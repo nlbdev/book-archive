@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Som om du skulle være et barn"/>
+		<meta name="ncc:totalElapsedTime" content="00:30:55"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:02"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="61.978s">
+			<par endsync="last" id="rgn_par_0039_0001">
+				<text src="ncc.html#mcor_0042" id="mcor_0042"/>
+				<seq>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=0.000s" clip-end="npt=4.480s" id="rgn_aud_0039_0001"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=4.480s" clip-end="npt=11.401s" id="rgn_aud_0039_0002"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=11.401s" clip-end="npt=15.269s" id="rgn_aud_0039_0003"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=15.269s" clip-end="npt=23.027s" id="rgn_aud_0039_0004"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=23.027s" clip-end="npt=26.436s" id="rgn_aud_0039_0005"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=26.436s" clip-end="npt=29.492s" id="rgn_aud_0039_0006"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=29.492s" clip-end="npt=36.898s" id="rgn_aud_0039_0007"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=36.898s" clip-end="npt=40.228s" id="rgn_aud_0039_0008"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=40.228s" clip-end="npt=45.127s" id="rgn_aud_0039_0009"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=45.127s" clip-end="npt=51.527s" id="rgn_aud_0039_0010"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=51.527s" clip-end="npt=55.234s" id="rgn_aud_0039_0011"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=55.234s" clip-end="npt=57.274s" id="rgn_aud_0039_0012"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=57.274s" clip-end="npt=58.057s" id="rgn_aud_0039_0013"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=58.057s" clip-end="npt=58.841s" id="rgn_aud_0039_0014"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=58.841s" clip-end="npt=59.625s" id="rgn_aud_0039_0015"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=59.625s" clip-end="npt=60.408s" id="rgn_aud_0039_0016"/>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=60.408s" clip-end="npt=61.395s" id="rgn_aud_0039_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mcor_006f" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0043" id="mcor_0070"/>
+				<seq>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=61.395s" clip-end="npt=61.499s" id="rgn_aud_0039_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0039_0002">
+				<text src="ncc.html#mcor_0042" id="mcor_0071"/>
+				<seq>
+					<audio src="39_Som_om_du_sku.mp3" clip-begin="npt=61.499s" clip-end="npt=61.978s" id="rgn_aud_0039_0019"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

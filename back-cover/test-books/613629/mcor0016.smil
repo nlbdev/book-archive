@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Et alminnelig mirakel"/>
+		<meta name="ncc:totalElapsedTime" content="00:16:59"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:45"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="45.43s">
+			<par endsync="last" id="rgn_par_0022_0001">
+				<text src="ncc.html#mcor_0015" id="mcor_0015"/>
+				<seq>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=0.000s" clip-end="npt=3.851s" id="rgn_aud_0022_0001"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=3.851s" clip-end="npt=7.681s" id="rgn_aud_0022_0002"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=7.681s" clip-end="npt=10.018s" id="rgn_aud_0022_0003"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=10.018s" clip-end="npt=12.840s" id="rgn_aud_0022_0004"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=12.840s" clip-end="npt=19.199s" id="rgn_aud_0022_0005"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=19.199s" clip-end="npt=22.074s" id="rgn_aud_0022_0006"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=22.074s" clip-end="npt=25.559s" id="rgn_aud_0022_0007"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=25.559s" clip-end="npt=29.635s" id="rgn_aud_0022_0008"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=29.635s" clip-end="npt=32.457s" id="rgn_aud_0022_0009"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=32.457s" clip-end="npt=36.414s" id="rgn_aud_0022_0010"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=36.414s" clip-end="npt=39.149s" id="rgn_aud_0022_0011"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=39.149s" clip-end="npt=39.935s" id="rgn_aud_0022_0012"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=39.935s" clip-end="npt=40.719s" id="rgn_aud_0022_0013"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=40.719s" clip-end="npt=41.505s" id="rgn_aud_0022_0014"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=41.505s" clip-end="npt=42.289s" id="rgn_aud_0022_0015"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=42.289s" clip-end="npt=43.075s" id="rgn_aud_0022_0016"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=43.075s" clip-end="npt=43.859s" id="rgn_aud_0022_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojjn_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_005f" id="ojjn_0002"/>
+				<seq>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=43.859s" clip-end="npt=44.128s" id="rgn_aud_0022_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0022_0002">
+				<text src="ncc.html#mcor_0015" id="ojjn_0003"/>
+				<seq>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=44.128s" clip-end="npt=44.645s" id="rgn_aud_0022_0019"/>
+					<audio src="22_Et_alminnelig.mp3" clip-begin="npt=44.645s" clip-end="npt=45.430s" id="rgn_aud_0022_0020"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

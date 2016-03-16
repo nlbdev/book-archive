@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:47:05.097"/>
+		<meta name="ncc:totalElapsedTime" content="02:21:49.919"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel fire"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2825.097s">
+			<par endsync="last" id="ojlc_0001">
+				<text src="ncc.html#dfrn_0009" id="dfrn_0009"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=0.000s" clip-end="npt=5.108s" id="audio_0001"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=5.108s" clip-end="npt=28.524s" id="audio_0002"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=28.524s" clip-end="npt=39.677s" id="audio_0003"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=39.677s" clip-end="npt=44.639s" id="audio_0004"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=44.639s" clip-end="npt=50.776s" id="audio_0005"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=50.776s" clip-end="npt=69.792s" id="audio_0006"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=69.792s" clip-end="npt=84.495s" id="audio_0007"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=84.495s" clip-end="npt=92.558s" id="audio_0008"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=92.558s" clip-end="npt=99.168s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_006d" id="ojlc_0019"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=99.168s" clip-end="npt=99.272s" id="audio_0010"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=99.272s" clip-end="npt=112.008s" id="audio_0011"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=112.008s" clip-end="npt=124.763s" id="audio_0012"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=124.763s" clip-end="npt=173.553s" id="audio_0013"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=173.553s" clip-end="npt=206.230s" id="audio_0014"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=206.230s" clip-end="npt=214.575s" id="audio_0015"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=214.575s" clip-end="npt=235.024s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_006e" id="ojlc_001b"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=235.024s" clip-end="npt=235.197s" id="audio_0017"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=235.197s" clip-end="npt=241.341s" id="audio_0018"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=241.341s" clip-end="npt=271.655s" id="audio_0019"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=271.655s" clip-end="npt=294.208s" id="audio_0020"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=294.208s" clip-end="npt=300.188s" id="audio_0021"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=300.188s" clip-end="npt=321.976s" id="audio_0022"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=321.976s" clip-end="npt=354.525s" id="audio_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_006f" id="ojlc_001d"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=354.525s" clip-end="npt=354.676s" id="audio_0024"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=354.676s" clip-end="npt=363.709s" id="audio_0025"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=363.709s" clip-end="npt=374.981s" id="audio_0026"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=374.981s" clip-end="npt=404.226s" id="audio_0027"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=404.226s" clip-end="npt=418.565s" id="audio_0028"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=418.565s" clip-end="npt=427.265s" id="audio_0029"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=427.265s" clip-end="npt=445.073s" id="audio_0030"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=445.073s" clip-end="npt=468.365s" id="audio_0031"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=468.365s" clip-end="npt=498.727s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0070" id="ojlc_001f"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=498.727s" clip-end="npt=498.813s" id="audio_0033"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=498.813s" clip-end="npt=526.867s" id="audio_0034"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=526.867s" clip-end="npt=562.946s" id="audio_0035"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=562.946s" clip-end="npt=589.425s" id="audio_0036"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=589.425s" clip-end="npt=625.617s" id="audio_0037"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=625.617s" clip-end="npt=629.958s" id="audio_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0071" id="ojlc_0021"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=629.958s" clip-end="npt=630.097s" id="audio_0039"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=630.097s" clip-end="npt=712.120s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0072" id="ojlc_0023"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=712.120s" clip-end="npt=712.258s" id="audio_0041"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=712.258s" clip-end="npt=726.479s" id="audio_0042"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=726.479s" clip-end="npt=763.016s" id="audio_0043"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=763.016s" clip-end="npt=767.064s" id="audio_0044"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=767.064s" clip-end="npt=777.154s" id="audio_0045"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=777.154s" clip-end="npt=796.711s" id="audio_0046"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=796.711s" clip-end="npt=808.969s" id="audio_0047"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=808.969s" clip-end="npt=814.900s" id="audio_0048"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=814.900s" clip-end="npt=830.095s" id="audio_0049"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=830.095s" clip-end="npt=836.661s" id="audio_0050"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=836.661s" clip-end="npt=841.593s" id="audio_0051"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0073" id="ojlc_0025"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=841.593s" clip-end="npt=841.732s" id="audio_0052"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=841.732s" clip-end="npt=847.582s" id="audio_0053"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=847.582s" clip-end="npt=891.298s" id="audio_0054"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=891.298s" clip-end="npt=903.806s" id="audio_0055"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=903.806s" clip-end="npt=950.812s" id="audio_0056"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=950.812s" clip-end="npt=957.842s" id="audio_0057"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=957.842s" clip-end="npt=962.735s" id="audio_0058"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0074" id="ojlc_0027"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=962.735s" clip-end="npt=962.891s" id="audio_0059"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=962.891s" clip-end="npt=991.362s" id="audio_0060"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=991.362s" clip-end="npt=1035.024s" id="audio_0061"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1035.024s" clip-end="npt=1088.772s" id="audio_0062"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1088.772s" clip-end="npt=1093.369s" id="audio_0063"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1093.369s" clip-end="npt=1098.826s" id="audio_0064"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0075" id="ojlc_0029"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1098.826s" clip-end="npt=1098.947s" id="audio_0065"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1098.947s" clip-end="npt=1104.645s" id="audio_0066"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1104.645s" clip-end="npt=1174.064s" id="audio_0067"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1174.064s" clip-end="npt=1186.703s" id="audio_0068"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1186.703s" clip-end="npt=1230.408s" id="audio_0069"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1230.408s" clip-end="npt=1239.771s" id="audio_0070"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0076" id="ojlc_002b"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1239.771s" clip-end="npt=1239.858s" id="audio_0071"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1239.858s" clip-end="npt=1255.982s" id="audio_0072"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1255.982s" clip-end="npt=1262.302s" id="audio_0073"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1262.302s" clip-end="npt=1280.544s" id="audio_0074"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1280.544s" clip-end="npt=1298.273s" id="audio_0075"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1298.273s" clip-end="npt=1311.255s" id="audio_0076"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1311.255s" clip-end="npt=1340.456s" id="audio_0077"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1340.456s" clip-end="npt=1348.477s" id="audio_0078"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1348.477s" clip-end="npt=1376.362s" id="audio_0079"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0077" id="ojlc_002d"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1376.362s" clip-end="npt=1376.484s" id="audio_0080"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1376.484s" clip-end="npt=1392.461s" id="audio_0081"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1392.461s" clip-end="npt=1400.808s" id="audio_0082"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1400.808s" clip-end="npt=1411.351s" id="audio_0083"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1411.351s" clip-end="npt=1429.877s" id="audio_0084"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1429.877s" clip-end="npt=1442.987s" id="audio_0085"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1442.987s" clip-end="npt=1470.094s" id="audio_0086"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1470.094s" clip-end="npt=1527.096s" id="audio_0087"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0078" id="ojlc_002f"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1527.096s" clip-end="npt=1527.252s" id="audio_0088"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1527.252s" clip-end="npt=1540.790s" id="audio_0089"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1540.790s" clip-end="npt=1578.164s" id="audio_0090"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1578.164s" clip-end="npt=1602.934s" id="audio_0091"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1602.934s" clip-end="npt=1643.084s" id="audio_0092"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1643.084s" clip-end="npt=1659.887s" id="audio_0093"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1659.887s" clip-end="npt=1678.616s" id="audio_0094"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0079" id="ojlc_0031"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1678.616s" clip-end="npt=1678.703s" id="audio_0095"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1678.703s" clip-end="npt=1740.614s" id="audio_0096"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1740.614s" clip-end="npt=1744.870s" id="audio_0097"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1744.870s" clip-end="npt=1758.893s" id="audio_0098"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1758.893s" clip-end="npt=1792.668s" id="audio_0099"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1792.668s" clip-end="npt=1799.420s" id="audio_0100"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1799.420s" clip-end="npt=1804.720s" id="audio_0101"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1804.720s" clip-end="npt=1826.313s" id="audio_0102"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_007a" id="ojlc_0033"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1826.313s" clip-end="npt=1826.556s" id="audio_0103"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1826.556s" clip-end="npt=1834.166s" id="audio_0104"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1834.166s" clip-end="npt=1840.096s" id="audio_0105"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1840.096s" clip-end="npt=1852.663s" id="audio_0106"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1852.663s" clip-end="npt=1863.257s" id="audio_0107"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1863.257s" clip-end="npt=1883.988s" id="audio_0108"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1883.988s" clip-end="npt=1907.109s" id="audio_0109"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1907.109s" clip-end="npt=1911.374s" id="audio_0110"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1911.374s" clip-end="npt=1918.673s" id="audio_0111"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1918.673s" clip-end="npt=1973.622s" id="audio_0112"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_007b" id="ojlc_0035"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1973.622s" clip-end="npt=1973.725s" id="audio_0113"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1973.725s" clip-end="npt=1981.521s" id="audio_0114"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=1981.521s" clip-end="npt=2006.481s" id="audio_0115"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2006.481s" clip-end="npt=2046.117s" id="audio_0116"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2046.117s" clip-end="npt=2062.541s" id="audio_0117"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2062.541s" clip-end="npt=2080.332s" id="audio_0118"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2080.332s" clip-end="npt=2092.979s" id="audio_0119"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2092.979s" clip-end="npt=2101.646s" id="audio_0120"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_007c" id="ojlc_0037"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2101.646s" clip-end="npt=2101.698s" id="audio_0121"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2101.698s" clip-end="npt=2117.708s" id="audio_0122"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2117.708s" clip-end="npt=2178.911s" id="audio_0123"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2178.911s" clip-end="npt=2224.177s" id="audio_0124"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2224.177s" clip-end="npt=2228.816s" id="audio_0125"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_007d" id="ojlc_0039"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2228.816s" clip-end="npt=2228.903s" id="audio_0126"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2228.903s" clip-end="npt=2239.959s" id="audio_0127"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2239.959s" clip-end="npt=2274.749s" id="audio_0128"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2274.749s" clip-end="npt=2304.505s" id="audio_0129"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2304.505s" clip-end="npt=2311.430s" id="audio_0130"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2311.430s" clip-end="npt=2336.675s" id="audio_0131"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2336.675s" clip-end="npt=2342.756s" id="audio_0132"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_007e" id="ojlc_003b"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2342.756s" clip-end="npt=2342.899s" id="audio_0133"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2342.899s" clip-end="npt=2356.019s" id="audio_0134"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2356.019s" clip-end="npt=2379.583s" id="audio_0135"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2379.583s" clip-end="npt=2394.227s" id="audio_0136"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2394.227s" clip-end="npt=2413.472s" id="audio_0137"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2413.472s" clip-end="npt=2448.840s" id="audio_0138"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2448.840s" clip-end="npt=2463.597s" id="audio_0139"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0014" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_007f" id="ojlc_003d"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2463.597s" clip-end="npt=2463.753s" id="audio_0140"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2463.753s" clip-end="npt=2471.520s" id="audio_0141"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2471.520s" clip-end="npt=2479.134s" id="audio_0142"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2479.134s" clip-end="npt=2493.409s" id="audio_0143"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2493.409s" clip-end="npt=2557.795s" id="audio_0144"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0015" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0080" id="ojlc_003f"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2557.795s" clip-end="npt=2557.933s" id="audio_0145"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2557.933s" clip-end="npt=2599.973s" id="audio_0146"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2599.973s" clip-end="npt=2611.273s" id="audio_0147"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2611.273s" clip-end="npt=2640.983s" id="audio_0148"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2640.983s" clip-end="npt=2670.346s" id="audio_0149"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0016" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0081" id="ojlc_0041"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2670.346s" clip-end="npt=2670.433s" id="audio_0150"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2670.433s" clip-end="npt=2678.223s" id="audio_0151"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2678.223s" clip-end="npt=2687.629s" id="audio_0152"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2687.629s" clip-end="npt=2693.013s" id="audio_0153"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2693.013s" clip-end="npt=2702.690s" id="audio_0154"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2702.690s" clip-end="npt=2708.580s" id="audio_0155"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2708.580s" clip-end="npt=2788.030s" id="audio_0156"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2788.030s" clip-end="npt=2794.647s" id="audio_0157"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0017" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0082" id="ojlc_0043"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2794.647s" clip-end="npt=2794.768s" id="audio_0158"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2794.768s" clip-end="npt=2816.111s" id="audio_0159"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2816.111s" clip-end="npt=2822.839s" id="audio_0160"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ojlc_0018" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0083" id="ojlc_0045"/>
+				<seq>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2822.839s" clip-end="npt=2822.960s" id="audio_0161"/>
+					<audio src="12_Kapittel_fire.mp3" clip-begin="npt=2822.960s" clip-end="npt=2825.097s" id="audio_0162"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

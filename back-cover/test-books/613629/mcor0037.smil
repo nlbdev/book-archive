@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Mor, far og unge"/>
+		<meta name="ncc:totalElapsedTime" content="00:44:37"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:38"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="38.478s">
+			<par endsync="last" id="rgn_par_0055_0001">
+				<text src="ncc.html#mcor_0036" id="mcor_0036"/>
+				<seq>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=0.000s" clip-end="npt=2.131s" id="rgn_aud_0055_0001"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=2.131s" clip-end="npt=2.621s" id="rgn_aud_0055_0002"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=2.621s" clip-end="npt=3.846s" id="rgn_aud_0055_0003"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=3.846s" clip-end="npt=7.083s" id="rgn_aud_0055_0004"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=7.083s" clip-end="npt=9.240s" id="rgn_aud_0055_0005"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=9.240s" clip-end="npt=11.914s" id="rgn_aud_0055_0006"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=11.914s" clip-end="npt=12.464s" id="rgn_aud_0055_0007"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=12.464s" clip-end="npt=15.218s" id="rgn_aud_0055_0008"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=15.218s" clip-end="npt=17.792s" id="rgn_aud_0055_0009"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=17.792s" clip-end="npt=20.260s" id="rgn_aud_0055_0010"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=20.260s" clip-end="npt=27.152s" id="rgn_aud_0055_0011"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=27.152s" clip-end="npt=28.231s" id="rgn_aud_0055_0012"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=28.231s" clip-end="npt=28.977s" id="rgn_aud_0055_0013"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=28.977s" clip-end="npt=31.785s" id="rgn_aud_0055_0014"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=31.785s" clip-end="npt=33.776s" id="rgn_aud_0055_0015"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=33.776s" clip-end="npt=34.560s" id="rgn_aud_0055_0016"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=34.560s" clip-end="npt=35.344s" id="rgn_aud_0055_0017"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=35.344s" clip-end="npt=36.128s" id="rgn_aud_0055_0018"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=36.128s" clip-end="npt=36.911s" id="rgn_aud_0055_0019"/>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=36.911s" clip-end="npt=37.344s" id="rgn_aud_0055_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wfhm_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0080" id="wfhm_0002"/>
+				<seq>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=37.344s" clip-end="npt=37.536s" id="rgn_aud_0055_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0055_0002">
+				<text src="ncc.html#mcor_0036" id="wfhm_0003"/>
+				<seq>
+					<audio src="55_Mor__far_og_u.mp3" clip-begin="npt=37.536s" clip-end="npt=38.478s" id="rgn_aud_0055_0022"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

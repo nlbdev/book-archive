@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:44.431"/>
+		<meta name="ncc:totalElapsedTime" content="00:26:01.555"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 7: M for melkebart"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="164.431s">
+			<par endsync="last" id="upjx_000c">
+				<text src="ncc.html#upjx_000b" id="upjx_000b"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=0.000s" clip-end="npt=1.985s" id="audio_0001"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=1.985s" clip-end="npt=4.258s" id="audio_0002"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=4.258s" clip-end="npt=9.177s" id="audio_0003"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=9.177s" clip-end="npt=14.937s" id="audio_0004"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=14.937s" clip-end="npt=16.557s" id="audio_0005"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=16.557s" clip-end="npt=20.815s" id="audio_0006"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=20.815s" clip-end="npt=24.537s" id="audio_0007"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=24.537s" clip-end="npt=26.875s" id="audio_0008"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=26.875s" clip-end="npt=30.480s" id="audio_0009"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=30.480s" clip-end="npt=33.419s" id="audio_0010"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=33.419s" clip-end="npt=35.521s" id="audio_0011"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=35.521s" clip-end="npt=37.677s" id="audio_0012"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=37.677s" clip-end="npt=41.164s" id="audio_0013"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=41.164s" clip-end="npt=45.657s" id="audio_0014"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=45.657s" clip-end="npt=48.896s" id="audio_0015"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=48.896s" clip-end="npt=52.266s" id="audio_0016"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=52.266s" clip-end="npt=53.968s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oymi_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0040" id="oymi_0006"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=53.968s" clip-end="npt=54.155s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oymi_0010">
+				<text src="ncc.html#upjx_000b" id="oymi_0007"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=54.155s" clip-end="npt=54.821s" id="audio_0019"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=54.821s" clip-end="npt=57.943s" id="audio_0020"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=57.943s" clip-end="npt=60.281s" id="audio_0021"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=60.281s" clip-end="npt=64.656s" id="audio_0022"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=64.656s" clip-end="npt=68.196s" id="audio_0023"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=68.196s" clip-end="npt=70.534s" id="audio_0024"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=70.534s" clip-end="npt=72.025s" id="audio_0025"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=72.025s" clip-end="npt=72.574s" id="audio_0026"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=72.574s" clip-end="npt=73.710s" id="audio_0027"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=73.710s" clip-end="npt=79.169s" id="audio_0028"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=79.169s" clip-end="npt=80.854s" id="audio_0029"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=80.854s" clip-end="npt=83.663s" id="audio_0030"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=83.663s" clip-end="npt=86.614s" id="audio_0031"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=86.614s" clip-end="npt=89.971s" id="audio_0032"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=89.971s" clip-end="npt=93.694s" id="audio_0033"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=93.694s" clip-end="npt=95.065s" id="audio_0034"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=95.065s" clip-end="npt=96.780s" id="audio_0035"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=96.780s" clip-end="npt=97.446s" id="audio_0036"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=97.446s" clip-end="npt=98.582s" id="audio_0037"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=98.582s" clip-end="npt=103.206s" id="audio_0038"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=103.206s" clip-end="npt=107.188s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oymi_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0041" id="oymi_0008"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=107.188s" clip-end="npt=107.429s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oymi_0011">
+				<text src="ncc.html#upjx_000b" id="oymi_0009"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=107.429s" clip-end="npt=107.978s" id="audio_0041"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=107.978s" clip-end="npt=111.334s" id="audio_0042"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=111.334s" clip-end="npt=120.431s" id="audio_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oymi_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0042" id="oymi_000a"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=120.431s" clip-end="npt=120.672s" id="audio_0044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oymi_0012">
+				<text src="ncc.html#upjx_000b" id="oymi_000b"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=120.672s" clip-end="npt=121.390s" id="audio_0045"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=121.390s" clip-end="npt=126.314s" id="audio_0046"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=126.314s" clip-end="npt=129.671s" id="audio_0047"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=129.671s" clip-end="npt=135.222s" id="audio_0048"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oymi_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0043" id="oymi_000c"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=135.222s" clip-end="npt=135.329s" id="audio_0049"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oymi_0013">
+				<text src="ncc.html#upjx_000b" id="oymi_000d"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=135.329s" clip-end="npt=136.047s" id="audio_0050"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=136.047s" clip-end="npt=142.656s" id="audio_0051"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=142.656s" clip-end="npt=147.567s" id="audio_0052"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=147.567s" clip-end="npt=151.290s" id="audio_0053"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=151.290s" clip-end="npt=155.430s" id="audio_0054"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=155.430s" clip-end="npt=158.369s" id="audio_0055"/>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=158.369s" clip-end="npt=163.983s" id="audio_0056"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oymi_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0044" id="oymi_000e"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=163.983s" clip-end="npt=164.130s" id="audio_0057"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oymi_0014">
+				<text src="ncc.html#upjx_000b" id="oymi_000f"/>
+				<seq>
+					<audio src="12_Kapittel_7__M_for_melkebart.mp3" clip-begin="npt=164.130s" clip-end="npt=164.431s" id="audio_0058"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

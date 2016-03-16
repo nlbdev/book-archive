@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:24.425"/>
+		<meta name="ncc:totalElapsedTime" content="01:17:56.053"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 21: F for finnerlønn"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="144.425s">
+			<par endsync="last" id="upjx_001a">
+				<text src="ncc.html#upjx_0019" id="upjx_0019"/>
+				<seq>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=0.000s" clip-end="npt=2.286s" id="audio_0001"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=2.286s" clip-end="npt=4.859s" id="audio_0002"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=4.859s" clip-end="npt=9.848s" id="audio_0003"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=9.848s" clip-end="npt=14.106s" id="audio_0004"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=14.106s" clip-end="npt=15.242s" id="audio_0005"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=15.242s" clip-end="npt=18.429s" id="audio_0006"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=18.429s" clip-end="npt=20.702s" id="audio_0007"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=20.702s" clip-end="npt=24.124s" id="audio_0008"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=24.124s" clip-end="npt=25.443s" id="audio_0009"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=25.443s" clip-end="npt=27.546s" id="audio_0010"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=27.546s" clip-end="npt=31.321s" id="audio_0011"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=31.321s" clip-end="npt=36.545s" id="audio_0012"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=36.545s" clip-end="npt=41.339s" id="audio_0013"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=41.339s" clip-end="npt=46.028s" id="audio_0014"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=46.028s" clip-end="npt=50.403s" id="audio_0015"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=50.403s" clip-end="npt=53.442s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ohvj_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0082" id="ohvj_0004"/>
+				<seq>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=53.442s" clip-end="npt=53.656s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ohvj_000a">
+				<text src="ncc.html#upjx_0019" id="ohvj_0005"/>
+				<seq>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=53.656s" clip-end="npt=54.505s" id="audio_0018"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=54.505s" clip-end="npt=58.045s" id="audio_0019"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=58.045s" clip-end="npt=60.918s" id="audio_0020"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=60.918s" clip-end="npt=62.538s" id="audio_0021"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=62.538s" clip-end="npt=65.659s" id="audio_0022"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=65.659s" clip-end="npt=66.443s" id="audio_0023"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=66.443s" clip-end="npt=72.255s" id="audio_0024"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=72.255s" clip-end="npt=75.142s" id="audio_0025"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=75.142s" clip-end="npt=78.864s" id="audio_0026"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=78.864s" clip-end="npt=81.254s" id="audio_0027"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=81.254s" clip-end="npt=84.376s" id="audio_0028"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=84.376s" clip-end="npt=86.779s" id="audio_0029"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=86.779s" clip-end="npt=92.356s" id="audio_0030"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=92.356s" clip-end="npt=94.041s" id="audio_0031"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=94.041s" clip-end="npt=97.098s" id="audio_0032"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=97.098s" clip-end="npt=98.593s" id="audio_0033"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=98.593s" clip-end="npt=101.662s" id="audio_0034"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=101.662s" clip-end="npt=106.639s" id="audio_0035"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=106.639s" clip-end="npt=113.901s" id="audio_0036"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=113.901s" clip-end="npt=116.128s" id="audio_0037"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=116.128s" clip-end="npt=119.315s" id="audio_0038"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=119.315s" clip-end="npt=126.699s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ohvj_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0083" id="ohvj_0006"/>
+				<seq>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=126.699s" clip-end="npt=126.873s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ohvj_000b">
+				<text src="ncc.html#upjx_0019" id="ohvj_0007"/>
+				<seq>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=126.873s" clip-end="npt=127.356s" id="audio_0041"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=127.356s" clip-end="npt=130.896s" id="audio_0042"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=130.896s" clip-end="npt=137.975s" id="audio_0043"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=137.975s" clip-end="npt=139.477s" id="audio_0044"/>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=139.477s" clip-end="npt=143.496s" id="audio_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ohvj_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0084" id="ohvj_0008"/>
+				<seq>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=143.496s" clip-end="npt=143.750s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ohvj_000c">
+				<text src="ncc.html#upjx_0019" id="ohvj_0009"/>
+				<seq>
+					<audio src="26_Kapittel_21__F_for_finnerl_nn.mp3" clip-begin="npt=143.750s" clip-end="npt=144.425s" id="audio_0047"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

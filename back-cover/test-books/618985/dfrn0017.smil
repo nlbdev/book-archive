@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:40:15.244"/>
+		<meta name="ncc:totalElapsedTime" content="12:55:10.016"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel sytten"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2415.244s">
+			<par endsync="last" id="gkmd_0001">
+				<text src="ncc.html#dfrn_0016" id="dfrn_0016"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=0.000s" clip-end="npt=5.720s" id="audio_0001"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=5.720s" clip-end="npt=14.306s" id="audio_0002"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=14.306s" clip-end="npt=32.560s" id="audio_0003"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=32.560s" clip-end="npt=37.359s" id="audio_0004"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=37.359s" clip-end="npt=55.561s" id="audio_0005"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=55.561s" clip-end="npt=74.277s" id="audio_0006"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=74.277s" clip-end="npt=99.036s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01aa" id="gkmd_0016"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=99.036s" clip-end="npt=99.130s" id="audio_0008"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=99.130s" clip-end="npt=117.722s" id="audio_0009"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=117.722s" clip-end="npt=136.800s" id="audio_0010"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=136.800s" clip-end="npt=183.528s" id="audio_0011"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=183.528s" clip-end="npt=199.253s" id="audio_0012"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=199.253s" clip-end="npt=207.808s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01ab" id="gkmd_0018"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=207.808s" clip-end="npt=207.946s" id="audio_0014"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=207.946s" clip-end="npt=234.524s" id="audio_0015"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=234.524s" clip-end="npt=255.997s" id="audio_0016"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=255.997s" clip-end="npt=297.034s" id="audio_0017"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=297.034s" clip-end="npt=312.366s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01ac" id="gkmd_001a"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=312.366s" clip-end="npt=312.470s" id="audio_0019"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=312.470s" clip-end="npt=316.794s" id="audio_0020"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=316.794s" clip-end="npt=339.886s" id="audio_0021"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=339.886s" clip-end="npt=361.278s" id="audio_0022"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=361.278s" clip-end="npt=376.134s" id="audio_0023"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=376.134s" clip-end="npt=411.650s" id="audio_0024"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=411.650s" clip-end="npt=430.805s" id="audio_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01ad" id="gkmd_001c"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=430.805s" clip-end="npt=430.909s" id="audio_0026"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=430.909s" clip-end="npt=458.337s" id="audio_0027"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=458.337s" clip-end="npt=465.856s" id="audio_0028"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=465.856s" clip-end="npt=479.148s" id="audio_0029"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=479.148s" clip-end="npt=491.527s" id="audio_0030"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=491.527s" clip-end="npt=508.435s" id="audio_0031"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=508.435s" clip-end="npt=513.419s" id="audio_0032"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=513.419s" clip-end="npt=542.341s" id="audio_0033"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=542.341s" clip-end="npt=548.575s" id="audio_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01ae" id="gkmd_001e"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=548.575s" clip-end="npt=548.713s" id="audio_0035"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=548.713s" clip-end="npt=583.690s" id="audio_0036"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=583.690s" clip-end="npt=619.012s" id="audio_0037"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=619.012s" clip-end="npt=624.542s" id="audio_0038"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=624.542s" clip-end="npt=649.887s" id="audio_0039"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=649.887s" clip-end="npt=674.383s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01af" id="gkmd_0020"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=674.383s" clip-end="npt=674.487s" id="audio_0041"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=674.487s" clip-end="npt=730.748s" id="audio_0042"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=730.748s" clip-end="npt=801.985s" id="audio_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01b0" id="gkmd_0022"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=801.985s" clip-end="npt=802.089s" id="audio_0044"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=802.089s" clip-end="npt=807.335s" id="audio_0045"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=807.335s" clip-end="npt=813.725s" id="audio_0046"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=813.725s" clip-end="npt=819.639s" id="audio_0047"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=819.639s" clip-end="npt=832.110s" id="audio_0048"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=832.110s" clip-end="npt=840.362s" id="audio_0049"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=840.362s" clip-end="npt=863.186s" id="audio_0050"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=863.186s" clip-end="npt=918.803s" id="audio_0051"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=918.803s" clip-end="npt=923.393s" id="audio_0052"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=923.393s" clip-end="npt=941.948s" id="audio_0053"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01b1" id="gkmd_0024"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=941.948s" clip-end="npt=942.017s" id="audio_0054"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=942.017s" clip-end="npt=966.063s" id="audio_0055"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=966.063s" clip-end="npt=971.842s" id="audio_0056"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=971.842s" clip-end="npt=996.662s" id="audio_0057"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=996.662s" clip-end="npt=1015.989s" id="audio_0058"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1015.989s" clip-end="npt=1027.640s" id="audio_0059"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1027.640s" clip-end="npt=1056.690s" id="audio_0060"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1056.690s" clip-end="npt=1062.411s" id="audio_0061"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01b2" id="gkmd_0026"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1062.411s" clip-end="npt=1062.480s" id="audio_0062"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1062.480s" clip-end="npt=1066.840s" id="audio_0063"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1066.840s" clip-end="npt=1075.040s" id="audio_0064"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1075.040s" clip-end="npt=1090.016s" id="audio_0065"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1090.016s" clip-end="npt=1104.381s" id="audio_0066"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1104.381s" clip-end="npt=1121.481s" id="audio_0067"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1121.481s" clip-end="npt=1146.621s" id="audio_0068"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1146.621s" clip-end="npt=1153.101s" id="audio_0069"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1153.101s" clip-end="npt=1175.392s" id="audio_0070"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1175.392s" clip-end="npt=1180.872s" id="audio_0071"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01b3" id="gkmd_0028"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1180.872s" clip-end="npt=1181.011s" id="audio_0072"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1181.011s" clip-end="npt=1220.946s" id="audio_0073"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1220.946s" clip-end="npt=1234.116s" id="audio_0074"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1234.116s" clip-end="npt=1312.226s" id="audio_0075"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01b4" id="gkmd_002a"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1312.226s" clip-end="npt=1312.347s" id="audio_0076"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1312.347s" clip-end="npt=1329.183s" id="audio_0077"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1329.183s" clip-end="npt=1347.121s" id="audio_0078"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1347.121s" clip-end="npt=1360.556s" id="audio_0079"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1360.556s" clip-end="npt=1366.728s" id="audio_0080"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1366.728s" clip-end="npt=1375.556s" id="audio_0081"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1375.556s" clip-end="npt=1393.173s" id="audio_0082"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1393.173s" clip-end="npt=1401.708s" id="audio_0083"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1401.708s" clip-end="npt=1406.595s" id="audio_0084"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1406.595s" clip-end="npt=1417.199s" id="audio_0085"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1417.199s" clip-end="npt=1433.673s" id="audio_0086"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1433.673s" clip-end="npt=1446.403s" id="audio_0087"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01b5" id="gkmd_002c"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1446.403s" clip-end="npt=1446.462s" id="audio_0088"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1446.462s" clip-end="npt=1484.225s" id="audio_0089"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1484.225s" clip-end="npt=1517.338s" id="audio_0090"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1517.338s" clip-end="npt=1536.669s" id="audio_0091"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1536.669s" clip-end="npt=1560.457s" id="audio_0092"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01b6" id="gkmd_002e"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1560.457s" clip-end="npt=1560.543s" id="audio_0093"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1560.543s" clip-end="npt=1601.925s" id="audio_0094"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1601.925s" clip-end="npt=1622.945s" id="audio_0095"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1622.945s" clip-end="npt=1637.534s" id="audio_0096"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1637.534s" clip-end="npt=1647.052s" id="audio_0097"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1647.052s" clip-end="npt=1663.898s" id="audio_0098"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1663.898s" clip-end="npt=1676.230s" id="audio_0099"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1676.230s" clip-end="npt=1692.413s" id="audio_0100"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01b7" id="gkmd_0030"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1692.413s" clip-end="npt=1692.603s" id="audio_0101"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1692.603s" clip-end="npt=1700.861s" id="audio_0102"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1700.861s" clip-end="npt=1709.031s" id="audio_0103"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1709.031s" clip-end="npt=1767.828s" id="audio_0104"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1767.828s" clip-end="npt=1777.365s" id="audio_0105"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1777.365s" clip-end="npt=1835.562s" id="audio_0106"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1835.562s" clip-end="npt=1843.886s" id="audio_0107"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01b8" id="gkmd_0032"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1843.886s" clip-end="npt=1844.076s" id="audio_0108"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1844.076s" clip-end="npt=1851.887s" id="audio_0109"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1851.887s" clip-end="npt=1863.248s" id="audio_0110"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1863.248s" clip-end="npt=1868.879s" id="audio_0111"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1868.879s" clip-end="npt=1877.112s" id="audio_0112"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1877.112s" clip-end="npt=1884.210s" id="audio_0113"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1884.210s" clip-end="npt=1904.000s" id="audio_0114"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1904.000s" clip-end="npt=1923.261s" id="audio_0115"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1923.261s" clip-end="npt=1930.679s" id="audio_0116"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1930.679s" clip-end="npt=1945.391s" id="audio_0117"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01b9" id="gkmd_0034"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1945.391s" clip-end="npt=1945.567s" id="audio_0118"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1945.567s" clip-end="npt=1951.007s" id="audio_0119"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1951.007s" clip-end="npt=1962.711s" id="audio_0120"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=1962.711s" clip-end="npt=2000.082s" id="audio_0121"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2000.082s" clip-end="npt=2027.573s" id="audio_0122"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2027.573s" clip-end="npt=2036.615s" id="audio_0123"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2036.615s" clip-end="npt=2050.602s" id="audio_0124"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2050.602s" clip-end="npt=2062.526s" id="audio_0125"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01ba" id="gkmd_0036"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2062.526s" clip-end="npt=2062.716s" id="audio_0126"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2062.716s" clip-end="npt=2176.502s" id="audio_0127"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01bb" id="gkmd_0038"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2176.502s" clip-end="npt=2176.623s" id="audio_0128"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2176.623s" clip-end="npt=2209.827s" id="audio_0129"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2209.827s" clip-end="npt=2224.037s" id="audio_0130"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2224.037s" clip-end="npt=2246.386s" id="audio_0131"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2246.386s" clip-end="npt=2266.287s" id="audio_0132"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2266.287s" clip-end="npt=2284.348s" id="audio_0133"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2284.348s" clip-end="npt=2294.445s" id="audio_0134"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0014" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01bc" id="gkmd_003a"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2294.445s" clip-end="npt=2294.687s" id="audio_0135"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2294.687s" clip-end="npt=2344.430s" id="audio_0136"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2344.430s" clip-end="npt=2348.504s" id="audio_0137"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2348.504s" clip-end="npt=2412.969s" id="audio_0138"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gkmd_0015" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01bd" id="gkmd_003c"/>
+				<seq>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2412.969s" clip-end="npt=2413.090s" id="audio_0139"/>
+					<audio src="25_Kapittel_sytt.mp3" clip-begin="npt=2413.090s" clip-end="npt=2415.244s" id="audio_0140"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

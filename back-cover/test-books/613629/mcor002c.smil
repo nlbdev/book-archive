@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="En plass i skyggen"/>
+		<meta name="ncc:totalElapsedTime" content="00:35:39"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:40"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="39.914s">
+			<par endsync="last" id="rgn_par_0044_0001">
+				<text src="ncc.html#mcor_002b" id="mcor_002b"/>
+				<seq>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=0.000s" clip-end="npt=4.277s" id="rgn_aud_0044_0001"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=4.277s" clip-end="npt=9.619s" id="rgn_aud_0044_0002"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=9.619s" clip-end="npt=12.022s" id="rgn_aud_0044_0003"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=12.022s" clip-end="npt=14.177s" id="rgn_aud_0044_0004"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=14.177s" clip-end="npt=17.416s" id="rgn_aud_0044_0005"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=17.416s" clip-end="npt=19.571s" id="rgn_aud_0044_0006"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=19.571s" clip-end="npt=21.681s" id="rgn_aud_0044_0007"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=21.681s" clip-end="npt=23.660s" id="rgn_aud_0044_0008"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=23.660s" clip-end="npt=30.739s" id="rgn_aud_0044_0009"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=30.739s" clip-end="npt=33.612s" id="rgn_aud_0044_0010"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=33.612s" clip-end="npt=35.212s" id="rgn_aud_0044_0011"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=35.212s" clip-end="npt=35.996s" id="rgn_aud_0044_0012"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=35.996s" clip-end="npt=36.780s" id="rgn_aud_0044_0013"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=36.780s" clip-end="npt=37.564s" id="rgn_aud_0044_0014"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=37.564s" clip-end="npt=38.533s" id="rgn_aud_0044_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pddz_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0075" id="pddz_0002"/>
+				<seq>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=38.533s" clip-end="npt=38.585s" id="rgn_aud_0044_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0044_0002">
+				<text src="ncc.html#mcor_002b" id="pddz_0003"/>
+				<seq>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=38.585s" clip-end="npt=39.131s" id="rgn_aud_0044_0017"/>
+					<audio src="44_En_plass_i_sk.mp3" clip-begin="npt=39.131s" clip-end="npt=39.914s" id="rgn_aud_0044_0018"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

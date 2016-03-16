@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:15.778"/>
+		<meta name="ncc:totalElapsedTime" content="21:15:51.519"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Sluttannonsering"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="15.778s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#dfrn_0025" id="dfrn_0025"/>
+				<seq>
+					<audio src="40_Sluttannonser.mp3" clip-begin="npt=0.000s" clip-end="npt=15.778s" id="audio_0001"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:59.220"/>
+		<meta name="ncc:totalElapsedTime" content="01:20:20.478"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 22: S for slutt"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="239.220s">
+			<par endsync="last" id="upjx_001b">
+				<text src="ncc.html#upjx_001a" id="upjx_001a"/>
+				<seq>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=0.000s" clip-end="npt=2.403s" id="audio_0001"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=2.403s" clip-end="npt=4.558s" id="audio_0002"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=4.558s" clip-end="npt=8.163s" id="audio_0003"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=8.163s" clip-end="npt=13.558s" id="audio_0004"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=13.558s" clip-end="npt=15.608s" id="audio_0005"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=15.608s" clip-end="npt=18.181s" id="audio_0006"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=18.181s" clip-end="npt=23.458s" id="audio_0007"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=23.458s" clip-end="npt=27.017s" id="audio_0008"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=27.017s" clip-end="npt=30.723s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="upjx_001c" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0085" id="upjx_0020"/>
+				<seq>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=30.723s" clip-end="npt=30.857s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="upjx_0028">
+				<text src="ncc.html#upjx_001a" id="upjx_0021"/>
+				<seq>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=30.857s" clip-end="npt=33.074s" id="audio_0011"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=33.074s" clip-end="npt=37.933s" id="audio_0012"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=37.933s" clip-end="npt=40.101s" id="audio_0013"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=40.101s" clip-end="npt=43.693s" id="audio_0014"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=43.693s" clip-end="npt=46.279s" id="audio_0015"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=46.279s" clip-end="npt=49.152s" id="audio_0016"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=49.152s" clip-end="npt=51.804s" id="audio_0017"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=51.804s" clip-end="npt=53.593s" id="audio_0018"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=53.593s" clip-end="npt=58.152s" id="audio_0019"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=58.152s" clip-end="npt=59.154s" id="audio_0020"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=59.154s" clip-end="npt=61.322s" id="audio_0021"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=61.322s" clip-end="npt=63.412s" id="audio_0022"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=63.412s" clip-end="npt=64.462s" id="audio_0023"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=64.462s" clip-end="npt=66.382s" id="audio_0024"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=66.382s" clip-end="npt=68.968s" id="audio_0025"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=68.968s" clip-end="npt=71.371s" id="audio_0026"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=71.371s" clip-end="npt=74.127s" id="audio_0027"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=74.127s" clip-end="npt=78.686s" id="audio_0028"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=78.686s" clip-end="npt=80.321s" id="audio_0029"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=80.321s" clip-end="npt=82.940s" id="audio_0030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="upjx_001d" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0086" id="upjx_0022"/>
+				<seq>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=82.940s" clip-end="npt=83.207s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="upjx_0029">
+				<text src="ncc.html#upjx_001a" id="upjx_0023"/>
+				<seq>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=83.207s" clip-end="npt=83.991s" id="audio_0032"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=83.991s" clip-end="npt=91.370s" id="audio_0033"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=91.370s" clip-end="npt=92.206s" id="audio_0034"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=92.206s" clip-end="npt=94.309s" id="audio_0035"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=94.309s" clip-end="npt=96.947s" id="audio_0036"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=96.947s" clip-end="npt=101.506s" id="audio_0037"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=101.506s" clip-end="npt=105.476s" id="audio_0038"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=105.476s" clip-end="npt=108.115s" id="audio_0039"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=108.115s" clip-end="npt=114.593s" id="audio_0040"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=114.593s" clip-end="npt=120.836s" id="audio_0041"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=120.836s" clip-end="npt=122.307s" id="audio_0042"/>
+				</seq>
+			</par>
+			<par endsync="last" id="upjx_001e" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0087" id="upjx_0024"/>
+				<seq>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=122.307s" clip-end="npt=122.441s" id="audio_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="upjx_002a">
+				<text src="ncc.html#upjx_001a" id="upjx_0025"/>
+				<seq>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=122.441s" clip-end="npt=122.990s" id="audio_0044"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=122.990s" clip-end="npt=124.544s" id="audio_0045"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=124.544s" clip-end="npt=129.050s" id="audio_0046"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=129.050s" clip-end="npt=133.608s" id="audio_0047"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=133.608s" clip-end="npt=137.618s" id="audio_0048"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=137.618s" clip-end="npt=141.406s" id="audio_0049"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=141.406s" clip-end="npt=144.528s" id="audio_0050"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=144.528s" clip-end="npt=146.865s" id="audio_0051"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=146.865s" clip-end="npt=150.405s" id="audio_0052"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=150.405s" clip-end="npt=151.541s" id="audio_0053"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=151.541s" clip-end="npt=154.480s" id="audio_0054"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=154.480s" clip-end="npt=160.305s" id="audio_0055"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=160.305s" clip-end="npt=166.767s" id="audio_0056"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=166.767s" clip-end="npt=167.250s" id="audio_0057"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=167.250s" clip-end="npt=170.137s" id="audio_0058"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=170.137s" clip-end="npt=175.348s" id="audio_0059"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=175.348s" clip-end="npt=182.192s" id="audio_0060"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=182.192s" clip-end="npt=188.187s" id="audio_0061"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=188.187s" clip-end="npt=190.609s" id="audio_0062"/>
+				</seq>
+			</par>
+			<par endsync="last" id="upjx_001f" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0088" id="upjx_0026"/>
+				<seq>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=190.609s" clip-end="npt=190.743s" id="audio_0063"/>
+				</seq>
+			</par>
+			<par endsync="last" id="upjx_002b">
+				<text src="ncc.html#upjx_001a" id="upjx_0027"/>
+				<seq>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=190.743s" clip-end="npt=191.461s" id="audio_0064"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=191.461s" clip-end="npt=195.001s" id="audio_0065"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=195.001s" clip-end="npt=198.606s" id="audio_0066"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=198.606s" clip-end="npt=199.873s" id="audio_0067"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=199.873s" clip-end="npt=203.765s" id="audio_0068"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=203.765s" clip-end="npt=206.469s" id="audio_0069"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=206.469s" clip-end="npt=210.792s" id="audio_0070"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=210.792s" clip-end="npt=212.464s" id="audio_0071"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=212.464s" clip-end="npt=218.472s" id="audio_0072"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=218.472s" clip-end="npt=220.810s" id="audio_0073"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=220.810s" clip-end="npt=224.532s" id="audio_0074"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=224.532s" clip-end="npt=227.523s" id="audio_0075"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=227.523s" clip-end="npt=228.439s" id="audio_0076"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=228.439s" clip-end="npt=228.922s" id="audio_0077"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=228.922s" clip-end="npt=234.565s" id="audio_0078"/>
+					<audio src="27_Kapittel_22__S_for_slutt.mp3" clip-begin="npt=234.565s" clip-end="npt=239.220s" id="audio_0079"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

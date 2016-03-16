@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:31.486"/>
+		<meta name="ncc:totalElapsedTime" content="00:23:30.069"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 6: S for Sverige-kart"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="151.486s">
+			<par endsync="last" id="wmxm_0001">
+				<text src="ncc.html#upjx_000a" id="upjx_000a"/>
+				<seq>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=0.000s" clip-end="npt=2.252s" id="audio_0001"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=2.252s" clip-end="npt=4.890s" id="audio_0002"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=4.890s" clip-end="npt=8.495s" id="audio_0003"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=8.495s" clip-end="npt=12.688s" id="audio_0004"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=12.688s" clip-end="npt=15.744s" id="audio_0005"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=15.744s" clip-end="npt=17.795s" id="audio_0006"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=17.795s" clip-end="npt=22.114s" id="audio_0007"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=22.114s" clip-end="npt=22.663s" id="audio_0008"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=22.663s" clip-end="npt=26.320s" id="audio_0009"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=26.320s" clip-end="npt=29.141s" id="audio_0010"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=29.141s" clip-end="npt=37.722s" id="audio_0011"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=37.722s" clip-end="npt=40.112s" id="audio_0012"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=40.112s" clip-end="npt=44.253s" id="audio_0013"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=44.253s" clip-end="npt=47.374s" id="audio_0014"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=47.374s" clip-end="npt=52.558s" id="audio_0015"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=52.558s" clip-end="npt=55.107s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wmxm_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_003c" id="wmxm_0006"/>
+				<seq>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=55.107s" clip-end="npt=55.187s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wmxm_000e">
+				<text src="ncc.html#upjx_000a" id="wmxm_0007"/>
+				<seq>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=55.187s" clip-end="npt=55.853s" id="audio_0018"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=55.853s" clip-end="npt=59.668s" id="audio_0019"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=59.668s" clip-end="npt=60.086s" id="audio_0020"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=60.086s" clip-end="npt=63.456s" id="audio_0021"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=63.456s" clip-end="npt=68.850s" id="audio_0022"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=68.850s" clip-end="npt=72.037s" id="audio_0023"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=72.037s" clip-end="npt=75.812s" id="audio_0024"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=75.812s" clip-end="npt=79.051s" id="audio_0025"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=79.051s" clip-end="npt=81.154s" id="audio_0026"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=81.154s" clip-end="npt=87.392s" id="audio_0027"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=87.392s" clip-end="npt=87.993s" id="audio_0028"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=87.993s" clip-end="npt=91.462s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wmxm_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_003d" id="wmxm_0008"/>
+				<seq>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=91.462s" clip-end="npt=91.649s" id="audio_0030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wmxm_000f">
+				<text src="ncc.html#upjx_000a" id="wmxm_0009"/>
+				<seq>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=91.649s" clip-end="npt=92.433s" id="audio_0031"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=92.433s" clip-end="npt=97.892s" id="audio_0032"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=97.892s" clip-end="npt=101.249s" id="audio_0033"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=101.249s" clip-end="npt=107.009s" id="audio_0034"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=107.009s" clip-end="npt=109.830s" id="audio_0035"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=109.830s" clip-end="npt=112.534s" id="audio_0036"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=112.534s" clip-end="npt=114.336s" id="audio_0037"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=114.336s" clip-end="npt=117.210s" id="audio_0038"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=117.210s" clip-end="npt=120.214s" id="audio_0039"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=120.214s" clip-end="npt=123.050s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wmxm_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_003e" id="wmxm_000a"/>
+				<seq>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=123.050s" clip-end="npt=123.210s" id="audio_0041"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wmxm_0010">
+				<text src="ncc.html#upjx_000a" id="wmxm_000b"/>
+				<seq>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=123.210s" clip-end="npt=123.928s" id="audio_0042"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=123.928s" clip-end="npt=127.168s" id="audio_0043"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=127.168s" clip-end="npt=131.308s" id="audio_0044"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=131.308s" clip-end="npt=134.978s" id="audio_0045"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=134.978s" clip-end="npt=139.171s" id="audio_0046"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=139.171s" clip-end="npt=142.959s" id="audio_0047"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=142.959s" clip-end="npt=146.733s" id="audio_0048"/>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=146.733s" clip-end="npt=150.980s" id="audio_0049"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wmxm_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_003f" id="wmxm_000c"/>
+				<seq>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=150.980s" clip-end="npt=151.148s" id="audio_0050"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wmxm_0011">
+				<text src="ncc.html#upjx_000a" id="wmxm_000d"/>
+				<seq>
+					<audio src="11_Kapittel_6__S_for_Sverige-kart.mp3" clip-begin="npt=151.148s" clip-end="npt=151.486s" id="audio_0051"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

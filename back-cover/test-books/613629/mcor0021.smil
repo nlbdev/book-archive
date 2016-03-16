@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Ingenting"/>
+		<meta name="ncc:totalElapsedTime" content="00:26:32"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:42"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="42.124s">
+			<par endsync="last" id="rgn_par_0033_0001">
+				<text src="ncc.html#mcor_0020" id="mcor_0020"/>
+				<seq>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=0.000s" clip-end="npt=2.874s" id="rgn_aud_0033_0001"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=2.874s" clip-end="npt=4.075s" id="rgn_aud_0033_0002"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=4.075s" clip-end="npt=7.014s" id="rgn_aud_0033_0003"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=7.014s" clip-end="npt=9.234s" id="rgn_aud_0033_0004"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=9.234s" clip-end="npt=12.539s" id="rgn_aud_0033_0005"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=12.539s" clip-end="npt=14.811s" id="rgn_aud_0033_0006"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=14.811s" clip-end="npt=17.815s" id="rgn_aud_0033_0007"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=17.815s" clip-end="npt=20.219s" id="rgn_aud_0033_0008"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=20.219s" clip-end="npt=23.393s" id="rgn_aud_0033_0009"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=23.393s" clip-end="npt=27.062s" id="rgn_aud_0033_0010"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=27.062s" clip-end="npt=29.035s" id="rgn_aud_0033_0011"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=29.035s" clip-end="npt=31.202s" id="rgn_aud_0033_0012"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=31.202s" clip-end="npt=34.259s" id="rgn_aud_0033_0013"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=34.259s" clip-end="npt=36.414s" id="rgn_aud_0033_0014"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=36.414s" clip-end="npt=37.420s" id="rgn_aud_0033_0015"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=37.420s" clip-end="npt=38.204s" id="rgn_aud_0033_0016"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=38.204s" clip-end="npt=38.988s" id="rgn_aud_0033_0017"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=38.988s" clip-end="npt=39.771s" id="rgn_aud_0033_0018"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=39.771s" clip-end="npt=40.447s" id="rgn_aud_0033_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="twhm_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_006a" id="twhm_0002"/>
+				<seq>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=40.447s" clip-end="npt=40.551s" id="rgn_aud_0033_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0033_0002">
+				<text src="ncc.html#mcor_0020" id="twhm_0003"/>
+				<seq>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=40.551s" clip-end="npt=41.340s" id="rgn_aud_0033_0021"/>
+					<audio src="33_Ingenting.mp3" clip-begin="npt=41.340s" clip-end="npt=42.124s" id="rgn_aud_0033_0022"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

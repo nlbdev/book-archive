@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="612923"/>
+		<meta name="dc:title" content="HAMLON"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Etter en stund..."/>
+		<meta name="ncc:totalElapsedTime" content="00:03:14"/>
+		<meta name="ncc:timeInThisSmil" content="00:11:49"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="708.599s">
+			<par endsync="last" id="rgn_par_0005_0001">
+				<text src="ncc.html#iqhc_0003" id="iqhc_0003"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=0.000s" clip-end="npt=8.229s" id="rgn_aud_0005_0001"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=8.229s" clip-end="npt=12.970s" id="rgn_aud_0005_0002"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=12.970s" clip-end="npt=15.660s" id="rgn_aud_0005_0003"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=15.660s" clip-end="npt=21.507s" id="rgn_aud_0005_0004"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=21.507s" clip-end="npt=30.786s" id="rgn_aud_0005_0005"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=30.786s" clip-end="npt=36.846s" id="rgn_aud_0005_0006"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=36.846s" clip-end="npt=42.789s" id="rgn_aud_0005_0007"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=42.789s" clip-end="npt=45.911s" id="rgn_aud_0005_0008"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=45.911s" clip-end="npt=61.308s" id="rgn_aud_0005_0009"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=61.308s" clip-end="npt=74.267s" id="rgn_aud_0005_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jamd_0001" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0010" id="jamd_000a"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=74.267s" clip-end="npt=74.586s" id="rgn_aud_0005_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0002">
+				<text src="ncc.html#iqhc_0003" id="jamd_000b"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=74.586s" clip-end="npt=76.212s" id="rgn_aud_0005_0012"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=76.212s" clip-end="npt=87.066s" id="rgn_aud_0005_0013"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=87.066s" clip-end="npt=94.093s" id="rgn_aud_0005_0014"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=94.093s" clip-end="npt=100.206s" id="rgn_aud_0005_0015"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=100.206s" clip-end="npt=104.229s" id="rgn_aud_0005_0016"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=104.229s" clip-end="npt=116.114s" id="rgn_aud_0005_0017"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=116.114s" clip-end="npt=125.466s" id="rgn_aud_0005_0018"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=125.466s" clip-end="npt=135.066s" id="rgn_aud_0005_0019"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=135.066s" clip-end="npt=147.553s" id="rgn_aud_0005_0020"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=147.553s" clip-end="npt=152.829s" id="rgn_aud_0005_0021"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=152.829s" clip-end="npt=158.166s" id="rgn_aud_0005_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jamd_0002" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0011" id="jamd_000c"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=158.166s" clip-end="npt=158.886s" id="rgn_aud_0005_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0003">
+				<text src="ncc.html#iqhc_0003" id="jamd_000d"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=158.886s" clip-end="npt=160.627s" id="rgn_aud_0005_0024"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=160.627s" clip-end="npt=170.207s" id="rgn_aud_0005_0025"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=170.207s" clip-end="npt=175.849s" id="rgn_aud_0005_0026"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=175.849s" clip-end="npt=183.529s" id="rgn_aud_0005_0027"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=183.529s" clip-end="npt=189.504s" id="rgn_aud_0005_0028"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=189.504s" clip-end="npt=199.287s" id="rgn_aud_0005_0029"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=199.287s" clip-end="npt=205.713s" id="rgn_aud_0005_0030"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=205.713s" clip-end="npt=216.684s" id="rgn_aud_0005_0031"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=216.684s" clip-end="npt=223.346s" id="rgn_aud_0005_0032"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=223.346s" clip-end="npt=231.992s" id="rgn_aud_0005_0033"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=231.992s" clip-end="npt=237.203s" id="rgn_aud_0005_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jamd_0003" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0012" id="jamd_000e"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=237.203s" clip-end="npt=237.480s" id="rgn_aud_0005_0035"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0004">
+				<text src="ncc.html#iqhc_0003" id="jamd_000f"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=237.480s" clip-end="npt=242.857s" id="rgn_aud_0005_0036"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=242.857s" clip-end="npt=251.987s" id="rgn_aud_0005_0037"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=251.987s" clip-end="npt=269.685s" id="rgn_aud_0005_0038"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=269.685s" clip-end="npt=281.675s" id="rgn_aud_0005_0039"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=281.675s" clip-end="npt=289.786s" id="rgn_aud_0005_0040"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=289.786s" clip-end="npt=300.222s" id="rgn_aud_0005_0041"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=300.222s" clip-end="npt=305.681s" id="rgn_aud_0005_0042"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=305.681s" clip-end="npt=329.322s" id="rgn_aud_0005_0043"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=329.322s" clip-end="npt=332.196s" id="rgn_aud_0005_0044"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=332.196s" clip-end="npt=348.636s" id="rgn_aud_0005_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jamd_0004" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0013" id="jamd_0010"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=348.636s" clip-end="npt=349.119s" id="rgn_aud_0005_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0005">
+				<text src="ncc.html#iqhc_0003" id="jamd_0011"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=349.119s" clip-end="npt=350.142s" id="rgn_aud_0005_0047"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=350.142s" clip-end="npt=358.475s" id="rgn_aud_0005_0048"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=358.475s" clip-end="npt=363.752s" id="rgn_aud_0005_0049"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=363.752s" clip-end="npt=367.775s" id="rgn_aud_0005_0050"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=367.775s" clip-end="npt=375.220s" id="rgn_aud_0005_0051"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=375.220s" clip-end="npt=387.641s" id="rgn_aud_0005_0052"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=387.641s" clip-end="npt=393.335s" id="rgn_aud_0005_0053"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=393.335s" clip-end="npt=402.935s" id="rgn_aud_0005_0054"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=402.935s" clip-end="npt=413.855s" id="rgn_aud_0005_0055"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=413.855s" clip-end="npt=417.932s" id="rgn_aud_0005_0056"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jamd_0005" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0014" id="jamd_0012"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=417.932s" clip-end="npt=418.310s" id="rgn_aud_0005_0057"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0006">
+				<text src="ncc.html#iqhc_0003" id="jamd_0013"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=418.310s" clip-end="npt=430.415s" id="rgn_aud_0005_0058"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=430.415s" clip-end="npt=436.476s" id="rgn_aud_0005_0059"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=436.476s" clip-end="npt=440.917s" id="rgn_aud_0005_0060"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=440.917s" clip-end="npt=447.460s" id="rgn_aud_0005_0061"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=447.460s" clip-end="npt=455.493s" id="rgn_aud_0005_0062"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=455.493s" clip-end="npt=471.634s" id="rgn_aud_0005_0063"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jamd_0006" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0015" id="jamd_0014"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=471.634s" clip-end="npt=472.076s" id="rgn_aud_0005_0064"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0007">
+				<text src="ncc.html#iqhc_0003" id="jamd_0015"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=472.076s" clip-end="npt=478.076s" id="rgn_aud_0005_0065"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jamd_0007" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0016" id="jamd_0016"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=478.076s" clip-end="npt=478.502s" id="rgn_aud_0005_0066"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0008">
+				<text src="ncc.html#iqhc_0003" id="jamd_0017"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=478.502s" clip-end="npt=479.997s" id="rgn_aud_0005_0067"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=479.997s" clip-end="npt=487.194s" id="rgn_aud_0005_0068"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=487.194s" clip-end="npt=498.113s" id="rgn_aud_0005_0069"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=498.113s" clip-end="npt=501.300s" id="rgn_aud_0005_0070"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=501.300s" clip-end="npt=506.276s" id="rgn_aud_0005_0071"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=506.276s" clip-end="npt=515.093s" id="rgn_aud_0005_0072"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=515.093s" clip-end="npt=529.617s" id="rgn_aud_0005_0073"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=529.617s" clip-end="npt=535.712s" id="rgn_aud_0005_0074"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=535.712s" clip-end="npt=549.003s" id="rgn_aud_0005_0075"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=549.003s" clip-end="npt=556.502s" id="rgn_aud_0005_0076"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jamd_0008" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0017" id="jamd_0018"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=556.502s" clip-end="npt=556.835s" id="rgn_aud_0005_0077"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0009">
+				<text src="ncc.html#iqhc_0003" id="jamd_0019"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=556.835s" clip-end="npt=558.284s" id="rgn_aud_0005_0078"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=558.284s" clip-end="npt=571.241s" id="rgn_aud_0005_0079"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=571.241s" clip-end="npt=575.799s" id="rgn_aud_0005_0080"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=575.799s" clip-end="npt=580.240s" id="rgn_aud_0005_0081"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=580.240s" clip-end="npt=588.338s" id="rgn_aud_0005_0082"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=588.338s" clip-end="npt=591.159s" id="rgn_aud_0005_0083"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=591.159s" clip-end="npt=594.764s" id="rgn_aud_0005_0084"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=594.764s" clip-end="npt=601.478s" id="rgn_aud_0005_0085"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=601.478s" clip-end="npt=613.246s" id="rgn_aud_0005_0086"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=613.246s" clip-end="npt=616.720s" id="rgn_aud_0005_0087"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=616.720s" clip-end="npt=621.060s" id="rgn_aud_0005_0088"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=621.060s" clip-end="npt=623.463s" id="rgn_aud_0005_0089"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=623.463s" clip-end="npt=634.268s" id="rgn_aud_0005_0090"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=634.268s" clip-end="npt=652.397s" id="rgn_aud_0005_0091"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=652.397s" clip-end="npt=657.726s" id="rgn_aud_0005_0092"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=657.726s" clip-end="npt=663.547s" id="rgn_aud_0005_0093"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jamd_0009" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0018" id="jamd_001a"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=663.547s" clip-end="npt=664.387s" id="rgn_aud_0005_0094"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0010">
+				<text src="ncc.html#iqhc_0003" id="jamd_001b"/>
+				<seq>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=664.387s" clip-end="npt=666.007s" id="rgn_aud_0005_0095"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=666.007s" clip-end="npt=676.808s" id="rgn_aud_0005_0096"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=676.808s" clip-end="npt=681.732s" id="rgn_aud_0005_0097"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=681.732s" clip-end="npt=685.155s" id="rgn_aud_0005_0098"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=685.155s" clip-end="npt=688.929s" id="rgn_aud_0005_0099"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=688.929s" clip-end="npt=702.670s" id="rgn_aud_0005_0100"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=702.670s" clip-end="npt=705.608s" id="rgn_aud_0005_0101"/>
+					<audio src="04_Etter_en_stun.mp3" clip-begin="npt=705.608s" clip-end="npt=708.599s" id="rgn_aud_0005_0102"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

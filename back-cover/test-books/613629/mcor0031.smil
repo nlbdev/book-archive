@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Et vanlig måltid "/>
+		<meta name="ncc:totalElapsedTime" content="00:39:12"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:46"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="45.808s">
+			<par endsync="last" id="rgn_par_0049_0001">
+				<text src="ncc.html#mcor_0030" id="mcor_0030"/>
+				<seq>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=0.000s" clip-end="npt=3.431s" id="rgn_aud_0049_0001"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=3.431s" clip-end="npt=4.310s" id="rgn_aud_0049_0002"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=4.310s" clip-end="npt=8.266s" id="rgn_aud_0049_0003"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=8.266s" clip-end="npt=10.618s" id="rgn_aud_0049_0004"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=10.618s" clip-end="npt=13.308s" id="rgn_aud_0049_0005"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=13.308s" clip-end="npt=15.895s" id="rgn_aud_0049_0006"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=15.895s" clip-end="npt=26.696s" id="rgn_aud_0049_0007"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=26.696s" clip-end="npt=29.988s" id="rgn_aud_0049_0008"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=29.988s" clip-end="npt=34.246s" id="rgn_aud_0049_0009"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=34.246s" clip-end="npt=37.551s" id="rgn_aud_0049_0010"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=37.551s" clip-end="npt=41.103s" id="rgn_aud_0049_0011"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=41.103s" clip-end="npt=41.887s" id="rgn_aud_0049_0012"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=41.887s" clip-end="npt=42.670s" id="rgn_aud_0049_0013"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=42.670s" clip-end="npt=43.456s" id="rgn_aud_0049_0014"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=43.456s" clip-end="npt=44.460s" id="rgn_aud_0049_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pdpp_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_007a" id="pdpp_0002"/>
+				<seq>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=44.460s" clip-end="npt=44.685s" id="rgn_aud_0049_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0049_0002">
+				<text src="ncc.html#mcor_0030" id="pdpp_0003"/>
+				<seq>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=44.685s" clip-end="npt=45.024s" id="rgn_aud_0049_0017"/>
+					<audio src="49_Et_vanlig_m_l.mp3" clip-begin="npt=45.024s" clip-end="npt=45.808s" id="rgn_aud_0049_0018"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

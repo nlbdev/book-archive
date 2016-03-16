@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:05:14.204"/>
+		<meta name="ncc:totalElapsedTime" content="00:32:41.792"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 9: U for underbukse"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="314.204s">
+			<par endsync="last" id="upjx_000e">
+				<text src="ncc.html#upjx_000d" id="upjx_000d"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=0.000s" clip-end="npt=2.068s" id="audio_0001"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=2.068s" clip-end="npt=5.104s" id="audio_0002"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=5.104s" clip-end="npt=8.409s" id="audio_0003"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=8.409s" clip-end="npt=13.633s" id="audio_0004"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=13.633s" clip-end="npt=15.743s" id="audio_0005"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=15.743s" clip-end="npt=19.283s" id="audio_0006"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=19.283s" clip-end="npt=23.123s" id="audio_0007"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=23.123s" clip-end="npt=25.526s" id="audio_0008"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=25.526s" clip-end="npt=28.948s" id="audio_0009"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=28.948s" clip-end="npt=34.891s" id="audio_0010"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=34.891s" clip-end="npt=37.647s" id="audio_0011"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=37.647s" clip-end="npt=40.403s" id="audio_0012"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=40.403s" clip-end="npt=46.829s" id="audio_0013"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=46.829s" clip-end="npt=52.223s" id="audio_0014"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=52.223s" clip-end="npt=59.785s" id="audio_0015"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=59.785s" clip-end="npt=60.985s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_004a" id="toqq_0007"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=60.985s" clip-end="npt=61.172s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0013">
+				<text src="ncc.html#upjx_000d" id="toqq_0008"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=61.172s" clip-end="npt=61.640s" id="audio_0018"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=61.640s" clip-end="npt=65.446s" id="audio_0019"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=65.446s" clip-end="npt=66.347s" id="audio_0020"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=66.347s" clip-end="npt=70.971s" id="audio_0021"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=70.971s" clip-end="npt=72.225s" id="audio_0022"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=72.225s" clip-end="npt=75.164s" id="audio_0023"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=75.164s" clip-end="npt=77.332s" id="audio_0024"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=77.332s" clip-end="npt=83.627s" id="audio_0025"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=83.627s" clip-end="npt=89.204s" id="audio_0026"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=89.204s" clip-end="npt=90.889s" id="audio_0027"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=90.889s" clip-end="npt=94.305s" id="audio_0028"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=94.305s" clip-end="npt=96.643s" id="audio_0029"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=96.643s" clip-end="npt=99.712s" id="audio_0030"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=99.712s" clip-end="npt=104.023s" id="audio_0031"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=104.023s" clip-end="npt=107.392s" id="audio_0032"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=107.392s" clip-end="npt=108.894s" id="audio_0033"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=108.894s" clip-end="npt=113.923s" id="audio_0034"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=113.923s" clip-end="npt=115.831s" id="audio_0035"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_004b" id="toqq_0009"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=115.831s" clip-end="npt=115.991s" id="audio_0036"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0014">
+				<text src="ncc.html#upjx_000d" id="toqq_000a"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=115.991s" clip-end="npt=116.474s" id="audio_0037"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=116.474s" clip-end="npt=120.014s" id="audio_0038"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=120.014s" clip-end="npt=126.740s" id="audio_0039"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=126.740s" clip-end="npt=130.633s" id="audio_0040"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=130.633s" clip-end="npt=135.139s" id="audio_0041"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=135.139s" clip-end="npt=136.928s" id="audio_0042"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=136.928s" clip-end="npt=143.171s" id="audio_0043"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=143.171s" clip-end="npt=145.209s" id="audio_0044"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=145.209s" clip-end="npt=150.316s" id="audio_0045"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=150.316s" clip-end="npt=156.429s" id="audio_0046"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=156.429s" clip-end="npt=157.761s" id="audio_0047"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=157.761s" clip-end="npt=160.451s" id="audio_0048"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=160.451s" clip-end="npt=161.836s" id="audio_0049"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=161.836s" clip-end="npt=162.972s" id="audio_0050"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=162.972s" clip-end="npt=166.159s" id="audio_0051"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=166.159s" clip-end="npt=171.671s" id="audio_0052"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=171.671s" clip-end="npt=174.192s" id="audio_0053"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=174.192s" clip-end="npt=178.633s" id="audio_0054"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=178.633s" clip-end="npt=180.135s" id="audio_0055"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=180.135s" clip-end="npt=186.260s" id="audio_0056"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=186.260s" clip-end="npt=190.518s" id="audio_0057"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=190.518s" clip-end="npt=195.035s" id="audio_0058"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_004c" id="toqq_000b"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=195.035s" clip-end="npt=195.262s" id="audio_0059"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0015">
+				<text src="ncc.html#upjx_000d" id="toqq_000c"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=195.262s" clip-end="npt=195.863s" id="audio_0060"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=195.863s" clip-end="npt=199.703s" id="audio_0061"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=199.703s" clip-end="npt=203.961s" id="audio_0062"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=203.961s" clip-end="npt=212.072s" id="audio_0063"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=212.072s" clip-end="npt=216.565s" id="audio_0064"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=216.565s" clip-end="npt=220.287s" id="audio_0065"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=220.287s" clip-end="npt=226.100s" id="audio_0066"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=226.100s" clip-end="npt=229.518s" id="audio_0067"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_004d" id="toqq_000d"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=229.518s" clip-end="npt=229.678s" id="audio_0068"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0016">
+				<text src="ncc.html#upjx_000d" id="toqq_000e"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=229.678s" clip-end="npt=230.645s" id="audio_0069"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=230.645s" clip-end="npt=232.800s" id="audio_0070"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=232.800s" clip-end="npt=238.259s" id="audio_0071"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=238.259s" clip-end="npt=241.799s" id="audio_0072"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=241.799s" clip-end="npt=248.160s" id="audio_0073"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=248.160s" clip-end="npt=249.845s" id="audio_0074"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=249.845s" clip-end="npt=252.718s" id="audio_0075"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=252.718s" clip-end="npt=254.638s" id="audio_0076"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=254.638s" clip-end="npt=259.980s" id="audio_0077"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=259.980s" clip-end="npt=265.557s" id="audio_0078"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=265.557s" clip-end="npt=270.664s" id="audio_0079"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=270.664s" clip-end="npt=275.040s" id="audio_0080"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=275.040s" clip-end="npt=278.762s" id="audio_0081"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=278.762s" clip-end="npt=284.757s" id="audio_0082"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=284.757s" clip-end="npt=289.982s" id="audio_0083"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=289.982s" clip-end="npt=296.342s" id="audio_0084"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=296.342s" clip-end="npt=298.799s" id="audio_0085"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_004e" id="toqq_000f"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=298.799s" clip-end="npt=298.919s" id="audio_0086"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0017">
+				<text src="ncc.html#upjx_000d" id="toqq_0010"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=298.919s" clip-end="npt=299.637s" id="audio_0087"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=299.637s" clip-end="npt=303.843s" id="audio_0088"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=303.843s" clip-end="npt=306.129s" id="audio_0089"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=306.129s" clip-end="npt=308.584s" id="audio_0090"/>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=308.584s" clip-end="npt=311.833s" id="audio_0091"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0006" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_004f" id="toqq_0011"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=311.833s" clip-end="npt=312.127s" id="audio_0092"/>
+				</seq>
+			</par>
+			<par endsync="last" id="toqq_0018">
+				<text src="ncc.html#upjx_000d" id="toqq_0012"/>
+				<seq>
+					<audio src="14_Kapittel_9__U_for_underbukse.mp3" clip-begin="npt=312.127s" clip-end="npt=314.204s" id="audio_0093"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

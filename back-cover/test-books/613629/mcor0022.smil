@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Jeg vil at du skal være vanlig"/>
+		<meta name="ncc:totalElapsedTime" content="00:27:15"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:49"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="48.993s">
+			<par endsync="last" id="rgn_par_0034_0001">
+				<text src="ncc.html#mcor_0021" id="mcor_0021"/>
+				<seq>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=0.000s" clip-end="npt=3.174s" id="rgn_aud_0034_0001"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=3.174s" clip-end="npt=4.376s" id="rgn_aud_0034_0002"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=4.376s" clip-end="npt=8.464s" id="rgn_aud_0034_0003"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=8.464s" clip-end="npt=11.154s" id="rgn_aud_0034_0004"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=11.154s" clip-end="npt=16.260s" id="rgn_aud_0034_0005"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=16.260s" clip-end="npt=19.552s" id="rgn_aud_0034_0006"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=19.552s" clip-end="npt=23.457s" id="rgn_aud_0034_0007"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=23.457s" clip-end="npt=26.462s" id="rgn_aud_0034_0008"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=26.462s" clip-end="npt=31.437s" id="rgn_aud_0034_0009"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=31.437s" clip-end="npt=35.161s" id="rgn_aud_0034_0010"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=35.161s" clip-end="npt=38.216s" id="rgn_aud_0034_0011"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=38.216s" clip-end="npt=41.991s" id="rgn_aud_0034_0012"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=41.991s" clip-end="npt=44.289s" id="rgn_aud_0034_0013"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=44.289s" clip-end="npt=45.073s" id="rgn_aud_0034_0014"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=45.073s" clip-end="npt=45.856s" id="rgn_aud_0034_0015"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=45.856s" clip-end="npt=46.640s" id="rgn_aud_0034_0016"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=46.640s" clip-end="npt=47.423s" id="rgn_aud_0034_0017"/>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=47.423s" clip-end="npt=47.841s" id="rgn_aud_0034_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pgei_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_006b" id="pgei_0002"/>
+				<seq>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=47.841s" clip-end="npt=48.048s" id="rgn_aud_0034_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0034_0002">
+				<text src="ncc.html#mcor_0021" id="pgei_0003"/>
+				<seq>
+					<audio src="34_Jeg_vil_at_du.mp3" clip-begin="npt=48.048s" clip-end="npt=48.993s" id="rgn_aud_0034_0020"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

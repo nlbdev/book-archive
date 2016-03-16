@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:56.016"/>
+		<meta name="ncc:totalElapsedTime" content="01:07:49.599"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 18: P for papirbiten"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="176.016s">
+			<par endsync="last" id="upjx_0017">
+				<text src="ncc.html#upjx_0016" id="upjx_0016"/>
+				<seq>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=0.000s" clip-end="npt=2.180s" id="audio_0001"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=2.180s" clip-end="npt=5.302s" id="audio_0002"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=5.302s" clip-end="npt=9.508s" id="audio_0003"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=9.508s" clip-end="npt=15.620s" id="audio_0004"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=15.620s" clip-end="npt=19.761s" id="audio_0005"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=19.761s" clip-end="npt=22.099s" id="audio_0006"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=22.099s" clip-end="npt=25.168s" id="audio_0007"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=25.168s" clip-end="npt=28.825s" id="audio_0008"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=28.825s" clip-end="npt=31.829s" id="audio_0009"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=31.829s" clip-end="npt=35.669s" id="audio_0010"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=35.669s" clip-end="npt=37.642s" id="audio_0011"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=37.642s" clip-end="npt=39.627s" id="audio_0012"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=39.627s" clip-end="npt=41.970s" id="audio_0013"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=41.970s" clip-end="npt=42.453s" id="audio_0014"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=42.453s" clip-end="npt=47.795s" id="audio_0015"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=47.795s" clip-end="npt=52.589s" id="audio_0016"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=52.589s" clip-end="npt=54.574s" id="audio_0017"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=54.574s" clip-end="npt=60.217s" id="audio_0018"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=60.217s" clip-end="npt=64.567s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="btcb_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0076" id="btcb_0004"/>
+				<seq>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=64.567s" clip-end="npt=64.687s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="btcb_000a">
+				<text src="ncc.html#upjx_0016" id="btcb_0005"/>
+				<seq>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=64.687s" clip-end="npt=65.353s" id="audio_0021"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=65.353s" clip-end="npt=69.245s" id="audio_0022"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=69.245s" clip-end="npt=73.569s" id="audio_0023"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=73.569s" clip-end="npt=78.793s" id="audio_0024"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=78.793s" clip-end="npt=84.488s" id="audio_0025"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=84.488s" clip-end="npt=88.811s" id="audio_0026"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=88.811s" clip-end="npt=91.267s" id="audio_0027"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=91.267s" clip-end="npt=93.187s" id="audio_0028"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=93.187s" clip-end="npt=95.472s" id="audio_0029"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=95.472s" clip-end="npt=102.852s" id="audio_0030"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=102.852s" clip-end="npt=107.894s" id="audio_0031"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=107.894s" clip-end="npt=112.269s" id="audio_0032"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=112.269s" clip-end="npt=114.973s" id="audio_0033"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=114.973s" clip-end="npt=117.494s" id="audio_0034"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=117.494s" clip-end="npt=122.535s" id="audio_0035"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=122.535s" clip-end="npt=125.944s" id="audio_0036"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=125.944s" clip-end="npt=129.784s" id="audio_0037"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=129.784s" clip-end="npt=130.868s" id="audio_0038"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=130.868s" clip-end="npt=132.305s" id="audio_0039"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=132.305s" clip-end="npt=137.464s" id="audio_0040"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=137.464s" clip-end="npt=143.189s" id="audio_0041"/>
+				</seq>
+			</par>
+			<par endsync="last" id="btcb_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0077" id="btcb_0006"/>
+				<seq>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=143.189s" clip-end="npt=143.402s" id="audio_0042"/>
+				</seq>
+			</par>
+			<par endsync="last" id="btcb_000b">
+				<text src="ncc.html#upjx_0016" id="btcb_0007"/>
+				<seq>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=143.402s" clip-end="npt=143.885s" id="audio_0043"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=143.885s" clip-end="npt=146.889s" id="audio_0044"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=146.889s" clip-end="npt=150.429s" id="audio_0045"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=150.429s" clip-end="npt=153.368s" id="audio_0046"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=153.368s" clip-end="npt=156.724s" id="audio_0047"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=156.724s" clip-end="npt=159.180s" id="audio_0048"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=159.180s" clip-end="npt=161.649s" id="audio_0049"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=161.649s" clip-end="npt=164.287s" id="audio_0050"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=164.287s" clip-end="npt=166.925s" id="audio_0051"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=166.925s" clip-end="npt=169.381s" id="audio_0052"/>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=169.381s" clip-end="npt=175.475s" id="audio_0053"/>
+				</seq>
+			</par>
+			<par endsync="last" id="btcb_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0078" id="btcb_0008"/>
+				<seq>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=175.475s" clip-end="npt=175.675s" id="audio_0054"/>
+				</seq>
+			</par>
+			<par endsync="last" id="btcb_000c">
+				<text src="ncc.html#upjx_0016" id="btcb_0009"/>
+				<seq>
+					<audio src="23_Kapittel_18__P_for_papirbiten.mp3" clip-begin="npt=175.675s" clip-end="npt=176.016s" id="audio_0055"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

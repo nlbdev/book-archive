@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Jeg skriker"/>
+		<meta name="ncc:totalElapsedTime" content="00:29:42"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:45"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="45.423s">
+			<par endsync="last" id="rgn_par_0037_0001">
+				<text src="ncc.html#mcor_0024" id="mcor_0024"/>
+				<seq>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=0.000s" clip-end="npt=3.239s" id="rgn_aud_0037_0001"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=3.239s" clip-end="npt=6.243s" id="rgn_aud_0037_0002"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=6.243s" clip-end="npt=10.266s" id="rgn_aud_0037_0003"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=10.266s" clip-end="npt=12.538s" id="rgn_aud_0037_0004"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=12.538s" clip-end="npt=19.079s" id="rgn_aud_0037_0005"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=19.079s" clip-end="npt=21.902s" id="rgn_aud_0037_0006"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=21.902s" clip-end="npt=28.146s" id="rgn_aud_0037_0007"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=28.146s" clip-end="npt=29.582s" id="rgn_aud_0037_0008"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=29.582s" clip-end="npt=32.155s" id="rgn_aud_0037_0009"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=32.155s" clip-end="npt=35.695s" id="rgn_aud_0037_0010"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=35.695s" clip-end="npt=38.817s" id="rgn_aud_0037_0011"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=38.817s" clip-end="npt=40.719s" id="rgn_aud_0037_0012"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=40.719s" clip-end="npt=41.503s" id="rgn_aud_0037_0013"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=41.503s" clip-end="npt=42.286s" id="rgn_aud_0037_0014"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=42.286s" clip-end="npt=43.070s" id="rgn_aud_0037_0015"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=43.070s" clip-end="npt=43.853s" id="rgn_aud_0037_0016"/>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=43.853s" clip-end="npt=44.392s" id="rgn_aud_0037_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xyli_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_006e" id="xyli_0002"/>
+				<seq>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=44.392s" clip-end="npt=44.496s" id="rgn_aud_0037_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0037_0002">
+				<text src="ncc.html#mcor_0024" id="xyli_0003"/>
+				<seq>
+					<audio src="37_Jeg_skriker.mp3" clip-begin="npt=44.496s" clip-end="npt=45.423s" id="rgn_aud_0037_0019"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

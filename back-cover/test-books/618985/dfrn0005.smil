@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:20.158"/>
+		<meta name="ncc:totalElapsedTime" content="00:03:35.563"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Dedikasjon"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="20.158s">
+			<par endsync="last" id="uukh_0001">
+				<text src="ncc.html#dfrn_0004" id="dfrn_0004"/>
+				<seq>
+					<audio src="07_Dedikasjon.mp3" clip-begin="npt=0.000s" clip-end="npt=4.516s" id="audio_0001"/>
+					<audio src="07_Dedikasjon.mp3" clip-begin="npt=4.516s" clip-end="npt=11.127s" id="audio_0002"/>
+					<audio src="07_Dedikasjon.mp3" clip-begin="npt=11.127s" clip-end="npt=16.761s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="uukh_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_002b" id="uukh_0004"/>
+				<seq>
+					<audio src="07_Dedikasjon.mp3" clip-begin="npt=16.761s" clip-end="npt=17.995s" id="audio_0004"/>
+					<audio src="07_Dedikasjon.mp3" clip-begin="npt=17.995s" clip-end="npt=18.715s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="uukh_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_002c" id="uukh_0006"/>
+				<seq>
+					<audio src="07_Dedikasjon.mp3" clip-begin="npt=18.715s" clip-end="npt=19.495s" id="audio_0006"/>
+					<audio src="07_Dedikasjon.mp3" clip-begin="npt=19.495s" clip-end="npt=20.158s" id="audio_0007"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="612923"/>
+		<meta name="dc:title" content="HAMLON"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Det kom sikkert av den..."/>
+		<meta name="ncc:totalElapsedTime" content="00:47:54"/>
+		<meta name="ncc:timeInThisSmil" content="00:30:30"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="1829.906s">
+			<par endsync="last" id="rgn_par_0008_0001">
+				<text src="ncc.html#iqhc_0006" id="iqhc_0006"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=0.000s" clip-end="npt=9.783s" id="rgn_aud_0008_0001"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=9.783s" clip-end="npt=25.846s" id="rgn_aud_0008_0002"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=25.846s" clip-end="npt=34.976s" id="rgn_aud_0008_0003"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=34.976s" clip-end="npt=39.225s" id="rgn_aud_0008_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0001" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0032" id="bjbl_0018"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=39.225s" clip-end="npt=39.852s" id="rgn_aud_0008_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0002">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0019"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=39.852s" clip-end="npt=41.542s" id="rgn_aud_0008_0006"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=41.542s" clip-end="npt=53.179s" id="rgn_aud_0008_0007"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=53.179s" clip-end="npt=63.380s" id="rgn_aud_0008_0008"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=63.380s" clip-end="npt=72.878s" id="rgn_aud_0008_0009"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=72.878s" clip-end="npt=83.027s" id="rgn_aud_0008_0010"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=83.027s" clip-end="npt=90.942s" id="rgn_aud_0008_0011"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=90.942s" clip-end="npt=99.288s" id="rgn_aud_0008_0012"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=99.288s" clip-end="npt=110.259s" id="rgn_aud_0008_0013"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=110.259s" clip-end="npt=119.137s" id="rgn_aud_0008_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0002" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0033" id="bjbl_001a"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=119.137s" clip-end="npt=119.917s" id="rgn_aud_0008_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0003">
+				<text src="ncc.html#iqhc_0006" id="bjbl_001b"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=119.917s" clip-end="npt=121.061s" id="rgn_aud_0008_0016"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=121.061s" clip-end="npt=125.684s" id="rgn_aud_0008_0017"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=125.684s" clip-end="npt=139.124s" id="rgn_aud_0008_0018"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=139.124s" clip-end="npt=151.062s" id="rgn_aud_0008_0019"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=151.062s" clip-end="npt=156.286s" id="rgn_aud_0008_0020"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=156.286s" clip-end="npt=164.685s" id="rgn_aud_0008_0021"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=164.685s" clip-end="npt=170.393s" id="rgn_aud_0008_0022"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=170.393s" clip-end="npt=180.345s" id="rgn_aud_0008_0023"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=180.345s" clip-end="npt=188.861s" id="rgn_aud_0008_0024"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=188.861s" clip-end="npt=194.268s" id="rgn_aud_0008_0025"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=194.268s" clip-end="npt=197.140s" id="rgn_aud_0008_0026"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=197.140s" clip-end="npt=207.939s" id="rgn_aud_0008_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0003" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0034" id="bjbl_001c"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=207.939s" clip-end="npt=208.719s" id="rgn_aud_0008_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0004">
+				<text src="ncc.html#iqhc_0006" id="bjbl_001d"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=208.719s" clip-end="npt=213.584s" id="rgn_aud_0008_0029"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=213.584s" clip-end="npt=216.823s" id="rgn_aud_0008_0030"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=216.823s" clip-end="npt=232.484s" id="rgn_aud_0008_0031"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=232.484s" clip-end="npt=234.755s" id="rgn_aud_0008_0032"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=234.755s" clip-end="npt=249.762s" id="rgn_aud_0008_0033"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=249.762s" clip-end="npt=252.518s" id="rgn_aud_0008_0034"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=252.518s" clip-end="npt=256.424s" id="rgn_aud_0008_0035"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=256.424s" clip-end="npt=272.384s" id="rgn_aud_0008_0036"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=272.384s" clip-end="npt=284.022s" id="rgn_aud_0008_0037"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=284.022s" clip-end="npt=292.054s" id="rgn_aud_0008_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0004" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0035" id="bjbl_001e"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=292.054s" clip-end="npt=292.774s" id="rgn_aud_0008_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0005">
+				<text src="ncc.html#iqhc_0006" id="bjbl_001f"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=292.774s" clip-end="npt=293.159s" id="rgn_aud_0008_0040"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=293.159s" clip-end="npt=296.163s" id="rgn_aud_0008_0041"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=296.163s" clip-end="npt=302.748s" id="rgn_aud_0008_0042"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=302.748s" clip-end="npt=315.287s" id="rgn_aud_0008_0043"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=315.287s" clip-end="npt=319.793s" id="rgn_aud_0008_0044"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=319.793s" clip-end="npt=322.196s" id="rgn_aud_0008_0045"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=322.196s" clip-end="npt=330.229s" id="rgn_aud_0008_0046"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=330.229s" clip-end="npt=338.575s" id="rgn_aud_0008_0047"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=338.575s" clip-end="npt=343.617s" id="rgn_aud_0008_0048"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=343.617s" clip-end="npt=347.692s" id="rgn_aud_0008_0049"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=347.692s" clip-end="npt=355.672s" id="rgn_aud_0008_0050"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=355.672s" clip-end="npt=359.447s" id="rgn_aud_0008_0051"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=359.447s" clip-end="npt=364.253s" id="rgn_aud_0008_0052"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=364.253s" clip-end="npt=372.835s" id="rgn_aud_0008_0053"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=372.835s" clip-end="npt=390.467s" id="rgn_aud_0008_0054"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0005" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0036" id="bjbl_0020"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=390.467s" clip-end="npt=391.367s" id="rgn_aud_0008_0055"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0006">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0021"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=391.367s" clip-end="npt=393.053s" id="rgn_aud_0008_0056"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=393.053s" clip-end="npt=398.696s" id="rgn_aud_0008_0057"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=398.696s" clip-end="npt=406.846s" id="rgn_aud_0008_0058"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=406.846s" clip-end="npt=418.967s" id="rgn_aud_0008_0059"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=418.967s" clip-end="npt=427.613s" id="rgn_aud_0008_0060"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=427.613s" clip-end="npt=431.205s" id="rgn_aud_0008_0061"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=431.205s" clip-end="npt=435.829s" id="rgn_aud_0008_0062"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=435.829s" clip-end="npt=440.482s" id="rgn_aud_0008_0063"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=440.482s" clip-end="npt=450.250s" id="rgn_aud_0008_0064"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=450.250s" clip-end="npt=453.071s" id="rgn_aud_0008_0065"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=453.071s" clip-end="npt=457.836s" id="rgn_aud_0008_0066"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=457.836s" clip-end="npt=468.695s" id="rgn_aud_0008_0067"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0006" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0037" id="bjbl_0022"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=468.695s" clip-end="npt=469.321s" id="rgn_aud_0008_0068"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0007">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0023"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=469.321s" clip-end="npt=469.726s" id="rgn_aud_0008_0069"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=469.726s" clip-end="npt=478.007s" id="rgn_aud_0008_0070"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=478.007s" clip-end="npt=479.434s" id="rgn_aud_0008_0071"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0007" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0038" id="bjbl_0024"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=479.434s" clip-end="npt=479.722s" id="rgn_aud_0008_0072"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0008">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0025"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=479.722s" clip-end="npt=480.929s" id="rgn_aud_0008_0073"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=480.929s" clip-end="npt=486.689s" id="rgn_aud_0008_0074"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=486.689s" clip-end="npt=489.027s" id="rgn_aud_0008_0075"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=489.027s" clip-end="npt=494.487s" id="rgn_aud_0008_0076"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=494.487s" clip-end="npt=501.148s" id="rgn_aud_0008_0077"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=501.148s" clip-end="npt=511.101s" id="rgn_aud_0008_0078"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=511.101s" clip-end="npt=518.663s" id="rgn_aud_0008_0079"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=518.663s" clip-end="npt=524.240s" id="rgn_aud_0008_0080"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=524.240s" clip-end="npt=527.610s" id="rgn_aud_0008_0081"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=527.610s" clip-end="npt=533.670s" id="rgn_aud_0008_0082"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=533.670s" clip-end="npt=540.750s" id="rgn_aud_0008_0083"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=540.750s" clip-end="npt=546.392s" id="rgn_aud_0008_0084"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=546.392s" clip-end="npt=551.185s" id="rgn_aud_0008_0085"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=551.185s" clip-end="npt=555.498s" id="rgn_aud_0008_0086"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=555.498s" clip-end="npt=559.456s" id="rgn_aud_0008_0087"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=559.456s" clip-end="npt=567.437s" id="rgn_aud_0008_0088"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0008" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0039" id="bjbl_0026"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=567.437s" clip-end="npt=568.157s" id="rgn_aud_0008_0089"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0009">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0027"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=568.157s" clip-end="npt=570.022s" id="rgn_aud_0008_0090"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=570.022s" clip-end="npt=576.736s" id="rgn_aud_0008_0091"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=576.736s" clip-end="npt=584.664s" id="rgn_aud_0008_0092"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=584.664s" clip-end="npt=593.846s" id="rgn_aud_0008_0093"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=593.846s" clip-end="npt=595.282s" id="rgn_aud_0008_0094"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=595.282s" clip-end="npt=601.996s" id="rgn_aud_0008_0095"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=601.996s" clip-end="npt=610.863s" id="rgn_aud_0008_0096"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=610.863s" clip-end="npt=623.350s" id="rgn_aud_0008_0097"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=623.350s" clip-end="npt=638.043s" id="rgn_aud_0008_0098"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=638.043s" clip-end="npt=640.982s" id="rgn_aud_0008_0099"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=640.982s" clip-end="npt=646.082s" id="rgn_aud_0008_0100"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0009" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_003a" id="bjbl_0028"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=646.082s" clip-end="npt=646.682s" id="rgn_aud_0008_0101"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0010">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0029"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=646.682s" clip-end="npt=660.840s" id="rgn_aud_0008_0102"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=660.840s" clip-end="npt=663.609s" id="rgn_aud_0008_0103"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=663.609s" clip-end="npt=666.966s" id="rgn_aud_0008_0104"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=666.966s" clip-end="npt=673.510s" id="rgn_aud_0008_0105"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=673.510s" clip-end="npt=679.688s" id="rgn_aud_0008_0106"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=679.688s" clip-end="npt=698.104s" id="rgn_aud_0008_0107"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=698.104s" clip-end="npt=712.971s" id="rgn_aud_0008_0108"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=712.971s" clip-end="npt=716.897s" id="rgn_aud_0008_0109"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=716.897s" clip-end="npt=724.756s" id="rgn_aud_0008_0110"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_000a" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_003b" id="bjbl_002a"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=724.756s" clip-end="npt=725.536s" id="rgn_aud_0008_0111"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0011">
+				<text src="ncc.html#iqhc_0006" id="bjbl_002b"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=725.536s" clip-end="npt=737.299s" id="rgn_aud_0008_0112"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=737.299s" clip-end="npt=740.055s" id="rgn_aud_0008_0113"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=740.055s" clip-end="npt=757.465s" id="rgn_aud_0008_0114"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=757.465s" clip-end="npt=759.723s" id="rgn_aud_0008_0115"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=759.723s" clip-end="npt=764.464s" id="rgn_aud_0008_0116"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=764.464s" clip-end="npt=770.525s" id="rgn_aud_0008_0117"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=770.525s" clip-end="npt=779.472s" id="rgn_aud_0008_0118"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=779.472s" clip-end="npt=785.650s" id="rgn_aud_0008_0119"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=785.650s" clip-end="npt=789.463s" id="rgn_aud_0008_0120"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=789.463s" clip-end="npt=792.015s" id="rgn_aud_0008_0121"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=792.015s" clip-end="npt=798.014s" id="rgn_aud_0008_0122"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_000b" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_003c" id="bjbl_002c"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=798.014s" clip-end="npt=798.734s" id="rgn_aud_0008_0123"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0012">
+				<text src="ncc.html#iqhc_0006" id="bjbl_002d"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=798.734s" clip-end="npt=799.878s" id="rgn_aud_0008_0124"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=799.878s" clip-end="npt=803.958s" id="rgn_aud_0008_0125"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=803.958s" clip-end="npt=809.000s" id="rgn_aud_0008_0126"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=809.000s" clip-end="npt=816.797s" id="rgn_aud_0008_0127"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=816.797s" clip-end="npt=823.040s" id="rgn_aud_0008_0128"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=823.040s" clip-end="npt=837.682s" id="rgn_aud_0008_0129"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=837.682s" clip-end="npt=843.106s" id="rgn_aud_0008_0130"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=843.106s" clip-end="npt=851.196s" id="rgn_aud_0008_0131"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=851.196s" clip-end="npt=860.078s" id="rgn_aud_0008_0132"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=860.078s" clip-end="npt=866.438s" id="rgn_aud_0008_0133"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=866.438s" clip-end="npt=882.515s" id="rgn_aud_0008_0134"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_000c" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_003d" id="bjbl_002e"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=882.515s" clip-end="npt=883.295s" id="rgn_aud_0008_0135"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0013">
+				<text src="ncc.html#iqhc_0006" id="bjbl_002f"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=883.295s" clip-end="npt=885.155s" id="rgn_aud_0008_0136"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=885.155s" clip-end="npt=892.633s" id="rgn_aud_0008_0137"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=892.633s" clip-end="npt=902.716s" id="rgn_aud_0008_0138"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=902.716s" clip-end="npt=904.702s" id="rgn_aud_0008_0139"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=904.702s" clip-end="npt=910.880s" id="rgn_aud_0008_0140"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=910.880s" clip-end="npt=919.513s" id="rgn_aud_0008_0141"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=919.513s" clip-end="npt=922.305s" id="rgn_aud_0008_0142"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=922.305s" clip-end="npt=940.486s" id="rgn_aud_0008_0143"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=940.486s" clip-end="npt=943.072s" id="rgn_aud_0008_0144"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=943.072s" clip-end="npt=946.847s" id="rgn_aud_0008_0145"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=946.847s" clip-end="npt=951.344s" id="rgn_aud_0008_0146"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_000d" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_003e" id="bjbl_0030"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=951.344s" clip-end="npt=951.944s" id="rgn_aud_0008_0147"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0014">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0031"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=951.944s" clip-end="npt=952.594s" id="rgn_aud_0008_0148"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=952.594s" clip-end="npt=961.175s" id="rgn_aud_0008_0149"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=961.175s" clip-end="npt=964.362s" id="rgn_aud_0008_0150"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=964.362s" clip-end="npt=966.400s" id="rgn_aud_0008_0151"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=966.400s" clip-end="npt=971.912s" id="rgn_aud_0008_0152"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=971.912s" clip-end="npt=975.934s" id="rgn_aud_0008_0153"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=975.934s" clip-end="npt=984.163s" id="rgn_aud_0008_0154"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=984.163s" clip-end="npt=989.975s" id="rgn_aud_0008_0155"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=989.975s" clip-end="npt=1003.781s" id="rgn_aud_0008_0156"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1003.781s" clip-end="npt=1009.293s" id="rgn_aud_0008_0157"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1009.293s" clip-end="npt=1022.080s" id="rgn_aud_0008_0158"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1022.080s" clip-end="npt=1028.858s" id="rgn_aud_0008_0159"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1028.858s" clip-end="npt=1032.281s" id="rgn_aud_0008_0160"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1032.281s" clip-end="npt=1037.858s" id="rgn_aud_0008_0161"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1037.858s" clip-end="npt=1045.533s" id="rgn_aud_0008_0162"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_000e" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_003f" id="bjbl_0032"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1045.533s" clip-end="npt=1046.253s" id="rgn_aud_0008_0163"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0015">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0033"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1046.253s" clip-end="npt=1050.762s" id="rgn_aud_0008_0164"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1050.762s" clip-end="npt=1061.498s" id="rgn_aud_0008_0165"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1061.498s" clip-end="npt=1063.836s" id="rgn_aud_0008_0166"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1063.836s" clip-end="npt=1068.761s" id="rgn_aud_0008_0167"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1068.761s" clip-end="npt=1080.964s" id="rgn_aud_0008_0168"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1080.964s" clip-end="npt=1091.413s" id="rgn_aud_0008_0169"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1091.413s" clip-end="npt=1096.572s" id="rgn_aud_0008_0170"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1096.572s" clip-end="npt=1106.042s" id="rgn_aud_0008_0171"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1106.042s" clip-end="npt=1115.772s" id="rgn_aud_0008_0172"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1115.772s" clip-end="npt=1125.006s" id="rgn_aud_0008_0173"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1125.006s" clip-end="npt=1131.903s" id="rgn_aud_0008_0174"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_000f" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0040" id="bjbl_0034"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1131.903s" clip-end="npt=1132.743s" id="rgn_aud_0008_0175"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0016">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0035"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1132.743s" clip-end="npt=1133.640s" id="rgn_aud_0008_0176"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1133.640s" clip-end="npt=1138.029s" id="rgn_aud_0008_0177"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1138.029s" clip-end="npt=1143.188s" id="rgn_aud_0008_0178"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1143.188s" clip-end="npt=1145.878s" id="rgn_aud_0008_0179"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1145.878s" clip-end="npt=1154.825s" id="rgn_aud_0008_0180"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1154.825s" clip-end="npt=1162.022s" id="rgn_aud_0008_0181"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1162.022s" clip-end="npt=1168.749s" id="rgn_aud_0008_0182"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1168.749s" clip-end="npt=1176.246s" id="rgn_aud_0008_0183"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1176.246s" clip-end="npt=1180.504s" id="rgn_aud_0008_0184"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1180.504s" clip-end="npt=1184.827s" id="rgn_aud_0008_0185"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1184.827s" clip-end="npt=1186.499s" id="rgn_aud_0008_0186"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1186.499s" clip-end="npt=1195.380s" id="rgn_aud_0008_0187"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1195.380s" clip-end="npt=1197.601s" id="rgn_aud_0008_0188"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1197.601s" clip-end="npt=1201.506s" id="rgn_aud_0008_0189"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1201.506s" clip-end="npt=1204.745s" id="rgn_aud_0008_0190"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1204.745s" clip-end="npt=1223.099s" id="rgn_aud_0008_0191"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0010" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0041" id="bjbl_0036"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1223.099s" clip-end="npt=1223.699s" id="rgn_aud_0008_0192"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0017">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0037"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1223.699s" clip-end="npt=1225.264s" id="rgn_aud_0008_0193"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1225.264s" clip-end="npt=1229.287s" id="rgn_aud_0008_0194"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1229.287s" clip-end="npt=1235.766s" id="rgn_aud_0008_0195"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1235.766s" clip-end="npt=1238.887s" id="rgn_aud_0008_0196"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1238.887s" clip-end="npt=1243.629s" id="rgn_aud_0008_0197"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1243.629s" clip-end="npt=1248.840s" id="rgn_aud_0008_0198"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1248.840s" clip-end="npt=1253.764s" id="rgn_aud_0008_0199"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1253.764s" clip-end="npt=1259.341s" id="rgn_aud_0008_0200"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1259.341s" clip-end="npt=1264.984s" id="rgn_aud_0008_0201"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1264.984s" clip-end="npt=1270.626s" id="rgn_aud_0008_0202"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1270.626s" clip-end="npt=1272.598s" id="rgn_aud_0008_0203"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1272.598s" clip-end="npt=1275.602s" id="rgn_aud_0008_0204"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1275.602s" clip-end="npt=1278.659s" id="rgn_aud_0008_0205"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1278.659s" clip-end="npt=1283.047s" id="rgn_aud_0008_0206"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1283.047s" clip-end="npt=1292.948s" id="rgn_aud_0008_0207"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1292.948s" clip-end="npt=1297.961s" id="rgn_aud_0008_0208"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1297.961s" clip-end="npt=1298.380s" id="rgn_aud_0008_0209"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0011" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0042" id="bjbl_0038"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1298.380s" clip-end="npt=1299.040s" id="rgn_aud_0008_0210"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0018">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0039"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1299.040s" clip-end="npt=1300.064s" id="rgn_aud_0008_0211"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1300.064s" clip-end="npt=1303.721s" id="rgn_aud_0008_0212"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1303.721s" clip-end="npt=1305.523s" id="rgn_aud_0008_0213"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1305.523s" clip-end="npt=1318.611s" id="rgn_aud_0008_0214"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1318.611s" clip-end="npt=1322.085s" id="rgn_aud_0008_0215"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1322.085s" clip-end="npt=1330.065s" id="rgn_aud_0008_0216"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1330.065s" clip-end="npt=1333.347s" id="rgn_aud_0008_0217"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1333.347s" clip-end="npt=1340.491s" id="rgn_aud_0008_0218"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1340.491s" clip-end="npt=1346.434s" id="rgn_aud_0008_0219"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1346.434s" clip-end="npt=1348.772s" id="rgn_aud_0008_0220"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1348.772s" clip-end="npt=1355.786s" id="rgn_aud_0008_0221"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1355.786s" clip-end="npt=1368.325s" id="rgn_aud_0008_0222"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1368.325s" clip-end="npt=1372.531s" id="rgn_aud_0008_0223"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1372.531s" clip-end="npt=1380.746s" id="rgn_aud_0008_0224"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0012" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0043" id="bjbl_003a"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1380.746s" clip-end="npt=1381.466s" id="rgn_aud_0008_0225"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0019">
+				<text src="ncc.html#iqhc_0006" id="bjbl_003b"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1381.466s" clip-end="npt=1382.967s" id="rgn_aud_0008_0226"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1382.967s" clip-end="npt=1391.848s" id="rgn_aud_0008_0227"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1391.848s" clip-end="npt=1396.054s" id="rgn_aud_0008_0228"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1396.054s" clip-end="npt=1399.411s" id="rgn_aud_0008_0229"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1399.411s" clip-end="npt=1405.105s" id="rgn_aud_0008_0230"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1405.105s" clip-end="npt=1408.645s" id="rgn_aud_0008_0231"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1408.645s" clip-end="npt=1409.964s" id="rgn_aud_0008_0232"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1409.964s" clip-end="npt=1418.711s" id="rgn_aud_0008_0233"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1418.711s" clip-end="npt=1428.831s" id="rgn_aud_0008_0234"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1428.831s" clip-end="npt=1431.835s" id="rgn_aud_0008_0235"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1431.835s" clip-end="npt=1436.576s" id="rgn_aud_0008_0236"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1436.576s" clip-end="npt=1440.416s" id="rgn_aud_0008_0237"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1440.416s" clip-end="npt=1447.260s" id="rgn_aud_0008_0238"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1447.260s" clip-end="npt=1467.410s" id="rgn_aud_0008_0239"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0013" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0044" id="bjbl_003c"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1467.410s" clip-end="npt=1467.734s" id="rgn_aud_0008_0240"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0020">
+				<text src="ncc.html#iqhc_0006" id="bjbl_003d"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1467.734s" clip-end="npt=1469.236s" id="rgn_aud_0008_0241"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1469.236s" clip-end="npt=1473.859s" id="rgn_aud_0008_0242"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1473.859s" clip-end="npt=1476.412s" id="rgn_aud_0008_0243"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1476.412s" clip-end="npt=1488.899s" id="rgn_aud_0008_0244"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1488.899s" clip-end="npt=1492.072s" id="rgn_aud_0008_0245"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1492.072s" clip-end="npt=1497.746s" id="rgn_aud_0008_0246"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1497.746s" clip-end="npt=1506.144s" id="rgn_aud_0008_0247"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1506.144s" clip-end="npt=1508.247s" id="rgn_aud_0008_0248"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1508.247s" clip-end="npt=1516.828s" id="rgn_aud_0008_0249"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1516.828s" clip-end="npt=1520.068s" id="rgn_aud_0008_0250"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1520.068s" clip-end="npt=1526.193s" id="rgn_aud_0008_0251"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1526.193s" clip-end="npt=1528.832s" id="rgn_aud_0008_0252"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1528.832s" clip-end="npt=1537.105s" id="rgn_aud_0008_0253"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0014" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0045" id="bjbl_003e"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1537.105s" clip-end="npt=1537.705s" id="rgn_aud_0008_0254"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0021">
+				<text src="ncc.html#iqhc_0006" id="bjbl_003f"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1537.705s" clip-end="npt=1538.574s" id="rgn_aud_0008_0255"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1538.574s" clip-end="npt=1541.610s" id="rgn_aud_0008_0256"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1541.610s" clip-end="npt=1544.248s" id="rgn_aud_0008_0257"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1544.248s" clip-end="npt=1550.723s" id="rgn_aud_0008_0258"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1550.723s" clip-end="npt=1559.252s" id="rgn_aud_0008_0259"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1559.252s" clip-end="npt=1566.684s" id="rgn_aud_0008_0260"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1566.684s" clip-end="npt=1572.561s" id="rgn_aud_0008_0261"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1572.561s" clip-end="npt=1577.250s" id="rgn_aud_0008_0262"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1577.250s" clip-end="npt=1580.672s" id="rgn_aud_0008_0263"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1580.672s" clip-end="npt=1582.410s" id="rgn_aud_0008_0264"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1582.410s" clip-end="npt=1590.090s" id="rgn_aud_0008_0265"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1590.090s" clip-end="npt=1593.162s" id="rgn_aud_0008_0266"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1593.162s" clip-end="npt=1607.151s" id="rgn_aud_0008_0267"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1607.151s" clip-end="npt=1609.813s" id="rgn_aud_0008_0268"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1609.813s" clip-end="npt=1622.417s" id="rgn_aud_0008_0269"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1622.417s" clip-end="npt=1624.752s" id="rgn_aud_0008_0270"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0015" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0046" id="bjbl_0040"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1624.752s" clip-end="npt=1625.352s" id="rgn_aud_0008_0271"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0022">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0041"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1625.352s" clip-end="npt=1626.126s" id="rgn_aud_0008_0272"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1626.126s" clip-end="npt=1637.110s" id="rgn_aud_0008_0273"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1637.110s" clip-end="npt=1639.749s" id="rgn_aud_0008_0274"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1639.749s" clip-end="npt=1644.725s" id="rgn_aud_0008_0275"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1644.725s" clip-end="npt=1656.245s" id="rgn_aud_0008_0276"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1656.245s" clip-end="npt=1659.850s" id="rgn_aud_0008_0277"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1659.850s" clip-end="npt=1663.272s" id="rgn_aud_0008_0278"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1663.272s" clip-end="npt=1670.835s" id="rgn_aud_0008_0279"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1670.835s" clip-end="npt=1673.290s" id="rgn_aud_0008_0280"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1673.290s" clip-end="npt=1682.655s" id="rgn_aud_0008_0281"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1682.655s" clip-end="npt=1693.208s" id="rgn_aud_0008_0282"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1693.208s" clip-end="npt=1696.448s" id="rgn_aud_0008_0283"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1696.448s" clip-end="npt=1702.390s" id="rgn_aud_0008_0284"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1702.390s" clip-end="npt=1716.665s" id="rgn_aud_0008_0285"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0016" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0047" id="bjbl_0042"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1716.665s" clip-end="npt=1717.505s" id="rgn_aud_0008_0286"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0023">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0043"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1717.505s" clip-end="npt=1719.253s" id="rgn_aud_0008_0287"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1719.253s" clip-end="npt=1729.924s" id="rgn_aud_0008_0288"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1729.924s" clip-end="npt=1748.405s" id="rgn_aud_0008_0289"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1748.405s" clip-end="npt=1752.688s" id="rgn_aud_0008_0290"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1752.688s" clip-end="npt=1758.448s" id="rgn_aud_0008_0291"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1758.448s" clip-end="npt=1765.227s" id="rgn_aud_0008_0292"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1765.227s" clip-end="npt=1775.545s" id="rgn_aud_0008_0293"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1775.545s" clip-end="npt=1779.686s" id="rgn_aud_0008_0294"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1779.686s" clip-end="npt=1789.233s" id="rgn_aud_0008_0295"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1789.233s" clip-end="npt=1793.426s" id="rgn_aud_0008_0296"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1793.426s" clip-end="npt=1795.895s" id="rgn_aud_0008_0297"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1795.895s" clip-end="npt=1801.106s" id="rgn_aud_0008_0298"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1801.106s" clip-end="npt=1810.771s" id="rgn_aud_0008_0299"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1810.771s" clip-end="npt=1820.371s" id="rgn_aud_0008_0300"/>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1820.371s" clip-end="npt=1827.807s" id="rgn_aud_0008_0301"/>
+				</seq>
+			</par>
+			<par endsync="last" id="bjbl_0017" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_0048" id="bjbl_0044"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1827.807s" clip-end="npt=1828.587s" id="rgn_aud_0008_0302"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0024">
+				<text src="ncc.html#iqhc_0006" id="bjbl_0045"/>
+				<seq>
+					<audio src="07_Det_kom_sikke.mp3" clip-begin="npt=1828.587s" clip-end="npt=1829.906s" id="rgn_aud_0008_0303"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

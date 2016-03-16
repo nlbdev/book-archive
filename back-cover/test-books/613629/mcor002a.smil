@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Mammarazzi"/>
+		<meta name="ncc:totalElapsedTime" content="00:33:46"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:49"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="48.978s">
+			<par endsync="last" id="rgn_par_0042_0001">
+				<text src="ncc.html#mcor_0029" id="mcor_0029"/>
+				<seq>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=0.000s" clip-end="npt=3.122s" id="rgn_aud_0042_0001"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=3.122s" clip-end="npt=5.342s" id="rgn_aud_0042_0002"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=5.342s" clip-end="npt=11.820s" id="rgn_aud_0042_0003"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=11.820s" clip-end="npt=14.276s" id="rgn_aud_0042_0004"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=14.276s" clip-end="npt=19.199s" id="rgn_aud_0042_0005"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=19.199s" clip-end="npt=25.861s" id="rgn_aud_0042_0006"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=25.861s" clip-end="npt=27.280s" id="rgn_aud_0042_0007"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=27.280s" clip-end="npt=27.998s" id="rgn_aud_0042_0008"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=27.998s" clip-end="npt=29.984s" id="rgn_aud_0042_0009"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=29.984s" clip-end="npt=32.622s" id="rgn_aud_0042_0010"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=32.622s" clip-end="npt=34.843s" id="rgn_aud_0042_0011"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=34.843s" clip-end="npt=36.161s" id="rgn_aud_0042_0012"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=36.161s" clip-end="npt=40.969s" id="rgn_aud_0042_0013"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=40.969s" clip-end="npt=44.274s" id="rgn_aud_0042_0014"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=44.274s" clip-end="npt=45.057s" id="rgn_aud_0042_0015"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=45.057s" clip-end="npt=45.843s" id="rgn_aud_0042_0016"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=45.843s" clip-end="npt=46.627s" id="rgn_aud_0042_0017"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=46.627s" clip-end="npt=47.411s" id="rgn_aud_0042_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jwvy_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0073" id="jwvy_0002"/>
+				<seq>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=47.411s" clip-end="npt=47.683s" id="rgn_aud_0042_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0042_0002">
+				<text src="ncc.html#mcor_0029" id="jwvy_0003"/>
+				<seq>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=47.683s" clip-end="npt=48.195s" id="rgn_aud_0042_0020"/>
+					<audio src="42_Mammarazzi.mp3" clip-begin="npt=48.195s" clip-end="npt=48.978s" id="rgn_aud_0042_0021"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

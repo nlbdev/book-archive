@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Sove som et barn"/>
+		<meta name="ncc:totalElapsedTime" content="00:21:59"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:57"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="56.844s">
+			<par endsync="last" id="rgn_par_0027_0001">
+				<text src="ncc.html#mcor_001a" id="mcor_001a"/>
+				<seq>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=0.000s" clip-end="npt=3.553s" id="rgn_aud_0027_0001"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=3.553s" clip-end="npt=4.073s" id="rgn_aud_0027_0002"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=4.073s" clip-end="npt=6.961s" id="rgn_aud_0027_0003"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=6.961s" clip-end="npt=11.336s" id="rgn_aud_0027_0004"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=11.336s" clip-end="npt=14.157s" id="rgn_aud_0027_0005"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=14.157s" clip-end="npt=18.481s" id="rgn_aud_0027_0006"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=18.481s" clip-end="npt=22.321s" id="rgn_aud_0027_0007"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=22.321s" clip-end="npt=24.475s" id="rgn_aud_0027_0008"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=24.475s" clip-end="npt=30.001s" id="rgn_aud_0027_0009"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=30.001s" clip-end="npt=33.658s" id="rgn_aud_0027_0010"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=33.658s" clip-end="npt=37.878s" id="rgn_aud_0027_0011"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=37.878s" clip-end="npt=38.661s" id="rgn_aud_0027_0012"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=38.661s" clip-end="npt=39.079s" id="rgn_aud_0027_0013"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=39.079s" clip-end="npt=42.070s" id="rgn_aud_0027_0014"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=42.070s" clip-end="npt=45.911s" id="rgn_aud_0027_0015"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=45.911s" clip-end="npt=48.380s" id="rgn_aud_0027_0016"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=48.380s" clip-end="npt=50.481s" id="rgn_aud_0027_0017"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=50.481s" clip-end="npt=52.136s" id="rgn_aud_0027_0018"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=52.136s" clip-end="npt=52.920s" id="rgn_aud_0027_0019"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=52.920s" clip-end="npt=53.706s" id="rgn_aud_0027_0020"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=53.706s" clip-end="npt=54.491s" id="rgn_aud_0027_0021"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=54.491s" clip-end="npt=55.276s" id="rgn_aud_0027_0022"/>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=55.276s" clip-end="npt=55.709s" id="rgn_aud_0027_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="iizk_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0064" id="iizk_0002"/>
+				<seq>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=55.709s" clip-end="npt=55.944s" id="rgn_aud_0027_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0027_0002">
+				<text src="ncc.html#mcor_001a" id="iizk_0003"/>
+				<seq>
+					<audio src="27_Sove_som_et_b.mp3" clip-begin="npt=55.944s" clip-end="npt=56.844s" id="rgn_aud_0027_0025"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

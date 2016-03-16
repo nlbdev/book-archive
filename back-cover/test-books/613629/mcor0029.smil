@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Jeg sier det nå"/>
+		<meta name="ncc:totalElapsedTime" content="00:32:55"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:51"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="51.045s">
+			<par endsync="last" id="rgn_par_0041_0001">
+				<text src="ncc.html#mcor_0028" id="mcor_0028"/>
+				<seq>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=0.000s" clip-end="npt=1.318s" id="rgn_aud_0041_0001"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=1.318s" clip-end="npt=2.032s" id="rgn_aud_0041_0002"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=2.032s" clip-end="npt=3.020s" id="rgn_aud_0041_0003"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=3.020s" clip-end="npt=4.256s" id="rgn_aud_0041_0004"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=4.256s" clip-end="npt=6.594s" id="rgn_aud_0041_0005"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=6.594s" clip-end="npt=8.214s" id="rgn_aud_0041_0006"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=8.214s" clip-end="npt=11.401s" id="rgn_aud_0041_0007"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=11.401s" clip-end="npt=18.780s" id="rgn_aud_0041_0008"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=18.780s" clip-end="npt=24.239s" id="rgn_aud_0041_0009"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=24.239s" clip-end="npt=27.780s" id="rgn_aud_0041_0010"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=27.780s" clip-end="npt=29.480s" id="rgn_aud_0041_0011"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=29.480s" clip-end="npt=30.861s" id="rgn_aud_0041_0012"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=30.861s" clip-end="npt=32.844s" id="rgn_aud_0041_0013"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=32.844s" clip-end="npt=40.878s" id="rgn_aud_0041_0014"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=40.878s" clip-end="npt=44.000s" id="rgn_aud_0041_0015"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=44.000s" clip-end="npt=46.341s" id="rgn_aud_0041_0016"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=46.341s" clip-end="npt=47.125s" id="rgn_aud_0041_0017"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=47.125s" clip-end="npt=47.908s" id="rgn_aud_0041_0018"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=47.908s" clip-end="npt=48.694s" id="rgn_aud_0041_0019"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=48.694s" clip-end="npt=49.478s" id="rgn_aud_0041_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ucep_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0072" id="ucep_0002"/>
+				<seq>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=49.478s" clip-end="npt=49.783s" id="rgn_aud_0041_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0041_0002">
+				<text src="ncc.html#mcor_0028" id="ucep_0003"/>
+				<seq>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=49.783s" clip-end="npt=50.262s" id="rgn_aud_0041_0022"/>
+					<audio src="41_Jeg_sier_det_.mp3" clip-begin="npt=50.262s" clip-end="npt=51.045s" id="rgn_aud_0041_0023"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<smil>
+<head>
+<meta name="Generator" content="Daisy Pipeline WPLWriter" />
+<meta name="AverageRating" content="0" />
+<meta name="TotalDuration" content="5071" />
+<meta name="ItemCount" content="28" />
+<title>M for mistet</title>
+</head>
+<body>
+<seq>
+<media src="01_M_for_mistet.mp3" />
+<media src="02_Lydbokavtalen.mp3" />
+<media src="03_Bokinformasjon.mp3" />
+<media src="04_Navigering_i_DAISY-boka.mp3" />
+<media src="05_Bokomtale.mp3" />
+<media src="06_Kapittel_1__H_for_h_ndsvette.mp3" />
+<media src="07_Kapittel_2__B_for_bud.mp3" />
+<media src="08_Kapittel_3__E_for_ekkel_figur.mp3" />
+<media src="09_Kapittel_4__V_for_vikar.mp3" />
+<media src="10_Kapittel_5__B_for_ballongpupper.mp3" />
+<media src="11_Kapittel_6__S_for_Sverige-kart.mp3" />
+<media src="12_Kapittel_7__M_for_melkebart.mp3" />
+<media src="13_Kapittel_8__K_for_kebabgryte.mp3" />
+<media src="14_Kapittel_9__U_for_underbukse.mp3" />
+<media src="15_Kapittel_10__O_for_O_boy.mp3" />
+<media src="16_Kapittel_11__T_for_Tyson.mp3" />
+<media src="17_Kapittel_12__H_for_Hunden.mp3" />
+<media src="18_Kapittel_13__K_for_kjeft.mp3" />
+<media src="19_Kapittel_14__A_for_apeskrik.mp3" />
+<media src="20_Kapittel_15__M_for_menssmerter.mp3" />
+<media src="21_Kapittel_16__H_for_hai_faiv.mp3" />
+<media src="22_Kapittel_17__U_for_ulv.mp3" />
+<media src="23_Kapittel_18__P_for_papirbiten.mp3" />
+<media src="24_Kapittel_19__B_for_bes_k.mp3" />
+<media src="25_Kapittel_20__G_for_gullpapir.mp3" />
+<media src="26_Kapittel_21__F_for_finnerl_nn.mp3" />
+<media src="27_Kapittel_22__S_for_slutt.mp3" />
+<media src="28_Sluttannonsering_.mp3" />
+</seq>
+</body>
+</smil>

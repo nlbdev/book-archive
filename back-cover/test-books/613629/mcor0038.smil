@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Lykken"/>
+		<meta name="ncc:totalElapsedTime" content="00:45:15"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:09"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="128.645s">
+			<par endsync="last" id="rgn_par_0056_0001">
+				<text src="ncc.html#mcor_0037" id="mcor_0037"/>
+				<seq>
+					<audio src="56_Lykken.mp3" clip-begin="npt=0.000s" clip-end="npt=2.350s" id="rgn_aud_0056_0001"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=2.350s" clip-end="npt=2.742s" id="rgn_aud_0056_0002"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=2.742s" clip-end="npt=5.628s" id="rgn_aud_0056_0003"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=5.628s" clip-end="npt=8.502s" id="rgn_aud_0056_0004"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=8.502s" clip-end="npt=11.689s" id="rgn_aud_0056_0005"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=11.689s" clip-end="npt=17.265s" id="rgn_aud_0056_0006"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=17.265s" clip-end="npt=22.489s" id="rgn_aud_0056_0007"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=22.489s" clip-end="npt=28.797s" id="rgn_aud_0056_0008"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=28.797s" clip-end="npt=30.417s" id="rgn_aud_0056_0009"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=30.417s" clip-end="npt=33.353s" id="rgn_aud_0056_0010"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=33.353s" clip-end="npt=37.795s" id="rgn_aud_0056_0011"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=37.795s" clip-end="npt=42.536s" id="rgn_aud_0056_0012"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=42.536s" clip-end="npt=46.195s" id="rgn_aud_0056_0013"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=46.195s" clip-end="npt=48.298s" id="rgn_aud_0056_0014"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=48.298s" clip-end="npt=49.264s" id="rgn_aud_0056_0015"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=49.264s" clip-end="npt=52.320s" id="rgn_aud_0056_0016"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=52.320s" clip-end="npt=54.005s" id="rgn_aud_0056_0017"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=54.005s" clip-end="npt=57.359s" id="rgn_aud_0056_0018"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=57.359s" clip-end="npt=62.109s" id="rgn_aud_0056_0019"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=62.109s" clip-end="npt=63.728s" id="rgn_aud_0056_0020"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=63.728s" clip-end="npt=67.632s" id="rgn_aud_0056_0021"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=67.632s" clip-end="npt=68.834s" id="rgn_aud_0056_0022"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=68.834s" clip-end="npt=71.173s" id="rgn_aud_0056_0023"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=71.173s" clip-end="npt=74.177s" id="rgn_aud_0056_0024"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=74.177s" clip-end="npt=76.933s" id="rgn_aud_0056_0025"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=76.933s" clip-end="npt=79.989s" id="rgn_aud_0056_0026"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=79.989s" clip-end="npt=83.477s" id="rgn_aud_0056_0027"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=83.477s" clip-end="npt=86.650s" id="rgn_aud_0056_0028"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=86.650s" clip-end="npt=89.837s" id="rgn_aud_0056_0029"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=89.837s" clip-end="npt=95.465s" id="rgn_aud_0056_0030"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=95.465s" clip-end="npt=98.504s" id="rgn_aud_0056_0031"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=98.504s" clip-end="npt=99.888s" id="rgn_aud_0056_0032"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=99.888s" clip-end="npt=105.298s" id="rgn_aud_0056_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="avyd_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0081" id="avyd_0003"/>
+				<seq>
+					<audio src="56_Lykken.mp3" clip-begin="npt=105.298s" clip-end="npt=105.465s" id="rgn_aud_0056_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0056_0002">
+				<text src="ncc.html#mcor_0037" id="avyd_0004"/>
+				<seq>
+					<audio src="56_Lykken.mp3" clip-begin="npt=105.465s" clip-end="npt=106.132s" id="rgn_aud_0056_0035"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=106.132s" clip-end="npt=109.906s" id="rgn_aud_0056_0036"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=109.906s" clip-end="npt=114.165s" id="rgn_aud_0056_0037"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=114.165s" clip-end="npt=116.867s" id="rgn_aud_0056_0038"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=116.867s" clip-end="npt=120.108s" id="rgn_aud_0056_0039"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=120.108s" clip-end="npt=122.028s" id="rgn_aud_0056_0040"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=122.028s" clip-end="npt=123.941s" id="rgn_aud_0056_0041"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=123.941s" clip-end="npt=124.724s" id="rgn_aud_0056_0042"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=124.724s" clip-end="npt=125.510s" id="rgn_aud_0056_0043"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=125.510s" clip-end="npt=126.293s" id="rgn_aud_0056_0044"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=126.293s" clip-end="npt=127.078s" id="rgn_aud_0056_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="avyd_0002" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0082" id="avyd_0005"/>
+				<seq>
+					<audio src="56_Lykken.mp3" clip-begin="npt=127.078s" clip-end="npt=127.247s" id="rgn_aud_0056_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0056_0003">
+				<text src="ncc.html#mcor_0037" id="avyd_0006"/>
+				<seq>
+					<audio src="56_Lykken.mp3" clip-begin="npt=127.247s" clip-end="npt=127.861s" id="rgn_aud_0056_0047"/>
+					<audio src="56_Lykken.mp3" clip-begin="npt=127.861s" clip-end="npt=128.645s" id="rgn_aud_0056_0048"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

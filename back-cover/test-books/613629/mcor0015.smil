@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Baby love"/>
+		<meta name="ncc:totalElapsedTime" content="00:16:30"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:28"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="28.292s">
+			<par endsync="last" id="rgn_par_0021_0001">
+				<text src="ncc.html#mcor_0014" id="mcor_0014"/>
+				<seq>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=0.000s" clip-end="npt=3.819s" id="rgn_aud_0021_0001"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=3.819s" clip-end="npt=6.393s" id="rgn_aud_0021_0002"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=6.393s" clip-end="npt=9.336s" id="rgn_aud_0021_0003"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=9.336s" clip-end="npt=12.445s" id="rgn_aud_0021_0004"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=12.445s" clip-end="npt=15.867s" id="rgn_aud_0021_0005"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=15.867s" clip-end="npt=16.933s" id="rgn_aud_0021_0006"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=16.933s" clip-end="npt=18.806s" id="rgn_aud_0021_0007"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=18.806s" clip-end="npt=21.949s" id="rgn_aud_0021_0008"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=21.949s" clip-end="npt=22.734s" id="rgn_aud_0021_0009"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=22.734s" clip-end="npt=23.518s" id="rgn_aud_0021_0010"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=23.518s" clip-end="npt=24.303s" id="rgn_aud_0021_0011"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=24.303s" clip-end="npt=25.088s" id="rgn_aud_0021_0012"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=25.088s" clip-end="npt=25.873s" id="rgn_aud_0021_0013"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=25.873s" clip-end="npt=26.928s" id="rgn_aud_0021_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="shbv_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_005e" id="shbv_0002"/>
+				<seq>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=26.928s" clip-end="npt=27.443s" id="rgn_aud_0021_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0021_0002">
+				<text src="ncc.html#mcor_0014" id="shbv_0003"/>
+				<seq>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=27.443s" clip-end="npt=28.228s" id="rgn_aud_0021_0016"/>
+					<audio src="21_Baby_love.mp3" clip-begin="npt=28.228s" clip-end="npt=28.292s" id="rgn_aud_0021_0017"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

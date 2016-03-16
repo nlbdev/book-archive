@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:24.076"/>
+		<meta name="ncc:totalElapsedTime" content="00:51:01.245"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 14: A for apeskrik"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="204.076s">
+			<par endsync="last" id="upjx_0013">
+				<text src="ncc.html#upjx_0012" id="upjx_0012"/>
+				<seq>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=0.000s" clip-end="npt=4.741s" id="audio_0001"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=4.741s" clip-end="npt=6.727s" id="audio_0002"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=6.727s" clip-end="npt=12.048s" id="audio_0003"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=12.048s" clip-end="npt=12.466s" id="audio_0004"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=12.466s" clip-end="npt=14.987s" id="audio_0005"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=14.987s" clip-end="npt=20.695s" id="audio_0006"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=20.695s" clip-end="npt=23.816s" id="audio_0007"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=23.816s" clip-end="npt=27.591s" id="audio_0008"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=27.591s" clip-end="npt=31.614s" id="audio_0009"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=31.614s" clip-end="npt=34.135s" id="audio_0010"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=34.135s" clip-end="npt=38.027s" id="audio_0011"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=38.027s" clip-end="npt=42.050s" id="audio_0012"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=42.050s" clip-end="npt=45.837s" id="audio_0013"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=45.837s" clip-end="npt=48.205s" id="audio_0014"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=48.205s" clip-end="npt=51.862s" id="audio_0015"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=51.862s" clip-end="npt=54.683s" id="audio_0016"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=54.683s" clip-end="npt=57.152s" id="audio_0017"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=57.152s" clip-end="npt=59.307s" id="audio_0018"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=59.307s" clip-end="npt=61.945s" id="audio_0019"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=61.945s" clip-end="npt=63.022s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tzhe_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0062" id="tzhe_0005"/>
+				<seq>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=63.022s" clip-end="npt=63.196s" id="audio_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tzhe_000d">
+				<text src="ncc.html#upjx_0012" id="tzhe_0006"/>
+				<seq>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=63.196s" clip-end="npt=63.862s" id="audio_0022"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=63.862s" clip-end="npt=70.406s" id="audio_0023"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=70.406s" clip-end="npt=74.598s" id="audio_0024"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=74.598s" clip-end="npt=80.123s" id="audio_0025"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=80.123s" clip-end="npt=82.696s" id="audio_0026"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=82.696s" clip-end="npt=84.316s" id="audio_0027"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=84.316s" clip-end="npt=87.921s" id="audio_0028"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=87.921s" clip-end="npt=89.958s" id="audio_0029"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=89.958s" clip-end="npt=91.878s" id="audio_0030"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=91.878s" clip-end="npt=98.239s" id="audio_0031"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=98.239s" clip-end="npt=100.747s" id="audio_0032"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=100.747s" clip-end="npt=102.785s" id="audio_0033"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=102.785s" clip-end="npt=106.455s" id="audio_0034"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=106.455s" clip-end="npt=110.164s" id="audio_0035"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=110.164s" clip-end="npt=113.051s" id="audio_0036"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=113.051s" clip-end="npt=118.811s" id="audio_0037"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=118.811s" clip-end="npt=122.233s" id="audio_0038"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=122.233s" clip-end="npt=125.289s" id="audio_0039"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=125.289s" clip-end="npt=129.847s" id="audio_0040"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=129.847s" clip-end="npt=132.133s" id="audio_0041"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=132.133s" clip-end="npt=135.372s" id="audio_0042"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=135.372s" clip-end="npt=138.677s" id="audio_0043"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=138.677s" clip-end="npt=142.752s" id="audio_0044"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=142.752s" clip-end="npt=145.325s" id="audio_0045"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=145.325s" clip-end="npt=147.395s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tzhe_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0063" id="tzhe_0007"/>
+				<seq>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=147.395s" clip-end="npt=147.528s" id="audio_0047"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tzhe_000e">
+				<text src="ncc.html#upjx_0012" id="tzhe_0008"/>
+				<seq>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=147.528s" clip-end="npt=148.077s" id="audio_0048"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=148.077s" clip-end="npt=150.467s" id="audio_0049"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=150.467s" clip-end="npt=153.288s" id="audio_0050"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=153.288s" clip-end="npt=155.208s" id="audio_0051"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=155.208s" clip-end="npt=158.630s" id="audio_0052"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=158.630s" clip-end="npt=163.188s" id="audio_0053"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=163.188s" clip-end="npt=165.592s" id="audio_0054"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=165.592s" clip-end="npt=168.354s" id="audio_0055"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=168.354s" clip-end="npt=169.115s" id="audio_0056"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=169.115s" clip-end="npt=171.035s" id="audio_0057"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=171.035s" clip-end="npt=173.057s" id="audio_0058"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tzhe_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0064" id="tzhe_0009"/>
+				<seq>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=173.057s" clip-end="npt=173.151s" id="audio_0059"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tzhe_000f">
+				<text src="ncc.html#upjx_0012" id="tzhe_000a"/>
+				<seq>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=173.151s" clip-end="npt=174.118s" id="audio_0060"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=174.118s" clip-end="npt=178.310s" id="audio_0061"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=178.310s" clip-end="npt=181.131s" id="audio_0062"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=181.131s" clip-end="npt=186.709s" id="audio_0063"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=186.709s" clip-end="npt=191.933s" id="audio_0064"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=191.933s" clip-end="npt=194.637s" id="audio_0065"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=194.637s" clip-end="npt=197.458s" id="audio_0066"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=197.458s" clip-end="npt=200.116s" id="audio_0067"/>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=200.116s" clip-end="npt=203.521s" id="audio_0068"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tzhe_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0065" id="tzhe_000b"/>
+				<seq>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=203.521s" clip-end="npt=203.695s" id="audio_0069"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tzhe_0010">
+				<text src="ncc.html#upjx_0012" id="tzhe_000c"/>
+				<seq>
+					<audio src="19_Kapittel_14__A_for_apeskrik.mp3" clip-begin="npt=203.695s" clip-end="npt=204.076s" id="audio_0070"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

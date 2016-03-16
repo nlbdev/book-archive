@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Ingen shopping"/>
+		<meta name="ncc:totalElapsedTime" content="00:37:52"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:38"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="37.526s">
+			<par endsync="last" id="rgn_par_0047_0001">
+				<text src="ncc.html#mcor_002e" id="mcor_002e"/>
+				<seq>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=0.000s" clip-end="npt=3.027s" id="rgn_aud_0047_0001"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=3.027s" clip-end="npt=4.162s" id="rgn_aud_0047_0002"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=4.162s" clip-end="npt=7.166s" id="rgn_aud_0047_0003"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=7.166s" clip-end="npt=8.420s" id="rgn_aud_0047_0004"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=8.420s" clip-end="npt=13.279s" id="rgn_aud_0047_0005"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=13.279s" clip-end="npt=16.218s" id="rgn_aud_0047_0006"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=16.218s" clip-end="npt=23.963s" id="rgn_aud_0047_0007"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=23.963s" clip-end="npt=25.699s" id="rgn_aud_0047_0008"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=25.699s" clip-end="npt=28.757s" id="rgn_aud_0047_0009"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=28.757s" clip-end="npt=31.826s" id="rgn_aud_0047_0010"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=31.826s" clip-end="npt=32.822s" id="rgn_aud_0047_0011"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=32.822s" clip-end="npt=33.606s" id="rgn_aud_0047_0012"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=33.606s" clip-end="npt=34.390s" id="rgn_aud_0047_0013"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=34.390s" clip-end="npt=35.173s" id="rgn_aud_0047_0014"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=35.173s" clip-end="npt=35.957s" id="rgn_aud_0047_0015"/>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=35.957s" clip-end="npt=36.417s" id="rgn_aud_0047_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="iant_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0078" id="iant_0002"/>
+				<seq>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=36.417s" clip-end="npt=36.520s" id="rgn_aud_0047_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0047_0002">
+				<text src="ncc.html#mcor_002e" id="iant_0003"/>
+				<seq>
+					<audio src="47_Ingen_shoppin.mp3" clip-begin="npt=36.520s" clip-end="npt=37.526s" id="rgn_aud_0047_0018"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

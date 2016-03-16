@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Baksidetekst og forfatteromtale "/>
+		<meta name="ncc:totalElapsedTime" content="00:01:37"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:39"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="98.534s">
+			<par endsync="last" id="rgn_par_0004_0001">
+				<text src="ncc.html#mcor_0003" id="mcor_0003"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=0.000s" clip-end="npt=5.169s" id="rgn_aud_0004_0001"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=5.169s" clip-end="npt=9.244s" id="rgn_aud_0004_0002"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=9.244s" clip-end="npt=13.083s" id="rgn_aud_0004_0003"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=13.083s" clip-end="npt=15.435s" id="rgn_aud_0004_0004"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=15.435s" clip-end="npt=18.725s" id="rgn_aud_0004_0005"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=18.725s" clip-end="npt=20.829s" id="rgn_aud_0004_0006"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=20.829s" clip-end="npt=24.434s" id="rgn_aud_0004_0007"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=24.434s" clip-end="npt=27.849s" id="rgn_aud_0004_0008"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=27.849s" clip-end="npt=28.719s" id="rgn_aud_0004_0009"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=28.719s" clip-end="npt=31.018s" id="rgn_aud_0004_0010"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=31.018s" clip-end="npt=33.356s" id="rgn_aud_0004_0011"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=33.356s" clip-end="npt=34.741s" id="rgn_aud_0004_0012"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=34.741s" clip-end="npt=36.844s" id="rgn_aud_0004_0013"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=36.844s" clip-end="npt=39.600s" id="rgn_aud_0004_0014"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=39.600s" clip-end="npt=41.469s" id="rgn_aud_0004_0015"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=41.469s" clip-end="npt=44.578s" id="rgn_aud_0004_0016"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=44.578s" clip-end="npt=47.529s" id="rgn_aud_0004_0017"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=47.529s" clip-end="npt=48.718s" id="rgn_aud_0004_0018"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=48.718s" clip-end="npt=51.069s" id="rgn_aud_0004_0019"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=51.069s" clip-end="npt=52.805s" id="rgn_aud_0004_0020"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=52.805s" clip-end="npt=55.078s" id="rgn_aud_0004_0021"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=55.078s" clip-end="npt=56.444s" id="rgn_aud_0004_0022"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=56.444s" clip-end="npt=57.280s" id="rgn_aud_0004_0023"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=57.280s" clip-end="npt=58.966s" id="rgn_aud_0004_0024"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=58.966s" clip-end="npt=61.121s" id="rgn_aud_0004_0025"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=61.121s" clip-end="npt=66.462s" id="rgn_aud_0004_0026"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=66.462s" clip-end="npt=70.602s" id="rgn_aud_0004_0027"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=70.602s" clip-end="npt=72.759s" id="rgn_aud_0004_0028"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=72.759s" clip-end="npt=74.808s" id="rgn_aud_0004_0029"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=74.808s" clip-end="npt=76.846s" id="rgn_aud_0004_0030"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=76.846s" clip-end="npt=79.119s" id="rgn_aud_0004_0031"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=79.119s" clip-end="npt=80.721s" id="rgn_aud_0004_0032"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=80.721s" clip-end="npt=83.968s" id="rgn_aud_0004_0033"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=83.968s" clip-end="npt=84.331s" id="rgn_aud_0004_0034"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=84.331s" clip-end="npt=88.171s" id="rgn_aud_0004_0035"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=88.171s" clip-end="npt=92.366s" id="rgn_aud_0004_0036"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=92.366s" clip-end="npt=95.055s" id="rgn_aud_0004_0037"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=95.055s" clip-end="npt=95.840s" id="rgn_aud_0004_0038"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=95.840s" clip-end="npt=96.923s" id="rgn_aud_0004_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tseg_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0047" id="tseg_0006"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=96.923s" clip-end="npt=96.983s" id="rgn_aud_0004_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0004_0002">
+				<text src="ncc.html#mcor_0003" id="tseg_0007"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=96.983s" clip-end="npt=97.045s" id="rgn_aud_0004_0041"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tseg_0002" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0048" id="tseg_0008"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=97.045s" clip-end="npt=97.105s" id="rgn_aud_0004_0042"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0004_0003">
+				<text src="ncc.html#mcor_0003" id="tseg_0009"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=97.105s" clip-end="npt=97.167s" id="rgn_aud_0004_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tseg_0003" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0049" id="tseg_000a"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=97.167s" clip-end="npt=97.227s" id="rgn_aud_0004_0044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0004_0004">
+				<text src="ncc.html#mcor_0003" id="tseg_000b"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=97.227s" clip-end="npt=97.289s" id="rgn_aud_0004_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tseg_0004" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_004a" id="tseg_000c"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=97.289s" clip-end="npt=97.349s" id="rgn_aud_0004_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0004_0005">
+				<text src="ncc.html#mcor_0003" id="tseg_000d"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=97.349s" clip-end="npt=97.411s" id="rgn_aud_0004_0047"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tseg_0005" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_004b" id="tseg_000e"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=97.411s" clip-end="npt=97.471s" id="rgn_aud_0004_0048"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0004_0006">
+				<text src="ncc.html#mcor_0003" id="tseg_000f"/>
+				<seq>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=97.471s" clip-end="npt=98.194s" id="rgn_aud_0004_0049"/>
+					<audio src="04_Baksidetekst_.mp3" clip-begin="npt=98.194s" clip-end="npt=98.534s" id="rgn_aud_0004_0050"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

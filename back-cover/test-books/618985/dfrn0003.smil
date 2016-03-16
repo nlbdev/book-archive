@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:39.890"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:13.152"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Bokinformasjon"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="39.890s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#dfrn_0002" id="dfrn_0002"/>
+				<seq>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=0.000s" clip-end="npt=6.831s" id="audio_0001"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=6.831s" clip-end="npt=12.007s" id="audio_0002"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=12.007s" clip-end="npt=16.983s" id="audio_0003"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=16.983s" clip-end="npt=23.932s" id="audio_0004"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=23.932s" clip-end="npt=32.875s" id="audio_0005"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=32.875s" clip-end="npt=39.890s" id="audio_0006"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

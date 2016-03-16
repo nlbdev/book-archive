@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:00.643"/>
+		<meta name="ncc:totalElapsedTime" content="01:04:48.956"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 17: U for ulv"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="180.643s">
+			<par endsync="last" id="upjx_0016">
+				<text src="ncc.html#upjx_0015" id="upjx_0015"/>
+				<seq>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=0.000s" clip-end="npt=2.220s" id="audio_0001"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=2.220s" clip-end="npt=4.258s" id="audio_0002"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=4.258s" clip-end="npt=10.083s" id="audio_0003"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=10.083s" clip-end="npt=12.539s" id="audio_0004"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=12.539s" clip-end="npt=15.242s" id="audio_0005"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=15.242s" clip-end="npt=18.429s" id="audio_0006"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=18.429s" clip-end="npt=21.368s" id="audio_0007"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=21.368s" clip-end="npt=26.344s" id="audio_0008"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=26.344s" clip-end="npt=32.823s" id="audio_0009"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=32.823s" clip-end="npt=33.724s" id="audio_0010"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=33.724s" clip-end="npt=38.165s" id="audio_0011"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=38.165s" clip-end="npt=39.001s" id="audio_0012"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=39.001s" clip-end="npt=40.137s" id="audio_0013"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=40.137s" clip-end="npt=41.704s" id="audio_0014"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=41.704s" clip-end="npt=45.179s" id="audio_0015"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=45.179s" clip-end="npt=46.864s" id="audio_0016"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=46.864s" clip-end="npt=48.386s" id="audio_0017"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=48.386s" clip-end="npt=53.793s" id="audio_0018"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=53.793s" clip-end="npt=56.732s" id="audio_0019"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=56.732s" clip-end="npt=58.343s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dqsb_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0072" id="dqsb_0005"/>
+				<seq>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=58.343s" clip-end="npt=58.517s" id="audio_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dqsb_000d">
+				<text src="ncc.html#upjx_0015" id="dqsb_0006"/>
+				<seq>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=58.517s" clip-end="npt=61.774s" id="audio_0022"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=61.774s" clip-end="npt=63.806s" id="audio_0023"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=63.806s" clip-end="npt=69.213s" id="audio_0024"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=69.213s" clip-end="npt=71.734s" id="audio_0025"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=71.734s" clip-end="npt=72.842s" id="audio_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dqsb_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0073" id="dqsb_0007"/>
+				<seq>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=72.842s" clip-end="npt=73.109s" id="audio_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dqsb_000e">
+				<text src="ncc.html#upjx_0015" id="dqsb_0008"/>
+				<seq>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=73.109s" clip-end="npt=76.057s" id="audio_0028"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=76.057s" clip-end="npt=78.526s" id="audio_0029"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=78.526s" clip-end="npt=80.145s" id="audio_0030"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=80.145s" clip-end="npt=83.554s" id="audio_0031"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=83.554s" clip-end="npt=90.581s" id="audio_0032"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=90.581s" clip-end="npt=95.975s" id="audio_0033"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=95.975s" clip-end="npt=101.566s" id="audio_0034"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=101.566s" clip-end="npt=103.372s" id="audio_0035"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=103.372s" clip-end="npt=109.432s" id="audio_0036"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=109.432s" clip-end="npt=115.558s" id="audio_0037"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=115.558s" clip-end="npt=118.432s" id="audio_0038"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=118.432s" clip-end="npt=122.219s" id="audio_0039"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=122.219s" clip-end="npt=124.022s" id="audio_0040"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=124.022s" clip-end="npt=127.796s" id="audio_0041"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=127.796s" clip-end="npt=129.651s" id="audio_0042"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=129.651s" clip-end="npt=131.219s" id="audio_0043"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=131.219s" clip-end="npt=134.040s" id="audio_0044"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=134.040s" clip-end="npt=140.100s" id="audio_0045"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=140.100s" clip-end="npt=143.039s" id="audio_0046"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=143.039s" clip-end="npt=145.912s" id="audio_0047"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=145.912s" clip-end="npt=150.053s" id="audio_0048"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=150.053s" clip-end="npt=153.240s" id="audio_0049"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=153.240s" clip-end="npt=158.817s" id="audio_0050"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=158.817s" clip-end="npt=163.081s" id="audio_0051"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=163.081s" clip-end="npt=164.824s" id="audio_0052"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dqsb_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0074" id="dqsb_0009"/>
+				<seq>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=164.824s" clip-end="npt=164.962s" id="audio_0053"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dqsb_000f">
+				<text src="ncc.html#upjx_0015" id="dqsb_000a"/>
+				<seq>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=164.962s" clip-end="npt=168.920s" id="audio_0054"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=168.920s" clip-end="npt=172.407s" id="audio_0055"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=172.407s" clip-end="npt=175.581s" id="audio_0056"/>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=175.581s" clip-end="npt=180.075s" id="audio_0057"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dqsb_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0075" id="dqsb_000b"/>
+				<seq>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=180.075s" clip-end="npt=180.275s" id="audio_0058"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dqsb_0010">
+				<text src="ncc.html#upjx_0015" id="dqsb_000c"/>
+				<seq>
+					<audio src="22_Kapittel_17__U_for_ulv.mp3" clip-begin="npt=180.275s" clip-end="npt=180.643s" id="audio_0059"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

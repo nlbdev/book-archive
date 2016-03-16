@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="En hel landsby"/>
+		<meta name="ncc:totalElapsedTime" content="00:15:15"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:15"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="75.242s">
+			<par endsync="last" id="rgn_par_0020_0001">
+				<text src="ncc.html#mcor_0013" id="mcor_0013"/>
+				<seq>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=0.000s" clip-end="npt=4.051s" id="rgn_aud_0020_0001"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=4.051s" clip-end="npt=6.389s" id="rgn_aud_0020_0002"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=6.389s" clip-end="npt=9.093s" id="rgn_aud_0020_0003"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=9.093s" clip-end="npt=12.513s" id="rgn_aud_0020_0004"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=12.513s" clip-end="npt=15.526s" id="rgn_aud_0020_0005"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=15.526s" clip-end="npt=15.977s" id="rgn_aud_0020_0006"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=15.977s" clip-end="npt=16.398s" id="rgn_aud_0020_0007"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=16.398s" clip-end="npt=20.904s" id="rgn_aud_0020_0008"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=20.904s" clip-end="npt=23.960s" id="rgn_aud_0020_0009"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=23.960s" clip-end="npt=29.003s" id="rgn_aud_0020_0010"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=29.003s" clip-end="npt=35.128s" id="rgn_aud_0020_0011"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=35.128s" clip-end="npt=38.956s" id="rgn_aud_0020_0012"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=38.956s" clip-end="npt=39.603s" id="rgn_aud_0020_0013"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=39.603s" clip-end="npt=41.994s" id="rgn_aud_0020_0014"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=41.994s" clip-end="npt=44.999s" id="rgn_aud_0020_0015"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=44.999s" clip-end="npt=49.320s" id="rgn_aud_0020_0016"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=49.320s" clip-end="npt=52.195s" id="rgn_aud_0020_0017"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=52.195s" clip-end="npt=55.917s" id="rgn_aud_0020_0018"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=55.917s" clip-end="npt=58.439s" id="rgn_aud_0020_0019"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=58.439s" clip-end="npt=61.978s" id="rgn_aud_0020_0020"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=61.978s" clip-end="npt=64.263s" id="rgn_aud_0020_0021"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=64.263s" clip-end="npt=66.772s" id="rgn_aud_0020_0022"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=66.772s" clip-end="npt=68.962s" id="rgn_aud_0020_0023"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=68.962s" clip-end="npt=69.748s" id="rgn_aud_0020_0024"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=69.748s" clip-end="npt=70.533s" id="rgn_aud_0020_0025"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=70.533s" clip-end="npt=71.316s" id="rgn_aud_0020_0026"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=71.316s" clip-end="npt=72.102s" id="rgn_aud_0020_0027"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=72.102s" clip-end="npt=72.888s" id="rgn_aud_0020_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rzwg_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_005d" id="rzwg_0002"/>
+				<seq>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=72.888s" clip-end="npt=73.390s" id="rgn_aud_0020_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0020_0002">
+				<text src="ncc.html#mcor_0013" id="rzwg_0003"/>
+				<seq>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=73.390s" clip-end="npt=74.456s" id="rgn_aud_0020_0030"/>
+					<audio src="20_En_hel_landsb.mp3" clip-begin="npt=74.456s" clip-end="npt=75.242s" id="rgn_aud_0020_0031"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:49.210"/>
+		<meta name="ncc:totalElapsedTime" content="00:01:49.486"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Bokomtale"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="49.210s">
+			<par endsync="last" id="xfxh_0001">
+				<text src="ncc.html#upjx_0004" id="upjx_0004"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=0.000s" clip-end="npt=2.821s" id="audio_0001"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=2.821s" clip-end="npt=6.661s" id="audio_0002"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=6.661s" clip-end="npt=10.984s" id="audio_0003"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=10.984s" clip-end="npt=15.543s" id="audio_0004"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=15.543s" clip-end="npt=19.082s" id="audio_0005"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=19.082s" clip-end="npt=24.660s" id="audio_0006"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=24.660s" clip-end="npt=26.762s" id="audio_0007"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=26.762s" clip-end="npt=31.020s" id="audio_0008"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=31.020s" clip-end="npt=32.405s" id="audio_0009"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=32.405s" clip-end="npt=36.301s" id="audio_0010"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=36.301s" clip-end="npt=36.784s" id="audio_0011"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=36.784s" clip-end="npt=39.240s" id="audio_0012"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=39.240s" clip-end="npt=43.992s" id="audio_0013"/>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=43.992s" clip-end="npt=46.336s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_001c" id="xfxh_0009"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=46.336s" clip-end="npt=46.590s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_0017">
+				<text src="ncc.html#upjx_0004" id="xfxh_000a"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=46.590s" clip-end="npt=47.004s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_001d" id="xfxh_000b"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=47.004s" clip-end="npt=47.124s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_0018">
+				<text src="ncc.html#upjx_0004" id="xfxh_000c"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=47.124s" clip-end="npt=47.243s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_001e" id="xfxh_000d"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=47.243s" clip-end="npt=47.335s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_0019">
+				<text src="ncc.html#upjx_0004" id="xfxh_000e"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=47.335s" clip-end="npt=47.445s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_001f" id="xfxh_000f"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=47.445s" clip-end="npt=47.565s" id="audio_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_001a">
+				<text src="ncc.html#upjx_0004" id="xfxh_0010"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=47.565s" clip-end="npt=47.678s" id="audio_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_0006" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0020" id="xfxh_0011"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=47.678s" clip-end="npt=47.809s" id="audio_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_001b">
+				<text src="ncc.html#upjx_0004" id="xfxh_0012"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=47.809s" clip-end="npt=47.943s" id="audio_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_0007" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0021" id="xfxh_0013"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=47.943s" clip-end="npt=48.054s" id="audio_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_001c">
+				<text src="ncc.html#upjx_0004" id="xfxh_0014"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=48.054s" clip-end="npt=48.228s" id="audio_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_0008" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0022" id="xfxh_0015"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=48.228s" clip-end="npt=48.335s" id="audio_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfxh_001d">
+				<text src="ncc.html#upjx_0004" id="xfxh_0016"/>
+				<seq>
+					<audio src="05_Bokomtale.mp3" clip-begin="npt=48.335s" clip-end="npt=49.210s" id="audio_0028"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

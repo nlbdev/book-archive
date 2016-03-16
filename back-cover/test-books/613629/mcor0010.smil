@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Besøk på barselavdelingen"/>
+		<meta name="ncc:totalElapsedTime" content="00:12:02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:57"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="56.633s">
+			<par endsync="last" id="rgn_par_0016_0001">
+				<text src="ncc.html#mcor_000f" id="mcor_000f"/>
+				<seq>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=0.000s" clip-end="npt=3.711s" id="rgn_aud_0016_0001"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=3.711s" clip-end="npt=6.467s" id="rgn_aud_0016_0002"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=6.467s" clip-end="npt=13.794s" id="rgn_aud_0016_0003"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=13.794s" clip-end="npt=17.451s" id="rgn_aud_0016_0004"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=17.451s" clip-end="npt=20.038s" id="rgn_aud_0016_0005"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=20.038s" clip-end="npt=22.309s" id="rgn_aud_0016_0006"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=22.309s" clip-end="npt=24.896s" id="rgn_aud_0016_0007"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=24.896s" clip-end="npt=28.488s" id="rgn_aud_0016_0008"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=28.488s" clip-end="npt=31.009s" id="rgn_aud_0016_0009"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=31.009s" clip-end="npt=33.411s" id="rgn_aud_0016_0010"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=33.411s" clip-end="npt=38.219s" id="rgn_aud_0016_0011"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=38.219s" clip-end="npt=43.664s" id="rgn_aud_0016_0012"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=43.664s" clip-end="npt=44.930s" id="rgn_aud_0016_0013"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=44.930s" clip-end="npt=50.090s" id="rgn_aud_0016_0014"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=50.090s" clip-end="npt=51.923s" id="rgn_aud_0016_0015"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=51.923s" clip-end="npt=52.707s" id="rgn_aud_0016_0016"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=52.707s" clip-end="npt=53.493s" id="rgn_aud_0016_0017"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=53.493s" clip-end="npt=54.277s" id="rgn_aud_0016_0018"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=54.277s" clip-end="npt=55.063s" id="rgn_aud_0016_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="dhbm_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0059" id="dhbm_0002"/>
+				<seq>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=55.063s" clip-end="npt=55.213s" id="rgn_aud_0016_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0016_0002">
+				<text src="ncc.html#mcor_000f" id="dhbm_0003"/>
+				<seq>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=55.213s" clip-end="npt=55.847s" id="rgn_aud_0016_0021"/>
+					<audio src="16_Bes_k_p__bars.mp3" clip-begin="npt=55.847s" clip-end="npt=56.633s" id="rgn_aud_0016_0022"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Hjem til det surrealistiske manifest"/>
+		<meta name="ncc:totalElapsedTime" content="00:50:10"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:58"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="58.426s">
+			<par endsync="last" id="rgn_par_0060_0001">
+				<text src="ncc.html#mcor_003b" id="mcor_003b"/>
+				<seq>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=0.000s" clip-end="npt=4.977s" id="rgn_aud_0060_0001"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=4.977s" clip-end="npt=9.548s" id="rgn_aud_0060_0002"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=9.548s" clip-end="npt=12.539s" id="rgn_aud_0060_0003"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=12.539s" clip-end="npt=16.497s" id="rgn_aud_0060_0004"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=16.497s" clip-end="npt=17.881s" id="rgn_aud_0060_0005"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=17.881s" clip-end="npt=20.466s" id="rgn_aud_0060_0006"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=20.466s" clip-end="npt=29.047s" id="rgn_aud_0060_0007"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=29.047s" clip-end="npt=31.021s" id="rgn_aud_0060_0008"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=31.021s" clip-end="npt=33.057s" id="rgn_aud_0060_0009"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=33.057s" clip-end="npt=36.363s" id="rgn_aud_0060_0010"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=36.363s" clip-end="npt=38.399s" id="rgn_aud_0060_0011"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=38.399s" clip-end="npt=42.905s" id="rgn_aud_0060_0012"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=42.905s" clip-end="npt=45.295s" id="rgn_aud_0060_0013"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=45.295s" clip-end="npt=47.347s" id="rgn_aud_0060_0014"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=47.347s" clip-end="npt=50.939s" id="rgn_aud_0060_0015"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=50.939s" clip-end="npt=52.558s" id="rgn_aud_0060_0016"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=52.558s" clip-end="npt=53.741s" id="rgn_aud_0060_0017"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=53.741s" clip-end="npt=54.526s" id="rgn_aud_0060_0018"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=54.526s" clip-end="npt=55.310s" id="rgn_aud_0060_0019"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=55.310s" clip-end="npt=56.094s" id="rgn_aud_0060_0020"/>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=56.094s" clip-end="npt=57.164s" id="rgn_aud_0060_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sube_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0086" id="sube_0002"/>
+				<seq>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=57.164s" clip-end="npt=57.363s" id="rgn_aud_0060_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0060_0002">
+				<text src="ncc.html#mcor_003b" id="sube_0003"/>
+				<seq>
+					<audio src="60_Hjem_til_det_.mp3" clip-begin="npt=57.363s" clip-end="npt=58.426s" id="rgn_aud_0060_0023"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

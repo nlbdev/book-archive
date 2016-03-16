@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Heliumballonger"/>
+		<meta name="ncc:totalElapsedTime" content="00:10:33"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:32"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="32.302s">
+			<par endsync="last" id="rgn_par_0014_0001">
+				<text src="ncc.html#mcor_000d" id="mcor_000d"/>
+				<seq>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=0.000s" clip-end="npt=3.121s" id="rgn_aud_0014_0001"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=3.121s" clip-end="npt=9.182s" id="rgn_aud_0014_0002"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=9.182s" clip-end="npt=10.618s" id="rgn_aud_0014_0003"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=10.618s" clip-end="npt=15.294s" id="rgn_aud_0014_0004"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=15.294s" clip-end="npt=16.914s" id="rgn_aud_0014_0005"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=16.914s" clip-end="npt=18.233s" id="rgn_aud_0014_0006"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=18.233s" clip-end="npt=19.434s" id="rgn_aud_0014_0007"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=19.434s" clip-end="npt=21.536s" id="rgn_aud_0014_0008"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=21.536s" clip-end="npt=25.012s" id="rgn_aud_0014_0009"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=25.012s" clip-end="npt=26.808s" id="rgn_aud_0014_0010"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=26.808s" clip-end="npt=27.593s" id="rgn_aud_0014_0011"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=27.593s" clip-end="npt=28.378s" id="rgn_aud_0014_0012"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=28.378s" clip-end="npt=29.163s" id="rgn_aud_0014_0013"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=29.163s" clip-end="npt=29.948s" id="rgn_aud_0014_0014"/>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=29.948s" clip-end="npt=31.001s" id="rgn_aud_0014_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ntsd_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0057" id="ntsd_0002"/>
+				<seq>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=31.001s" clip-end="npt=31.276s" id="rgn_aud_0014_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0014_0002">
+				<text src="ncc.html#mcor_000d" id="ntsd_0003"/>
+				<seq>
+					<audio src="14_Heliumballong.mp3" clip-begin="npt=31.276s" clip-end="npt=32.302s" id="rgn_aud_0014_0017"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:08.456"/>
+		<meta name="ncc:totalElapsedTime" content="20:07:00.527"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Shades av Christian"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="8.456s">
+			<par endsync="last" id="dfrn_0022">
+				<text src="ncc.html#dfrn_0021" id="dfrn_0021"/>
+				<seq>
+					<audio src="36_Shades_av_Chr.mp3" clip-begin="npt=0.000s" clip-end="npt=4.155s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jbeq_0001" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0279" id="jbeq_0003"/>
+				<seq>
+					<audio src="36_Shades_av_Chr.mp3" clip-begin="npt=4.155s" clip-end="npt=4.875s" id="audio_0002"/>
+					<audio src="36_Shades_av_Chr.mp3" clip-begin="npt=4.875s" clip-end="npt=5.535s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jbeq_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_027a" id="jbeq_0005"/>
+				<seq>
+					<audio src="36_Shades_av_Chr.mp3" clip-begin="npt=5.535s" clip-end="npt=6.135s" id="audio_0004"/>
+					<audio src="36_Shades_av_Chr.mp3" clip-begin="npt=6.135s" clip-end="npt=8.456s" id="audio_0005"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

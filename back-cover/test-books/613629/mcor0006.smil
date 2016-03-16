@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Sitat"/>
+		<meta name="ncc:totalElapsedTime" content="00:03:26"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:46"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="46.399s">
+			<par endsync="last" id="rgn_par_0006_0001">
+				<text src="ncc.html#mcor_0005" id="mcor_0005"/>
+				<seq>
+					<audio src="06_Sitat.mp3" clip-begin="npt=0.000s" clip-end="npt=2.605s" id="rgn_aud_0006_0001"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=2.605s" clip-end="npt=6.328s" id="rgn_aud_0006_0002"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=6.328s" clip-end="npt=8.064s" id="rgn_aud_0006_0003"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=8.064s" clip-end="npt=8.731s" id="rgn_aud_0006_0004"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=8.731s" clip-end="npt=12.505s" id="rgn_aud_0006_0005"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=12.505s" clip-end="npt=15.327s" id="rgn_aud_0006_0006"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=15.327s" clip-end="npt=18.149s" id="rgn_aud_0006_0007"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=18.149s" clip-end="npt=18.564s" id="rgn_aud_0006_0008"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=18.564s" clip-end="npt=22.338s" id="rgn_aud_0006_0009"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=22.338s" clip-end="npt=23.905s" id="rgn_aud_0006_0010"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=23.905s" clip-end="npt=26.216s" id="rgn_aud_0006_0011"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=26.216s" clip-end="npt=27.117s" id="rgn_aud_0006_0012"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=27.117s" clip-end="npt=28.803s" id="rgn_aud_0006_0013"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=28.803s" clip-end="npt=30.722s" id="rgn_aud_0006_0014"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=30.722s" clip-end="npt=35.097s" id="rgn_aud_0006_0015"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=35.097s" clip-end="npt=36.783s" id="rgn_aud_0006_0016"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=36.783s" clip-end="npt=40.804s" id="rgn_aud_0006_0017"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=40.804s" clip-end="npt=41.972s" id="rgn_aud_0006_0018"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=41.972s" clip-end="npt=42.759s" id="rgn_aud_0006_0019"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=42.759s" clip-end="npt=43.542s" id="rgn_aud_0006_0020"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=43.542s" clip-end="npt=44.329s" id="rgn_aud_0006_0021"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=44.329s" clip-end="npt=45.113s" id="rgn_aud_0006_0022"/>
+					<audio src="06_Sitat.mp3" clip-begin="npt=45.113s" clip-end="npt=45.554s" id="rgn_aud_0006_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vxeh_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_004e" id="vxeh_0003"/>
+				<seq>
+					<audio src="06_Sitat.mp3" clip-begin="npt=45.554s" clip-end="npt=45.676s" id="rgn_aud_0006_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0006_0002">
+				<text src="ncc.html#mcor_0005" id="vxeh_0004"/>
+				<seq>
+					<audio src="06_Sitat.mp3" clip-begin="npt=45.676s" clip-end="npt=45.920s" id="rgn_aud_0006_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vxeh_0002" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_004f" id="vxeh_0005"/>
+				<seq>
+					<audio src="06_Sitat.mp3" clip-begin="npt=45.920s" clip-end="npt=45.981s" id="rgn_aud_0006_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0006_0003">
+				<text src="ncc.html#mcor_0005" id="vxeh_0006"/>
+				<seq>
+					<audio src="06_Sitat.mp3" clip-begin="npt=45.981s" clip-end="npt=46.399s" id="rgn_aud_0006_0027"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

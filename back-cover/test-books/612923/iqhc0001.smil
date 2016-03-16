@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="612923"/>
+		<meta name="dc:title" content="HAMLON"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="HAMLON"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:00"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:11"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="10.671s">
+			<par endsync="last" id="rgn_par_0001_0001">
+				<text src="ncc.html#iqhc0001" id="iqhc0001"/>
+				<seq>
+					<audio src="01_HAMLON.mp3" clip-begin="npt=0.000s" clip-end="npt=2.769s" id="rgn_aud_0001_0001"/>
+					<audio src="01_HAMLON.mp3" clip-begin="npt=2.769s" clip-end="npt=6.060s" id="rgn_aud_0001_0002"/>
+					<audio src="01_HAMLON.mp3" clip-begin="npt=6.060s" clip-end="npt=10.671s" id="rgn_aud_0001_0003"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

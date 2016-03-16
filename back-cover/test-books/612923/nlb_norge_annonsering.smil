@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="612923"/>
+		<meta name="dc:title" content="HAMLON"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Lydbokavtalen"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:11"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:52"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="51.931s">
+			<par endsync="last" id="rgn_par_0002_0001">
+				<text src="ncc.html#nlb_norge_annonsering" id="nlb_norge_annonsering"/>
+				<seq>
+					<audio src="nlb_norge_annonsering.mp3" clip-begin="npt=0.000s" clip-end="npt=51.931s" id="rgn_aud_0002_0001"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

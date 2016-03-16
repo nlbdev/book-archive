@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:58.044"/>
+		<meta name="ncc:totalElapsedTime" content="00:41:34.789"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 11: T for Tyson"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="178.044s">
+			<par endsync="last" id="upjx_0010">
+				<text src="ncc.html#upjx_000f" id="upjx_000f"/>
+				<seq>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=0.000s" clip-end="npt=2.521s" id="audio_0001"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=2.521s" clip-end="npt=4.558s" id="audio_0002"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=4.558s" clip-end="npt=9.600s" id="audio_0003"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=9.600s" clip-end="npt=13.322s" id="audio_0004"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=13.322s" clip-end="npt=15.961s" id="audio_0005"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=15.961s" clip-end="npt=20.167s" id="audio_0006"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=20.167s" clip-end="npt=24.124s" id="audio_0007"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=24.124s" clip-end="npt=27.664s" id="audio_0008"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=27.664s" clip-end="npt=29.649s" id="audio_0009"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=29.649s" clip-end="npt=30.950s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="olue_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0055" id="olue_0005"/>
+				<seq>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=30.950s" clip-end="npt=31.150s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="olue_000d">
+				<text src="ncc.html#upjx_000f" id="olue_0006"/>
+				<seq>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=31.150s" clip-end="npt=31.633s" id="audio_0012"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=31.633s" clip-end="npt=37.694s" id="audio_0013"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=37.694s" clip-end="npt=42.788s" id="audio_0014"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=42.788s" clip-end="npt=47.359s" id="audio_0015"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=47.359s" clip-end="npt=52.087s" id="audio_0016"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=52.087s" clip-end="npt=56.058s" id="audio_0017"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=56.058s" clip-end="npt=60.499s" id="audio_0018"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=60.499s" clip-end="npt=64.874s" id="audio_0019"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=64.874s" clip-end="npt=69.197s" id="audio_0020"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=69.197s" clip-end="npt=72.920s" id="audio_0021"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=72.920s" clip-end="npt=78.497s" id="audio_0022"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=78.497s" clip-end="npt=81.788s" id="audio_0023"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=81.788s" clip-end="npt=84.727s" id="audio_0024"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=84.727s" clip-end="npt=87.914s" id="audio_0025"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=87.914s" clip-end="npt=90.670s" id="audio_0026"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=90.670s" clip-end="npt=95.712s" id="audio_0027"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=95.712s" clip-end="npt=97.749s" id="audio_0028"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=97.749s" clip-end="npt=100.753s" id="audio_0029"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=100.753s" clip-end="npt=104.014s" id="audio_0030"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=104.014s" clip-end="npt=106.224s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="olue_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0056" id="olue_0007"/>
+				<seq>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=106.224s" clip-end="npt=106.398s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="olue_000e">
+				<text src="ncc.html#upjx_000f" id="olue_0008"/>
+				<seq>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=106.398s" clip-end="npt=107.182s" id="audio_0033"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=107.182s" clip-end="npt=111.740s" id="audio_0034"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=111.740s" clip-end="npt=114.078s" id="audio_0035"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=114.078s" clip-end="npt=121.105s" id="audio_0036"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=121.105s" clip-end="npt=123.378s" id="audio_0037"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=123.378s" clip-end="npt=125.716s" id="audio_0038"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=125.716s" clip-end="npt=127.518s" id="audio_0039"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=127.518s" clip-end="npt=130.369s" id="audio_0040"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=130.369s" clip-end="npt=133.491s" id="audio_0041"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=133.491s" clip-end="npt=139.316s" id="audio_0042"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=139.316s" clip-end="npt=142.908s" id="audio_0043"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=142.908s" clip-end="npt=146.996s" id="audio_0044"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=146.996s" clip-end="npt=149.067s" id="audio_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="olue_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0057" id="olue_0009"/>
+				<seq>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=149.067s" clip-end="npt=149.200s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="olue_000f">
+				<text src="ncc.html#upjx_000f" id="olue_000a"/>
+				<seq>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=149.200s" clip-end="npt=149.749s" id="audio_0047"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=149.749s" clip-end="npt=153.641s" id="audio_0048"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=153.641s" clip-end="npt=158.748s" id="audio_0049"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=158.748s" clip-end="npt=162.405s" id="audio_0050"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=162.405s" clip-end="npt=164.978s" id="audio_0051"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=164.978s" clip-end="npt=167.499s" id="audio_0052"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=167.499s" clip-end="npt=171.879s" id="audio_0053"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=171.879s" clip-end="npt=172.297s" id="audio_0054"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=172.297s" clip-end="npt=175.980s" id="audio_0055"/>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=175.980s" clip-end="npt=177.356s" id="audio_0056"/>
+				</seq>
+			</par>
+			<par endsync="last" id="olue_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0058" id="olue_000b"/>
+				<seq>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=177.356s" clip-end="npt=177.449s" id="audio_0057"/>
+				</seq>
+			</par>
+			<par endsync="last" id="olue_0010">
+				<text src="ncc.html#upjx_000f" id="olue_000c"/>
+				<seq>
+					<audio src="16_Kapittel_11__T_for_Tyson.mp3" clip-begin="npt=177.449s" clip-end="npt=178.044s" id="audio_0058"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

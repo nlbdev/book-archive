@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:37:52.950"/>
+		<meta name="ncc:totalElapsedTime" content="14:17:03.177"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel nitten"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2272.950s">
+			<par endsync="last" id="dfrn_0019">
+				<text src="ncc.html#dfrn_0018" id="dfrn_0018"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=0.000s" clip-end="npt=30.882s" id="audio_0001"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=30.882s" clip-end="npt=56.851s" id="audio_0002"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=56.851s" clip-end="npt=66.394s" id="audio_0003"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=66.394s" clip-end="npt=72.669s" id="audio_0004"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=72.669s" clip-end="npt=81.360s" id="audio_0005"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=81.360s" clip-end="npt=92.681s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0001" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01d3" id="jabi_0014"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=92.681s" clip-end="npt=92.750s" id="audio_0007"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=92.750s" clip-end="npt=124.428s" id="audio_0008"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=124.428s" clip-end="npt=180.107s" id="audio_0009"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=180.107s" clip-end="npt=193.009s" id="audio_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01d4" id="jabi_0016"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=193.009s" clip-end="npt=193.078s" id="audio_0011"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=193.078s" clip-end="npt=233.193s" id="audio_0012"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=233.193s" clip-end="npt=267.848s" id="audio_0013"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=267.848s" clip-end="npt=310.294s" id="audio_0014"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=310.294s" clip-end="npt=315.296s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01d5" id="jabi_0018"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=315.296s" clip-end="npt=315.353s" id="audio_0016"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=315.353s" clip-end="npt=360.219s" id="audio_0017"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=360.219s" clip-end="npt=418.639s" id="audio_0018"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=418.639s" clip-end="npt=443.573s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01d6" id="jabi_001a"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=443.573s" clip-end="npt=443.676s" id="audio_0020"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=443.676s" clip-end="npt=486.333s" id="audio_0021"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=486.333s" clip-end="npt=497.767s" id="audio_0022"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=497.767s" clip-end="npt=510.922s" id="audio_0023"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=510.922s" clip-end="npt=540.340s" id="audio_0024"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=540.340s" clip-end="npt=546.181s" id="audio_0025"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=546.181s" clip-end="npt=571.989s" id="audio_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01d7" id="jabi_001c"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=571.989s" clip-end="npt=572.076s" id="audio_0027"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=572.076s" clip-end="npt=579.829s" id="audio_0028"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=579.829s" clip-end="npt=583.954s" id="audio_0029"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=583.954s" clip-end="npt=613.393s" id="audio_0030"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=613.393s" clip-end="npt=624.699s" id="audio_0031"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=624.699s" clip-end="npt=631.221s" id="audio_0032"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=631.221s" clip-end="npt=662.186s" id="audio_0033"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=662.186s" clip-end="npt=668.165s" id="audio_0034"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=668.165s" clip-end="npt=680.830s" id="audio_0035"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=680.830s" clip-end="npt=701.661s" id="audio_0036"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01d8" id="jabi_001e"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=701.661s" clip-end="npt=701.816s" id="audio_0037"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=701.816s" clip-end="npt=720.786s" id="audio_0038"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=720.786s" clip-end="npt=734.998s" id="audio_0039"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=734.998s" clip-end="npt=740.032s" id="audio_0040"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=740.032s" clip-end="npt=750.179s" id="audio_0041"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=750.179s" clip-end="npt=758.067s" id="audio_0042"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=758.067s" clip-end="npt=838.213s" id="audio_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01d9" id="jabi_0020"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=838.213s" clip-end="npt=838.368s" id="audio_0044"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=838.368s" clip-end="npt=867.377s" id="audio_0045"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=867.377s" clip-end="npt=876.182s" id="audio_0046"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=876.182s" clip-end="npt=961.972s" id="audio_0047"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=961.972s" clip-end="npt=981.407s" id="audio_0048"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01da" id="jabi_0022"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=981.407s" clip-end="npt=981.528s" id="audio_0049"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=981.528s" clip-end="npt=994.773s" id="audio_0050"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=994.773s" clip-end="npt=1011.218s" id="audio_0051"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1011.218s" clip-end="npt=1043.749s" id="audio_0052"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1043.749s" clip-end="npt=1090.113s" id="audio_0053"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1090.113s" clip-end="npt=1105.672s" id="audio_0054"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01db" id="jabi_0024"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1105.672s" clip-end="npt=1105.811s" id="audio_0055"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1105.811s" clip-end="npt=1138.186s" id="audio_0056"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1138.186s" clip-end="npt=1149.375s" id="audio_0057"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1149.375s" clip-end="npt=1161.118s" id="audio_0058"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1161.118s" clip-end="npt=1200.922s" id="audio_0059"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1200.922s" clip-end="npt=1215.165s" id="audio_0060"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1215.165s" clip-end="npt=1248.064s" id="audio_0061"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01dc" id="jabi_0026"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1248.064s" clip-end="npt=1248.115s" id="audio_0062"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1248.115s" clip-end="npt=1269.176s" id="audio_0063"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1269.176s" clip-end="npt=1285.068s" id="audio_0064"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1285.068s" clip-end="npt=1333.841s" id="audio_0065"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1333.841s" clip-end="npt=1341.726s" id="audio_0066"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1341.726s" clip-end="npt=1349.739s" id="audio_0067"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01dd" id="jabi_0028"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1349.739s" clip-end="npt=1349.912s" id="audio_0068"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1349.912s" clip-end="npt=1354.358s" id="audio_0069"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1354.358s" clip-end="npt=1365.710s" id="audio_0070"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1365.710s" clip-end="npt=1378.429s" id="audio_0071"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1378.429s" clip-end="npt=1386.831s" id="audio_0072"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1386.831s" clip-end="npt=1396.223s" id="audio_0073"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1396.223s" clip-end="npt=1425.004s" id="audio_0074"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1425.004s" clip-end="npt=1436.486s" id="audio_0075"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1436.486s" clip-end="npt=1443.686s" id="audio_0076"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1443.686s" clip-end="npt=1454.129s" id="audio_0077"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01de" id="jabi_002a"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1454.129s" clip-end="npt=1454.319s" id="audio_0078"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1454.319s" clip-end="npt=1478.442s" id="audio_0079"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1478.442s" clip-end="npt=1483.977s" id="audio_0080"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1483.977s" clip-end="npt=1506.585s" id="audio_0081"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1506.585s" clip-end="npt=1512.006s" id="audio_0082"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1512.006s" clip-end="npt=1516.240s" id="audio_0083"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1516.240s" clip-end="npt=1520.878s" id="audio_0084"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1520.878s" clip-end="npt=1548.700s" id="audio_0085"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1548.700s" clip-end="npt=1573.720s" id="audio_0086"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01df" id="jabi_002c"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1573.720s" clip-end="npt=1573.876s" id="audio_0087"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1573.876s" clip-end="npt=1580.700s" id="audio_0088"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1580.700s" clip-end="npt=1621.601s" id="audio_0089"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1621.601s" clip-end="npt=1633.252s" id="audio_0090"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1633.252s" clip-end="npt=1642.861s" id="audio_0091"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1642.861s" clip-end="npt=1699.630s" id="audio_0092"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1699.630s" clip-end="npt=1706.580s" id="audio_0093"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1706.580s" clip-end="npt=1713.776s" id="audio_0094"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01e0" id="jabi_002e"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1713.776s" clip-end="npt=1713.880s" id="audio_0095"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1713.880s" clip-end="npt=1718.160s" id="audio_0096"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1718.160s" clip-end="npt=1765.798s" id="audio_0097"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1765.798s" clip-end="npt=1779.659s" id="audio_0098"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1779.659s" clip-end="npt=1817.380s" id="audio_0099"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1817.380s" clip-end="npt=1829.111s" id="audio_0100"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01e1" id="jabi_0030"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1829.111s" clip-end="npt=1829.180s" id="audio_0101"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1829.180s" clip-end="npt=1849.149s" id="audio_0102"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1849.149s" clip-end="npt=1870.939s" id="audio_0103"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1870.939s" clip-end="npt=1880.747s" id="audio_0104"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1880.747s" clip-end="npt=1889.050s" id="audio_0105"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1889.050s" clip-end="npt=1930.146s" id="audio_0106"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1930.146s" clip-end="npt=1942.602s" id="audio_0107"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01e2" id="jabi_0032"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1942.602s" clip-end="npt=1942.706s" id="audio_0108"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1942.706s" clip-end="npt=1987.427s" id="audio_0109"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=1987.427s" clip-end="npt=2004.616s" id="audio_0110"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2004.616s" clip-end="npt=2037.642s" id="audio_0111"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2037.642s" clip-end="npt=2046.811s" id="audio_0112"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01e3" id="jabi_0034"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2046.811s" clip-end="npt=2046.966s" id="audio_0113"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2046.966s" clip-end="npt=2090.830s" id="audio_0114"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2090.830s" clip-end="npt=2106.246s" id="audio_0115"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2106.246s" clip-end="npt=2123.374s" id="audio_0116"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2123.374s" clip-end="npt=2130.207s" id="audio_0117"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2130.207s" clip-end="npt=2137.278s" id="audio_0118"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2137.278s" clip-end="npt=2151.773s" id="audio_0119"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2151.773s" clip-end="npt=2162.801s" id="audio_0120"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2162.801s" clip-end="npt=2168.302s" id="audio_0121"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01e4" id="jabi_0036"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2168.302s" clip-end="npt=2168.406s" id="audio_0122"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2168.406s" clip-end="npt=2183.583s" id="audio_0123"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2183.583s" clip-end="npt=2203.720s" id="audio_0124"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2203.720s" clip-end="npt=2241.179s" id="audio_0125"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2241.179s" clip-end="npt=2254.008s" id="audio_0126"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2254.008s" clip-end="npt=2261.497s" id="audio_0127"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2261.497s" clip-end="npt=2270.691s" id="audio_0128"/>
+				</seq>
+			</par>
+			<par endsync="last" id="jabi_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01e5" id="jabi_0038"/>
+				<seq>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2270.691s" clip-end="npt=2270.830s" id="audio_0129"/>
+					<audio src="27_Kapittel_nitt.mp3" clip-begin="npt=2270.830s" clip-end="npt=2272.950s" id="audio_0130"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:04:36.950"/>
+		<meta name="ncc:totalElapsedTime" content="00:03:55.721"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Prolog"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="276.950s">
+			<par endsync="last" id="ibnm_0001">
+				<text src="ncc.html#dfrn_0005" id="dfrn_0005"/>
+				<seq>
+					<audio src="08_Prolog.mp3" clip-begin="npt=0.000s" clip-end="npt=65.527s" id="audio_0001"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=65.527s" clip-end="npt=92.652s" id="audio_0002"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=92.652s" clip-end="npt=103.722s" id="audio_0003"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=103.722s" clip-end="npt=119.808s" id="audio_0004"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=119.808s" clip-end="npt=133.801s" id="audio_0005"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=133.801s" clip-end="npt=147.772s" id="audio_0006"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=147.772s" clip-end="npt=159.081s" id="audio_0007"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=159.081s" clip-end="npt=165.367s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ibnm_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_002d" id="ibnm_0004"/>
+				<seq>
+					<audio src="08_Prolog.mp3" clip-begin="npt=165.367s" clip-end="npt=165.508s" id="audio_0009"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=165.508s" clip-end="npt=188.975s" id="audio_0010"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=188.975s" clip-end="npt=205.000s" id="audio_0011"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=205.000s" clip-end="npt=247.954s" id="audio_0012"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=247.954s" clip-end="npt=253.597s" id="audio_0013"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=253.597s" clip-end="npt=275.329s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ibnm_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_002e" id="ibnm_0006"/>
+				<seq>
+					<audio src="08_Prolog.mp3" clip-begin="npt=275.329s" clip-end="npt=275.471s" id="audio_0015"/>
+					<audio src="08_Prolog.mp3" clip-begin="npt=275.471s" clip-end="npt=276.950s" id="audio_0016"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

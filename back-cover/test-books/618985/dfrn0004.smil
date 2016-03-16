@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:22.551"/>
+		<meta name="ncc:totalElapsedTime" content="00:03:13.012"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Navigering i DAISY-boka"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="22.551s">
+			<par endsync="last" id="ikud_0001">
+				<text src="ncc.html#dfrn_0003" id="dfrn_0003"/>
+				<seq>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=0.000s" clip-end="npt=21.304s" id="audio_0001"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikud_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0026" id="ikud_0007"/>
+				<seq>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=21.304s" clip-end="npt=21.534s" id="audio_0002"/>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=21.534s" clip-end="npt=21.694s" id="audio_0003"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikud_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0027" id="ikud_0009"/>
+				<seq>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=21.694s" clip-end="npt=21.835s" id="audio_0004"/>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=21.835s" clip-end="npt=21.959s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikud_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0028" id="ikud_000b"/>
+				<seq>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=21.959s" clip-end="npt=22.101s" id="audio_0006"/>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=22.101s" clip-end="npt=22.207s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikud_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0029" id="ikud_000d"/>
+				<seq>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=22.207s" clip-end="npt=22.278s" id="audio_0008"/>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=22.278s" clip-end="npt=22.367s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikud_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_002a" id="ikud_000f"/>
+				<seq>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=22.367s" clip-end="npt=22.437s" id="audio_0010"/>
+					<audio src="06_Navigering_i_.mp3" clip-begin="npt=22.437s" clip-end="npt=22.551s" id="audio_0011"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

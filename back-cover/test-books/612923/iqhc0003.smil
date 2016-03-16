@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="612923"/>
+		<meta name="dc:title" content="HAMLON"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Bokomtale og forfatteromtale"/>
+		<meta name="ncc:totalElapsedTime" content="00:01:43"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:31"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="91.21s">
+			<par endsync="last" id="rgn_par_0004_0001">
+				<text src="ncc.html#iqhc_0002" id="iqhc_0002"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=0.000s" clip-end="npt=5.290s" id="rgn_aud_0004_0001"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=5.290s" clip-end="npt=11.585s" id="rgn_aud_0004_0002"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=11.585s" clip-end="npt=23.158s" id="rgn_aud_0004_0003"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=23.158s" clip-end="npt=27.246s" id="rgn_aud_0004_0004"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=27.246s" clip-end="npt=31.386s" id="rgn_aud_0004_0005"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=31.386s" clip-end="npt=40.385s" id="rgn_aud_0004_0006"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=40.385s" clip-end="npt=43.968s" id="rgn_aud_0004_0007"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=43.968s" clip-end="npt=45.235s" id="rgn_aud_0004_0008"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=45.235s" clip-end="npt=54.117s" id="rgn_aud_0004_0009"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=54.117s" clip-end="npt=64.370s" id="rgn_aud_0004_0010"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=64.370s" clip-end="npt=67.590s" id="rgn_aud_0004_0011"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=67.590s" clip-end="npt=79.293s" id="rgn_aud_0004_0012"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=79.293s" clip-end="npt=81.095s" id="rgn_aud_0004_0013"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=81.095s" clip-end="npt=84.279s" id="rgn_aud_0004_0014"/>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=84.279s" clip-end="npt=84.818s" id="rgn_aud_0004_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="puet_0001" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_000b" id="puet_0006"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=84.818s" clip-end="npt=85.358s" id="rgn_aud_0004_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0004_0002">
+				<text src="ncc.html#iqhc_0002" id="puet_0007"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=85.358s" clip-end="npt=85.958s" id="rgn_aud_0004_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="puet_0002" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_000c" id="puet_0008"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=85.958s" clip-end="npt=86.349s" id="rgn_aud_0004_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0004_0003">
+				<text src="ncc.html#iqhc_0002" id="puet_0009"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=86.349s" clip-end="npt=86.949s" id="rgn_aud_0004_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="puet_0003" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_000d" id="puet_000a"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=86.949s" clip-end="npt=87.609s" id="rgn_aud_0004_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0004_0004">
+				<text src="ncc.html#iqhc_0002" id="puet_000b"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=87.609s" clip-end="npt=88.209s" id="rgn_aud_0004_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="puet_0004" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_000e" id="puet_000c"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=88.209s" clip-end="npt=88.704s" id="rgn_aud_0004_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0004_0005">
+				<text src="ncc.html#iqhc_0002" id="puet_000d"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=88.704s" clip-end="npt=89.416s" id="rgn_aud_0004_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="puet_0005" system-required="pagenumber-on">
+				<text src="ncc.html#iqhc_000f" id="puet_000e"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=89.416s" clip-end="npt=90.076s" id="rgn_aud_0004_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0004_0006">
+				<text src="ncc.html#iqhc_0002" id="puet_000f"/>
+				<seq>
+					<audio src="03_Bokomtale_og_.mp3" clip-begin="npt=90.076s" clip-end="npt=91.210s" id="rgn_aud_0004_0025"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

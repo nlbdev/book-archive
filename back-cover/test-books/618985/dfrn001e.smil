@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:48:29.537"/>
+		<meta name="ncc:totalElapsedTime" content="17:34:26.606"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel tjuefire"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2909.537s">
+			<par endsync="last" id="qsrp_0001">
+				<text src="ncc.html#dfrn_001d" id="dfrn_001d"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=0.000s" clip-end="npt=16.219s" id="audio_0001"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=16.219s" clip-end="npt=31.787s" id="audio_0002"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=31.787s" clip-end="npt=41.481s" id="audio_0003"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=41.481s" clip-end="npt=49.022s" id="audio_0004"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=49.022s" clip-end="npt=65.122s" id="audio_0005"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=65.122s" clip-end="npt=96.999s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0232" id="qsrp_0019"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=96.999s" clip-end="npt=97.068s" id="audio_0007"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=97.068s" clip-end="npt=102.962s" id="audio_0008"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=102.962s" clip-end="npt=123.176s" id="audio_0009"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=123.176s" clip-end="npt=137.942s" id="audio_0010"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=137.942s" clip-end="npt=146.332s" id="audio_0011"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=146.332s" clip-end="npt=164.895s" id="audio_0012"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=164.895s" clip-end="npt=178.340s" id="audio_0013"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=178.340s" clip-end="npt=200.854s" id="audio_0014"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=200.854s" clip-end="npt=210.678s" id="audio_0015"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=210.678s" clip-end="npt=217.612s" id="audio_0016"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=217.612s" clip-end="npt=222.658s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0233" id="qsrp_001b"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=222.658s" clip-end="npt=222.762s" id="audio_0018"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=222.762s" clip-end="npt=260.822s" id="audio_0019"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=260.822s" clip-end="npt=283.797s" id="audio_0020"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=283.797s" clip-end="npt=287.832s" id="audio_0021"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=287.832s" clip-end="npt=296.400s" id="audio_0022"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=296.400s" clip-end="npt=304.220s" id="audio_0023"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=304.220s" clip-end="npt=331.740s" id="audio_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0234" id="qsrp_001d"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=331.740s" clip-end="npt=331.878s" id="audio_0025"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=331.878s" clip-end="npt=343.919s" id="audio_0026"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=343.919s" clip-end="npt=355.540s" id="audio_0027"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=355.540s" clip-end="npt=362.149s" id="audio_0028"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=362.149s" clip-end="npt=370.344s" id="audio_0029"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=370.344s" clip-end="npt=407.429s" id="audio_0030"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=407.429s" clip-end="npt=416.606s" id="audio_0031"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=416.606s" clip-end="npt=433.686s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0235" id="qsrp_001f"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=433.686s" clip-end="npt=433.842s" id="audio_0033"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=433.842s" clip-end="npt=485.168s" id="audio_0034"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=485.168s" clip-end="npt=495.217s" id="audio_0035"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=495.217s" clip-end="npt=501.555s" id="audio_0036"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=501.555s" clip-end="npt=514.779s" id="audio_0037"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=514.779s" clip-end="npt=546.188s" id="audio_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0236" id="qsrp_0021"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=546.188s" clip-end="npt=546.274s" id="audio_0039"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=546.274s" clip-end="npt=556.936s" id="audio_0040"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=556.936s" clip-end="npt=569.742s" id="audio_0041"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=569.742s" clip-end="npt=593.284s" id="audio_0042"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=593.284s" clip-end="npt=598.921s" id="audio_0043"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=598.921s" clip-end="npt=613.607s" id="audio_0044"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=613.607s" clip-end="npt=666.953s" id="audio_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0237" id="qsrp_0023"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=666.953s" clip-end="npt=667.057s" id="audio_0046"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=667.057s" clip-end="npt=675.298s" id="audio_0047"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=675.298s" clip-end="npt=784.825s" id="audio_0048"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=784.825s" clip-end="npt=796.066s" id="audio_0049"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0238" id="qsrp_0025"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=796.066s" clip-end="npt=796.239s" id="audio_0050"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=796.239s" clip-end="npt=813.285s" id="audio_0051"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=813.285s" clip-end="npt=844.917s" id="audio_0052"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=844.917s" clip-end="npt=859.423s" id="audio_0053"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=859.423s" clip-end="npt=879.565s" id="audio_0054"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=879.565s" clip-end="npt=885.045s" id="audio_0055"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=885.045s" clip-end="npt=902.950s" id="audio_0056"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=902.950s" clip-end="npt=936.540s" id="audio_0057"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0239" id="qsrp_0027"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=936.540s" clip-end="npt=936.609s" id="audio_0058"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=936.609s" clip-end="npt=971.615s" id="audio_0059"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=971.615s" clip-end="npt=990.613s" id="audio_0060"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=990.613s" clip-end="npt=1032.255s" id="audio_0061"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1032.255s" clip-end="npt=1079.642s" id="audio_0062"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_023a" id="qsrp_0029"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1079.642s" clip-end="npt=1079.745s" id="audio_0063"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1079.745s" clip-end="npt=1086.026s" id="audio_0064"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1086.026s" clip-end="npt=1128.367s" id="audio_0065"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1128.367s" clip-end="npt=1155.696s" id="audio_0066"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1155.696s" clip-end="npt=1163.963s" id="audio_0067"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1163.963s" clip-end="npt=1176.771s" id="audio_0068"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1176.771s" clip-end="npt=1198.047s" id="audio_0069"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1198.047s" clip-end="npt=1207.720s" id="audio_0070"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_023b" id="qsrp_002b"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1207.720s" clip-end="npt=1207.807s" id="audio_0071"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1207.807s" clip-end="npt=1216.628s" id="audio_0072"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1216.628s" clip-end="npt=1228.482s" id="audio_0073"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1228.482s" clip-end="npt=1248.321s" id="audio_0074"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1248.321s" clip-end="npt=1303.785s" id="audio_0075"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1303.785s" clip-end="npt=1314.971s" id="audio_0076"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1314.971s" clip-end="npt=1338.071s" id="audio_0077"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1338.071s" clip-end="npt=1342.258s" id="audio_0078"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_023c" id="qsrp_002d"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1342.258s" clip-end="npt=1342.431s" id="audio_0079"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1342.431s" clip-end="npt=1347.905s" id="audio_0080"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1347.905s" clip-end="npt=1352.498s" id="audio_0081"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1352.498s" clip-end="npt=1362.651s" id="audio_0082"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1362.651s" clip-end="npt=1369.104s" id="audio_0083"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1369.104s" clip-end="npt=1418.713s" id="audio_0084"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1418.713s" clip-end="npt=1450.297s" id="audio_0085"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1450.297s" clip-end="npt=1457.724s" id="audio_0086"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_023d" id="qsrp_002f"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1457.724s" clip-end="npt=1457.793s" id="audio_0087"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1457.793s" clip-end="npt=1510.074s" id="audio_0088"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1510.074s" clip-end="npt=1514.266s" id="audio_0089"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1514.266s" clip-end="npt=1518.337s" id="audio_0090"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1518.337s" clip-end="npt=1536.046s" id="audio_0091"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1536.046s" clip-end="npt=1543.049s" id="audio_0092"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1543.049s" clip-end="npt=1561.848s" id="audio_0093"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1561.848s" clip-end="npt=1573.767s" id="audio_0094"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1573.767s" clip-end="npt=1583.043s" id="audio_0095"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1583.043s" clip-end="npt=1589.722s" id="audio_0096"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1589.722s" clip-end="npt=1593.925s" id="audio_0097"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_023e" id="qsrp_0031"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1593.925s" clip-end="npt=1594.012s" id="audio_0098"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1594.012s" clip-end="npt=1605.817s" id="audio_0099"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1605.817s" clip-end="npt=1621.740s" id="audio_0100"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1621.740s" clip-end="npt=1638.931s" id="audio_0101"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1638.931s" clip-end="npt=1645.744s" id="audio_0102"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1645.744s" clip-end="npt=1651.981s" id="audio_0103"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1651.981s" clip-end="npt=1656.579s" id="audio_0104"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1656.579s" clip-end="npt=1674.743s" id="audio_0105"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1674.743s" clip-end="npt=1682.797s" id="audio_0106"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1682.797s" clip-end="npt=1693.219s" id="audio_0107"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1693.219s" clip-end="npt=1699.183s" id="audio_0108"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1699.183s" clip-end="npt=1712.802s" id="audio_0109"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1712.802s" clip-end="npt=1721.329s" id="audio_0110"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_023f" id="qsrp_0033"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1721.329s" clip-end="npt=1721.519s" id="audio_0111"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1721.519s" clip-end="npt=1772.178s" id="audio_0112"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1772.178s" clip-end="npt=1796.258s" id="audio_0113"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1796.258s" clip-end="npt=1811.842s" id="audio_0114"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1811.842s" clip-end="npt=1858.582s" id="audio_0115"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1858.582s" clip-end="npt=1867.130s" id="audio_0116"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0240" id="qsrp_0035"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1867.130s" clip-end="npt=1867.269s" id="audio_0117"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1867.269s" clip-end="npt=1872.762s" id="audio_0118"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1872.762s" clip-end="npt=1889.340s" id="audio_0119"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1889.340s" clip-end="npt=1893.723s" id="audio_0120"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1893.723s" clip-end="npt=1903.881s" id="audio_0121"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1903.881s" clip-end="npt=1912.728s" id="audio_0122"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1912.728s" clip-end="npt=1925.435s" id="audio_0123"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1925.435s" clip-end="npt=1971.632s" id="audio_0124"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1971.632s" clip-end="npt=1991.560s" id="audio_0125"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=1991.560s" clip-end="npt=2000.101s" id="audio_0126"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0241" id="qsrp_0037"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2000.101s" clip-end="npt=2000.153s" id="audio_0127"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2000.153s" clip-end="npt=2018.368s" id="audio_0128"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2018.368s" clip-end="npt=2027.487s" id="audio_0129"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2027.487s" clip-end="npt=2057.838s" id="audio_0130"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2057.838s" clip-end="npt=2074.626s" id="audio_0131"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2074.626s" clip-end="npt=2081.090s" id="audio_0132"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2081.090s" clip-end="npt=2085.646s" id="audio_0133"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2085.646s" clip-end="npt=2092.969s" id="audio_0134"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2092.969s" clip-end="npt=2104.461s" id="audio_0135"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2104.461s" clip-end="npt=2136.229s" id="audio_0136"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2136.229s" clip-end="npt=2143.079s" id="audio_0137"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0242" id="qsrp_0039"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2143.079s" clip-end="npt=2143.183s" id="audio_0138"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2143.183s" clip-end="npt=2152.597s" id="audio_0139"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2152.597s" clip-end="npt=2158.010s" id="audio_0140"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2158.010s" clip-end="npt=2164.923s" id="audio_0141"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2164.923s" clip-end="npt=2170.730s" id="audio_0142"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2170.730s" clip-end="npt=2178.428s" id="audio_0143"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2178.428s" clip-end="npt=2183.246s" id="audio_0144"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2183.246s" clip-end="npt=2222.524s" id="audio_0145"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2222.524s" clip-end="npt=2264.857s" id="audio_0146"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0243" id="qsrp_003b"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2264.857s" clip-end="npt=2264.995s" id="audio_0147"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2264.995s" clip-end="npt=2277.713s" id="audio_0148"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2277.713s" clip-end="npt=2320.529s" id="audio_0149"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2320.529s" clip-end="npt=2343.561s" id="audio_0150"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2343.561s" clip-end="npt=2374.982s" id="audio_0151"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2374.982s" clip-end="npt=2385.786s" id="audio_0152"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0014" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0244" id="qsrp_003d"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2385.786s" clip-end="npt=2385.838s" id="audio_0153"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2385.838s" clip-end="npt=2399.320s" id="audio_0154"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2399.320s" clip-end="npt=2407.855s" id="audio_0155"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2407.855s" clip-end="npt=2448.278s" id="audio_0156"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2448.278s" clip-end="npt=2496.056s" id="audio_0157"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2496.056s" clip-end="npt=2516.929s" id="audio_0158"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0015" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0245" id="qsrp_003f"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2516.929s" clip-end="npt=2517.033s" id="audio_0159"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2517.033s" clip-end="npt=2559.210s" id="audio_0160"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2559.210s" clip-end="npt=2576.369s" id="audio_0161"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2576.369s" clip-end="npt=2591.794s" id="audio_0162"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2591.794s" clip-end="npt=2611.363s" id="audio_0163"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2611.363s" clip-end="npt=2625.865s" id="audio_0164"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2625.865s" clip-end="npt=2643.656s" id="audio_0165"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0016" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0246" id="qsrp_0041"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2643.656s" clip-end="npt=2643.846s" id="audio_0166"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2643.846s" clip-end="npt=2655.215s" id="audio_0167"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2655.215s" clip-end="npt=2672.796s" id="audio_0168"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2672.796s" clip-end="npt=2693.590s" id="audio_0169"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2693.590s" clip-end="npt=2767.127s" id="audio_0170"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2767.127s" clip-end="npt=2779.514s" id="audio_0171"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0017" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0247" id="qsrp_0043"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2779.514s" clip-end="npt=2779.635s" id="audio_0172"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2779.635s" clip-end="npt=2793.054s" id="audio_0173"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2793.054s" clip-end="npt=2812.425s" id="audio_0174"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2812.425s" clip-end="npt=2822.470s" id="audio_0175"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2822.470s" clip-end="npt=2895.283s" id="audio_0176"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2895.283s" clip-end="npt=2907.832s" id="audio_0177"/>
+				</seq>
+			</par>
+			<par endsync="last" id="qsrp_0018" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0248" id="qsrp_0045"/>
+				<seq>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2907.832s" clip-end="npt=2907.941s" id="audio_0178"/>
+					<audio src="32_Kapittel_tjue.mp3" clip-begin="npt=2907.941s" clip-end="npt=2909.537s" id="audio_0179"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

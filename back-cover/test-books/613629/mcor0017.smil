@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="I trafikken"/>
+		<meta name="ncc:totalElapsedTime" content="00:17:44"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:06"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="65.528s">
+			<par endsync="last" id="rgn_par_0023_0001">
+				<text src="ncc.html#mcor_0016" id="mcor_0016"/>
+				<seq>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=0.000s" clip-end="npt=4.258s" id="rgn_aud_0023_0001"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=4.258s" clip-end="npt=9.901s" id="rgn_aud_0023_0002"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=9.901s" clip-end="npt=13.975s" id="rgn_aud_0023_0003"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=13.975s" clip-end="npt=15.529s" id="rgn_aud_0023_0004"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=15.529s" clip-end="npt=17.155s" id="rgn_aud_0023_0005"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=17.155s" clip-end="npt=18.834s" id="rgn_aud_0023_0006"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=18.834s" clip-end="npt=19.390s" id="rgn_aud_0023_0007"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=19.390s" clip-end="npt=20.626s" id="rgn_aud_0023_0008"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=20.626s" clip-end="npt=21.300s" id="rgn_aud_0023_0009"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=21.300s" clip-end="npt=23.469s" id="rgn_aud_0023_0010"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=23.469s" clip-end="npt=26.108s" id="rgn_aud_0023_0011"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=26.108s" clip-end="npt=29.948s" id="rgn_aud_0023_0012"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=29.948s" clip-end="npt=32.283s" id="rgn_aud_0023_0013"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=32.283s" clip-end="npt=34.741s" id="rgn_aud_0023_0014"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=34.741s" clip-end="npt=36.609s" id="rgn_aud_0023_0015"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=36.609s" clip-end="npt=40.331s" id="rgn_aud_0023_0016"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=40.331s" clip-end="npt=42.142s" id="rgn_aud_0023_0017"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=42.142s" clip-end="npt=43.438s" id="rgn_aud_0023_0018"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=43.438s" clip-end="npt=45.959s" id="rgn_aud_0023_0019"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=45.959s" clip-end="npt=49.381s" id="rgn_aud_0023_0020"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=49.381s" clip-end="npt=49.762s" id="rgn_aud_0023_0021"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=49.762s" clip-end="npt=50.332s" id="rgn_aud_0023_0022"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=50.332s" clip-end="npt=52.069s" id="rgn_aud_0023_0023"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=52.069s" clip-end="npt=53.990s" id="rgn_aud_0023_0024"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=53.990s" clip-end="npt=56.694s" id="rgn_aud_0023_0025"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=56.694s" clip-end="npt=58.481s" id="rgn_aud_0023_0026"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=58.481s" clip-end="npt=59.773s" id="rgn_aud_0023_0027"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=59.773s" clip-end="npt=60.558s" id="rgn_aud_0023_0028"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=60.558s" clip-end="npt=61.343s" id="rgn_aud_0023_0029"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=61.343s" clip-end="npt=62.128s" id="rgn_aud_0023_0030"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=62.128s" clip-end="npt=62.911s" id="rgn_aud_0023_0031"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=62.911s" clip-end="npt=63.914s" id="rgn_aud_0023_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="koht_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0060" id="koht_0002"/>
+				<seq>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=63.914s" clip-end="npt=64.051s" id="rgn_aud_0023_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0023_0002">
+				<text src="ncc.html#mcor_0016" id="koht_0003"/>
+				<seq>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=64.051s" clip-end="npt=64.483s" id="rgn_aud_0023_0034"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=64.483s" clip-end="npt=65.268s" id="rgn_aud_0023_0035"/>
+					<audio src="23_I_trafikken.mp3" clip-begin="npt=65.268s" clip-end="npt=65.528s" id="rgn_aud_0023_0036"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

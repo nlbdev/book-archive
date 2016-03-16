@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:35:15.064"/>
+		<meta name="ncc:totalElapsedTime" content="04:12:05.288"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel seks"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2115.064s">
+			<par endsync="last" id="utom_0001">
+				<text src="ncc.html#dfrn_000b" id="dfrn_000b"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=0.000s" clip-end="npt=18.260s" id="audio_0001"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=18.260s" clip-end="npt=32.186s" id="audio_0002"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=32.186s" clip-end="npt=80.863s" id="audio_0003"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=80.863s" clip-end="npt=93.683s" id="audio_0004"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=93.683s" clip-end="npt=98.220s" id="audio_0005"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=98.220s" clip-end="npt=112.706s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00a3" id="utom_0013"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=112.706s" clip-end="npt=112.845s" id="audio_0007"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=112.845s" clip-end="npt=141.960s" id="audio_0008"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=141.960s" clip-end="npt=197.080s" id="audio_0009"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=197.080s" clip-end="npt=205.410s" id="audio_0010"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=205.410s" clip-end="npt=222.138s" id="audio_0011"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=222.138s" clip-end="npt=249.113s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00a4" id="utom_0015"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=249.113s" clip-end="npt=249.234s" id="audio_0013"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=249.234s" clip-end="npt=289.703s" id="audio_0014"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=289.703s" clip-end="npt=330.589s" id="audio_0015"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=330.589s" clip-end="npt=336.957s" id="audio_0016"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=336.957s" clip-end="npt=341.817s" id="audio_0017"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=341.817s" clip-end="npt=370.926s" id="audio_0018"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=370.926s" clip-end="npt=382.123s" id="audio_0019"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=382.123s" clip-end="npt=388.336s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00a5" id="utom_0017"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=388.336s" clip-end="npt=388.440s" id="audio_0021"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=388.440s" clip-end="npt=401.714s" id="audio_0022"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=401.714s" clip-end="npt=437.432s" id="audio_0023"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=437.432s" clip-end="npt=510.866s" id="audio_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00a6" id="utom_0019"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=510.866s" clip-end="npt=510.952s" id="audio_0025"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=510.952s" clip-end="npt=515.198s" id="audio_0026"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=515.198s" clip-end="npt=552.675s" id="audio_0027"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=552.675s" clip-end="npt=562.233s" id="audio_0028"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=562.233s" clip-end="npt=568.458s" id="audio_0029"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=568.458s" clip-end="npt=577.152s" id="audio_0030"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=577.152s" clip-end="npt=602.591s" id="audio_0031"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=602.591s" clip-end="npt=628.604s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00a7" id="utom_001b"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=628.604s" clip-end="npt=628.725s" id="audio_0033"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=628.725s" clip-end="npt=648.488s" id="audio_0034"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=648.488s" clip-end="npt=667.920s" id="audio_0035"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=667.920s" clip-end="npt=690.311s" id="audio_0036"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=690.311s" clip-end="npt=705.611s" id="audio_0037"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=705.611s" clip-end="npt=711.870s" id="audio_0038"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=711.870s" clip-end="npt=723.247s" id="audio_0039"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=723.247s" clip-end="npt=750.656s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00a8" id="utom_001d"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=750.656s" clip-end="npt=750.760s" id="audio_0041"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=750.760s" clip-end="npt=815.554s" id="audio_0042"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=815.554s" clip-end="npt=837.210s" id="audio_0043"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=837.210s" clip-end="npt=848.289s" id="audio_0044"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=848.289s" clip-end="npt=866.099s" id="audio_0045"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=866.099s" clip-end="npt=874.930s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00a9" id="utom_001f"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=874.930s" clip-end="npt=874.999s" id="audio_0047"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=874.999s" clip-end="npt=881.748s" id="audio_0048"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=881.748s" clip-end="npt=890.106s" id="audio_0049"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=890.106s" clip-end="npt=894.821s" id="audio_0050"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=894.821s" clip-end="npt=902.261s" id="audio_0051"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=902.261s" clip-end="npt=918.328s" id="audio_0052"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=918.328s" clip-end="npt=931.197s" id="audio_0053"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=931.197s" clip-end="npt=945.987s" id="audio_0054"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=945.987s" clip-end="npt=1013.447s" id="audio_0055"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00aa" id="utom_0021"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1013.447s" clip-end="npt=1013.568s" id="audio_0056"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1013.568s" clip-end="npt=1020.191s" id="audio_0057"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1020.191s" clip-end="npt=1114.234s" id="audio_0058"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1114.234s" clip-end="npt=1137.208s" id="audio_0059"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1137.208s" clip-end="npt=1142.662s" id="audio_0060"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1142.662s" clip-end="npt=1147.497s" id="audio_0061"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ab" id="utom_0023"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1147.497s" clip-end="npt=1147.674s" id="audio_0062"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1147.674s" clip-end="npt=1160.716s" id="audio_0063"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1160.716s" clip-end="npt=1167.274s" id="audio_0064"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1167.274s" clip-end="npt=1214.608s" id="audio_0065"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1214.608s" clip-end="npt=1221.969s" id="audio_0066"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1221.969s" clip-end="npt=1228.704s" id="audio_0067"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1228.704s" clip-end="npt=1248.446s" id="audio_0068"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1248.446s" clip-end="npt=1266.281s" id="audio_0069"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ac" id="utom_0025"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1266.281s" clip-end="npt=1266.402s" id="audio_0070"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1266.402s" clip-end="npt=1287.509s" id="audio_0071"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1287.509s" clip-end="npt=1293.489s" id="audio_0072"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1293.489s" clip-end="npt=1332.423s" id="audio_0073"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1332.423s" clip-end="npt=1337.224s" id="audio_0074"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1337.224s" clip-end="npt=1359.717s" id="audio_0075"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1359.717s" clip-end="npt=1369.152s" id="audio_0076"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1369.152s" clip-end="npt=1374.199s" id="audio_0077"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1374.199s" clip-end="npt=1381.641s" id="audio_0078"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1381.641s" clip-end="npt=1386.386s" id="audio_0079"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ad" id="utom_0027"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1386.386s" clip-end="npt=1386.507s" id="audio_0080"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1386.507s" clip-end="npt=1411.158s" id="audio_0081"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1411.158s" clip-end="npt=1415.266s" id="audio_0082"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1415.266s" clip-end="npt=1431.720s" id="audio_0083"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1431.720s" clip-end="npt=1469.406s" id="audio_0084"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1469.406s" clip-end="npt=1514.571s" id="audio_0085"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ae" id="utom_0029"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1514.571s" clip-end="npt=1514.761s" id="audio_0086"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1514.761s" clip-end="npt=1520.449s" id="audio_0087"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1520.449s" clip-end="npt=1536.744s" id="audio_0088"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1536.744s" clip-end="npt=1564.646s" id="audio_0089"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1564.646s" clip-end="npt=1573.327s" id="audio_0090"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1573.327s" clip-end="npt=1592.282s" id="audio_0091"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1592.282s" clip-end="npt=1597.512s" id="audio_0092"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1597.512s" clip-end="npt=1631.358s" id="audio_0093"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00af" id="utom_002b"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1631.358s" clip-end="npt=1631.444s" id="audio_0094"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1631.444s" clip-end="npt=1654.070s" id="audio_0095"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1654.070s" clip-end="npt=1659.891s" id="audio_0096"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1659.891s" clip-end="npt=1679.555s" id="audio_0097"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1679.555s" clip-end="npt=1696.860s" id="audio_0098"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1696.860s" clip-end="npt=1702.524s" id="audio_0099"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1702.524s" clip-end="npt=1708.110s" id="audio_0100"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1708.110s" clip-end="npt=1759.010s" id="audio_0101"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00b0" id="utom_002d"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1759.010s" clip-end="npt=1759.149s" id="audio_0102"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1759.149s" clip-end="npt=1764.483s" id="audio_0103"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1764.483s" clip-end="npt=1842.659s" id="audio_0104"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1842.659s" clip-end="npt=1855.102s" id="audio_0105"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1855.102s" clip-end="npt=1888.248s" id="audio_0106"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00b1" id="utom_002f"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1888.248s" clip-end="npt=1888.352s" id="audio_0107"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1888.352s" clip-end="npt=1911.525s" id="audio_0108"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1911.525s" clip-end="npt=1918.589s" id="audio_0109"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1918.589s" clip-end="npt=1935.860s" id="audio_0110"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=1935.860s" clip-end="npt=2012.552s" id="audio_0111"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=2012.552s" clip-end="npt=2029.421s" id="audio_0112"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00b2" id="utom_0031"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=2029.421s" clip-end="npt=2029.525s" id="audio_0113"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=2029.525s" clip-end="npt=2034.600s" id="audio_0114"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=2034.600s" clip-end="npt=2051.667s" id="audio_0115"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=2051.667s" clip-end="npt=2070.576s" id="audio_0116"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=2070.576s" clip-end="npt=2074.772s" id="audio_0117"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=2074.772s" clip-end="npt=2112.998s" id="audio_0118"/>
+				</seq>
+			</par>
+			<par endsync="last" id="utom_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00b3" id="utom_0033"/>
+				<seq>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=2112.998s" clip-end="npt=2113.154s" id="audio_0119"/>
+					<audio src="14_Kapittel_seks.mp3" clip-begin="npt=2113.154s" clip-end="npt=2115.064s" id="audio_0120"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

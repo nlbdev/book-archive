@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+<trackList>
+<track>
+<location>01_Fifty_Shades_.mp3</location>
+<title>Fifty Shades: Fri</title>
+<trackNum>1</trackNum>
+<duration>12277</duration>
+</track>
+<track>
+<location>03_Bokinformasjo.mp3</location>
+<title>Bokinformasjon</title>
+<trackNum>2</trackNum>
+<duration>39105</duration>
+</track>
+<track>
+<location>04_Baksidetekst.mp3</location>
+<title>Baksidetekst</title>
+<trackNum>3</trackNum>
+<duration>89391</duration>
+</track>
+<track>
+<location>05_Forfatteromta.mp3</location>
+<title>Forfatteromtale</title>
+<trackNum>4</trackNum>
+<duration>49319</duration>
+</track>
+<track>
+<location>06_Navigering_i_.mp3</location>
+<title>Navigering i DAISY-boka</title>
+<trackNum>5</trackNum>
+<duration>21681</duration>
+</track>
+<track>
+<location>07_Dedikasjon.mp3</location>
+<title>Dedikasjon</title>
+<trackNum>6</trackNum>
+<duration>19304</duration>
+</track>
+<track>
+<location>08_Prolog.mp3</location>
+<title>Prolog</title>
+<trackNum>7</trackNum>
+<duration>277289</duration>
+</track>
+<track>
+<location>09_Kapittel_en.mp3</location>
+<title>Kapittel en</title>
+<trackNum>8</trackNum>
+<duration>2813414</duration>
+</track>
+<track>
+<location>10_Kapittel_to.mp3</location>
+<title>Kapittel to</title>
+<trackNum>9</trackNum>
+<duration>2359771</duration>
+</track>
+<track>
+<location>11_Kapittel_tre.mp3</location>
+<title>Kapittel tre</title>
+<trackNum>10</trackNum>
+<duration>2858841</duration>
+</track>
+<track>
+<location>12_Kapittel_fire.mp3</location>
+<title>Kapittel fire</title>
+<trackNum>11</trackNum>
+<duration>2837420</duration>
+</track>
+<track>
+<location>13_Kapittel_fem.mp3</location>
+<title>Kapittel fem</title>
+<trackNum>12</trackNum>
+<duration>3807138</duration>
+</track>
+<track>
+<location>14_Kapittel_seks.mp3</location>
+<title>Kapittel seks</title>
+<trackNum>13</trackNum>
+<duration>2124042</duration>
+</track>
+<track>
+<location>15_Kapittel_sju.mp3</location>
+<title>Kapittel sju</title>
+<trackNum>14</trackNum>
+<duration>4109531</duration>
+</track>
+<track>
+<location>16_Kapittel__tte.mp3</location>
+<title>Kapittel åtte</title>
+<trackNum>15</trackNum>
+<duration>4173583</duration>
+</track>
+<track>
+<location>17_Kapittel_ni.mp3</location>
+<title>Kapittel ni</title>
+<trackNum>16</trackNum>
+<duration>2480927</duration>
+</track>
+<track>
+<location>18_Kapittel_ti.mp3</location>
+<title>Kapittel ti</title>
+<trackNum>17</trackNum>
+<duration>3015471</duration>
+</track>
+<track>
+<location>19_Kapittel_elle.mp3</location>
+<title>Kapittel elleve</title>
+<trackNum>18</trackNum>
+<duration>3046661</duration>
+</track>
+<track>
+<location>20_Kapittel_tolv.mp3</location>
+<title>Kapittel tolv</title>
+<trackNum>19</trackNum>
+<duration>2849489</duration>
+</track>
+<track>
+<location>21_Kapittel_tret.mp3</location>
+<title>Kapittel tretten</title>
+<trackNum>20</trackNum>
+<duration>2807118</duration>
+</track>
+<track>
+<location>22_Kapittel_fjor.mp3</location>
+<title>Kapittel fjorten</title>
+<trackNum>21</trackNum>
+<duration>2020101</duration>
+</track>
+<track>
+<location>23_Kapittel_femt.mp3</location>
+<title>Kapittel femten</title>
+<trackNum>22</trackNum>
+<duration>2284643</duration>
+</track>
+<track>
+<location>24_Kapittel_seks.mp3</location>
+<title>Kapittel seksten</title>
+<trackNum>23</trackNum>
+<duration>2610390</duration>
+</track>
+<track>
+<location>25_Kapittel_sytt.mp3</location>
+<title>Kapittel sytten</title>
+<trackNum>24</trackNum>
+<duration>2425678</duration>
+</track>
+<track>
+<location>26_Kapittel_atte.mp3</location>
+<title>Kapittel atten</title>
+<trackNum>25</trackNum>
+<duration>2508695</duration>
+</track>
+<track>
+<location>27_Kapittel_nitt.mp3</location>
+<title>Kapittel nitten</title>
+<trackNum>26</trackNum>
+<duration>2282684</duration>
+</track>
+<track>
+<location>28_Kapittel_tjue.mp3</location>
+<title>Kapittel tjue</title>
+<trackNum>27</trackNum>
+<duration>2174798</duration>
+</track>
+<track>
+<location>29_Kapittel_tjue.mp3</location>
+<title>Kapittel tjueen</title>
+<trackNum>28</trackNum>
+<duration>2520790</duration>
+</track>
+<track>
+<location>30_Kapittel_tjue.mp3</location>
+<title>Kapittel tjueto</title>
+<trackNum>29</trackNum>
+<duration>2192065</duration>
+</track>
+<track>
+<location>31_Kapittel_tjue.mp3</location>
+<title>Kapittel tjuetre</title>
+<trackNum>30</trackNum>
+<duration>2724101</duration>
+</track>
+<track>
+<location>32_Kapittel_tjue.mp3</location>
+<title>Kapittel tjuefire</title>
+<trackNum>31</trackNum>
+<duration>2922292</duration>
+</track>
+<track>
+<location>33_Kapittel_tjue.mp3</location>
+<title>Kapittel tjuefem</title>
+<trackNum>32</trackNum>
+<duration>4152189</duration>
+</track>
+<track>
+<location>34_Epilog.mp3</location>
+<title>Epilog</title>
+<trackNum>33</trackNum>
+<duration>2048653</duration>
+</track>
+<track>
+<location>35_Notis_fra_for.mp3</location>
+<title>Notis fra forfatteren</title>
+<trackNum>34</trackNum>
+<duration>70060</duration>
+</track>
+<track>
+<location>36_Shades_av_Chr.mp3</location>
+<title>Shades av Christian</title>
+<trackNum>35</trackNum>
+<duration>7549</duration>
+</track>
+<track>
+<location>37_Fiftys_f_rste.mp3</location>
+<title>Fiftys første jul</title>
+<trackNum>36</trackNum>
+<duration>696711</duration>
+</track>
+<track>
+<location>38_M_t_Fifty_Sha.mp3</location>
+<title>Møt Fifty Shades</title>
+<trackNum>37</trackNum>
+<duration>3360287</duration>
+</track>
+<track>
+<location>39_Takk.mp3</location>
+<title>Takk</title>
+<trackNum>38</trackNum>
+<duration>82050</duration>
+</track>
+<track>
+<location>40_Sluttannonser.mp3</location>
+<title>Sluttannonsering</title>
+<trackNum>39</trackNum>
+<duration>14889</duration>
+</track>
+</trackList>
+</playlist>

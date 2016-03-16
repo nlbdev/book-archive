@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<smil>
+<head>
+<meta name="Generator" content="Daisy Pipeline WPLWriter" />
+<meta name="AverageRating" content="0" />
+<meta name="TotalDuration" content="76890" />
+<meta name="ItemCount" content="39" />
+<title>Fifty Shades: Fri</title>
+</head>
+<body>
+<seq>
+<media src="01_Fifty_Shades_.mp3" />
+<media src="03_Bokinformasjo.mp3" />
+<media src="04_Baksidetekst.mp3" />
+<media src="05_Forfatteromta.mp3" />
+<media src="06_Navigering_i_.mp3" />
+<media src="07_Dedikasjon.mp3" />
+<media src="08_Prolog.mp3" />
+<media src="09_Kapittel_en.mp3" />
+<media src="10_Kapittel_to.mp3" />
+<media src="11_Kapittel_tre.mp3" />
+<media src="12_Kapittel_fire.mp3" />
+<media src="13_Kapittel_fem.mp3" />
+<media src="14_Kapittel_seks.mp3" />
+<media src="15_Kapittel_sju.mp3" />
+<media src="16_Kapittel__tte.mp3" />
+<media src="17_Kapittel_ni.mp3" />
+<media src="18_Kapittel_ti.mp3" />
+<media src="19_Kapittel_elle.mp3" />
+<media src="20_Kapittel_tolv.mp3" />
+<media src="21_Kapittel_tret.mp3" />
+<media src="22_Kapittel_fjor.mp3" />
+<media src="23_Kapittel_femt.mp3" />
+<media src="24_Kapittel_seks.mp3" />
+<media src="25_Kapittel_sytt.mp3" />
+<media src="26_Kapittel_atte.mp3" />
+<media src="27_Kapittel_nitt.mp3" />
+<media src="28_Kapittel_tjue.mp3" />
+<media src="29_Kapittel_tjue.mp3" />
+<media src="30_Kapittel_tjue.mp3" />
+<media src="31_Kapittel_tjue.mp3" />
+<media src="32_Kapittel_tjue.mp3" />
+<media src="33_Kapittel_tjue.mp3" />
+<media src="34_Epilog.mp3" />
+<media src="35_Notis_fra_for.mp3" />
+<media src="36_Shades_av_Chr.mp3" />
+<media src="37_Fiftys_f_rste.mp3" />
+<media src="38_M_t_Fifty_Sha.mp3" />
+<media src="39_Takk.mp3" />
+<media src="40_Sluttannonser.mp3" />
+</seq>
+</body>
+</smil>

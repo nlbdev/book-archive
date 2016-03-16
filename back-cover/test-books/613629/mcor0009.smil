@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Fødeavdelingen"/>
+		<meta name="ncc:totalElapsedTime" content="00:05:58"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:19"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="79.221s">
+			<par endsync="last" id="rgn_par_0009_0001">
+				<text src="ncc.html#mcor_0008" id="mcor_0008"/>
+				<seq>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=0.000s" clip-end="npt=3.606s" id="rgn_aud_0009_0001"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=3.606s" clip-end="npt=7.913s" id="rgn_aud_0009_0002"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=7.913s" clip-end="npt=8.375s" id="rgn_aud_0009_0003"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=8.375s" clip-end="npt=11.798s" id="rgn_aud_0009_0004"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=11.798s" clip-end="npt=18.922s" id="rgn_aud_0009_0005"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=18.922s" clip-end="npt=20.497s" id="rgn_aud_0009_0006"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=20.497s" clip-end="npt=23.800s" id="rgn_aud_0009_0007"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=23.800s" clip-end="npt=30.698s" id="rgn_aud_0009_0008"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=30.698s" clip-end="npt=33.234s" id="rgn_aud_0009_0009"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=33.234s" clip-end="npt=33.817s" id="rgn_aud_0009_0010"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=33.817s" clip-end="npt=38.024s" id="rgn_aud_0009_0011"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=38.024s" clip-end="npt=41.564s" id="rgn_aud_0009_0012"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=41.564s" clip-end="npt=44.619s" id="rgn_aud_0009_0013"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=44.619s" clip-end="npt=45.405s" id="rgn_aud_0009_0014"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=45.405s" clip-end="npt=48.008s" id="rgn_aud_0009_0015"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=48.008s" clip-end="npt=50.280s" id="rgn_aud_0009_0016"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=50.280s" clip-end="npt=53.151s" id="rgn_aud_0009_0017"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=53.151s" clip-end="npt=54.366s" id="rgn_aud_0009_0018"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=54.366s" clip-end="npt=57.514s" id="rgn_aud_0009_0019"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=57.514s" clip-end="npt=58.372s" id="rgn_aud_0009_0020"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=58.372s" clip-end="npt=60.893s" id="rgn_aud_0009_0021"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=60.893s" clip-end="npt=64.379s" id="rgn_aud_0009_0022"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=64.379s" clip-end="npt=65.516s" id="rgn_aud_0009_0023"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=65.516s" clip-end="npt=68.441s" id="rgn_aud_0009_0024"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=68.441s" clip-end="npt=69.102s" id="rgn_aud_0009_0025"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=69.102s" clip-end="npt=72.575s" id="rgn_aud_0009_0026"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=72.575s" clip-end="npt=73.724s" id="rgn_aud_0009_0027"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=73.724s" clip-end="npt=74.510s" id="rgn_aud_0009_0028"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=74.510s" clip-end="npt=75.296s" id="rgn_aud_0009_0029"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=75.296s" clip-end="npt=76.081s" id="rgn_aud_0009_0030"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=76.081s" clip-end="npt=76.866s" id="rgn_aud_0009_0031"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=76.866s" clip-end="npt=77.650s" id="rgn_aud_0009_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="hrxe_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0052" id="hrxe_0002"/>
+				<seq>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=77.650s" clip-end="npt=77.855s" id="rgn_aud_0009_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0009_0002">
+				<text src="ncc.html#mcor_0008" id="hrxe_0003"/>
+				<seq>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=77.855s" clip-end="npt=78.436s" id="rgn_aud_0009_0034"/>
+					<audio src="09_F_deavdelinge.mp3" clip-begin="npt=78.436s" clip-end="npt=79.221s" id="rgn_aud_0009_0035"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

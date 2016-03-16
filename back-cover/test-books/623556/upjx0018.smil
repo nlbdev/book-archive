@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:24.815"/>
+		<meta name="ncc:totalElapsedTime" content="01:10:45.615"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 19: B for besøk"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="204.815s">
+			<par endsync="last" id="upjx_0018">
+				<text src="ncc.html#upjx_0017" id="upjx_0017"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=0.000s" clip-end="npt=4.506s" id="audio_0001"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=4.506s" clip-end="npt=9.300s" id="audio_0002"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=9.300s" clip-end="npt=12.069s" id="audio_0003"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=12.069s" clip-end="npt=14.642s" id="audio_0004"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=14.642s" clip-end="npt=16.379s" id="audio_0005"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=16.379s" clip-end="npt=18.299s" id="audio_0006"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=18.299s" clip-end="npt=23.288s" id="audio_0007"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=23.288s" clip-end="npt=26.162s" id="audio_0008"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=26.162s" clip-end="npt=28.382s" id="audio_0009"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=28.382s" clip-end="npt=30.668s" id="audio_0010"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=30.668s" clip-end="npt=32.362s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfsi_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0079" id="xfsi_0006"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=32.362s" clip-end="npt=32.522s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfsi_0010">
+				<text src="ncc.html#upjx_0017" id="xfsi_0007"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=32.522s" clip-end="npt=33.123s" id="audio_0013"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=33.123s" clip-end="npt=37.080s" id="audio_0014"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=37.080s" clip-end="npt=40.320s" id="audio_0015"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=40.320s" clip-end="npt=44.525s" id="audio_0016"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=44.525s" clip-end="npt=47.046s" id="audio_0017"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=47.046s" clip-end="npt=48.548s" id="audio_0018"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=48.548s" clip-end="npt=51.304s" id="audio_0019"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=51.304s" clip-end="npt=54.726s" id="audio_0020"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=54.726s" clip-end="npt=57.782s" id="audio_0021"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=57.782s" clip-end="npt=63.960s" id="audio_0022"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=63.960s" clip-end="npt=68.349s" id="audio_0023"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=68.349s" clip-end="npt=75.480s" id="audio_0024"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=75.480s" clip-end="npt=80.287s" id="audio_0025"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=80.287s" clip-end="npt=83.826s" id="audio_0026"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=83.826s" clip-end="npt=85.929s" id="audio_0027"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=85.929s" clip-end="npt=91.624s" id="audio_0028"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=91.624s" clip-end="npt=94.811s" id="audio_0029"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=94.811s" clip-end="npt=98.501s" id="audio_0030"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=98.501s" clip-end="npt=100.970s" id="audio_0031"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=100.970s" clip-end="npt=103.660s" id="audio_0032"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=103.660s" clip-end="npt=105.504s" id="audio_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfsi_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_007a" id="xfsi_0008"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=105.504s" clip-end="npt=105.638s" id="audio_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfsi_0011">
+				<text src="ncc.html#upjx_0017" id="xfsi_0009"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=105.638s" clip-end="npt=106.534s" id="audio_0035"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=106.534s" clip-end="npt=112.948s" id="audio_0036"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=112.948s" clip-end="npt=114.450s" id="audio_0037"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=114.450s" clip-end="npt=118.590s" id="audio_0038"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=118.590s" clip-end="npt=121.411s" id="audio_0039"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=121.411s" clip-end="npt=125.881s" id="audio_0040"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=125.881s" clip-end="npt=129.486s" id="audio_0041"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=129.486s" clip-end="npt=132.124s" id="audio_0042"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=132.124s" clip-end="npt=135.482s" id="audio_0043"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfsi_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_007b" id="xfsi_000a"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=135.482s" clip-end="npt=135.669s" id="audio_0044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfsi_0012">
+				<text src="ncc.html#upjx_0017" id="xfsi_000b"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=135.669s" clip-end="npt=136.152s" id="audio_0045"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=136.152s" clip-end="npt=137.270s" id="audio_0046"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=137.270s" clip-end="npt=139.908s" id="audio_0047"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=139.908s" clip-end="npt=145.851s" id="audio_0048"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=145.851s" clip-end="npt=151.729s" id="audio_0049"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=151.729s" clip-end="npt=161.550s" id="audio_0050"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfsi_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_007c" id="xfsi_000c"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=161.550s" clip-end="npt=161.724s" id="audio_0051"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfsi_0013">
+				<text src="ncc.html#upjx_0017" id="xfsi_000d"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=161.724s" clip-end="npt=165.812s" id="audio_0052"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=165.812s" clip-end="npt=168.633s" id="audio_0053"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=168.633s" clip-end="npt=170.788s" id="audio_0054"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=170.788s" clip-end="npt=172.591s" id="audio_0055"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=172.591s" clip-end="npt=174.811s" id="audio_0056"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=174.811s" clip-end="npt=179.722s" id="audio_0057"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=179.722s" clip-end="npt=182.308s" id="audio_0058"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=182.308s" clip-end="npt=183.027s" id="audio_0059"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=183.027s" clip-end="npt=184.581s" id="audio_0060"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=184.581s" clip-end="npt=186.384s" id="audio_0061"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=186.384s" clip-end="npt=187.533s" id="audio_0062"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=187.533s" clip-end="npt=189.623s" id="audio_0063"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=189.623s" clip-end="npt=193.293s" id="audio_0064"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=193.293s" clip-end="npt=195.866s" id="audio_0065"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=195.866s" clip-end="npt=199.471s" id="audio_0066"/>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=199.471s" clip-end="npt=204.421s" id="audio_0067"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfsi_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_007d" id="xfsi_000e"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=204.421s" clip-end="npt=204.474s" id="audio_0068"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xfsi_0014">
+				<text src="ncc.html#upjx_0017" id="xfsi_000f"/>
+				<seq>
+					<audio src="24_Kapittel_19__B_for_bes_k.mp3" clip-begin="npt=204.474s" clip-end="npt=204.815s" id="audio_0069"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

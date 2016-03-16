@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Simone"/>
+		<meta name="ncc:totalElapsedTime" content="00:54:11"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:59"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="58.844s">
+			<par endsync="last" id="rgn_par_0064_0001">
+				<text src="ncc.html#mcor_003f" id="mcor_003f"/>
+				<seq>
+					<audio src="64_Simone.mp3" clip-begin="npt=0.000s" clip-end="npt=3.793s" id="rgn_aud_0064_0001"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=3.793s" clip-end="npt=6.124s" id="rgn_aud_0064_0002"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=6.124s" clip-end="npt=7.561s" id="rgn_aud_0064_0003"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=7.561s" clip-end="npt=9.480s" id="rgn_aud_0064_0004"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=9.480s" clip-end="npt=12.785s" id="rgn_aud_0064_0005"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=12.785s" clip-end="npt=14.887s" id="rgn_aud_0064_0006"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=14.887s" clip-end="npt=18.126s" id="rgn_aud_0064_0007"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=18.126s" clip-end="npt=22.436s" id="rgn_aud_0064_0008"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=22.436s" clip-end="npt=24.722s" id="rgn_aud_0064_0009"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=24.722s" clip-end="npt=26.963s" id="rgn_aud_0064_0010"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=26.963s" clip-end="npt=28.064s" id="rgn_aud_0064_0011"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=28.064s" clip-end="npt=29.215s" id="rgn_aud_0064_0012"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=29.215s" clip-end="npt=29.863s" id="rgn_aud_0064_0013"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=29.863s" clip-end="npt=32.917s" id="rgn_aud_0064_0014"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=32.917s" clip-end="npt=35.322s" id="rgn_aud_0064_0015"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=35.322s" clip-end="npt=38.143s" id="rgn_aud_0064_0016"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=38.143s" clip-end="npt=39.932s" id="rgn_aud_0064_0017"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=39.932s" clip-end="npt=42.572s" id="rgn_aud_0064_0018"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=42.572s" clip-end="npt=46.712s" id="rgn_aud_0064_0019"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=46.712s" clip-end="npt=48.279s" id="rgn_aud_0064_0020"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=48.279s" clip-end="npt=49.414s" id="rgn_aud_0064_0021"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=49.414s" clip-end="npt=51.335s" id="rgn_aud_0064_0022"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=51.335s" clip-end="npt=54.134s" id="rgn_aud_0064_0023"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=54.134s" clip-end="npt=54.920s" id="rgn_aud_0064_0024"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=54.920s" clip-end="npt=55.704s" id="rgn_aud_0064_0025"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=55.704s" clip-end="npt=56.490s" id="rgn_aud_0064_0026"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=56.490s" clip-end="npt=57.274s" id="rgn_aud_0064_0027"/>
+					<audio src="64_Simone.mp3" clip-begin="npt=57.274s" clip-end="npt=57.609s" id="rgn_aud_0064_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pgvb_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_008a" id="pgvb_0002"/>
+				<seq>
+					<audio src="64_Simone.mp3" clip-begin="npt=57.609s" clip-end="npt=57.816s" id="rgn_aud_0064_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0064_0002">
+				<text src="ncc.html#mcor_003f" id="pgvb_0003"/>
+				<seq>
+					<audio src="64_Simone.mp3" clip-begin="npt=57.816s" clip-end="npt=58.844s" id="rgn_aud_0064_0030"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

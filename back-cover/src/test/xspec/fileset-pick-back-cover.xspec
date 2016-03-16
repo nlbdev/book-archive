@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:description xmlns:x="http://www.jenitennison.com/xslt/xspec" stylesheet="../../../src/main/resources/fileset-pick-back-cover.xsl" xmlns:d="http://www.daisy.org/ns/pipeline/data">
+
+    <x:scenario label="MP3">
+        <x:context>
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data">
+                <d:file href="612923/01_HAMLON.mp3"/>
+                <d:file href="612923/02_Bokinformasjo.mp3"/>
+                <d:file href="612923/03_Bokomtale_og_.mp3"/>
+                <d:file href="612923/04_Etter_en_stun.mp3"/>
+                <d:file href="612923/05_Special_agent.mp3"/>
+                <d:file href="612923/06_F_rsteinntryk.mp3"/>
+                <d:file href="612923/07_Det_kom_sikke.mp3"/>
+                <d:file href="612923/08_Special_agent.mp3"/>
+                <d:file href="612923/09_Visst_var_spe.mp3"/>
+                <d:file href="612923/10_ETTERORD.mp3"/>
+                <d:file href="612923/11_Hamlon__Jan_G.mp3"/>
+                <d:file href="612923/nlb_norge_annonsering.mp3"/>
+                <d:file href="613629/01_Jeg_satte_mit.mp3"/>
+                <d:file href="613629/03_Bokinformasjo.mp3"/>
+                <d:file href="613629/04_Baksidetekst_.mp3"/>
+                <d:file href="613629/05_Dedikasjon.mp3"/>
+                <d:file href="613629/06_Sitat.mp3"/>
+                <d:file href="613629/07_Dagens_dikt.mp3"/>
+                <d:file href="613629/08_Et_eventyr.mp3"/>
+                <d:file href="613629/09_F_deavdelinge.mp3"/>
+                <d:file href="613629/10__r_null.mp3"/>
+                <d:file href="613629/11_I_fjellet.mp3"/>
+                <d:file href="613629/12_Du_er_for_lit.mp3"/>
+                <d:file href="613629/13_Hemmelig_agen.mp3"/>
+                <d:file href="613629/14_Heliumballong.mp3"/>
+                <d:file href="613629/15_Den_natta_sov.mp3"/>
+                <d:file href="613629/16_Bes_k_p__bars.mp3"/>
+                <d:file href="613629/17_Jeg_henger_ov.mp3"/>
+                <d:file href="613629/18_Takk_til_epid.mp3"/>
+                <d:file href="613629/19_Dr_mmerollen.mp3"/>
+                <d:file href="613629/20_En_hel_landsb.mp3"/>
+                <d:file href="613629/21_Baby_love.mp3"/>
+                <d:file href="613629/22_Et_alminnelig.mp3"/>
+                <d:file href="613629/23_I_trafikken.mp3"/>
+                <d:file href="613629/24_Det_nyf_dte.mp3"/>
+                <d:file href="613629/25_Hva_skal_jeg_.mp3"/>
+                <d:file href="613629/26_Ny_morgen.mp3"/>
+                <d:file href="613629/27_Sove_som_et_b.mp3"/>
+                <d:file href="613629/28_Til_Vladivost.mp3"/>
+                <d:file href="613629/29_Med_et_skrik.mp3"/>
+                <d:file href="613629/30_Tilvenning.mp3"/>
+                <d:file href="613629/31_Bak_kommandol.mp3"/>
+                <d:file href="613629/32_Det_var_enkle.mp3"/>
+                <d:file href="613629/33_Ingenting.mp3"/>
+                <d:file href="613629/34_Jeg_vil_at_du.mp3"/>
+                <d:file href="613629/35_Mitt_kompeten.mp3"/>
+                <d:file href="613629/36_Tiltale.mp3"/>
+                <d:file href="613629/37_Jeg_skriker.mp3"/>
+                <d:file href="613629/38_Ingen_engel_h.mp3"/>
+                <d:file href="613629/39_Som_om_du_sku.mp3"/>
+                <d:file href="613629/40_Valgtale.mp3"/>
+                <d:file href="613629/41_Jeg_sier_det_.mp3"/>
+                <d:file href="613629/42_Mammarazzi.mp3"/>
+                <d:file href="613629/43_Bare_din_mamm.mp3"/>
+                <d:file href="613629/44_En_plass_i_sk.mp3"/>
+                <d:file href="613629/45_Pippi_og_Anni.mp3"/>
+                <d:file href="613629/46_O_.mp3"/>
+                <d:file href="613629/47_Ingen_shoppin.mp3"/>
+                <d:file href="613629/48_Barna_i_Afrik.mp3"/>
+                <d:file href="613629/49_Et_vanlig_m_l.mp3"/>
+                <d:file href="613629/50_Andres_barn.mp3"/>
+                <d:file href="613629/51_Det_st_rste_i.mp3"/>
+                <d:file href="613629/52_V_relse_nr__1.mp3"/>
+                <d:file href="613629/53_Stengt_for_om.mp3"/>
+                <d:file href="613629/54_Et_siste_m_lt.mp3"/>
+                <d:file href="613629/55_Mor__far_og_u.mp3"/>
+                <d:file href="613629/56_Lykken.mp3"/>
+                <d:file href="613629/57_En_hilsen_fra.mp3"/>
+                <d:file href="613629/58_Verdens_mest_.mp3"/>
+                <d:file href="613629/59_Morskap.mp3"/>
+                <d:file href="613629/60_Hjem_til_det_.mp3"/>
+                <d:file href="613629/61_Etterlysning.mp3"/>
+                <d:file href="613629/62_Prisen_for_et.mp3"/>
+                <d:file href="613629/63_En_alle_tider.mp3"/>
+                <d:file href="613629/64_Simone.mp3"/>
+                <d:file href="613629/65_Dikt_for_barn.mp3"/>
+                <d:file href="613629/66_Bok__slutt_.mp3"/>
+                <d:file href="613629/nlb_norge_annonsering.mp3"/>
+                <d:file href="618985/01_Fifty_Shades_.mp3"/>
+                <d:file href="618985/03_Bokinformasjo.mp3"/>
+                <d:file href="618985/04_Baksidetekst.mp3"/>
+                <d:file href="618985/05_Forfatteromta.mp3"/>
+                <d:file href="618985/06_Navigering_i_.mp3"/>
+                <d:file href="618985/07_Dedikasjon.mp3"/>
+                <d:file href="618985/08_Prolog.mp3"/>
+                <d:file href="618985/09_Kapittel_en.mp3"/>
+                <d:file href="618985/10_Kapittel_to.mp3"/>
+                <d:file href="618985/11_Kapittel_tre.mp3"/>
+                <d:file href="618985/12_Kapittel_fire.mp3"/>
+                <d:file href="618985/13_Kapittel_fem.mp3"/>
+                <d:file href="618985/14_Kapittel_seks.mp3"/>
+                <d:file href="618985/15_Kapittel_sju.mp3"/>
+                <d:file href="618985/16_Kapittel__tte.mp3"/>
+                <d:file href="618985/17_Kapittel_ni.mp3"/>
+                <d:file href="618985/18_Kapittel_ti.mp3"/>
+                <d:file href="618985/19_Kapittel_elle.mp3"/>
+                <d:file href="618985/20_Kapittel_tolv.mp3"/>
+                <d:file href="618985/21_Kapittel_tret.mp3"/>
+                <d:file href="618985/22_Kapittel_fjor.mp3"/>
+                <d:file href="618985/23_Kapittel_femt.mp3"/>
+                <d:file href="618985/24_Kapittel_seks.mp3"/>
+                <d:file href="618985/25_Kapittel_sytt.mp3"/>
+                <d:file href="618985/26_Kapittel_atte.mp3"/>
+                <d:file href="618985/27_Kapittel_nitt.mp3"/>
+                <d:file href="618985/28_Kapittel_tjue.mp3"/>
+                <d:file href="618985/29_Kapittel_tjue.mp3"/>
+                <d:file href="618985/30_Kapittel_tjue.mp3"/>
+                <d:file href="618985/31_Kapittel_tjue.mp3"/>
+                <d:file href="618985/32_Kapittel_tjue.mp3"/>
+                <d:file href="618985/33_Kapittel_tjue.mp3"/>
+                <d:file href="618985/34_Epilog.mp3"/>
+                <d:file href="618985/35_Notis_fra_for.mp3"/>
+                <d:file href="618985/36_Shades_av_Chr.mp3"/>
+                <d:file href="618985/37_Fiftys_f_rste.mp3"/>
+                <d:file href="618985/38_M_t_Fifty_Sha.mp3"/>
+                <d:file href="618985/39_Takk.mp3"/>
+                <d:file href="618985/40_Sluttannonser.mp3"/>
+                <d:file href="623556/01_M_for_mistet.mp3"/>
+                <d:file href="623556/02_Lydbokavtalen.mp3"/>
+                <d:file href="623556/03_Bokinformasjon.mp3"/>
+                <d:file href="623556/04_Navigering_i_DAISY-boka.mp3"/>
+                <d:file href="623556/05_Bokomtale.mp3"/>
+                <d:file href="623556/06_Kapittel_1__H_for_h_ndsvette.mp3"/>
+                <d:file href="623556/07_Kapittel_2__B_for_bud.mp3"/>
+                <d:file href="623556/08_Kapittel_3__E_for_ekkel_figur.mp3"/>
+                <d:file href="623556/09_Kapittel_4__V_for_vikar.mp3"/>
+                <d:file href="623556/10_Kapittel_5__B_for_ballongpupper.mp3"/>
+                <d:file href="623556/11_Kapittel_6__S_for_Sverige-kart.mp3"/>
+                <d:file href="623556/12_Kapittel_7__M_for_melkebart.mp3"/>
+                <d:file href="623556/13_Kapittel_8__K_for_kebabgryte.mp3"/>
+                <d:file href="623556/14_Kapittel_9__U_for_underbukse.mp3"/>
+                <d:file href="623556/15_Kapittel_10__O_for_O_boy.mp3"/>
+                <d:file href="623556/16_Kapittel_11__T_for_Tyson.mp3"/>
+                <d:file href="623556/17_Kapittel_12__H_for_Hunden.mp3"/>
+                <d:file href="623556/18_Kapittel_13__K_for_kjeft.mp3"/>
+                <d:file href="623556/19_Kapittel_14__A_for_apeskrik.mp3"/>
+                <d:file href="623556/20_Kapittel_15__M_for_menssmerter.mp3"/>
+                <d:file href="623556/21_Kapittel_16__H_for_hai_faiv.mp3"/>
+                <d:file href="623556/22_Kapittel_17__U_for_ulv.mp3"/>
+                <d:file href="623556/23_Kapittel_18__P_for_papirbiten.mp3"/>
+                <d:file href="623556/24_Kapittel_19__B_for_bes_k.mp3"/>
+                <d:file href="623556/25_Kapittel_20__G_for_gullpapir.mp3"/>
+                <d:file href="623556/26_Kapittel_21__F_for_finnerl_nn.mp3"/>
+                <d:file href="623556/27_Kapittel_22__S_for_slutt.mp3"/>
+                <d:file href="623556/28_Sluttannonsering_.mp3"/>
+            </d:fileset>
+        </x:context>
+
+        <x:expect label="The result should be MP3 files with a filename corresponding to the back cover">
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data" format="MP3">
+                <d:file href="612923/03_Bokomtale_og_.mp3"/>
+                <d:file href="613629/04_Baksidetekst_.mp3"/>
+                <d:file href="618985/04_Baksidetekst.mp3"/>
+                <d:file href="623556/05_Bokomtale.mp3"/>
+            </d:fileset>
+        </x:expect>
+    </x:scenario>
+
+    <x:scenario label="DAISY 2.02 - 612923" pending="xml catalogs do not work with xspec in oxygen">
+        <x:context>
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data">
+                <d:file href="../../../target/book-archive/612923/HAMLON.m3u"/>
+                <d:file href="../../../target/book-archive/612923/master.smil"/>
+                <d:file href="../../../target/book-archive/612923/05_Special_agent.mp3"/>
+                <d:file href="../../../target/book-archive/612923/01_HAMLON.mp3"/>
+                <d:file href="../../../target/book-archive/612923/iqhc0004.smil"/>
+                <d:file href="../../../target/book-archive/612923/09_Visst_var_spe.mp3"/>
+                <d:file href="../../../target/book-archive/612923/07_Det_kom_sikke.mp3"/>
+                <d:file href="../../../target/book-archive/612923/iqhc0007.smil"/>
+                <d:file href="../../../target/book-archive/612923/HAMLON.wpl"/>
+                <d:file href="../../../target/book-archive/612923/HAMLON.xspf"/>
+                <d:file href="../../../target/book-archive/612923/03_Bokomtale_og_.mp3"/>
+                <d:file href="../../../target/book-archive/612923/iqhc0009.smil"/>
+                <d:file href="../../../target/book-archive/612923/nlb_norge_annonsering.mp3"/>
+                <d:file href="../../../target/book-archive/612923/nlb.ico"/>
+                <d:file href="../../../target/book-archive/612923/11_Hamlon__Jan_G.mp3"/>
+                <d:file href="../../../target/book-archive/612923/iqhc0001.smil"/>
+                <d:file href="../../../target/book-archive/612923/04_Etter_en_stun.mp3"/>
+                <d:file href="../../../target/book-archive/612923/iqhc0002.smil"/>
+                <d:file href="../../../target/book-archive/612923/HAMLON.pls"/>
+                <d:file href="../../../target/book-archive/612923/nlb_norge_annonsering.smil"/>
+                <d:file href="../../../target/book-archive/612923/10_ETTERORD.mp3"/>
+                <d:file href="../../../target/book-archive/612923/iqhc0003.smil"/>
+                <d:file href="../../../target/book-archive/612923/HAMLON.m3u8"/>
+                <d:file href="../../../target/book-archive/612923/iqhc000a.smil"/>
+                <d:file href="../../../target/book-archive/612923/iqhc0008.smil"/>
+                <d:file href="../../../target/book-archive/612923/06_F_rsteinntryk.mp3"/>
+                <d:file href="../../../target/book-archive/612923/ncc.html"/>
+                <d:file href="../../../target/book-archive/612923/08_Special_agent.mp3"/>
+                <d:file href="../../../target/book-archive/612923/02_Bokinformasjo.mp3"/>
+                <d:file href="../../../target/book-archive/612923/iqhc0005.smil"/>
+                <d:file href="../../../target/book-archive/612923/iqhc000b.smil"/>
+                <d:file href="../../../target/book-archive/612923/iqhc0006.smil"/>
+            </d:fileset>
+        </x:context>
+        
+        <x:expect label="The result should be a DAISY 2.02 fileset">
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data" format="DAISY 2.02">...</d:fileset>
+        </x:expect>
+        <x:expect label="The result should contain exactly one d:file element" select="1" test="count(/*/d:file)"/>
+        <x:expect label="The d.file element should point to the audio file corresponding to the back cover" select="'.../612923/03_Bokomtale_og_.mp3'" test="/*/d:file/replace(@href,'^.*/([^/]*/[^/]*)$','.../$1')"/>
+    </x:scenario>
+    
+    <x:scenario label="DAISY 2.02 - 613629" pending="xml catalogs do not work with xspec in oxygen">
+        <x:context>
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data">
+                <d:file href="../../../target/book-archive/613629/mcor003d.smil"/>
+                <d:file href="../../../target/book-archive/613629/43_Bare_din_mamm.mp3"/>
+                <d:file href="../../../target/book-archive/613629/48_Barna_i_Afrik.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0001.smil"/>
+                <d:file href="../../../target/book-archive/613629/49_Et_vanlig_m_l.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0018.smil"/>
+                <d:file href="../../../target/book-archive/613629/54_Et_siste_m_lt.mp3"/>
+                <d:file href="../../../target/book-archive/613629/39_Som_om_du_sku.mp3"/>
+                <d:file href="../../../target/book-archive/613629/26_Ny_morgen.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0022.smil"/>
+                <d:file href="../../../target/book-archive/613629/master.smil"/>
+                <d:file href="../../../target/book-archive/613629/57_En_hilsen_fra.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor003e.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor000d.smil"/>
+                <d:file href="../../../target/book-archive/613629/46_O_.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor000b.smil"/>
+                <d:file href="../../../target/book-archive/613629/64_Simone.mp3"/>
+                <d:file href="../../../target/book-archive/613629/45_Pippi_og_Anni.mp3"/>
+                <d:file href="../../../target/book-archive/613629/08_Et_eventyr.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0011.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0040.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0004.smil"/>
+                <d:file href="../../../target/book-archive/613629/59_Morskap.mp3"/>
+                <d:file href="../../../target/book-archive/613629/66_Bok__slutt_.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0043.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor003b.smil"/>
+                <d:file href="../../../target/book-archive/613629/56_Lykken.mp3"/>
+                <d:file href="../../../target/book-archive/613629/28_Til_Vladivost.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0006.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor001d.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0038.smil"/>
+                <d:file href="../../../target/book-archive/613629/44_En_plass_i_sk.mp3"/>
+                <d:file href="../../../target/book-archive/613629/29_Med_et_skrik.mp3"/>
+                <d:file href="../../../target/book-archive/613629/14_Heliumballong.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor002c.smil"/>
+                <d:file href="../../../target/book-archive/613629/06_Sitat.mp3"/>
+                <d:file href="../../../target/book-archive/613629/31_Bak_kommandol.mp3"/>
+                <d:file href="../../../target/book-archive/613629/62_Prisen_for_et.mp3"/>
+                <d:file href="../../../target/book-archive/613629/22_Et_alminnelig.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0034.smil"/>
+                <d:file href="../../../target/book-archive/613629/07_Dagens_dikt.mp3"/>
+                <d:file href="../../../target/book-archive/613629/13_Hemmelig_agen.mp3"/>
+                <d:file href="../../../target/book-archive/613629/12_Du_er_for_lit.mp3"/>
+                <d:file href="../../../target/book-archive/613629/03_Bokinformasjo.mp3"/>
+                <d:file href="../../../target/book-archive/613629/15_Den_natta_sov.mp3"/>
+                <d:file href="../../../target/book-archive/613629/40_Valgtale.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0016.smil"/>
+                <d:file href="../../../target/book-archive/613629/27_Sove_som_et_b.mp3"/>
+                <d:file href="../../../target/book-archive/613629/51_Det_st_rste_i.mp3"/>
+                <d:file href="../../../target/book-archive/613629/18_Takk_til_epid.mp3"/>
+                <d:file href="../../../target/book-archive/613629/05_Dedikasjon.mp3"/>
+                <d:file href="../../../target/book-archive/613629/61_Etterlysning.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0033.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor003c.smil"/>
+                <d:file href="../../../target/book-archive/613629/24_Det_nyf_dte.mp3"/>
+                <d:file href="../../../target/book-archive/613629/47_Ingen_shoppin.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0010.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor002b.smil"/>
+                <d:file href="../../../target/book-archive/613629/36_Tiltale.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0039.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0042.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor002a.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0015.smil"/>
+                <d:file href="../../../target/book-archive/613629/09_F_deavdelinge.mp3"/>
+                <d:file href="../../../target/book-archive/613629/37_Jeg_skriker.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor003f.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0020.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor002e.smil"/>
+                <d:file href="../../../target/book-archive/613629/Jeg satte mitt håp til verden.xspf"/>
+                <d:file href="../../../target/book-archive/613629/50_Andres_barn.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0037.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor000f.smil"/>
+                <d:file href="../../../target/book-archive/613629/35_Mitt_kompeten.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor002d.smil"/>
+                <d:file href="../../../target/book-archive/613629/nlb_norge_annonsering.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0017.smil"/>
+                <d:file href="../../../target/book-archive/613629/34_Jeg_vil_at_du.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0005.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor001b.smil"/>
+                <d:file href="../../../target/book-archive/613629/Jeg satte mitt håp til verden.m3u8"/>
+                <d:file href="../../../target/book-archive/613629/01_Jeg_satte_mit.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0012.smil"/>
+                <d:file href="../../../target/book-archive/613629/30_Tilvenning.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0041.smil"/>
+                <d:file href="../../../target/book-archive/613629/16_Bes_k_p__bars.mp3"/>
+                <d:file href="../../../target/book-archive/613629/nlb.ico"/>
+                <d:file href="../../../target/book-archive/613629/mcor0008.smil"/>
+                <d:file href="../../../target/book-archive/613629/20_En_hel_landsb.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0029.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor000e.smil"/>
+                <d:file href="../../../target/book-archive/613629/55_Mor__far_og_u.mp3"/>
+                <d:file href="../../../target/book-archive/613629/53_Stengt_for_om.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0003.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0035.smil"/>
+                <d:file href="../../../target/book-archive/613629/Jeg satte mitt håp til verden.wpl"/>
+                <d:file href="../../../target/book-archive/613629/mcor0036.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0013.smil"/>
+                <d:file href="../../../target/book-archive/613629/41_Jeg_sier_det_.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0026.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor001f.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor002f.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0009.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0025.smil"/>
+                <d:file href="../../../target/book-archive/613629/58_Verdens_mest_.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor003a.smil"/>
+                <d:file href="../../../target/book-archive/613629/19_Dr_mmerollen.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor001c.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0028.smil"/>
+                <d:file href="../../../target/book-archive/613629/Jeg satte mitt håp til verden.pls"/>
+                <d:file href="../../../target/book-archive/613629/21_Baby_love.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0024.smil"/>
+                <d:file href="../../../target/book-archive/613629/25_Hva_skal_jeg_.mp3"/>
+                <d:file href="../../../target/book-archive/613629/nlb_norge_annonsering.smil"/>
+                <d:file href="../../../target/book-archive/613629/33_Ingenting.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0014.smil"/>
+                <d:file href="../../../target/book-archive/613629/Jeg satte mitt håp til verden.m3u"/>
+                <d:file href="../../../target/book-archive/613629/63_En_alle_tider.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor000c.smil"/>
+                <d:file href="../../../target/book-archive/613629/52_V_relse_nr__1.mp3"/>
+                <d:file href="../../../target/book-archive/613629/60_Hjem_til_det_.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0023.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor000a.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor001e.smil"/>
+                <d:file href="../../../target/book-archive/613629/ncc.html"/>
+                <d:file href="../../../target/book-archive/613629/mcor0030.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0007.smil"/>
+                <d:file href="../../../target/book-archive/613629/65_Dikt_for_barn.mp3"/>
+                <d:file href="../../../target/book-archive/613629/11_I_fjellet.mp3"/>
+                <d:file href="../../../target/book-archive/613629/17_Jeg_henger_ov.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0021.smil"/>
+                <d:file href="../../../target/book-archive/613629/10__r_null.mp3"/>
+                <d:file href="../../../target/book-archive/613629/32_Det_var_enkle.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0032.smil"/>
+                <d:file href="../../../target/book-archive/613629/23_I_trafikken.mp3"/>
+                <d:file href="../../../target/book-archive/613629/38_Ingen_engel_h.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor001a.smil"/>
+                <d:file href="../../../target/book-archive/613629/mcor0031.smil"/>
+                <d:file href="../../../target/book-archive/613629/04_Baksidetekst_.mp3"/>
+                <d:file href="../../../target/book-archive/613629/mcor0019.smil"/>
+                <d:file href="../../../target/book-archive/613629/42_Mammarazzi.mp3"/>
+            </d:fileset>
+        </x:context>
+        
+        <x:expect label="The result should be a DAISY 2.02 fileset">
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data" format="DAISY 2.02">...</d:fileset>
+        </x:expect>
+        <x:expect label="The result should contain exactly one d:file element" select="1" test="count(/*/d:file)"/>
+        <x:expect label="The d.file element should point to the audio file corresponding to the back cover" select="'.../613629/04_Baksidetekst_.mp3'" test="/*/d:file/replace(@href,'^.*/([^/]*/[^/]*)$','.../$1')"/>
+    </x:scenario>
+    
+    <x:scenario label="DAISY 2.02 - 618985">
+        <x:context>
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data">
+                <d:file href="../../../target/book-archive/618985/xhtml-symbol.ent"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0026.smil"/>
+                <d:file href="../../../target/book-archive/618985/er_book_info.xml"/>
+                <d:file href="../../../target/book-archive/618985/40_Sluttannonser.mp3"/>
+                <d:file href="../../../target/book-archive/618985/34_Epilog.mp3"/>
+                <d:file href="../../../target/book-archive/618985/21_Kapittel_tret.mp3"/>
+                <d:file href="../../../target/book-archive/618985/30_Kapittel_tjue.mp3"/>
+                <d:file href="../../../target/book-archive/618985/master.smil"/>
+                <d:file href="../../../target/book-archive/618985/xhtml-special.ent"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0011.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0018.smil"/>
+                <d:file href="../../../target/book-archive/618985/24_Kapittel_seks.mp3"/>
+                <d:file href="../../../target/book-archive/618985/Fifty Shades_ Fri.wpl"/>
+                <d:file href="../../../target/book-archive/618985/06_Navigering_i_.mp3"/>
+                <d:file href="../../../target/book-archive/618985/Fifty Shades_ Fri.pls"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0028.smil"/>
+                <d:file href="../../../target/book-archive/618985/20_Kapittel_tolv.mp3"/>
+                <d:file href="../../../target/book-archive/618985/35_Notis_fra_for.mp3"/>
+                <d:file href="../../../target/book-archive/618985/xhtml-lat1.ent"/>
+                <d:file href="../../../target/book-archive/618985/39_Takk.mp3"/>
+                <d:file href="../../../target/book-archive/618985/10_Kapittel_to.mp3"/>
+                <d:file href="../../../target/book-archive/618985/29_Kapittel_tjue.mp3"/>
+                <d:file href="../../../target/book-archive/618985/03_Bokinformasjo.mp3"/>
+                <d:file href="../../../target/book-archive/618985/Fifty Shades_ Fri.m3u8"/>
+                <d:file href="../../../target/book-archive/618985/dfrn001b.smil"/>
+                <d:file href="../../../target/book-archive/618985/Fifty Shades_ Fri.m3u"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0024.smil"/>
+                <d:file href="../../../target/book-archive/618985/08_Prolog.mp3"/>
+                <d:file href="../../../target/book-archive/618985/smil10.dtd"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0007.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn000f.smil"/>
+                <d:file href="../../../target/book-archive/618985/32_Kapittel_tjue.mp3"/>
+                <d:file href="../../../target/book-archive/618985/26_Kapittel_atte.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0023.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0029.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0004.smil"/>
+                <d:file href="../../../target/book-archive/618985/09_Kapittel_en.mp3"/>
+                <d:file href="../../../target/book-archive/618985/16_Kapittel__tte.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn000d.smil"/>
+                <d:file href="../../../target/book-archive/618985/22_Kapittel_fjor.mp3"/>
+                <d:file href="../../../target/book-archive/618985/01_Fifty_Shades_.mp3"/>
+                <d:file href="../../../target/book-archive/618985/23_Kapittel_femt.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0015.smil"/>
+                <d:file href="../../../target/book-archive/618985/25_Kapittel_sytt.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn001e.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0022.smil"/>
+                <d:file href="../../../target/book-archive/618985/37_Fiftys_f_rste.mp3"/>
+                <d:file href="../../../target/book-archive/618985/05_Forfatteromta.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0020.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0013.smil"/>
+                <d:file href="../../../target/book-archive/618985/13_Kapittel_fem.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0003.smil"/>
+                <d:file href="../../../target/book-archive/618985/nlb.ico"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0016.smil"/>
+                <d:file href="../../../target/book-archive/618985/12_Kapittel_fire.mp3"/>
+                <d:file href="../../../target/book-archive/618985/19_Kapittel_elle.mp3"/>
+                <d:file href="../../../target/book-archive/618985/04_Baksidetekst.mp3"/>
+                <d:file href="../../../target/book-archive/618985/38_M_t_Fifty_Sha.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0025.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0017.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0021.smil"/>
+                <d:file href="../../../target/book-archive/618985/28_Kapittel_tjue.mp3"/>
+                <d:file href="../../../target/book-archive/618985/Fifty Shades_ Fri.xspf"/>
+                <d:file href="../../../target/book-archive/618985/36_Shades_av_Chr.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0005.smil"/>
+                <d:file href="../../../target/book-archive/618985/07_Dedikasjon.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn000a.smil"/>
+                <d:file href="../../../target/book-archive/618985/33_Kapittel_tjue.mp3"/>
+                <d:file href="../../../target/book-archive/618985/11_Kapittel_tre.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn000b.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn000c.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0014.smil"/>
+                <d:file href="../../../target/book-archive/618985/15_Kapittel_sju.mp3"/>
+                <d:file href="../../../target/book-archive/618985/18_Kapittel_ti.mp3"/>
+                <d:file href="../../../target/book-archive/618985/31_Kapittel_tjue.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn000e.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0019.smil"/>
+                <d:file href="../../../target/book-archive/618985/xhtml1-transitional.dtd"/>
+                <d:file href="../../../target/book-archive/618985/14_Kapittel_seks.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0009.smil"/>
+                <d:file href="../../../target/book-archive/618985/ncc.html"/>
+                <d:file href="../../../target/book-archive/618985/17_Kapittel_ni.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0001.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn001a.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0008.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn001f.smil"/>
+                <d:file href="../../../target/book-archive/618985/27_Kapittel_nitt.mp3"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0010.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn001d.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0006.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn001c.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0002.smil"/>
+                <d:file href="../../../target/book-archive/618985/dfrn0012.smil"/>
+            </d:fileset>
+        </x:context>
+        
+        <x:expect label="The result should be a DAISY 2.02 fileset">
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data" format="DAISY 2.02">...</d:fileset>
+        </x:expect>
+        <x:expect label="The result should contain exactly one d:file element" select="1" test="count(/*/d:file)"/>
+        <x:expect label="The d.file element should point to the audio file corresponding to the back cover" select="'.../618985/04_Baksidetekst.mp3'" test="/*/d:file/replace(@href,'^.*/([^/]*/[^/]*)$','.../$1')"/>
+    </x:scenario>
+    
+    <x:scenario label="DAISY 2.02 - 623556">
+        <x:context>
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data">
+                <d:file href="../../../target/book-archive/623556/xhtml-symbol.ent"/>
+                <d:file href="../../../target/book-archive/623556/upjx0018.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0006.smil"/>
+                <d:file href="../../../target/book-archive/623556/er_book_info.xml"/>
+                <d:file href="../../../target/book-archive/623556/14_Kapittel_9__U_for_underbukse.mp3"/>
+                <d:file href="../../../target/book-archive/623556/19_Kapittel_14__A_for_apeskrik.mp3"/>
+                <d:file href="../../../target/book-archive/623556/master.smil"/>
+                <d:file href="../../../target/book-archive/623556/xhtml-special.ent"/>
+                <d:file href="../../../target/book-archive/623556/upjx000d.smil"/>
+                <d:file href="../../../target/book-archive/623556/04_Navigering_i_DAISY-boka.mp3"/>
+                <d:file href="../../../target/book-archive/623556/xhtml-lat1.ent"/>
+                <d:file href="../../../target/book-archive/623556/upjx0013.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0008.smil"/>
+                <d:file href="../../../target/book-archive/623556/16_Kapittel_11__T_for_Tyson.mp3"/>
+                <d:file href="../../../target/book-archive/623556/upjx001a.smil"/>
+                <d:file href="../../../target/book-archive/623556/18_Kapittel_13__K_for_kjeft.mp3"/>
+                <d:file href="../../../target/book-archive/623556/smil10.dtd"/>
+                <d:file href="../../../target/book-archive/623556/17_Kapittel_12__H_for_Hunden.mp3"/>
+                <d:file href="../../../target/book-archive/623556/M for mistet.wpl"/>
+                <d:file href="../../../target/book-archive/623556/M for mistet.xspf"/>
+                <d:file href="../../../target/book-archive/623556/upjx0009.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0010.smil"/>
+                <d:file href="../../../target/book-archive/623556/09_Kapittel_4__V_for_vikar.mp3"/>
+                <d:file href="../../../target/book-archive/623556/11_Kapittel_6__S_for_Sverige-kart.mp3"/>
+                <d:file href="../../../target/book-archive/623556/21_Kapittel_16__H_for_hai_faiv.mp3"/>
+                <d:file href="../../../target/book-archive/623556/12_Kapittel_7__M_for_melkebart.mp3"/>
+                <d:file href="../../../target/book-archive/623556/upjx000a.smil"/>
+                <d:file href="../../../target/book-archive/623556/08_Kapittel_3__E_for_ekkel_figur.mp3"/>
+                <d:file href="../../../target/book-archive/623556/15_Kapittel_10__O_for_O_boy.mp3"/>
+                <d:file href="../../../target/book-archive/623556/23_Kapittel_18__P_for_papirbiten.mp3"/>
+                <d:file href="../../../target/book-archive/623556/01_M_for_mistet.mp3"/>
+                <d:file href="../../../target/book-archive/623556/10_Kapittel_5__B_for_ballongpupper.mp3"/>
+                <d:file href="../../../target/book-archive/623556/24_Kapittel_19__B_for_bes_k.mp3"/>
+                <d:file href="../../../target/book-archive/623556/06_Kapittel_1__H_for_h_ndsvette.mp3"/>
+                <d:file href="../../../target/book-archive/623556/nlb.ico"/>
+                <d:file href="../../../target/book-archive/623556/22_Kapittel_17__U_for_ulv.mp3"/>
+                <d:file href="../../../target/book-archive/623556/upjx0015.smil"/>
+                <d:file href="../../../target/book-archive/623556/27_Kapittel_22__S_for_slutt.mp3"/>
+                <d:file href="../../../target/book-archive/623556/28_Sluttannonsering_.mp3"/>
+                <d:file href="../../../target/book-archive/623556/05_Bokomtale.mp3"/>
+                <d:file href="../../../target/book-archive/623556/upjx0007.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0016.smil"/>
+                <d:file href="../../../target/book-archive/623556/M for mistet.m3u8"/>
+                <d:file href="../../../target/book-archive/623556/upjx0005.smil"/>
+                <d:file href="../../../target/book-archive/623556/M for mistet.pls"/>
+                <d:file href="../../../target/book-archive/623556/upjx0017.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0002.smil"/>
+                <d:file href="../../../target/book-archive/623556/20_Kapittel_15__M_for_menssmerter.mp3"/>
+                <d:file href="../../../target/book-archive/623556/upjx001b.smil"/>
+                <d:file href="../../../target/book-archive/623556/M for mistet.m3u"/>
+                <d:file href="../../../target/book-archive/623556/07_Kapittel_2__B_for_bud.mp3"/>
+                <d:file href="../../../target/book-archive/623556/upjx000e.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0003.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0001.smil"/>
+                <d:file href="../../../target/book-archive/623556/13_Kapittel_8__K_for_kebabgryte.mp3"/>
+                <d:file href="../../../target/book-archive/623556/26_Kapittel_21__F_for_finnerl_nn.mp3"/>
+                <d:file href="../../../target/book-archive/623556/xhtml1-transitional.dtd"/>
+                <d:file href="../../../target/book-archive/623556/upjx001c.smil"/>
+                <d:file href="../../../target/book-archive/623556/ncc.html"/>
+                <d:file href="../../../target/book-archive/623556/03_Bokinformasjon.mp3"/>
+                <d:file href="../../../target/book-archive/623556/upjx0011.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0019.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0014.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx000f.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx000c.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0012.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx000b.smil"/>
+                <d:file href="../../../target/book-archive/623556/upjx0004.smil"/>
+                <d:file href="../../../target/book-archive/623556/25_Kapittel_20__G_for_gullpapir.mp3"/>
+                <d:file href="../../../target/book-archive/623556/02_Lydbokavtalen.mp3"/>
+            </d:fileset>
+        </x:context>
+        
+        <x:expect label="The result should be a DAISY 2.02 fileset">
+            <d:fileset xmlns:d="http://www.daisy.org/ns/pipeline/data" format="DAISY 2.02">...</d:fileset>
+        </x:expect>
+        <x:expect label="The result should contain exactly one d:file element" select="1" test="count(/*/d:file)"/>
+        <x:expect label="The d.file element should point to the audio file corresponding to the back cover" select="'.../623556/05_Bokomtale.mp3'" test="/*/d:file/replace(@href,'^.*/([^/]*/[^/]*)$','.../$1')"/>
+    </x:scenario>
+
+</x:description>

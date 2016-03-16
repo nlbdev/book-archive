@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+<trackList>
+<track>
+<location>01_HAMLON.mp3</location>
+<title>HAMLON</title>
+<trackNum>1</trackNum>
+<duration>10240</duration>
+</track>
+<track>
+<location>nlb_norge_annonsering.mp3</location>
+<title>Lydbokavtalen</title>
+<trackNum>2</trackNum>
+<duration>51696</duration>
+</track>
+<track>
+<location>02_Bokinformasjo.mp3</location>
+<title>Bokinformasjon</title>
+<trackNum>3</trackNum>
+<duration>39836</duration>
+</track>
+<track>
+<location>03_Bokomtale_og_.mp3</location>
+<title>Bokomtale og forfatteromtale</title>
+<trackNum>4</trackNum>
+<duration>90958</duration>
+</track>
+<track>
+<location>04_Etter_en_stun.mp3</location>
+<title>Etter en stund...</title>
+<trackNum>5</trackNum>
+<duration>709773</duration>
+</track>
+<track>
+<location>05_Special_agent.mp3</location>
+<title>Special agent Macduff...</title>
+<trackNum>6</trackNum>
+<duration>1039856</duration>
+</track>
+<track>
+<location>06_F_rsteinntryk.mp3</location>
+<title>FÃ¸rsteinntrykket til Linda...</title>
+<trackNum>7</trackNum>
+<duration>934818</duration>
+</track>
+<track>
+<location>07_Det_kom_sikke.mp3</location>
+<title>Det kom sikkert av den...</title>
+<trackNum>8</trackNum>
+<duration>1833665</duration>
+</track>
+<track>
+<location>08_Special_agent.mp3</location>
+<title>Special agent Macduffs...</title>
+<trackNum>9</trackNum>
+<duration>483291</duration>
+</track>
+<track>
+<location>09_Visst_var_spe.mp3</location>
+<title>Visst var spekkhoggere...</title>
+<trackNum>10</trackNum>
+<duration>554161</duration>
+</track>
+<track>
+<location>10_ETTERORD.mp3</location>
+<title>ETTERORD</title>
+<trackNum>11</trackNum>
+<duration>1405858</duration>
+</track>
+<track>
+<location>11_Hamlon__Jan_G.mp3</location>
+<title>Hamlon, Jan Guillou, Slutt</title>
+<trackNum>12</trackNum>
+<duration>12669</duration>
+</track>
+</trackList>
+</playlist>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Hva skal jeg med strømper og skjørt?"/>
+		<meta name="ncc:totalElapsedTime" content="00:19:53"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:03"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="63.344s">
+			<par endsync="last" id="rgn_par_0025_0001">
+				<text src="ncc.html#mcor_0018" id="mcor_0018"/>
+				<seq>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=0.000s" clip-end="npt=5.880s" id="rgn_aud_0025_0001"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=5.880s" clip-end="npt=9.236s" id="rgn_aud_0025_0002"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=9.236s" clip-end="npt=12.409s" id="rgn_aud_0025_0003"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=12.409s" clip-end="npt=16.916s" id="rgn_aud_0025_0004"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=16.916s" clip-end="npt=20.638s" id="rgn_aud_0025_0005"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=20.638s" clip-end="npt=23.158s" id="rgn_aud_0025_0006"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=23.158s" clip-end="npt=25.849s" id="rgn_aud_0025_0007"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=25.849s" clip-end="npt=28.120s" id="rgn_aud_0025_0008"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=28.120s" clip-end="npt=30.407s" id="rgn_aud_0025_0009"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=30.407s" clip-end="npt=33.880s" id="rgn_aud_0025_0010"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=33.880s" clip-end="npt=38.322s" id="rgn_aud_0025_0011"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=38.322s" clip-end="npt=42.709s" id="rgn_aud_0025_0012"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=42.709s" clip-end="npt=45.164s" id="rgn_aud_0025_0013"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=45.164s" clip-end="npt=48.822s" id="rgn_aud_0025_0014"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=48.822s" clip-end="npt=52.289s" id="rgn_aud_0025_0015"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=52.289s" clip-end="npt=55.582s" id="rgn_aud_0025_0016"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=55.582s" clip-end="npt=57.350s" id="rgn_aud_0025_0017"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=57.350s" clip-end="npt=57.847s" id="rgn_aud_0025_0018"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=57.847s" clip-end="npt=58.634s" id="rgn_aud_0025_0019"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=58.634s" clip-end="npt=59.417s" id="rgn_aud_0025_0020"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=59.417s" clip-end="npt=60.204s" id="rgn_aud_0025_0021"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=60.204s" clip-end="npt=60.988s" id="rgn_aud_0025_0022"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=60.988s" clip-end="npt=61.774s" id="rgn_aud_0025_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="noyt_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0062" id="noyt_0002"/>
+				<seq>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=61.774s" clip-end="npt=62.182s" id="rgn_aud_0025_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0025_0002">
+				<text src="ncc.html#mcor_0018" id="noyt_0003"/>
+				<seq>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=62.182s" clip-end="npt=62.558s" id="rgn_aud_0025_0025"/>
+					<audio src="25_Hva_skal_jeg_.mp3" clip-begin="npt=62.558s" clip-end="npt=63.344s" id="rgn_aud_0025_0026"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Det største i verden"/>
+		<meta name="ncc:totalElapsedTime" content="00:40:40"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:42"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="41.981s">
+			<par endsync="last" id="rgn_par_0051_0001">
+				<text src="ncc.html#mcor_0032" id="mcor_0032"/>
+				<seq>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=0.000s" clip-end="npt=4.506s" id="rgn_aud_0051_0001"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=4.506s" clip-end="npt=12.722s" id="rgn_aud_0051_0002"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=12.722s" clip-end="npt=14.034s" id="rgn_aud_0051_0003"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=14.034s" clip-end="npt=14.441s" id="rgn_aud_0051_0004"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=14.441s" clip-end="npt=15.332s" id="rgn_aud_0051_0005"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=15.332s" clip-end="npt=18.335s" id="rgn_aud_0051_0006"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=18.335s" clip-end="npt=22.359s" id="rgn_aud_0051_0007"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=22.359s" clip-end="npt=28.536s" id="rgn_aud_0051_0008"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=28.536s" clip-end="npt=31.475s" id="rgn_aud_0051_0009"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=31.475s" clip-end="npt=34.530s" id="rgn_aud_0051_0010"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=34.530s" clip-end="npt=35.981s" id="rgn_aud_0051_0011"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=35.981s" clip-end="npt=37.279s" id="rgn_aud_0051_0012"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=37.279s" clip-end="npt=38.063s" id="rgn_aud_0051_0013"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=38.063s" clip-end="npt=38.847s" id="rgn_aud_0051_0014"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=38.847s" clip-end="npt=39.631s" id="rgn_aud_0051_0015"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=39.631s" clip-end="npt=40.692s" id="rgn_aud_0051_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="tgkk_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_007c" id="tgkk_0002"/>
+				<seq>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=40.692s" clip-end="npt=40.744s" id="rgn_aud_0051_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0051_0002">
+				<text src="ncc.html#mcor_0032" id="tgkk_0003"/>
+				<seq>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=40.744s" clip-end="npt=41.198s" id="rgn_aud_0051_0018"/>
+					<audio src="51_Det_st_rste_i.mp3" clip-begin="npt=41.198s" clip-end="npt=41.981s" id="rgn_aud_0051_0019"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

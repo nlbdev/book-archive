@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:37:54.895"/>
+		<meta name="ncc:totalElapsedTime" content="11:33:56.018"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel femten"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2274.895s">
+			<par endsync="last" id="ikfb_0001">
+				<text src="ncc.html#dfrn_0014" id="dfrn_0014"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=0.000s" clip-end="npt=12.916s" id="audio_0001"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=12.916s" clip-end="npt=53.142s" id="audio_0002"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=53.142s" clip-end="npt=62.427s" id="audio_0003"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=62.427s" clip-end="npt=85.642s" id="audio_0004"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=85.642s" clip-end="npt=94.046s" id="audio_0005"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=94.046s" clip-end="npt=107.346s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_017d" id="ikfb_0019"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=107.346s" clip-end="npt=107.450s" id="audio_0007"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=107.450s" clip-end="npt=115.646s" id="audio_0008"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=115.646s" clip-end="npt=120.822s" id="audio_0009"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=120.822s" clip-end="npt=147.802s" id="audio_0010"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=147.802s" clip-end="npt=168.255s" id="audio_0011"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=168.255s" clip-end="npt=190.288s" id="audio_0012"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=190.288s" clip-end="npt=206.456s" id="audio_0013"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=206.456s" clip-end="npt=223.457s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_017e" id="ikfb_001b"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=223.457s" clip-end="npt=223.613s" id="audio_0015"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=223.613s" clip-end="npt=238.997s" id="audio_0016"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=238.997s" clip-end="npt=321.908s" id="audio_0017"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=321.908s" clip-end="npt=333.061s" id="audio_0018"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=333.061s" clip-end="npt=344.663s" id="audio_0019"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=344.663s" clip-end="npt=355.433s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_017f" id="ikfb_001d"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=355.433s" clip-end="npt=355.589s" id="audio_0021"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=355.589s" clip-end="npt=363.585s" id="audio_0022"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=363.585s" clip-end="npt=400.870s" id="audio_0023"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=400.870s" clip-end="npt=412.378s" id="audio_0024"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=412.378s" clip-end="npt=453.793s" id="audio_0025"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=453.793s" clip-end="npt=476.324s" id="audio_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0180" id="ikfb_001f"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=476.324s" clip-end="npt=476.446s" id="audio_0027"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=476.446s" clip-end="npt=490.341s" id="audio_0028"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=490.341s" clip-end="npt=584.173s" id="audio_0029"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=584.173s" clip-end="npt=598.159s" id="audio_0030"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=598.159s" clip-end="npt=605.166s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0181" id="ikfb_0021"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=605.166s" clip-end="npt=605.304s" id="audio_0032"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=605.304s" clip-end="npt=613.462s" id="audio_0033"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=613.462s" clip-end="npt=628.060s" id="audio_0034"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=628.060s" clip-end="npt=636.671s" id="audio_0035"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=636.671s" clip-end="npt=677.503s" id="audio_0036"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=677.503s" clip-end="npt=688.704s" id="audio_0037"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=688.704s" clip-end="npt=693.405s" id="audio_0038"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=693.405s" clip-end="npt=741.474s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0182" id="ikfb_0023"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=741.474s" clip-end="npt=741.612s" id="audio_0040"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=741.612s" clip-end="npt=746.024s" id="audio_0041"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=746.024s" clip-end="npt=774.100s" id="audio_0042"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=774.100s" clip-end="npt=790.896s" id="audio_0043"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=790.896s" clip-end="npt=803.771s" id="audio_0044"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=803.771s" clip-end="npt=817.602s" id="audio_0045"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=817.602s" clip-end="npt=822.844s" id="audio_0046"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=822.844s" clip-end="npt=829.898s" id="audio_0047"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=829.898s" clip-end="npt=841.325s" id="audio_0048"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=841.325s" clip-end="npt=868.993s" id="audio_0049"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=868.993s" clip-end="npt=874.512s" id="audio_0050"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0183" id="ikfb_0025"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=874.512s" clip-end="npt=874.609s" id="audio_0051"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=874.609s" clip-end="npt=885.176s" id="audio_0052"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=885.176s" clip-end="npt=907.609s" id="audio_0053"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=907.609s" clip-end="npt=939.689s" id="audio_0054"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=939.689s" clip-end="npt=945.930s" id="audio_0055"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=945.930s" clip-end="npt=950.964s" id="audio_0056"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=950.964s" clip-end="npt=957.075s" id="audio_0057"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=957.075s" clip-end="npt=968.777s" id="audio_0058"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=968.777s" clip-end="npt=995.186s" id="audio_0059"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=995.186s" clip-end="npt=999.932s" id="audio_0060"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=999.932s" clip-end="npt=1004.668s" id="audio_0061"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0184" id="ikfb_0027"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1004.668s" clip-end="npt=1004.749s" id="audio_0062"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1004.749s" clip-end="npt=1013.608s" id="audio_0063"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1013.608s" clip-end="npt=1027.316s" id="audio_0064"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1027.316s" clip-end="npt=1064.365s" id="audio_0065"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1064.365s" clip-end="npt=1074.959s" id="audio_0066"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1074.959s" clip-end="npt=1089.215s" id="audio_0067"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1089.215s" clip-end="npt=1093.898s" id="audio_0068"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1093.898s" clip-end="npt=1127.047s" id="audio_0069"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_005e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_02a9" id="ikfb_0060"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1127.047s" clip-end="npt=1127.199s" id="audio_0070"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1127.199s" clip-end="npt=1137.410s" id="audio_0071"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1137.410s" clip-end="npt=1148.041s" id="audio_0072"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1148.041s" clip-end="npt=1155.682s" id="audio_0073"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1155.682s" clip-end="npt=1182.110s" id="audio_0074"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1182.110s" clip-end="npt=1190.217s" id="audio_0075"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1190.217s" clip-end="npt=1196.204s" id="audio_0076"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1196.204s" clip-end="npt=1210.824s" id="audio_0077"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1210.824s" clip-end="npt=1247.071s" id="audio_0078"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0063" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_02aa" id="ikfb_0065"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1247.071s" clip-end="npt=1247.323s" id="audio_0079"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1247.323s" clip-end="npt=1268.794s" id="audio_0080"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1268.794s" clip-end="npt=1272.852s" id="audio_0081"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1272.852s" clip-end="npt=1280.972s" id="audio_0082"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1280.972s" clip-end="npt=1300.134s" id="audio_0083"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1300.134s" clip-end="npt=1311.425s" id="audio_0084"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1311.425s" clip-end="npt=1316.044s" id="audio_0085"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1316.044s" clip-end="npt=1341.437s" id="audio_0086"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1341.437s" clip-end="npt=1363.603s" id="audio_0087"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0069" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_02ab" id="ikfb_006b"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1363.603s" clip-end="npt=1363.755s" id="audio_0088"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1363.755s" clip-end="npt=1373.239s" id="audio_0089"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1373.239s" clip-end="npt=1402.542s" id="audio_0090"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1402.542s" clip-end="npt=1462.900s" id="audio_0091"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1462.900s" clip-end="npt=1484.812s" id="audio_0092"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_006e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_02ac" id="ikfb_0071"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1484.812s" clip-end="npt=1484.876s" id="audio_0093"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1484.876s" clip-end="npt=1535.733s" id="audio_0094"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1535.733s" clip-end="npt=1542.126s" id="audio_0095"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1542.126s" clip-end="npt=1565.144s" id="audio_0096"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1565.144s" clip-end="npt=1572.345s" id="audio_0097"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1572.345s" clip-end="npt=1606.625s" id="audio_0098"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1606.625s" clip-end="npt=1620.302s" id="audio_0099"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1620.302s" clip-end="npt=1626.422s" id="audio_0100"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0189" id="ikfb_0031"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1626.422s" clip-end="npt=1626.526s" id="audio_0101"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1626.526s" clip-end="npt=1635.481s" id="audio_0102"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1635.481s" clip-end="npt=1678.401s" id="audio_0103"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1678.401s" clip-end="npt=1684.160s" id="audio_0104"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1684.160s" clip-end="npt=1704.519s" id="audio_0105"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_018a" id="ikfb_0033"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1704.519s" clip-end="npt=1704.618s" id="audio_0106"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1704.618s" clip-end="npt=1752.240s" id="audio_0107"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1752.240s" clip-end="npt=1777.072s" id="audio_0108"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_018b" id="ikfb_0035"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1777.072s" clip-end="npt=1777.141s" id="audio_0109"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1777.141s" clip-end="npt=1781.241s" id="audio_0110"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1781.241s" clip-end="npt=1813.939s" id="audio_0111"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1813.939s" clip-end="npt=1837.338s" id="audio_0112"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1837.338s" clip-end="npt=1844.213s" id="audio_0113"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1844.213s" clip-end="npt=1853.770s" id="audio_0114"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_018c" id="ikfb_0037"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1853.770s" clip-end="npt=1853.874s" id="audio_0115"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1853.874s" clip-end="npt=1868.072s" id="audio_0116"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1868.072s" clip-end="npt=1888.419s" id="audio_0117"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1888.419s" clip-end="npt=1908.476s" id="audio_0118"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_018d" id="ikfb_0039"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1908.476s" clip-end="npt=1908.667s" id="audio_0119"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1908.667s" clip-end="npt=1928.916s" id="audio_0120"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1928.916s" clip-end="npt=1947.403s" id="audio_0121"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1947.403s" clip-end="npt=1966.088s" id="audio_0122"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1966.088s" clip-end="npt=1971.355s" id="audio_0123"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1971.355s" clip-end="npt=1982.945s" id="audio_0124"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_018e" id="ikfb_003b"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1982.945s" clip-end="npt=1983.118s" id="audio_0125"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=1983.118s" clip-end="npt=2044.304s" id="audio_0126"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0014" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_018f" id="ikfb_003d"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2044.304s" clip-end="npt=2044.442s" id="audio_0127"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2044.442s" clip-end="npt=2106.185s" id="audio_0128"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0015" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0190" id="ikfb_003f"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2106.185s" clip-end="npt=2106.392s" id="audio_0129"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2106.392s" clip-end="npt=2124.971s" id="audio_0130"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2124.971s" clip-end="npt=2151.289s" id="audio_0131"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2151.289s" clip-end="npt=2168.172s" id="audio_0132"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0016" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0191" id="ikfb_0041"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2168.172s" clip-end="npt=2168.380s" id="audio_0133"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2168.380s" clip-end="npt=2173.808s" id="audio_0134"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2173.808s" clip-end="npt=2180.063s" id="audio_0135"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2180.063s" clip-end="npt=2225.017s" id="audio_0136"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0017" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0192" id="ikfb_0043"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2225.017s" clip-end="npt=2225.121s" id="audio_0137"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2225.121s" clip-end="npt=2234.640s" id="audio_0138"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2234.640s" clip-end="npt=2255.296s" id="audio_0139"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2255.296s" clip-end="npt=2273.130s" id="audio_0140"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ikfb_0018" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0193" id="ikfb_0045"/>
+				<seq>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2273.130s" clip-end="npt=2273.217s" id="audio_0141"/>
+					<audio src="23_Kapittel_femt.mp3" clip-begin="npt=2273.217s" clip-end="npt=2274.895s" id="audio_0142"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Etterlysning"/>
+		<meta name="ncc:totalElapsedTime" content="00:51:09"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:39"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="38.594s">
+			<par endsync="last" id="rgn_par_0061_0001">
+				<text src="ncc.html#mcor_003c" id="mcor_003c"/>
+				<seq>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=0.000s" clip-end="npt=3.711s" id="rgn_aud_0061_0001"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=3.711s" clip-end="npt=9.537s" id="rgn_aud_0061_0002"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=9.537s" clip-end="npt=13.009s" id="rgn_aud_0061_0003"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=13.009s" clip-end="npt=18.353s" id="rgn_aud_0061_0004"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=18.353s" clip-end="npt=22.010s" id="rgn_aud_0061_0005"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=22.010s" clip-end="npt=25.013s" id="rgn_aud_0061_0006"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=25.013s" clip-end="npt=27.103s" id="rgn_aud_0061_0007"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=27.103s" clip-end="npt=30.474s" id="rgn_aud_0061_0008"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=30.474s" clip-end="npt=33.892s" id="rgn_aud_0061_0009"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=33.892s" clip-end="npt=34.676s" id="rgn_aud_0061_0010"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=34.676s" clip-end="npt=35.460s" id="rgn_aud_0061_0011"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=35.460s" clip-end="npt=36.244s" id="rgn_aud_0061_0012"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=36.244s" clip-end="npt=37.280s" id="rgn_aud_0061_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xwuf_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0087" id="xwuf_0002"/>
+				<seq>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=37.280s" clip-end="npt=37.481s" id="rgn_aud_0061_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0061_0002">
+				<text src="ncc.html#mcor_003c" id="xwuf_0003"/>
+				<seq>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=37.481s" clip-end="npt=37.811s" id="rgn_aud_0061_0015"/>
+					<audio src="61_Etterlysning.mp3" clip-begin="npt=37.811s" clip-end="npt=38.594s" id="rgn_aud_0061_0016"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

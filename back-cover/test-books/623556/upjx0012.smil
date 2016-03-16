@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:02:54.740"/>
+		<meta name="ncc:totalElapsedTime" content="00:48:06.505"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 13: K for kjeft"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="174.740s">
+			<par endsync="last" id="upjx_0012">
+				<text src="ncc.html#upjx_0011" id="upjx_0011"/>
+				<seq>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=0.000s" clip-end="npt=4.551s" id="audio_0001"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=4.551s" clip-end="npt=7.738s" id="audio_0002"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=7.738s" clip-end="npt=10.742s" id="audio_0003"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=10.742s" clip-end="npt=13.381s" id="audio_0004"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=13.381s" clip-end="npt=16.737s" id="audio_0005"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=16.737s" clip-end="npt=18.511s" id="audio_0006"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=18.511s" clip-end="npt=18.994s" id="audio_0007"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=18.994s" clip-end="npt=20.614s" id="audio_0008"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=20.614s" clip-end="npt=22.469s" id="audio_0009"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=22.469s" clip-end="npt=28.411s" id="audio_0010"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=28.411s" clip-end="npt=31.651s" id="audio_0011"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=31.651s" clip-end="npt=33.401s" id="audio_0012"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=33.401s" clip-end="npt=40.232s" id="audio_0013"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=40.232s" clip-end="npt=45.038s" id="audio_0014"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=45.038s" clip-end="npt=48.160s" id="audio_0015"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=48.160s" clip-end="npt=54.338s" id="audio_0016"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=54.338s" clip-end="npt=57.584s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="djpi_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_005e" id="djpi_0005"/>
+				<seq>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=57.584s" clip-end="npt=57.825s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="djpi_000d">
+				<text src="ncc.html#upjx_0011" id="djpi_0006"/>
+				<seq>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=57.825s" clip-end="npt=58.543s" id="audio_0019"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=58.543s" clip-end="npt=60.463s" id="audio_0020"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=60.463s" clip-end="npt=63.885s" id="audio_0021"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=63.885s" clip-end="npt=67.791s" id="audio_0022"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=67.791s" clip-end="npt=69.946s" id="audio_0023"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=69.946s" clip-end="npt=72.767s" id="audio_0024"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=72.767s" clip-end="npt=74.504s" id="audio_0025"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=74.504s" clip-end="npt=78.109s" id="audio_0026"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=78.109s" clip-end="npt=80.630s" id="audio_0027"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=80.630s" clip-end="npt=82.249s" id="audio_0028"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=82.249s" clip-end="npt=85.854s" id="audio_0029"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=85.854s" clip-end="npt=87.644s" id="audio_0030"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=87.644s" clip-end="npt=91.614s" id="audio_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="djpi_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_005f" id="djpi_0007"/>
+				<seq>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=91.614s" clip-end="npt=91.788s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="djpi_000e">
+				<text src="ncc.html#upjx_0011" id="djpi_0008"/>
+				<seq>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=91.788s" clip-end="npt=92.337s" id="audio_0033"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=92.337s" clip-end="npt=98.632s" id="audio_0034"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=98.632s" clip-end="npt=101.871s" id="audio_0035"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=101.871s" clip-end="npt=106.129s" id="audio_0036"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=106.129s" clip-end="npt=109.669s" id="audio_0037"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=109.669s" clip-end="npt=115.194s" id="audio_0038"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=115.194s" clip-end="npt=116.931s" id="audio_0039"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=116.931s" clip-end="npt=119.987s" id="audio_0040"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=119.987s" clip-end="npt=122.874s" id="audio_0041"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=122.874s" clip-end="npt=124.911s" id="audio_0042"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=124.911s" clip-end="npt=127.014s" id="audio_0043"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=127.014s" clip-end="npt=128.934s" id="audio_0044"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=128.934s" clip-end="npt=132.892s" id="audio_0045"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=132.892s" clip-end="npt=135.648s" id="audio_0046"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=135.648s" clip-end="npt=138.829s" id="audio_0047"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=138.829s" clip-end="npt=141.650s" id="audio_0048"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=141.650s" clip-end="npt=145.438s" id="audio_0049"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=145.438s" clip-end="npt=147.239s" id="audio_0050"/>
+				</seq>
+			</par>
+			<par endsync="last" id="djpi_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0060" id="djpi_0009"/>
+				<seq>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=147.239s" clip-end="npt=147.466s" id="audio_0051"/>
+				</seq>
+			</par>
+			<par endsync="last" id="djpi_000f">
+				<text src="ncc.html#upjx_0011" id="djpi_000a"/>
+				<seq>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=147.466s" clip-end="npt=148.067s" id="audio_0052"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=148.067s" clip-end="npt=151.424s" id="audio_0053"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=151.424s" clip-end="npt=154.493s" id="audio_0054"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=154.493s" clip-end="npt=158.268s" id="audio_0055"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=158.268s" clip-end="npt=161.925s" id="audio_0056"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=161.925s" clip-end="npt=162.944s" id="audio_0057"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=162.944s" clip-end="npt=167.515s" id="audio_0058"/>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=167.515s" clip-end="npt=174.172s" id="audio_0059"/>
+				</seq>
+			</par>
+			<par endsync="last" id="djpi_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0061" id="djpi_000b"/>
+				<seq>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=174.172s" clip-end="npt=174.279s" id="audio_0060"/>
+				</seq>
+			</par>
+			<par endsync="last" id="djpi_0010">
+				<text src="ncc.html#upjx_0011" id="djpi_000c"/>
+				<seq>
+					<audio src="18_Kapittel_13__K_for_kjeft.mp3" clip-begin="npt=174.279s" clip-end="npt=174.740s" id="audio_0061"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

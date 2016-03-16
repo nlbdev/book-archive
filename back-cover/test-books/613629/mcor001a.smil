@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Ny morgen"/>
+		<meta name="ncc:totalElapsedTime" content="00:20:57"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:02"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="62.017s">
+			<par endsync="last" id="rgn_par_0026_0001">
+				<text src="ncc.html#mcor_0019" id="mcor_0019"/>
+				<seq>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=0.000s" clip-end="npt=0.954s" id="rgn_aud_0026_0001"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=0.954s" clip-end="npt=4.426s" id="rgn_aud_0026_0002"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=4.426s" clip-end="npt=6.712s" id="rgn_aud_0026_0003"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=6.712s" clip-end="npt=10.489s" id="rgn_aud_0026_0004"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=10.489s" clip-end="npt=12.355s" id="rgn_aud_0026_0005"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=12.355s" clip-end="npt=14.582s" id="rgn_aud_0026_0006"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=14.582s" clip-end="npt=15.035s" id="rgn_aud_0026_0007"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=15.035s" clip-end="npt=17.202s" id="rgn_aud_0026_0008"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=17.202s" clip-end="npt=20.741s" id="rgn_aud_0026_0009"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=20.741s" clip-end="npt=23.196s" id="rgn_aud_0026_0010"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=23.196s" clip-end="npt=26.619s" id="rgn_aud_0026_0011"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=26.619s" clip-end="npt=29.675s" id="rgn_aud_0026_0012"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=29.675s" clip-end="npt=33.881s" id="rgn_aud_0026_0013"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=33.881s" clip-end="npt=34.847s" id="rgn_aud_0026_0014"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=34.847s" clip-end="npt=37.084s" id="rgn_aud_0026_0015"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=37.084s" clip-end="npt=37.859s" id="rgn_aud_0026_0016"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=37.859s" clip-end="npt=42.234s" id="rgn_aud_0026_0017"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=42.234s" clip-end="npt=44.338s" id="rgn_aud_0026_0018"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=44.338s" clip-end="npt=47.942s" id="rgn_aud_0026_0019"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=47.942s" clip-end="npt=50.280s" id="rgn_aud_0026_0020"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=50.280s" clip-end="npt=53.404s" id="rgn_aud_0026_0021"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=53.404s" clip-end="npt=55.792s" id="rgn_aud_0026_0022"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=55.792s" clip-end="npt=57.307s" id="rgn_aud_0026_0023"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=57.307s" clip-end="npt=58.091s" id="rgn_aud_0026_0024"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=58.091s" clip-end="npt=58.877s" id="rgn_aud_0026_0025"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=58.877s" clip-end="npt=59.661s" id="rgn_aud_0026_0026"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=59.661s" clip-end="npt=60.646s" id="rgn_aud_0026_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pmyr_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0063" id="pmyr_0002"/>
+				<seq>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=60.646s" clip-end="npt=60.881s" id="rgn_aud_0026_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0026_0002">
+				<text src="ncc.html#mcor_0019" id="pmyr_0003"/>
+				<seq>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=60.881s" clip-end="npt=61.231s" id="rgn_aud_0026_0029"/>
+					<audio src="26_Ny_morgen.mp3" clip-begin="npt=61.231s" clip-end="npt=62.017s" id="rgn_aud_0026_0030"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

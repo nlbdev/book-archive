@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:05:20.884"/>
+		<meta name="ncc:totalElapsedTime" content="00:18:09.185"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 5: B for ballongpupper"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="320.884s">
+			<par endsync="last" id="upjx_000a">
+				<text src="ncc.html#upjx_0009" id="upjx_0009"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=0.000s" clip-end="npt=2.103s" id="audio_0001"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=2.103s" clip-end="npt=4.924s" id="audio_0002"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=4.924s" clip-end="npt=10.684s" id="audio_0003"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=10.684s" clip-end="npt=14.158s" id="audio_0004"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=14.158s" clip-end="npt=17.528s" id="audio_0005"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=17.528s" clip-end="npt=20.650s" id="audio_0006"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=20.650s" clip-end="npt=22.857s" id="audio_0007"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=22.857s" clip-end="npt=25.078s" id="audio_0008"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=25.078s" clip-end="npt=30.537s" id="audio_0009"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=30.537s" clip-end="npt=34.926s" id="audio_0010"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=34.926s" clip-end="npt=39.184s" id="audio_0011"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=39.184s" clip-end="npt=44.042s" id="audio_0012"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=44.042s" clip-end="npt=47.948s" id="audio_0013"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=47.948s" clip-end="npt=50.103s" id="audio_0014"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=50.103s" clip-end="npt=53.107s" id="audio_0015"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=53.107s" clip-end="npt=55.680s" id="audio_0016"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=55.680s" clip-end="npt=59.402s" id="audio_0017"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=59.402s" clip-end="npt=60.904s" id="audio_0018"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=60.904s" clip-end="npt=65.646s" id="audio_0019"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=65.646s" clip-end="npt=67.442s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0036" id="wrki_0007"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=67.442s" clip-end="npt=67.575s" id="audio_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0013">
+				<text src="ncc.html#upjx_0009" id="wrki_0008"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=67.575s" clip-end="npt=68.293s" id="audio_0022"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=68.293s" clip-end="npt=71.833s" id="audio_0023"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=71.833s" clip-end="npt=73.453s" id="audio_0024"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=73.453s" clip-end="npt=75.973s" id="audio_0025"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=75.973s" clip-end="npt=79.278s" id="audio_0026"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=79.278s" clip-end="npt=81.681s" id="audio_0027"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=81.681s" clip-end="npt=83.118s" id="audio_0028"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=83.118s" clip-end="npt=85.038s" id="audio_0029"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=85.038s" clip-end="npt=91.399s" id="audio_0030"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=91.399s" clip-end="npt=95.121s" id="audio_0031"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=95.121s" clip-end="npt=102.984s" id="audio_0032"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=102.984s" clip-end="npt=104.207s" id="audio_0033"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=104.207s" clip-end="npt=104.873s" id="audio_0034"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=104.873s" clip-end="npt=107.812s" id="audio_0035"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=107.812s" clip-end="npt=110.333s" id="audio_0036"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=110.333s" clip-end="npt=112.488s" id="audio_0037"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=112.488s" clip-end="npt=113.785s" id="audio_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0037" id="wrki_0009"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=113.785s" clip-end="npt=113.972s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0014">
+				<text src="ncc.html#upjx_0009" id="wrki_000a"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=113.972s" clip-end="npt=114.455s" id="audio_0040"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=114.455s" clip-end="npt=117.812s" id="audio_0041"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=117.812s" clip-end="npt=124.891s" id="audio_0042"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=124.891s" clip-end="npt=127.059s" id="audio_0043"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=127.059s" clip-end="npt=129.450s" id="audio_0044"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=129.450s" clip-end="npt=132.036s" id="audio_0045"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=132.036s" clip-end="npt=135.275s" id="audio_0046"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=135.275s" clip-end="npt=136.894s" id="audio_0047"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=136.894s" clip-end="npt=143.974s" id="audio_0048"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=143.974s" clip-end="npt=150.870s" id="audio_0049"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=150.870s" clip-end="npt=157.479s" id="audio_0050"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=157.479s" clip-end="npt=160.470s" id="audio_0051"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=160.470s" clip-end="npt=163.892s" id="audio_0052"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=163.892s" clip-end="npt=164.976s" id="audio_0053"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=164.976s" clip-end="npt=169.116s" id="audio_0054"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=169.116s" clip-end="npt=171.312s" id="audio_0055"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=171.312s" clip-end="npt=175.452s" id="audio_0056"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=175.452s" clip-end="npt=180.194s" id="audio_0057"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=180.194s" clip-end="npt=183.132s" id="audio_0058"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=183.132s" clip-end="npt=187.390s" id="audio_0059"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=187.390s" clip-end="npt=193.154s" id="audio_0060"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0038" id="wrki_000b"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=193.154s" clip-end="npt=193.381s" id="audio_0061"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0015">
+				<text src="ncc.html#upjx_0009" id="wrki_000c"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=193.381s" clip-end="npt=193.864s" id="audio_0062"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=193.864s" clip-end="npt=197.939s" id="audio_0063"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=197.939s" clip-end="npt=202.145s" id="audio_0064"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=202.145s" clip-end="npt=210.726s" id="audio_0065"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=210.726s" clip-end="npt=217.022s" id="audio_0066"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=217.022s" clip-end="npt=219.791s" id="audio_0067"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=219.791s" clip-end="npt=224.446s" id="audio_0068"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0039" id="wrki_000d"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=224.446s" clip-end="npt=224.593s" id="audio_0069"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0016">
+				<text src="ncc.html#upjx_0009" id="wrki_000e"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=224.593s" clip-end="npt=225.194s" id="audio_0070"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=225.194s" clip-end="npt=230.653s" id="audio_0071"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=230.653s" clip-end="npt=233.174s" id="audio_0072"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=233.174s" clip-end="npt=239.770s" id="audio_0073"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=239.770s" clip-end="npt=244.995s" id="audio_0074"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=244.995s" clip-end="npt=247.816s" id="audio_0075"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=247.816s" clip-end="npt=250.454s" id="audio_0076"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=250.454s" clip-end="npt=254.843s" id="audio_0077"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=254.843s" clip-end="npt=259.336s" id="audio_0078"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=259.336s" clip-end="npt=261.739s" id="audio_0079"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=261.739s" clip-end="npt=262.598s" id="audio_0080"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=262.598s" clip-end="npt=265.419s" id="audio_0081"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=265.419s" clip-end="npt=267.411s" id="audio_0082"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=267.411s" clip-end="npt=270.833s" id="audio_0083"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=270.833s" clip-end="npt=273.171s" id="audio_0084"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=273.171s" clip-end="npt=280.015s" id="audio_0085"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=280.015s" clip-end="npt=282.771s" id="audio_0086"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=282.771s" clip-end="npt=288.113s" id="audio_0087"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=288.113s" clip-end="npt=292.619s" id="audio_0088"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=292.619s" clip-end="npt=293.755s" id="audio_0089"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=293.755s" clip-end="npt=295.858s" id="audio_0090"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=295.858s" clip-end="npt=298.732s" id="audio_0091"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=298.732s" clip-end="npt=299.816s" id="audio_0092"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=299.816s" clip-end="npt=302.586s" id="audio_0093"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=302.586s" clip-end="npt=304.628s" id="audio_0094"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_003a" id="wrki_000f"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=304.628s" clip-end="npt=304.761s" id="audio_0095"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0017">
+				<text src="ncc.html#upjx_0009" id="wrki_0010"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=304.761s" clip-end="npt=305.362s" id="audio_0096"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=305.362s" clip-end="npt=309.685s" id="audio_0097"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=309.685s" clip-end="npt=312.559s" id="audio_0098"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=312.559s" clip-end="npt=316.399s" id="audio_0099"/>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=316.399s" clip-end="npt=320.209s" id="audio_0100"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0006" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_003b" id="wrki_0011"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=320.209s" clip-end="npt=320.396s" id="audio_0101"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wrki_0018">
+				<text src="ncc.html#upjx_0009" id="wrki_0012"/>
+				<seq>
+					<audio src="10_Kapittel_5__B_for_ballongpupper.mp3" clip-begin="npt=320.396s" clip-end="npt=320.884s" id="audio_0102"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

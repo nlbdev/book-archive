@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:06:01.867"/>
+		<meta name="ncc:totalElapsedTime" content="00:58:47.089"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 16: H for hai faiv"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="361.867s">
+			<par endsync="last" id="yqwv_0001">
+				<text src="ncc.html#upjx_0014" id="upjx_0014"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=0.000s" clip-end="npt=2.586s" id="audio_0001"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=2.586s" clip-end="npt=5.224s" id="audio_0002"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=5.224s" clip-end="npt=7.380s" id="audio_0003"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=7.380s" clip-end="npt=10.018s" id="audio_0004"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=10.018s" clip-end="npt=13.022s" id="audio_0005"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=13.022s" clip-end="npt=15.060s" id="audio_0006"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=15.060s" clip-end="npt=22.322s" id="audio_0007"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=22.322s" clip-end="npt=23.071s" id="audio_0008"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=23.071s" clip-end="npt=23.554s" id="audio_0009"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=23.554s" clip-end="npt=26.558s" id="audio_0010"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=26.558s" clip-end="npt=29.577s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_006b" id="yqwv_0009"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=29.577s" clip-end="npt=29.777s" id="audio_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_0017">
+				<text src="ncc.html#upjx_0014" id="yqwv_000a"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=29.777s" clip-end="npt=30.561s" id="audio_0013"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=30.561s" clip-end="npt=36.086s" id="audio_0014"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=36.086s" clip-end="npt=38.006s" id="audio_0015"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=38.006s" clip-end="npt=39.560s" id="audio_0016"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=39.560s" clip-end="npt=42.446s" id="audio_0017"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=42.446s" clip-end="npt=47.305s" id="audio_0018"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=47.305s" clip-end="npt=49.095s" id="audio_0019"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=49.095s" clip-end="npt=53.183s" id="audio_0020"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=53.183s" clip-end="npt=57.258s" id="audio_0021"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=57.258s" clip-end="npt=58.159s" id="audio_0022"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=58.159s" clip-end="npt=62.665s" id="audio_0023"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=62.665s" clip-end="npt=66.975s" id="audio_0024"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=66.975s" clip-end="npt=69.744s" id="audio_0025"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=69.744s" clip-end="npt=75.321s" id="audio_0026"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=75.321s" clip-end="npt=81.499s" id="audio_0027"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=81.499s" clip-end="npt=86.306s" id="audio_0028"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=86.306s" clip-end="npt=89.114s" id="audio_0029"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=89.114s" clip-end="npt=91.217s" id="audio_0030"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=91.217s" clip-end="npt=94.822s" id="audio_0031"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=94.822s" clip-end="npt=98.779s" id="audio_0032"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=98.779s" clip-end="npt=102.019s" id="audio_0033"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=102.019s" clip-end="npt=105.558s" id="audio_0034"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=105.558s" clip-end="npt=108.144s" id="audio_0035"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=108.144s" clip-end="npt=110.835s" id="audio_0036"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=110.835s" clip-end="npt=112.585s" id="audio_0037"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=112.585s" clip-end="npt=114.724s" id="audio_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_006c" id="yqwv_000b"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=114.724s" clip-end="npt=114.911s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_0018">
+				<text src="ncc.html#upjx_0014" id="yqwv_000c"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=114.911s" clip-end="npt=115.577s" id="audio_0040"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=115.577s" clip-end="npt=119.535s" id="audio_0041"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=119.535s" clip-end="npt=122.291s" id="audio_0042"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=122.291s" clip-end="npt=125.778s" id="audio_0043"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=125.778s" clip-end="npt=129.017s" id="audio_0044"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=129.017s" clip-end="npt=131.956s" id="audio_0045"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=131.956s" clip-end="npt=133.956s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_006d" id="yqwv_000d"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=133.956s" clip-end="npt=134.169s" id="audio_0047"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_0019">
+				<text src="ncc.html#upjx_0014" id="yqwv_000e"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=134.169s" clip-end="npt=134.652s" id="audio_0048"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=134.652s" clip-end="npt=139.459s" id="audio_0049"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=139.459s" clip-end="npt=142.633s" id="audio_0050"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=142.633s" clip-end="npt=146.238s" id="audio_0051"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=146.238s" clip-end="npt=150.078s" id="audio_0052"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=150.078s" clip-end="npt=152.651s" id="audio_0053"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=152.651s" clip-end="npt=161.532s" id="audio_0054"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=161.532s" clip-end="npt=164.236s" id="audio_0055"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=164.236s" clip-end="npt=169.029s" id="audio_0056"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=169.029s" clip-end="npt=173.470s" id="audio_0057"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=173.470s" clip-end="npt=175.390s" id="audio_0058"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=175.390s" clip-end="npt=178.577s" id="audio_0059"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=178.577s" clip-end="npt=181.398s" id="audio_0060"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=181.398s" clip-end="npt=183.619s" id="audio_0061"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=183.619s" clip-end="npt=185.075s" id="audio_0062"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_006e" id="yqwv_000f"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=185.075s" clip-end="npt=185.288s" id="audio_0063"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_001a">
+				<text src="ncc.html#upjx_0014" id="yqwv_0010"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=185.288s" clip-end="npt=186.137s" id="audio_0064"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=186.137s" clip-end="npt=189.193s" id="audio_0065"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=189.193s" clip-end="npt=190.930s" id="audio_0066"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=190.930s" clip-end="npt=196.207s" id="audio_0067"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=196.207s" clip-end="npt=198.846s" id="audio_0068"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=198.846s" clip-end="npt=201.366s" id="audio_0069"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=201.366s" clip-end="npt=206.591s" id="audio_0070"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=206.591s" clip-end="npt=210.366s" id="audio_0071"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=210.366s" clip-end="npt=214.036s" id="audio_0072"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=214.036s" clip-end="npt=216.374s" id="audio_0073"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=216.374s" clip-end="npt=218.646s" id="audio_0074"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=218.646s" clip-end="npt=222.134s" id="audio_0075"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=222.134s" clip-end="npt=229.148s" id="audio_0076"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=229.148s" clip-end="npt=232.517s" id="audio_0077"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=232.517s" clip-end="npt=238.395s" id="audio_0078"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=238.395s" clip-end="npt=240.668s" id="audio_0079"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=240.668s" clip-end="npt=242.235s" id="audio_0080"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=242.235s" clip-end="npt=244.625s" id="audio_0081"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=244.625s" clip-end="npt=248.648s" id="audio_0082"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=248.648s" clip-end="npt=252.553s" id="audio_0083"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=252.553s" clip-end="npt=255.309s" id="audio_0084"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=255.309s" clip-end="npt=258.013s" id="audio_0085"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=258.013s" clip-end="npt=260.233s" id="audio_0086"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=260.233s" clip-end="npt=266.777s" id="audio_0087"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=266.777s" clip-end="npt=269.167s" id="audio_0088"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=269.167s" clip-end="npt=270.367s" id="audio_0089"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_0006" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_006f" id="yqwv_0011"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=270.367s" clip-end="npt=270.500s" id="audio_0090"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_001b">
+				<text src="ncc.html#upjx_0014" id="yqwv_0012"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=270.500s" clip-end="npt=271.049s" id="audio_0091"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=271.049s" clip-end="npt=277.630s" id="audio_0092"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=277.630s" clip-end="npt=281.000s" id="audio_0093"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=281.000s" clip-end="npt=283.272s" id="audio_0094"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=283.272s" clip-end="npt=290.887s" id="audio_0095"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=290.887s" clip-end="npt=295.576s" id="audio_0096"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=295.576s" clip-end="npt=298.632s" id="audio_0097"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=298.632s" clip-end="npt=302.355s" id="audio_0098"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=302.355s" clip-end="npt=305.411s" id="audio_0099"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=305.411s" clip-end="npt=308.716s" id="audio_0100"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=308.716s" clip-end="npt=310.518s" id="audio_0101"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=310.518s" clip-end="npt=312.072s" id="audio_0102"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=312.072s" clip-end="npt=315.795s" id="audio_0103"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=315.795s" clip-end="npt=320.536s" id="audio_0104"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=320.536s" clip-end="npt=322.809s" id="audio_0105"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=322.809s" clip-end="npt=329.695s" id="audio_0106"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_0007" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0070" id="yqwv_0013"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=329.695s" clip-end="npt=329.775s" id="audio_0107"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_001c">
+				<text src="ncc.html#upjx_0014" id="yqwv_0014"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=329.775s" clip-end="npt=330.441s" id="audio_0108"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=330.441s" clip-end="npt=336.802s" id="audio_0109"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=336.802s" clip-end="npt=341.177s" id="audio_0110"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=341.177s" clip-end="npt=345.736s" id="audio_0111"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=345.736s" clip-end="npt=353.364s" id="audio_0112"/>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=353.364s" clip-end="npt=361.419s" id="audio_0113"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_0008" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0071" id="yqwv_0015"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=361.419s" clip-end="npt=361.606s" id="audio_0114"/>
+				</seq>
+			</par>
+			<par endsync="last" id="yqwv_001d">
+				<text src="ncc.html#upjx_0014" id="yqwv_0016"/>
+				<seq>
+					<audio src="21_Kapittel_16__H_for_hai_faiv.mp3" clip-begin="npt=361.606s" clip-end="npt=361.867s" id="audio_0115"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

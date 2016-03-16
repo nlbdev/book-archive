@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+    <head>
+        <meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="dc:format" content="Daisy 2.02"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+        <meta name="ncc:timeInThisSmil" content="21:16:07.297"/>
+        <layout>
+            <region id="txtView"/>
+        </layout>
+    </head>
+    <body>
+        <ref title="Fifty Shades: Fri" src="dfrn0001.smil#dfrn0001" id="smil_0001"/>
+        <ref title="Lydbokavtalen" src="dfrn0002.smil#dfrn_0001" id="smil_0002"/>
+        <ref title="Bokinformasjon" src="dfrn0003.smil#dfrn_0002" id="smil_0003"/>
+        <ref title="Baksidetekst" src="dfrn0028.smil#dfrn_02a7" id="smil_0004"/>
+        <ref title="Forfatteromtale" src="dfrn0029.smil#dfrn_02a8" id="smil_0005"/>
+        <ref title="Navigering i DAISY-boka" src="dfrn0004.smil#dfrn_0003" id="smil_0006"/>
+        <ref title="Dedikasjon" src="dfrn0005.smil#dfrn_0004" id="smil_0007"/>
+        <ref title="Prolog" src="dfrn0006.smil#dfrn_0005" id="smil_0008"/>
+        <ref title="Kapittel en" src="dfrn0007.smil#dfrn_0006" id="smil_0009"/>
+        <ref title="Kapittel to" src="dfrn0008.smil#dfrn_0007" id="smil_0010"/>
+        <ref title="Kapittel tre" src="dfrn0009.smil#dfrn_0008" id="smil_0011"/>
+        <ref title="Kapittel fire" src="dfrn000a.smil#dfrn_0009" id="smil_0012"/>
+        <ref title="Kapittel fem" src="dfrn000b.smil#dfrn_000a" id="smil_0013"/>
+        <ref title="Kapittel seks" src="dfrn000c.smil#dfrn_000b" id="smil_0014"/>
+        <ref title="Kapittel sju" src="dfrn000d.smil#dfrn_000c" id="smil_0015"/>
+        <ref title="Kapittel åtte" src="dfrn000e.smil#dfrn_000d" id="smil_0016"/>
+        <ref title="Kapittel ni" src="dfrn000f.smil#dfrn_000e" id="smil_0017"/>
+        <ref title="Kapittel ti" src="dfrn0010.smil#dfrn_000f" id="smil_0018"/>
+        <ref title="Kapittel elleve" src="dfrn0011.smil#dfrn_0010" id="smil_0019"/>
+        <ref title="Kapittel tolv" src="dfrn0012.smil#dfrn_0011" id="smil_0020"/>
+        <ref title="Kapittel tretten" src="dfrn0013.smil#dfrn_0012" id="smil_0021"/>
+        <ref title="Kapittel fjorten" src="dfrn0014.smil#dfrn_0013" id="smil_0022"/>
+        <ref title="Kapittel femten" src="dfrn0015.smil#dfrn_0014" id="smil_0023"/>
+        <ref title="Kapittel seksten" src="dfrn0016.smil#dfrn_0015" id="smil_0024"/>
+        <ref title="Kapittel sytten" src="dfrn0017.smil#dfrn_0016" id="smil_0025"/>
+        <ref title="Kapittel atten" src="dfrn0018.smil#dfrn_0017" id="smil_0026"/>
+        <ref title="Kapittel nitten" src="dfrn0019.smil#dfrn_0018" id="smil_0027"/>
+        <ref title="Kapittel tjue" src="dfrn001a.smil#dfrn_0019" id="smil_0028"/>
+        <ref title="Kapittel tjueen" src="dfrn001b.smil#dfrn_001a" id="smil_0029"/>
+        <ref title="Kapittel tjueto" src="dfrn001c.smil#dfrn_001b" id="smil_0030"/>
+        <ref title="Kapittel tjuetre" src="dfrn001d.smil#dfrn_001c" id="smil_0031"/>
+        <ref title="Kapittel tjuefire" src="dfrn001e.smil#dfrn_001d" id="smil_0032"/>
+        <ref title="Kapittel tjuefem" src="dfrn001f.smil#dfrn_001e" id="smil_0033"/>
+        <ref title="Epilog" src="dfrn0020.smil#dfrn_001f" id="smil_0034"/>
+        <ref title="Notis fra forfatteren" src="dfrn0021.smil#dfrn_0020" id="smil_0035"/>
+        <ref title="Shades av Christian" src="dfrn0022.smil#dfrn_0021" id="smil_0036"/>
+        <ref title="Fiftys første jul" src="dfrn0023.smil#dfrn_0022" id="smil_0037"/>
+        <ref title="Møt Fifty Shades" src="dfrn0024.smil#dfrn_0023" id="smil_0038"/>
+        <ref title="Takk" src="dfrn0025.smil#dfrn_0024" id="smil_0039"/>
+        <ref title="Sluttannonsering" src="dfrn0026.smil#dfrn_0025" id="smil_0040"/>
+    </body>
+</smil>

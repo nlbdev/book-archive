@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+<trackList>
+<track>
+<location>01_M_for_mistet.mp3</location>
+<title>M for mistet</title>
+<trackNum>1</trackNum>
+<duration>9456</duration>
+</track>
+<track>
+<location>02_Lydbokavtalen.mp3</location>
+<title>Lydbokavtalen</title>
+<trackNum>2</trackNum>
+<duration>44800</duration>
+</track>
+<track>
+<location>03_Bokinformasjon.mp3</location>
+<title>Bokinformasjon</title>
+<trackNum>3</trackNum>
+<duration>33227</duration>
+</track>
+<track>
+<location>04_Navigering_i_DAISY-boka.mp3</location>
+<title>Navigering i DAISY-boka</title>
+<trackNum>4</trackNum>
+<duration>20662</duration>
+</track>
+<track>
+<location>05_Bokomtale.mp3</location>
+<title>Bokomtale</title>
+<trackNum>5</trackNum>
+<duration>48875</duration>
+</track>
+<track>
+<location>06_Kapittel_1__H_for_h_ndsvette.mp3</location>
+<title>Kapittel 1: H for håndsvette</title>
+<trackNum>6</trackNum>
+<duration>186618</duration>
+</track>
+<track>
+<location>07_Kapittel_2__B_for_bud.mp3</location>
+<title>Kapittel 2: B for bud</title>
+<trackNum>7</trackNum>
+<duration>239516</duration>
+</track>
+<track>
+<location>08_Kapittel_3__E_for_ekkel_figur.mp3</location>
+<title>Kapittel 3: E for ekkel figur</title>
+<trackNum>8</trackNum>
+<duration>224470</duration>
+</track>
+<track>
+<location>09_Kapittel_4__V_for_vikar.mp3</location>
+<title>Kapittel 4: V for vikar</title>
+<trackNum>9</trackNum>
+<duration>280241</duration>
+</track>
+<track>
+<location>10_Kapittel_5__B_for_ballongpupper.mp3</location>
+<title>Kapittel 5: B for ballongpupper</title>
+<trackNum>10</trackNum>
+<duration>321175</duration>
+</track>
+<track>
+<location>11_Kapittel_6__S_for_Sverige-kart.mp3</location>
+<title>Kapittel 6: S for Sverige-kart</title>
+<trackNum>11</trackNum>
+<duration>151379</duration>
+</track>
+<track>
+<location>12_Kapittel_7__M_for_melkebart.mp3</location>
+<title>Kapittel 7: M for melkebart</title>
+<trackNum>12</trackNum>
+<duration>164362</duration>
+</track>
+<track>
+<location>13_Kapittel_8__K_for_kebabgryte.mp3</location>
+<title>Kapittel 8: K for kebabgryte</title>
+<trackNum>13</trackNum>
+<duration>235885</duration>
+</track>
+<track>
+<location>14_Kapittel_9__U_for_underbukse.mp3</location>
+<title>Kapittel 9: U for underbukse</title>
+<trackNum>14</trackNum>
+<duration>314488</duration>
+</track>
+<track>
+<location>15_Kapittel_10__O_for_O_boy.mp3</location>
+<title>Kapittel 10: O for O'boy</title>
+<trackNum>15</trackNum>
+<duration>218853</duration>
+</track>
+<track>
+<location>16_Kapittel_11__T_for_Tyson.mp3</location>
+<title>Kapittel 11: T for Tyson</title>
+<trackNum>16</trackNum>
+<duration>178024</duration>
+</track>
+<track>
+<location>17_Kapittel_12__H_for_Hunden.mp3</location>
+<title>Kapittel 12: H for Hunden</title>
+<trackNum>17</trackNum>
+<duration>213733</duration>
+</track>
+<track>
+<location>18_Kapittel_13__K_for_kjeft.mp3</location>
+<title>Kapittel 13: K for kjeft</title>
+<trackNum>18</trackNum>
+<duration>174680</duration>
+</track>
+<track>
+<location>19_Kapittel_14__A_for_apeskrik.mp3</location>
+<title>Kapittel 14: A for apeskrik</title>
+<trackNum>19</trackNum>
+<duration>204094</duration>
+</track>
+<track>
+<location>20_Kapittel_15__M_for_menssmerter.mp3</location>
+<title>Kapittel 15: M for menssmerter</title>
+<trackNum>20</trackNum>
+<duration>261929</duration>
+</track>
+<track>
+<location>21_Kapittel_16__H_for_hai_faiv.mp3</location>
+<title>Kapittel 16: H for hai faiv</title>
+<trackNum>21</trackNum>
+<duration>362266</duration>
+</track>
+<track>
+<location>22_Kapittel_17__U_for_ulv.mp3</location>
+<title>Kapittel 17: U for ulv</title>
+<trackNum>22</trackNum>
+<duration>180610</duration>
+</track>
+<track>
+<location>23_Kapittel_18__P_for_papirbiten.mp3</location>
+<title>Kapittel 18: P for papirbiten</title>
+<trackNum>23</trackNum>
+<duration>175960</duration>
+</track>
+<track>
+<location>24_Kapittel_19__B_for_bes_k.mp3</location>
+<title>Kapittel 19: B for besøk</title>
+<trackNum>24</trackNum>
+<duration>204852</duration>
+</track>
+<track>
+<location>25_Kapittel_20__G_for_gullpapir.mp3</location>
+<title>Kapittel 20: G for gullpapir</title>
+<trackNum>25</trackNum>
+<duration>225697</duration>
+</track>
+<track>
+<location>26_Kapittel_21__F_for_finnerl_nn.mp3</location>
+<title>Kapittel 21: F for finnerlønn</title>
+<trackNum>26</trackNum>
+<duration>144326</duration>
+</track>
+<track>
+<location>27_Kapittel_22__S_for_slutt.mp3</location>
+<title>Kapittel 22: S for slutt</title>
+<trackNum>27</trackNum>
+<duration>239333</duration>
+</track>
+<track>
+<location>28_Sluttannonsering_.mp3</location>
+<title>Sluttannonsering.</title>
+<trackNum>28</trackNum>
+<duration>12329</duration>
+</track>
+</trackList>
+</playlist>

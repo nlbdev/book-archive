@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:33.599"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:54.820"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Bokinformasjon"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="33.599s">
+			<par endsync="last" id="qmgk_0001">
+				<text src="ncc.html#upjx_0002" id="upjx_0002"/>
+				<seq>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=0.000s" clip-end="npt=2.524s" id="audio_0001"/>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=2.524s" clip-end="npt=5.530s" id="audio_0002"/>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=5.530s" clip-end="npt=9.221s" id="audio_0003"/>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=9.221s" clip-end="npt=9.795s" id="audio_0004"/>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=9.795s" clip-end="npt=13.862s" id="audio_0005"/>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=13.862s" clip-end="npt=15.586s" id="audio_0006"/>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=15.586s" clip-end="npt=19.452s" id="audio_0007"/>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=19.452s" clip-end="npt=22.269s" id="audio_0008"/>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=22.269s" clip-end="npt=22.694s" id="audio_0009"/>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=22.694s" clip-end="npt=28.271s" id="audio_0010"/>
+					<audio src="03_Bokinformasjon.mp3" clip-begin="npt=28.271s" clip-end="npt=33.599s" id="audio_0011"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

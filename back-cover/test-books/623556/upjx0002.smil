@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:45.140"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:09.680"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Lydbokavtalen"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="45.140s">
+			<par endsync="last" id="gdzi_0001">
+				<text src="ncc.html#upjx_0001" id="upjx_0001"/>
+				<seq>
+					<audio src="02_Lydbokavtalen.mp3" clip-begin="npt=0.000s" clip-end="npt=2.704s" id="audio_0001"/>
+					<audio src="02_Lydbokavtalen.mp3" clip-begin="npt=2.704s" clip-end="npt=12.500s" id="audio_0002"/>
+					<audio src="02_Lydbokavtalen.mp3" clip-begin="npt=12.500s" clip-end="npt=16.039s" id="audio_0003"/>
+					<audio src="02_Lydbokavtalen.mp3" clip-begin="npt=16.039s" clip-end="npt=22.387s" id="audio_0004"/>
+					<audio src="02_Lydbokavtalen.mp3" clip-begin="npt=22.387s" clip-end="npt=27.781s" id="audio_0005"/>
+					<audio src="02_Lydbokavtalen.mp3" clip-begin="npt=27.781s" clip-end="npt=36.937s" id="audio_0006"/>
+					<audio src="02_Lydbokavtalen.mp3" clip-begin="npt=36.937s" clip-end="npt=45.140s" id="audio_0007"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

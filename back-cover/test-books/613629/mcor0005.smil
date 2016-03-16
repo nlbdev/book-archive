@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Dedikasjon"/>
+		<meta name="ncc:totalElapsedTime" content="00:03:16"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:11"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="10.617s">
+			<par endsync="last" id="rgn_par_0005_0001">
+				<text src="ncc.html#mcor_0004" id="mcor_0004"/>
+				<seq>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=0.000s" clip-end="npt=1.972s" id="rgn_aud_0005_0001"/>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=1.972s" clip-end="npt=5.394s" id="rgn_aud_0005_0002"/>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=5.394s" clip-end="npt=6.692s" id="rgn_aud_0005_0003"/>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=6.692s" clip-end="npt=7.477s" id="rgn_aud_0005_0004"/>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=7.477s" clip-end="npt=8.262s" id="rgn_aud_0005_0005"/>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=8.262s" clip-end="npt=9.047s" id="rgn_aud_0005_0006"/>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=9.047s" clip-end="npt=9.832s" id="rgn_aud_0005_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kobg_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_004c" id="kobg_0003"/>
+				<seq>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=9.832s" clip-end="npt=9.893s" id="rgn_aud_0005_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0002">
+				<text src="ncc.html#mcor_0004" id="kobg_0004"/>
+				<seq>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=9.893s" clip-end="npt=10.015s" id="rgn_aud_0005_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kobg_0002" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_004d" id="kobg_0005"/>
+				<seq>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=10.015s" clip-end="npt=10.076s" id="rgn_aud_0005_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0005_0003">
+				<text src="ncc.html#mcor_0004" id="kobg_0006"/>
+				<seq>
+					<audio src="05_Dedikasjon.mp3" clip-begin="npt=10.076s" clip-end="npt=10.617s" id="rgn_aud_0005_0011"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

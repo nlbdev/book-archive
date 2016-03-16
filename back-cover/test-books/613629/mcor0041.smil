@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Dikt for barn"/>
+		<meta name="ncc:totalElapsedTime" content="00:55:10"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:27"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="27.012s">
+			<par endsync="last" id="rgn_par_0065_0001">
+				<text src="ncc.html#mcor_0040" id="mcor_0040"/>
+				<seq>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=0.000s" clip-end="npt=4.016s" id="rgn_aud_0065_0001"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=4.016s" clip-end="npt=6.693s" id="rgn_aud_0065_0002"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=6.693s" clip-end="npt=7.531s" id="rgn_aud_0065_0003"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=7.531s" clip-end="npt=9.603s" id="rgn_aud_0065_0004"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=9.603s" clip-end="npt=12.609s" id="rgn_aud_0065_0005"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=12.609s" clip-end="npt=15.156s" id="rgn_aud_0065_0006"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=15.156s" clip-end="npt=16.678s" id="rgn_aud_0065_0007"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=16.678s" clip-end="npt=18.899s" id="rgn_aud_0065_0008"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=18.899s" clip-end="npt=21.515s" id="rgn_aud_0065_0009"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=21.515s" clip-end="npt=22.302s" id="rgn_aud_0065_0010"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=22.302s" clip-end="npt=23.085s" id="rgn_aud_0065_0011"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=23.085s" clip-end="npt=23.872s" id="rgn_aud_0065_0012"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=23.872s" clip-end="npt=24.657s" id="rgn_aud_0065_0013"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=24.657s" clip-end="npt=25.442s" id="rgn_aud_0065_0014"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=25.442s" clip-end="npt=26.227s" id="rgn_aud_0065_0015"/>
+					<audio src="65_Dikt_for_barn.mp3" clip-begin="npt=26.227s" clip-end="npt=27.012s" id="rgn_aud_0065_0016"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

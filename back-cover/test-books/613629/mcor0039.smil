@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="En hilsen fra vaskemaskinen"/>
+		<meta name="ncc:totalElapsedTime" content="00:47:24"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:53"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="52.616s">
+			<par endsync="last" id="rgn_par_0057_0001">
+				<text src="ncc.html#mcor_0038" id="mcor_0038"/>
+				<seq>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=0.000s" clip-end="npt=3.223s" id="rgn_aud_0057_0001"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=3.223s" clip-end="npt=5.091s" id="rgn_aud_0057_0002"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=5.091s" clip-end="npt=8.579s" id="rgn_aud_0057_0003"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=8.579s" clip-end="npt=12.471s" id="rgn_aud_0057_0004"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=12.471s" clip-end="npt=15.239s" id="rgn_aud_0057_0005"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=15.239s" clip-end="npt=21.742s" id="rgn_aud_0057_0006"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=21.742s" clip-end="npt=25.187s" id="rgn_aud_0057_0007"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=25.187s" clip-end="npt=25.616s" id="rgn_aud_0057_0008"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=25.616s" clip-end="npt=28.715s" id="rgn_aud_0057_0009"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=28.715s" clip-end="npt=29.231s" id="rgn_aud_0057_0010"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=29.231s" clip-end="npt=32.823s" id="rgn_aud_0057_0011"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=32.823s" clip-end="npt=35.448s" id="rgn_aud_0057_0012"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=35.448s" clip-end="npt=36.009s" id="rgn_aud_0057_0013"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=36.009s" clip-end="npt=36.750s" id="rgn_aud_0057_0014"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=36.750s" clip-end="npt=39.271s" id="rgn_aud_0057_0015"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=39.271s" clip-end="npt=43.829s" id="rgn_aud_0057_0016"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=43.829s" clip-end="npt=47.128s" id="rgn_aud_0057_0017"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=47.128s" clip-end="npt=47.911s" id="rgn_aud_0057_0018"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=47.911s" clip-end="npt=48.697s" id="rgn_aud_0057_0019"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=48.697s" clip-end="npt=49.481s" id="rgn_aud_0057_0020"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=49.481s" clip-end="npt=50.265s" id="rgn_aud_0057_0021"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=50.265s" clip-end="npt=51.048s" id="rgn_aud_0057_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xnzd_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0083" id="xnzd_0002"/>
+				<seq>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=51.048s" clip-end="npt=51.182s" id="rgn_aud_0057_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0057_0002">
+				<text src="ncc.html#mcor_0038" id="xnzd_0003"/>
+				<seq>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=51.182s" clip-end="npt=51.832s" id="rgn_aud_0057_0024"/>
+					<audio src="57_En_hilsen_fra.mp3" clip-begin="npt=51.832s" clip-end="npt=52.616s" id="rgn_aud_0057_0025"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

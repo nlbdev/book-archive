@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:04:40.027"/>
+		<meta name="ncc:totalElapsedTime" content="00:13:29.158"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 4: V for vikar"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="280.027s">
+			<par endsync="last" id="upjx_0009">
+				<text src="ncc.html#upjx_0008" id="upjx_0008"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=0.000s" clip-end="npt=2.403s" id="audio_0001"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=2.403s" clip-end="npt=4.741s" id="audio_0002"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=4.741s" clip-end="npt=12.369s" id="audio_0003"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=12.369s" clip-end="npt=21.786s" id="audio_0004"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=21.786s" clip-end="npt=23.749s" id="audio_0005"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=23.749s" clip-end="npt=28.973s" id="audio_0006"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=28.973s" clip-end="npt=30.593s" id="audio_0007"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=30.593s" clip-end="npt=32.996s" id="audio_0008"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=32.996s" clip-end="npt=37.790s" id="audio_0009"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=37.790s" clip-end="npt=39.893s" id="audio_0010"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=39.893s" clip-end="npt=44.151s" id="audio_0011"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=44.151s" clip-end="npt=46.606s" id="audio_0012"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=46.606s" clip-end="npt=50.812s" id="audio_0013"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=50.812s" clip-end="npt=57.708s" id="audio_0014"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=57.708s" clip-end="npt=59.458s" id="audio_0015"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=59.458s" clip-end="npt=61.151s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0030" id="nfdw_0007"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=61.151s" clip-end="npt=61.258s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0013">
+				<text src="ncc.html#upjx_0008" id="nfdw_0008"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=61.258s" clip-end="npt=62.213s" id="audio_0018"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=62.213s" clip-end="npt=65.518s" id="audio_0019"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=65.518s" clip-end="npt=68.274s" id="audio_0020"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=68.274s" clip-end="npt=73.550s" id="audio_0021"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=73.550s" clip-end="npt=76.620s" id="audio_0022"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=76.620s" clip-end="npt=78.357s" id="audio_0023"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=78.357s" clip-end="npt=80.695s" id="audio_0024"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=80.695s" clip-end="npt=85.619s" id="audio_0025"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=85.619s" clip-end="npt=89.159s" id="audio_0026"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=89.159s" clip-end="npt=93.482s" id="audio_0027"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=93.482s" clip-end="npt=94.400s" id="audio_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0031" id="nfdw_0009"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=94.400s" clip-end="npt=94.597s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0014">
+				<text src="ncc.html#upjx_0008" id="nfdw_000a"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=94.597s" clip-end="npt=95.315s" id="audio_0030"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=95.315s" clip-end="npt=98.555s" id="audio_0031"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=98.555s" clip-end="npt=102.342s" id="audio_0032"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=102.342s" clip-end="npt=108.455s" id="audio_0033"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=108.455s" clip-end="npt=110.976s" id="audio_0034"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=110.976s" clip-end="npt=114.946s" id="audio_0035"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=114.946s" clip-end="npt=120.223s" id="audio_0036"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=120.223s" clip-end="npt=125.617s" id="audio_0037"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=125.617s" clip-end="npt=129.523s" id="audio_0038"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=129.523s" clip-end="npt=131.771s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0032" id="nfdw_000b"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=131.771s" clip-end="npt=132.012s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0015">
+				<text src="ncc.html#upjx_0008" id="nfdw_000c"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=132.012s" clip-end="npt=132.561s" id="audio_0041"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=132.561s" clip-end="npt=135.617s" id="audio_0042"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=135.617s" clip-end="npt=138.255s" id="audio_0043"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=138.255s" clip-end="npt=141.429s" id="audio_0044"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=141.429s" clip-end="npt=146.001s" id="audio_0045"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=146.001s" clip-end="npt=149.109s" id="audio_0046"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=149.109s" clip-end="npt=158.422s" id="audio_0047"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=158.422s" clip-end="npt=160.459s" id="audio_0048"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=160.459s" clip-end="npt=162.850s" id="audio_0049"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=162.850s" clip-end="npt=167.290s" id="audio_0050"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=167.290s" clip-end="npt=169.041s" id="audio_0051"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=169.041s" clip-end="npt=173.651s" id="audio_0052"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=173.651s" clip-end="npt=177.491s" id="audio_0053"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=177.491s" clip-end="npt=180.130s" id="audio_0054"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=180.130s" clip-end="npt=184.270s" id="audio_0055"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=184.270s" clip-end="npt=188.241s" id="audio_0056"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=188.241s" clip-end="npt=190.696s" id="audio_0057"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=190.696s" clip-end="npt=194.902s" id="audio_0058"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=194.902s" clip-end="npt=198.977s" id="audio_0059"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=198.977s" clip-end="npt=204.854s" id="audio_0060"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=204.854s" clip-end="npt=207.325s" id="audio_0061"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=207.325s" clip-end="npt=211.314s" id="audio_0062"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0033" id="nfdw_000d"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=211.314s" clip-end="npt=211.594s" id="audio_0063"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0016">
+				<text src="ncc.html#upjx_0008" id="nfdw_000e"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=211.594s" clip-end="npt=212.312s" id="audio_0064"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=212.312s" clip-end="npt=216.768s" id="audio_0065"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=216.768s" clip-end="npt=219.054s" id="audio_0066"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=219.054s" clip-end="npt=224.814s" id="audio_0067"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=224.814s" clip-end="npt=225.652s" id="audio_0068"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0034" id="nfdw_000f"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=225.652s" clip-end="npt=225.959s" id="audio_0069"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0017">
+				<text src="ncc.html#upjx_0008" id="nfdw_0010"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=225.959s" clip-end="npt=226.560s" id="audio_0070"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=226.560s" clip-end="npt=230.583s" id="audio_0071"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=230.583s" clip-end="npt=234.841s" id="audio_0072"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=234.841s" clip-end="npt=243.004s" id="audio_0073"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=243.004s" clip-end="npt=249.848s" id="audio_0074"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=249.848s" clip-end="npt=254.207s" id="audio_0075"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=254.207s" clip-end="npt=254.690s" id="audio_0076"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=254.690s" clip-end="npt=264.956s" id="audio_0077"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=264.956s" clip-end="npt=273.289s" id="audio_0078"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=273.289s" clip-end="npt=277.613s" id="audio_0079"/>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=277.613s" clip-end="npt=279.606s" id="audio_0080"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0006" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0035" id="nfdw_0011"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=279.606s" clip-end="npt=279.753s" id="audio_0081"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nfdw_0018">
+				<text src="ncc.html#upjx_0008" id="nfdw_0012"/>
+				<seq>
+					<audio src="09_Kapittel_4__V_for_vikar.mp3" clip-begin="npt=279.753s" clip-end="npt=280.027s" id="audio_0082"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

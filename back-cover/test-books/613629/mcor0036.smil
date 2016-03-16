@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Et siste måltid "/>
+		<meta name="ncc:totalElapsedTime" content="00:43:44"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:53"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="52.85s">
+			<par endsync="last" id="rgn_par_0054_0001">
+				<text src="ncc.html#mcor_0035" id="mcor_0035"/>
+				<seq>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=0.000s" clip-end="npt=10.428s" id="rgn_aud_0054_0001"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=10.428s" clip-end="npt=13.549s" id="rgn_aud_0054_0002"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=13.549s" clip-end="npt=16.422s" id="rgn_aud_0054_0003"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=16.422s" clip-end="npt=25.538s" id="rgn_aud_0054_0004"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=25.538s" clip-end="npt=29.079s" id="rgn_aud_0054_0005"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=29.079s" clip-end="npt=31.181s" id="rgn_aud_0054_0006"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=31.181s" clip-end="npt=35.505s" id="rgn_aud_0054_0007"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=35.505s" clip-end="npt=42.283s" id="rgn_aud_0054_0008"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=42.283s" clip-end="npt=48.146s" id="rgn_aud_0054_0009"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=48.146s" clip-end="npt=48.930s" id="rgn_aud_0054_0010"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=48.930s" clip-end="npt=49.713s" id="rgn_aud_0054_0011"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=49.713s" clip-end="npt=50.497s" id="rgn_aud_0054_0012"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=50.497s" clip-end="npt=51.280s" id="rgn_aud_0054_0013"/>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=51.280s" clip-end="npt=51.682s" id="rgn_aud_0054_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wlub_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_007f" id="wlub_0002"/>
+				<seq>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=51.682s" clip-end="npt=51.829s" id="rgn_aud_0054_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0054_0002">
+				<text src="ncc.html#mcor_0035" id="wlub_0003"/>
+				<seq>
+					<audio src="54_Et_siste_m_lt.mp3" clip-begin="npt=51.829s" clip-end="npt=52.850s" id="rgn_aud_0054_0016"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

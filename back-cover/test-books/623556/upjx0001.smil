@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:09.680"/>
+		<meta name="ncc:totalElapsedTime" content="00:00:00.000"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="M for mistet"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="9.680s">
+			<par endsync="last" id="fkgu_0001">
+				<text src="ncc.html#upjx0001" id="upjx0001"/>
+				<seq>
+					<audio src="01_M_for_mistet.mp3" clip-begin="npt=0.000s" clip-end="npt=4.258s" id="audio_0001"/>
+					<audio src="01_M_for_mistet.mp3" clip-begin="npt=4.258s" clip-end="npt=9.680s" id="audio_0002"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

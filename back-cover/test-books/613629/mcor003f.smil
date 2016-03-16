@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="En alle tiders mor "/>
+		<meta name="ncc:totalElapsedTime" content="00:52:33"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:38"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="97.662s">
+			<par endsync="last" id="rgn_par_0063_0001">
+				<text src="ncc.html#mcor_003e" id="mcor_003e"/>
+				<seq>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=0.000s" clip-end="npt=2.586s" id="rgn_aud_0063_0001"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=2.586s" clip-end="npt=4.088s" id="rgn_aud_0063_0002"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=4.088s" clip-end="npt=10.201s" id="rgn_aud_0063_0003"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=10.201s" clip-end="npt=12.721s" id="rgn_aud_0063_0004"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=12.721s" clip-end="npt=14.459s" id="rgn_aud_0063_0005"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=14.459s" clip-end="npt=16.853s" id="rgn_aud_0063_0006"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=16.853s" clip-end="npt=18.329s" id="rgn_aud_0063_0007"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=18.329s" clip-end="npt=21.870s" id="rgn_aud_0063_0008"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=21.870s" clip-end="npt=22.940s" id="rgn_aud_0063_0009"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=22.940s" clip-end="npt=24.991s" id="rgn_aud_0063_0010"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=24.991s" clip-end="npt=30.869s" id="rgn_aud_0063_0011"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=30.869s" clip-end="npt=34.643s" id="rgn_aud_0063_0012"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=34.643s" clip-end="npt=36.328s" id="rgn_aud_0063_0013"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=36.328s" clip-end="npt=38.247s" id="rgn_aud_0063_0014"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=38.247s" clip-end="npt=41.722s" id="rgn_aud_0063_0015"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=41.722s" clip-end="npt=47.966s" id="rgn_aud_0063_0016"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=47.966s" clip-end="npt=50.420s" id="rgn_aud_0063_0017"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=50.420s" clip-end="npt=53.908s" id="rgn_aud_0063_0018"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=53.908s" clip-end="npt=56.965s" id="rgn_aud_0063_0019"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=56.965s" clip-end="npt=60.686s" id="rgn_aud_0063_0020"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=60.686s" clip-end="npt=63.442s" id="rgn_aud_0063_0021"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=63.442s" clip-end="npt=64.763s" id="rgn_aud_0063_0022"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=64.763s" clip-end="npt=69.686s" id="rgn_aud_0063_0023"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=69.686s" clip-end="npt=72.691s" id="rgn_aud_0063_0024"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=72.691s" clip-end="npt=75.811s" id="rgn_aud_0063_0025"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=75.811s" clip-end="npt=78.869s" id="rgn_aud_0063_0026"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=78.869s" clip-end="npt=82.159s" id="rgn_aud_0063_0027"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=82.159s" clip-end="npt=85.882s" id="rgn_aud_0063_0028"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=85.882s" clip-end="npt=90.924s" id="rgn_aud_0063_0029"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=90.924s" clip-end="npt=92.953s" id="rgn_aud_0063_0030"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=92.953s" clip-end="npt=93.738s" id="rgn_aud_0063_0031"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=93.738s" clip-end="npt=94.522s" id="rgn_aud_0063_0032"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=94.522s" clip-end="npt=95.308s" id="rgn_aud_0063_0033"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=95.308s" clip-end="npt=96.093s" id="rgn_aud_0063_0034"/>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=96.093s" clip-end="npt=96.581s" id="rgn_aud_0063_0035"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sghv_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0089" id="sghv_0002"/>
+				<seq>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=96.581s" clip-end="npt=96.683s" id="rgn_aud_0063_0036"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0063_0002">
+				<text src="ncc.html#mcor_003e" id="sghv_0003"/>
+				<seq>
+					<audio src="63_En_alle_tider.mp3" clip-begin="npt=96.683s" clip-end="npt=97.662s" id="rgn_aud_0063_0037"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

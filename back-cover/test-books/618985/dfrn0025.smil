@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:22.634"/>
+		<meta name="ncc:totalElapsedTime" content="21:14:28.885"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Takk"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="82.634s">
+			<par endsync="last" id="par_0001">
+				<text src="ncc.html#dfrn_0024" id="dfrn_0024"/>
+				<seq>
+					<audio src="39_Takk.mp3" clip-begin="npt=0.000s" clip-end="npt=25.772s" id="audio_0001"/>
+					<audio src="39_Takk.mp3" clip-begin="npt=25.772s" clip-end="npt=59.849s" id="audio_0002"/>
+					<audio src="39_Takk.mp3" clip-begin="npt=59.849s" clip-end="npt=68.915s" id="audio_0003"/>
+					<audio src="39_Takk.mp3" clip-begin="npt=68.915s" clip-end="npt=80.295s" id="audio_0004"/>
+					<audio src="39_Takk.mp3" clip-begin="npt=80.295s" clip-end="npt=82.634s" id="audio_0005"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

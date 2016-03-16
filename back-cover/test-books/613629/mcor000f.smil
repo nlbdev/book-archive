@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Den natta sov jeg ikke"/>
+		<meta name="ncc:totalElapsedTime" content="00:11:05"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:57"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="57.14s">
+			<par endsync="last" id="rgn_par_0015_0001">
+				<text src="ncc.html#mcor_000e" id="mcor_000e"/>
+				<seq>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=0.000s" clip-end="npt=4.720s" id="rgn_aud_0015_0001"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=4.720s" clip-end="npt=7.241s" id="rgn_aud_0015_0002"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=7.241s" clip-end="npt=11.564s" id="rgn_aud_0015_0003"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=11.564s" clip-end="npt=14.803s" id="rgn_aud_0015_0004"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=14.803s" clip-end="npt=18.160s" id="rgn_aud_0015_0005"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=18.160s" clip-end="npt=20.745s" id="rgn_aud_0015_0006"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=20.745s" clip-end="npt=22.666s" id="rgn_aud_0015_0007"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=22.666s" clip-end="npt=25.068s" id="rgn_aud_0015_0008"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=25.068s" clip-end="npt=27.106s" id="rgn_aud_0015_0009"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=27.106s" clip-end="npt=31.129s" id="rgn_aud_0015_0010"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=31.129s" clip-end="npt=32.802s" id="rgn_aud_0015_0011"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=32.802s" clip-end="npt=34.722s" id="rgn_aud_0015_0012"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=34.722s" clip-end="npt=35.923s" id="rgn_aud_0015_0013"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=35.923s" clip-end="npt=39.280s" id="rgn_aud_0015_0014"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=39.280s" clip-end="npt=41.908s" id="rgn_aud_0015_0015"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=41.908s" clip-end="npt=43.700s" id="rgn_aud_0015_0016"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=43.700s" clip-end="npt=46.167s" id="rgn_aud_0015_0017"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=46.167s" clip-end="npt=48.990s" id="rgn_aud_0015_0018"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=48.990s" clip-end="npt=51.186s" id="rgn_aud_0015_0019"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=51.186s" clip-end="npt=51.972s" id="rgn_aud_0015_0020"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=51.972s" clip-end="npt=52.756s" id="rgn_aud_0015_0021"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=52.756s" clip-end="npt=53.542s" id="rgn_aud_0015_0022"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=53.542s" clip-end="npt=54.326s" id="rgn_aud_0015_0023"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=54.326s" clip-end="npt=55.338s" id="rgn_aud_0015_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wgwh_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0058" id="wgwh_0002"/>
+				<seq>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=55.338s" clip-end="npt=55.484s" id="rgn_aud_0015_0025"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0015_0002">
+				<text src="ncc.html#mcor_000e" id="wgwh_0003"/>
+				<seq>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=55.484s" clip-end="npt=55.896s" id="rgn_aud_0015_0026"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=55.896s" clip-end="npt=56.682s" id="rgn_aud_0015_0027"/>
+					<audio src="15_Den_natta_sov.mp3" clip-begin="npt=56.682s" clip-end="npt=57.140s" id="rgn_aud_0015_0028"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

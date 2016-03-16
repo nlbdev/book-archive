@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:34:00.014"/>
+		<meta name="ncc:totalElapsedTime" content="19:31:49.838"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Epilog"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2040.014s">
+			<par endsync="last" id="kffn_0001">
+				<text src="ncc.html#dfrn_001f" id="dfrn_001f"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=0.000s" clip-end="npt=7.321s" id="audio_0001"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=7.321s" clip-end="npt=21.461s" id="audio_0002"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=21.461s" clip-end="npt=39.260s" id="audio_0003"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=39.260s" clip-end="npt=45.737s" id="audio_0004"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=45.737s" clip-end="npt=49.944s" id="audio_0005"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=49.944s" clip-end="npt=54.360s" id="audio_0006"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=54.360s" clip-end="npt=94.749s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0268" id="kffn_0012"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=94.749s" clip-end="npt=94.870s" id="audio_0008"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=94.870s" clip-end="npt=117.437s" id="audio_0009"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=117.437s" clip-end="npt=142.969s" id="audio_0010"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=142.969s" clip-end="npt=172.905s" id="audio_0011"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=172.905s" clip-end="npt=215.476s" id="audio_0012"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=215.476s" clip-end="npt=227.204s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0269" id="kffn_0014"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=227.204s" clip-end="npt=227.307s" id="audio_0014"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=227.307s" clip-end="npt=239.818s" id="audio_0015"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=239.818s" clip-end="npt=265.548s" id="audio_0016"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=265.548s" clip-end="npt=276.365s" id="audio_0017"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=276.365s" clip-end="npt=340.562s" id="audio_0018"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=340.562s" clip-end="npt=355.844s" id="audio_0019"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=355.844s" clip-end="npt=362.962s" id="audio_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_026a" id="kffn_0016"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=362.962s" clip-end="npt=363.117s" id="audio_0021"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=363.117s" clip-end="npt=383.425s" id="audio_0022"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=383.425s" clip-end="npt=409.767s" id="audio_0023"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=409.767s" clip-end="npt=424.256s" id="audio_0024"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=424.256s" clip-end="npt=457.113s" id="audio_0025"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=457.113s" clip-end="npt=472.496s" id="audio_0026"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=472.496s" clip-end="npt=490.858s" id="audio_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_026b" id="kffn_0018"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=490.858s" clip-end="npt=490.945s" id="audio_0028"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=490.945s" clip-end="npt=554.157s" id="audio_0029"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=554.157s" clip-end="npt=573.338s" id="audio_0030"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=573.338s" clip-end="npt=577.878s" id="audio_0031"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=577.878s" clip-end="npt=598.232s" id="audio_0032"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=598.232s" clip-end="npt=618.633s" id="audio_0033"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=618.633s" clip-end="npt=628.096s" id="audio_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_026c" id="kffn_001a"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=628.096s" clip-end="npt=628.234s" id="audio_0035"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=628.234s" clip-end="npt=633.224s" id="audio_0036"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=633.224s" clip-end="npt=642.148s" id="audio_0037"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=642.148s" clip-end="npt=660.886s" id="audio_0038"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=660.886s" clip-end="npt=743.411s" id="audio_0039"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=743.411s" clip-end="npt=764.142s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_026d" id="kffn_001c"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=764.142s" clip-end="npt=764.280s" id="audio_0041"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=764.280s" clip-end="npt=769.686s" id="audio_0042"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=769.686s" clip-end="npt=781.269s" id="audio_0043"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=781.269s" clip-end="npt=800.729s" id="audio_0044"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=800.729s" clip-end="npt=848.832s" id="audio_0045"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=848.832s" clip-end="npt=855.078s" id="audio_0046"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=855.078s" clip-end="npt=859.250s" id="audio_0047"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=859.250s" clip-end="npt=893.962s" id="audio_0048"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_026e" id="kffn_001e"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=893.962s" clip-end="npt=894.066s" id="audio_0049"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=894.066s" clip-end="npt=898.477s" id="audio_0050"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=898.477s" clip-end="npt=920.135s" id="audio_0051"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=920.135s" clip-end="npt=935.164s" id="audio_0052"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=935.164s" clip-end="npt=946.826s" id="audio_0053"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=946.826s" clip-end="npt=951.078s" id="audio_0054"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=951.078s" clip-end="npt=967.866s" id="audio_0055"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=967.866s" clip-end="npt=977.395s" id="audio_0056"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=977.395s" clip-end="npt=987.794s" id="audio_0057"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=987.794s" clip-end="npt=1001.391s" id="audio_0058"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1001.391s" clip-end="npt=1033.568s" id="audio_0059"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_026f" id="kffn_0020"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1033.568s" clip-end="npt=1033.723s" id="audio_0060"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1033.723s" clip-end="npt=1081.257s" id="audio_0061"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1081.257s" clip-end="npt=1097.247s" id="audio_0062"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1097.247s" clip-end="npt=1108.544s" id="audio_0063"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1108.544s" clip-end="npt=1137.158s" id="audio_0064"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1137.158s" clip-end="npt=1150.300s" id="audio_0065"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1150.300s" clip-end="npt=1155.896s" id="audio_0066"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0270" id="kffn_0022"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1155.896s" clip-end="npt=1156.000s" id="audio_0067"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1156.000s" clip-end="npt=1160.308s" id="audio_0068"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1160.308s" clip-end="npt=1218.719s" id="audio_0069"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1218.719s" clip-end="npt=1266.164s" id="audio_0070"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1266.164s" clip-end="npt=1287.444s" id="audio_0071"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1287.444s" clip-end="npt=1295.110s" id="audio_0072"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0271" id="kffn_0024"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1295.110s" clip-end="npt=1295.230s" id="audio_0073"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1295.230s" clip-end="npt=1323.990s" id="audio_0074"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1323.990s" clip-end="npt=1331.262s" id="audio_0075"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1331.262s" clip-end="npt=1399.978s" id="audio_0076"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1399.978s" clip-end="npt=1410.441s" id="audio_0077"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1410.441s" clip-end="npt=1416.680s" id="audio_0078"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0272" id="kffn_0026"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1416.680s" clip-end="npt=1416.870s" id="audio_0079"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1416.870s" clip-end="npt=1480.463s" id="audio_0080"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1480.463s" clip-end="npt=1527.057s" id="audio_0081"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1527.057s" clip-end="npt=1541.983s" id="audio_0082"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0273" id="kffn_0028"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1541.983s" clip-end="npt=1542.835s" id="audio_0083"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1542.835s" clip-end="npt=1548.489s" id="audio_0084"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1548.489s" clip-end="npt=1563.964s" id="audio_0085"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1563.964s" clip-end="npt=1576.773s" id="audio_0086"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1576.773s" clip-end="npt=1609.849s" id="audio_0087"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1609.849s" clip-end="npt=1617.749s" id="audio_0088"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1617.749s" clip-end="npt=1645.398s" id="audio_0089"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0274" id="kffn_002a"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1645.398s" clip-end="npt=1645.554s" id="audio_0090"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1645.554s" clip-end="npt=1688.397s" id="audio_0091"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1688.397s" clip-end="npt=1696.306s" id="audio_0092"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1696.306s" clip-end="npt=1728.595s" id="audio_0093"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1728.595s" clip-end="npt=1732.845s" id="audio_0094"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1732.845s" clip-end="npt=1754.224s" id="audio_0095"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1754.224s" clip-end="npt=1772.042s" id="audio_0096"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0275" id="kffn_002c"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1772.042s" clip-end="npt=1772.163s" id="audio_0097"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1772.163s" clip-end="npt=1816.008s" id="audio_0098"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1816.008s" clip-end="npt=1820.785s" id="audio_0099"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1820.785s" clip-end="npt=1897.407s" id="audio_0100"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0276" id="kffn_002e"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1897.407s" clip-end="npt=1897.510s" id="audio_0101"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1897.510s" clip-end="npt=1902.684s" id="audio_0102"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1902.684s" clip-end="npt=1929.994s" id="audio_0103"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1929.994s" clip-end="npt=1949.663s" id="audio_0104"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1949.663s" clip-end="npt=1963.680s" id="audio_0105"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1963.680s" clip-end="npt=1978.057s" id="audio_0106"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=1978.057s" clip-end="npt=2004.474s" id="audio_0107"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=2004.474s" clip-end="npt=2012.936s" id="audio_0108"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=2012.936s" clip-end="npt=2019.067s" id="audio_0109"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=2019.067s" clip-end="npt=2023.775s" id="audio_0110"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=2023.775s" clip-end="npt=2038.297s" id="audio_0111"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kffn_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0277" id="kffn_0030"/>
+				<seq>
+					<audio src="34_Epilog.mp3" clip-begin="npt=2038.297s" clip-end="npt=2038.418s" id="audio_0112"/>
+					<audio src="34_Epilog.mp3" clip-begin="npt=2038.418s" clip-end="npt=2040.014s" id="audio_0113"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

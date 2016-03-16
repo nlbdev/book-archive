@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Et eventyr"/>
+		<meta name="ncc:totalElapsedTime" content="00:05:03"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:55"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="55.24s">
+			<par endsync="last" id="rgn_par_0008_0001">
+				<text src="ncc.html#mcor_0007" id="mcor_0007"/>
+				<seq>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=0.000s" clip-end="npt=2.294s" id="rgn_aud_0008_0001"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=2.294s" clip-end="npt=2.687s" id="rgn_aud_0008_0002"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=2.687s" clip-end="npt=7.884s" id="rgn_aud_0008_0003"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=7.884s" clip-end="npt=9.151s" id="rgn_aud_0008_0004"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=9.151s" clip-end="npt=11.724s" id="rgn_aud_0008_0005"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=11.724s" clip-end="npt=15.747s" id="rgn_aud_0008_0006"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=15.747s" clip-end="npt=18.803s" id="rgn_aud_0008_0007"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=18.803s" clip-end="npt=21.989s" id="rgn_aud_0008_0008"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=21.989s" clip-end="npt=24.510s" id="rgn_aud_0008_0009"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=24.510s" clip-end="npt=26.431s" id="rgn_aud_0008_0010"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=26.431s" clip-end="npt=32.542s" id="rgn_aud_0008_0011"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=32.542s" clip-end="npt=35.363s" id="rgn_aud_0008_0012"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=35.363s" clip-end="npt=39.087s" id="rgn_aud_0008_0013"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=39.087s" clip-end="npt=41.241s" id="rgn_aud_0008_0014"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=41.241s" clip-end="npt=44.481s" id="rgn_aud_0008_0015"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=44.481s" clip-end="npt=46.832s" id="rgn_aud_0008_0016"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=46.832s" clip-end="npt=50.661s" id="rgn_aud_0008_0017"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=50.661s" clip-end="npt=51.448s" id="rgn_aud_0008_0018"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=51.448s" clip-end="npt=52.231s" id="rgn_aud_0008_0019"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=52.231s" clip-end="npt=53.018s" id="rgn_aud_0008_0020"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=53.018s" clip-end="npt=53.802s" id="rgn_aud_0008_0021"/>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=53.802s" clip-end="npt=54.314s" id="rgn_aud_0008_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kppg_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0051" id="kppg_0002"/>
+				<seq>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=54.314s" clip-end="npt=54.390s" id="rgn_aud_0008_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0008_0002">
+				<text src="ncc.html#mcor_0007" id="kppg_0003"/>
+				<seq>
+					<audio src="08_Et_eventyr.mp3" clip-begin="npt=54.390s" clip-end="npt=55.240s" id="rgn_aud_0008_0024"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

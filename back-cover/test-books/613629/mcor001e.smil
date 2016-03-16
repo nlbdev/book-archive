@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Tilvenning"/>
+		<meta name="ncc:totalElapsedTime" content="00:23:59"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:43"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="42.923s">
+			<par endsync="last" id="rgn_par_0030_0001">
+				<text src="ncc.html#mcor_001d" id="mcor_001d"/>
+				<seq>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=0.000s" clip-end="npt=3.148s" id="rgn_aud_0030_0001"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=3.148s" clip-end="npt=5.368s" id="rgn_aud_0030_0002"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=5.368s" clip-end="npt=11.363s" id="rgn_aud_0030_0003"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=11.363s" clip-end="npt=13.099s" id="rgn_aud_0030_0004"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=13.099s" clip-end="npt=17.541s" id="rgn_aud_0030_0005"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=17.541s" clip-end="npt=20.180s" id="rgn_aud_0030_0006"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=20.180s" clip-end="npt=24.686s" id="rgn_aud_0030_0007"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=24.686s" clip-end="npt=28.042s" id="rgn_aud_0030_0008"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=28.042s" clip-end="npt=29.844s" id="rgn_aud_0030_0009"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=29.844s" clip-end="npt=34.219s" id="rgn_aud_0030_0010"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=34.219s" clip-end="npt=36.570s" id="rgn_aud_0030_0011"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=36.570s" clip-end="npt=37.427s" id="rgn_aud_0030_0012"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=37.427s" clip-end="npt=38.213s" id="rgn_aud_0030_0013"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=38.213s" clip-end="npt=38.997s" id="rgn_aud_0030_0014"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=38.997s" clip-end="npt=39.783s" id="rgn_aud_0030_0015"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=39.783s" clip-end="npt=40.567s" id="rgn_aud_0030_0016"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=40.567s" clip-end="npt=41.353s" id="rgn_aud_0030_0017"/>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=41.353s" clip-end="npt=42.137s" id="rgn_aud_0030_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rfqu_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0067" id="rfqu_0002"/>
+				<seq>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=42.137s" clip-end="npt=42.363s" id="rgn_aud_0030_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0030_0002">
+				<text src="ncc.html#mcor_001d" id="rfqu_0003"/>
+				<seq>
+					<audio src="30_Tilvenning.mp3" clip-begin="npt=42.363s" clip-end="npt=42.923s" id="rgn_aud_0030_0020"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="01:08:11.208"/>
+		<meta name="ncc:totalElapsedTime" content="04:47:20.352"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel sju"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="4091.208s">
+			<par endsync="last" id="wzmx_0001">
+				<text src="ncc.html#dfrn_000c" id="dfrn_000c"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=0.000s" clip-end="npt=22.544s" id="audio_0001"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=22.544s" clip-end="npt=26.904s" id="audio_0002"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=26.904s" clip-end="npt=37.347s" id="audio_0003"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=37.347s" clip-end="npt=66.269s" id="audio_0004"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=66.269s" clip-end="npt=83.503s" id="audio_0005"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=83.503s" clip-end="npt=90.610s" id="audio_0006"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00b4" id="wzmx_0025"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=90.610s" clip-end="npt=90.697s" id="audio_0007"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=90.697s" clip-end="npt=95.500s" id="audio_0008"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=95.500s" clip-end="npt=105.044s" id="audio_0009"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=105.044s" clip-end="npt=144.771s" id="audio_0010"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=144.771s" clip-end="npt=155.899s" id="audio_0011"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=155.899s" clip-end="npt=161.540s" id="audio_0012"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=161.540s" clip-end="npt=170.291s" id="audio_0013"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=170.291s" clip-end="npt=175.676s" id="audio_0014"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=175.676s" clip-end="npt=190.494s" id="audio_0015"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=190.494s" clip-end="npt=204.151s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00b5" id="wzmx_0027"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=204.151s" clip-end="npt=204.255s" id="audio_0017"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=204.255s" clip-end="npt=219.737s" id="audio_0018"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=219.737s" clip-end="npt=227.106s" id="audio_0019"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=227.106s" clip-end="npt=232.658s" id="audio_0020"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=232.658s" clip-end="npt=254.641s" id="audio_0021"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=254.641s" clip-end="npt=261.290s" id="audio_0022"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=261.290s" clip-end="npt=272.576s" id="audio_0023"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=272.576s" clip-end="npt=281.431s" id="audio_0024"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=281.431s" clip-end="npt=286.205s" id="audio_0025"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=286.205s" clip-end="npt=311.677s" id="audio_0026"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=311.677s" clip-end="npt=321.140s" id="audio_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00b6" id="wzmx_0029"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=321.140s" clip-end="npt=321.209s" id="audio_0028"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=321.209s" clip-end="npt=357.202s" id="audio_0029"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=357.202s" clip-end="npt=370.718s" id="audio_0030"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=370.718s" clip-end="npt=378.217s" id="audio_0031"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=378.217s" clip-end="npt=430.065s" id="audio_0032"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=430.065s" clip-end="npt=435.202s" id="audio_0033"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=435.202s" clip-end="npt=443.054s" id="audio_0034"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=443.054s" clip-end="npt=447.589s" id="audio_0035"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00b7" id="wzmx_002b"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=447.589s" clip-end="npt=447.693s" id="audio_0036"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=447.693s" clip-end="npt=454.458s" id="audio_0037"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=454.458s" clip-end="npt=466.583s" id="audio_0038"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=466.583s" clip-end="npt=471.285s" id="audio_0039"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=471.285s" clip-end="npt=478.031s" id="audio_0040"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=478.031s" clip-end="npt=482.058s" id="audio_0041"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=482.058s" clip-end="npt=490.072s" id="audio_0042"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=490.072s" clip-end="npt=508.503s" id="audio_0043"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=508.503s" clip-end="npt=523.579s" id="audio_0044"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=523.579s" clip-end="npt=531.293s" id="audio_0045"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=531.293s" clip-end="npt=539.414s" id="audio_0046"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=539.414s" clip-end="npt=549.809s" id="audio_0047"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=549.809s" clip-end="npt=559.478s" id="audio_0048"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00b8" id="wzmx_002d"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=559.478s" clip-end="npt=559.581s" id="audio_0049"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=559.581s" clip-end="npt=615.870s" id="audio_0050"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=615.870s" clip-end="npt=631.945s" id="audio_0051"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=631.945s" clip-end="npt=643.464s" id="audio_0052"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=643.464s" clip-end="npt=684.465s" id="audio_0053"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=684.465s" clip-end="npt=698.096s" id="audio_0054"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=698.096s" clip-end="npt=702.101s" id="audio_0055"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00b9" id="wzmx_002f"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=702.101s" clip-end="npt=702.205s" id="audio_0056"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=702.205s" clip-end="npt=707.838s" id="audio_0057"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=707.838s" clip-end="npt=764.219s" id="audio_0058"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=764.219s" clip-end="npt=773.809s" id="audio_0059"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=773.809s" clip-end="npt=783.397s" id="audio_0060"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=783.397s" clip-end="npt=787.795s" id="audio_0061"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=787.795s" clip-end="npt=809.000s" id="audio_0062"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ba" id="wzmx_0031"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=809.000s" clip-end="npt=809.173s" id="audio_0063"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=809.173s" clip-end="npt=816.890s" id="audio_0064"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=816.890s" clip-end="npt=846.315s" id="audio_0065"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=846.315s" clip-end="npt=870.692s" id="audio_0066"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=870.692s" clip-end="npt=891.496s" id="audio_0067"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=891.496s" clip-end="npt=933.395s" id="audio_0068"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00bb" id="wzmx_0033"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=933.395s" clip-end="npt=933.499s" id="audio_0069"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=933.499s" clip-end="npt=939.788s" id="audio_0070"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=939.788s" clip-end="npt=955.786s" id="audio_0071"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=955.786s" clip-end="npt=963.403s" id="audio_0072"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=963.403s" clip-end="npt=977.319s" id="audio_0073"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=977.319s" clip-end="npt=997.126s" id="audio_0074"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=997.126s" clip-end="npt=1032.528s" id="audio_0075"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1032.528s" clip-end="npt=1039.480s" id="audio_0076"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1039.480s" clip-end="npt=1046.348s" id="audio_0077"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00bc" id="wzmx_0035"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1046.348s" clip-end="npt=1046.487s" id="audio_0078"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1046.487s" clip-end="npt=1059.474s" id="audio_0079"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1059.474s" clip-end="npt=1071.854s" id="audio_0080"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1071.854s" clip-end="npt=1096.507s" id="audio_0081"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1096.507s" clip-end="npt=1106.573s" id="audio_0082"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1106.573s" clip-end="npt=1126.574s" id="audio_0083"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1126.574s" clip-end="npt=1138.765s" id="audio_0084"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1138.765s" clip-end="npt=1175.743s" id="audio_0085"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1175.743s" clip-end="npt=1181.393s" id="audio_0086"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00bd" id="wzmx_0037"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1181.393s" clip-end="npt=1181.497s" id="audio_0087"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1181.497s" clip-end="npt=1203.301s" id="audio_0088"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1203.301s" clip-end="npt=1275.471s" id="audio_0089"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1275.471s" clip-end="npt=1316.287s" id="audio_0090"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1316.287s" clip-end="npt=1323.910s" id="audio_0091"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00be" id="wzmx_0039"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1323.910s" clip-end="npt=1324.901s" id="audio_0092"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1324.901s" clip-end="npt=1330.912s" id="audio_0093"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1330.912s" clip-end="npt=1336.525s" id="audio_0094"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1336.525s" clip-end="npt=1347.172s" id="audio_0095"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1347.172s" clip-end="npt=1382.853s" id="audio_0096"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1382.853s" clip-end="npt=1395.590s" id="audio_0097"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1395.590s" clip-end="npt=1438.651s" id="audio_0098"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00bf" id="wzmx_003b"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1438.651s" clip-end="npt=1438.945s" id="audio_0099"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1438.945s" clip-end="npt=1454.959s" id="audio_0100"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1454.959s" clip-end="npt=1488.607s" id="audio_0101"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1488.607s" clip-end="npt=1496.670s" id="audio_0102"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1496.670s" clip-end="npt=1527.213s" id="audio_0103"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1527.213s" clip-end="npt=1532.659s" id="audio_0104"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1532.659s" clip-end="npt=1554.574s" id="audio_0105"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1554.574s" clip-end="npt=1559.035s" id="audio_0106"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1559.035s" clip-end="npt=1564.834s" id="audio_0107"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00c0" id="wzmx_003d"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1564.834s" clip-end="npt=1565.101s" id="audio_0108"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1565.101s" clip-end="npt=1589.038s" id="audio_0109"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1589.038s" clip-end="npt=1608.177s" id="audio_0110"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1608.177s" clip-end="npt=1621.672s" id="audio_0111"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1621.672s" clip-end="npt=1635.826s" id="audio_0112"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1635.826s" clip-end="npt=1658.601s" id="audio_0113"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1658.601s" clip-end="npt=1664.695s" id="audio_0114"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1664.695s" clip-end="npt=1678.708s" id="audio_0115"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1678.708s" clip-end="npt=1685.199s" id="audio_0116"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00c1" id="wzmx_003f"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1685.199s" clip-end="npt=1685.357s" id="audio_0117"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1685.357s" clip-end="npt=1694.409s" id="audio_0118"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1694.409s" clip-end="npt=1700.286s" id="audio_0119"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1700.286s" clip-end="npt=1710.748s" id="audio_0120"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1710.748s" clip-end="npt=1731.894s" id="audio_0121"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1731.894s" clip-end="npt=1737.714s" id="audio_0122"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1737.714s" clip-end="npt=1742.844s" id="audio_0123"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1742.844s" clip-end="npt=1750.718s" id="audio_0124"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1750.718s" clip-end="npt=1765.954s" id="audio_0125"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00c2" id="wzmx_0041"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1765.954s" clip-end="npt=1766.209s" id="audio_0126"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1766.209s" clip-end="npt=1809.304s" id="audio_0127"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1809.304s" clip-end="npt=1825.199s" id="audio_0128"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00c3" id="wzmx_0043"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1825.199s" clip-end="npt=1825.358s" id="audio_0129"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1825.358s" clip-end="npt=1863.315s" id="audio_0130"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1863.315s" clip-end="npt=1891.736s" id="audio_0131"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1891.736s" clip-end="npt=1912.654s" id="audio_0132"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00c4" id="wzmx_0045"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1912.654s" clip-end="npt=1912.760s" id="audio_0133"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1912.760s" clip-end="npt=1929.217s" id="audio_0134"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1929.217s" clip-end="npt=1968.627s" id="audio_0135"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=1968.627s" clip-end="npt=2006.406s" id="audio_0136"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2006.406s" clip-end="npt=2031.137s" id="audio_0137"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2031.137s" clip-end="npt=2044.323s" id="audio_0138"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2044.323s" clip-end="npt=2049.563s" id="audio_0139"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00c5" id="wzmx_0047"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2049.563s" clip-end="npt=2049.646s" id="audio_0140"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2049.646s" clip-end="npt=2082.159s" id="audio_0141"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2082.159s" clip-end="npt=2108.865s" id="audio_0142"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2108.865s" clip-end="npt=2117.479s" id="audio_0143"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2117.479s" clip-end="npt=2167.884s" id="audio_0144"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0014" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00c6" id="wzmx_0049"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2167.884s" clip-end="npt=2167.953s" id="audio_0145"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2167.953s" clip-end="npt=2173.339s" id="audio_0146"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2173.339s" clip-end="npt=2182.259s" id="audio_0147"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2182.259s" clip-end="npt=2196.085s" id="audio_0148"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2196.085s" clip-end="npt=2220.874s" id="audio_0149"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2220.874s" clip-end="npt=2236.167s" id="audio_0150"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2236.167s" clip-end="npt=2241.778s" id="audio_0151"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2241.778s" clip-end="npt=2250.161s" id="audio_0152"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2250.161s" clip-end="npt=2263.407s" id="audio_0153"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2263.407s" clip-end="npt=2276.069s" id="audio_0154"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2276.069s" clip-end="npt=2284.104s" id="audio_0155"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2284.104s" clip-end="npt=2294.412s" id="audio_0156"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2294.412s" clip-end="npt=2299.604s" id="audio_0157"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2299.604s" clip-end="npt=2305.426s" id="audio_0158"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0015" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00c7" id="wzmx_004b"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2305.426s" clip-end="npt=2305.495s" id="audio_0159"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2305.495s" clip-end="npt=2388.875s" id="audio_0160"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2388.875s" clip-end="npt=2395.189s" id="audio_0161"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2395.189s" clip-end="npt=2412.042s" id="audio_0162"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2412.042s" clip-end="npt=2420.741s" id="audio_0163"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2420.741s" clip-end="npt=2437.056s" id="audio_0164"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2437.056s" clip-end="npt=2444.540s" id="audio_0165"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0016" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00c8" id="wzmx_004d"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2444.540s" clip-end="npt=2444.661s" id="audio_0166"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2444.661s" clip-end="npt=2476.613s" id="audio_0167"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2476.613s" clip-end="npt=2496.005s" id="audio_0168"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2496.005s" clip-end="npt=2524.097s" id="audio_0169"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2524.097s" clip-end="npt=2553.833s" id="audio_0170"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2553.833s" clip-end="npt=2562.952s" id="audio_0171"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2562.952s" clip-end="npt=2581.653s" id="audio_0172"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2581.653s" clip-end="npt=2589.547s" id="audio_0173"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0017" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00c9" id="wzmx_004f"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2589.547s" clip-end="npt=2589.634s" id="audio_0174"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2589.634s" clip-end="npt=2599.531s" id="audio_0175"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2599.531s" clip-end="npt=2610.718s" id="audio_0176"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2610.718s" clip-end="npt=2625.029s" id="audio_0177"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2625.029s" clip-end="npt=2637.978s" id="audio_0178"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2637.978s" clip-end="npt=2643.652s" id="audio_0179"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2643.652s" clip-end="npt=2677.371s" id="audio_0180"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2677.371s" clip-end="npt=2683.526s" id="audio_0181"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2683.526s" clip-end="npt=2720.731s" id="audio_0182"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2720.731s" clip-end="npt=2727.098s" id="audio_0183"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0018" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ca" id="wzmx_0051"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2727.098s" clip-end="npt=2727.201s" id="audio_0184"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2727.201s" clip-end="npt=2774.551s" id="audio_0185"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2774.551s" clip-end="npt=2788.675s" id="audio_0186"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2788.675s" clip-end="npt=2809.290s" id="audio_0187"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2809.290s" clip-end="npt=2813.872s" id="audio_0188"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2813.872s" clip-end="npt=2818.911s" id="audio_0189"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2818.911s" clip-end="npt=2832.934s" id="audio_0190"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2832.934s" clip-end="npt=2846.363s" id="audio_0191"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0019" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00cb" id="wzmx_0053"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2846.363s" clip-end="npt=2846.459s" id="audio_0192"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2846.459s" clip-end="npt=2852.232s" id="audio_0193"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2852.232s" clip-end="npt=2856.324s" id="audio_0194"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2856.324s" clip-end="npt=2871.464s" id="audio_0195"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2871.464s" clip-end="npt=2885.661s" id="audio_0196"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2885.661s" clip-end="npt=2908.768s" id="audio_0197"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2908.768s" clip-end="npt=2916.630s" id="audio_0198"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2916.630s" clip-end="npt=2924.162s" id="audio_0199"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2924.162s" clip-end="npt=2956.351s" id="audio_0200"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2956.351s" clip-end="npt=2963.550s" id="audio_0201"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2963.550s" clip-end="npt=2985.386s" id="audio_0202"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_001a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00cc" id="wzmx_0055"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2985.386s" clip-end="npt=2985.455s" id="audio_0203"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=2985.455s" clip-end="npt=3021.387s" id="audio_0204"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3021.387s" clip-end="npt=3025.959s" id="audio_0205"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3025.959s" clip-end="npt=3050.551s" id="audio_0206"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3050.551s" clip-end="npt=3058.825s" id="audio_0207"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3058.825s" clip-end="npt=3090.513s" id="audio_0208"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3090.513s" clip-end="npt=3112.992s" id="audio_0209"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3112.992s" clip-end="npt=3117.249s" id="audio_0210"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_001b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00cd" id="wzmx_0057"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3117.249s" clip-end="npt=3117.343s" id="audio_0211"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3117.343s" clip-end="npt=3142.988s" id="audio_0212"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3142.988s" clip-end="npt=3150.033s" id="audio_0213"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3150.033s" clip-end="npt=3154.506s" id="audio_0214"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3154.506s" clip-end="npt=3191.062s" id="audio_0215"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3191.062s" clip-end="npt=3198.113s" id="audio_0216"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_001c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ce" id="wzmx_0059"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3198.113s" clip-end="npt=3198.251s" id="audio_0217"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3198.251s" clip-end="npt=3203.124s" id="audio_0218"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3203.124s" clip-end="npt=3219.309s" id="audio_0219"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3219.309s" clip-end="npt=3223.669s" id="audio_0220"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3223.669s" clip-end="npt=3245.162s" id="audio_0221"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3245.162s" clip-end="npt=3314.577s" id="audio_0222"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_001d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00cf" id="wzmx_005b"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3314.577s" clip-end="npt=3314.629s" id="audio_0223"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3314.629s" clip-end="npt=3346.882s" id="audio_0224"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3346.882s" clip-end="npt=3370.587s" id="audio_0225"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3370.587s" clip-end="npt=3393.189s" id="audio_0226"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3393.189s" clip-end="npt=3420.499s" id="audio_0227"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3420.499s" clip-end="npt=3427.784s" id="audio_0228"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_001e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00d0" id="wzmx_005d"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3427.784s" clip-end="npt=3427.854s" id="audio_0229"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3427.854s" clip-end="npt=3459.457s" id="audio_0230"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3459.457s" clip-end="npt=3466.669s" id="audio_0231"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3466.669s" clip-end="npt=3492.878s" id="audio_0232"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3492.878s" clip-end="npt=3507.826s" id="audio_0233"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3507.826s" clip-end="npt=3541.558s" id="audio_0234"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3541.558s" clip-end="npt=3564.136s" id="audio_0235"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_001f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00d1" id="wzmx_005f"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3564.136s" clip-end="npt=3564.240s" id="audio_0236"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3564.240s" clip-end="npt=3589.469s" id="audio_0237"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3589.469s" clip-end="npt=3625.066s" id="audio_0238"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3625.066s" clip-end="npt=3634.176s" id="audio_0239"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3634.176s" clip-end="npt=3681.005s" id="audio_0240"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3681.005s" clip-end="npt=3693.614s" id="audio_0241"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0020" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00d2" id="wzmx_0061"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3693.614s" clip-end="npt=3693.770s" id="audio_0242"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3693.770s" clip-end="npt=3698.370s" id="audio_0243"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3698.370s" clip-end="npt=3702.838s" id="audio_0244"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3702.838s" clip-end="npt=3710.841s" id="audio_0245"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3710.841s" clip-end="npt=3736.200s" id="audio_0246"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3736.200s" clip-end="npt=3758.363s" id="audio_0247"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3758.363s" clip-end="npt=3764.022s" id="audio_0248"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3764.022s" clip-end="npt=3786.217s" id="audio_0249"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3786.217s" clip-end="npt=3792.526s" id="audio_0250"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3792.526s" clip-end="npt=3803.933s" id="audio_0251"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3803.933s" clip-end="npt=3810.597s" id="audio_0252"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0021" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00d3" id="wzmx_0063"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3810.597s" clip-end="npt=3810.701s" id="audio_0253"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3810.701s" clip-end="npt=3840.297s" id="audio_0254"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3840.297s" clip-end="npt=3897.303s" id="audio_0255"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3897.303s" clip-end="npt=3914.272s" id="audio_0256"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3914.272s" clip-end="npt=3925.270s" id="audio_0257"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3925.270s" clip-end="npt=3931.061s" id="audio_0258"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3931.061s" clip-end="npt=3944.654s" id="audio_0259"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0022" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00d4" id="wzmx_0065"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3944.654s" clip-end="npt=3944.723s" id="audio_0260"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3944.723s" clip-end="npt=3976.562s" id="audio_0261"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3976.562s" clip-end="npt=3999.807s" id="audio_0262"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=3999.807s" clip-end="npt=4029.467s" id="audio_0263"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=4029.467s" clip-end="npt=4049.443s" id="audio_0264"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=4049.443s" clip-end="npt=4061.001s" id="audio_0265"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=4061.001s" clip-end="npt=4069.378s" id="audio_0266"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0023" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00d5" id="wzmx_0067"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=4069.378s" clip-end="npt=4069.551s" id="audio_0267"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=4069.551s" clip-end="npt=4082.499s" id="audio_0268"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=4082.499s" clip-end="npt=4089.544s" id="audio_0269"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wzmx_0024" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00d6" id="wzmx_0069"/>
+				<seq>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=4089.544s" clip-end="npt=4090.084s" id="audio_0270"/>
+					<audio src="15_Kapittel_sju.mp3" clip-begin="npt=4090.084s" clip-end="npt=4091.208s" id="audio_0271"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="612923"/>
+		<meta name="dc:title" content="HAMLON"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Bokinformasjon"/>
+		<meta name="ncc:totalElapsedTime" content="00:01:03"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:40"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="40.209s">
+			<par endsync="last" id="rgn_par_0003_0001">
+				<text src="ncc.html#iqhc_0001" id="iqhc_0001"/>
+				<seq>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=0.000s" clip-end="npt=3.370s" id="rgn_aud_0003_0001"/>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=3.370s" clip-end="npt=10.201s" id="rgn_aud_0003_0002"/>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=10.201s" clip-end="npt=12.121s" id="rgn_aud_0003_0003"/>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=12.121s" clip-end="npt=17.946s" id="rgn_aud_0003_0004"/>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=17.946s" clip-end="npt=20.387s" id="rgn_aud_0003_0005"/>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=20.387s" clip-end="npt=22.425s" id="rgn_aud_0003_0006"/>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=22.425s" clip-end="npt=28.036s" id="rgn_aud_0003_0007"/>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=28.036s" clip-end="npt=31.693s" id="rgn_aud_0003_0008"/>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=31.693s" clip-end="npt=34.815s" id="rgn_aud_0003_0009"/>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=34.815s" clip-end="npt=37.819s" id="rgn_aud_0003_0010"/>
+					<audio src="02_Bokinformasjo.mp3" clip-begin="npt=37.819s" clip-end="npt=40.209s" id="rgn_aud_0003_0011"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

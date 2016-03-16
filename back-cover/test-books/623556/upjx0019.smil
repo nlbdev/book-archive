@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:45.623"/>
+		<meta name="ncc:totalElapsedTime" content="01:14:10.430"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 20: G for gullpapir"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="225.623s">
+			<par endsync="last" id="upjx_0019">
+				<text src="ncc.html#upjx_0018" id="upjx_0018"/>
+				<seq>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=0.000s" clip-end="npt=2.704s" id="audio_0001"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=2.704s" clip-end="npt=5.329s" id="audio_0002"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=5.329s" clip-end="npt=11.625s" id="audio_0003"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=11.625s" clip-end="npt=13.427s" id="audio_0004"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=13.427s" clip-end="npt=16.841s" id="audio_0005"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=16.841s" clip-end="npt=19.545s" id="audio_0006"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=19.545s" clip-end="npt=23.319s" id="audio_0007"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=23.319s" clip-end="npt=25.540s" id="audio_0008"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=25.540s" clip-end="npt=28.844s" id="audio_0009"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=28.844s" clip-end="npt=31.731s" id="audio_0010"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=31.731s" clip-end="npt=34.069s" id="audio_0011"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=34.069s" clip-end="npt=37.063s" id="audio_0012"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=37.063s" clip-end="npt=37.612s" id="audio_0013"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=37.612s" clip-end="npt=39.486s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kduu_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_007e" id="kduu_0005"/>
+				<seq>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=39.486s" clip-end="npt=39.700s" id="audio_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kduu_000d">
+				<text src="ncc.html#upjx_0018" id="kduu_0006"/>
+				<seq>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=39.700s" clip-end="npt=40.183s" id="audio_0016"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=40.183s" clip-end="npt=44.258s" id="audio_0017"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=44.258s" clip-end="npt=49.418s" id="audio_0018"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=49.418s" clip-end="npt=52.487s" id="audio_0019"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=52.487s" clip-end="npt=56.079s" id="audio_0020"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=56.079s" clip-end="npt=58.782s" id="audio_0021"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=58.782s" clip-end="npt=61.604s" id="audio_0022"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=61.604s" clip-end="npt=63.707s" id="audio_0023"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=63.707s" clip-end="npt=65.261s" id="audio_0024"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=65.261s" clip-end="npt=67.547s" id="audio_0025"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=67.547s" clip-end="npt=71.569s" id="audio_0026"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=71.569s" clip-end="npt=73.960s" id="audio_0027"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=73.960s" clip-end="npt=77.499s" id="audio_0028"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=77.499s" clip-end="npt=80.203s" id="audio_0029"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=80.203s" clip-end="npt=82.188s" id="audio_0030"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=82.188s" clip-end="npt=84.644s" id="audio_0031"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=84.644s" clip-end="npt=91.605s" id="audio_0032"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=91.605s" clip-end="npt=94.662s" id="audio_0033"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=94.662s" clip-end="npt=99.168s" id="audio_0034"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=99.168s" clip-end="npt=100.641s" id="audio_0035"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kduu_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_007f" id="kduu_0007"/>
+				<seq>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=100.641s" clip-end="npt=100.842s" id="audio_0036"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kduu_000e">
+				<text src="ncc.html#upjx_0018" id="kduu_0008"/>
+				<seq>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=100.842s" clip-end="npt=105.831s" id="audio_0037"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=105.831s" clip-end="npt=110.207s" id="audio_0038"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=110.207s" clip-end="npt=112.127s" id="audio_0039"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=112.127s" clip-end="npt=116.202s" id="audio_0040"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=116.202s" clip-end="npt=121.009s" id="audio_0041"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=121.009s" clip-end="npt=123.947s" id="audio_0042"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=123.947s" clip-end="npt=127.539s" id="audio_0043"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=127.539s" clip-end="npt=130.661s" id="audio_0044"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=130.661s" clip-end="npt=134.200s" id="audio_0045"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=134.200s" clip-end="npt=138.706s" id="audio_0046"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=138.706s" clip-end="npt=141.528s" id="audio_0047"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=141.528s" clip-end="npt=145.368s" id="audio_0048"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=145.368s" clip-end="npt=149.861s" id="audio_0049"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=149.861s" clip-end="npt=151.245s" id="audio_0050"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=151.245s" clip-end="npt=154.720s" id="audio_0051"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=154.720s" clip-end="npt=157.423s" id="audio_0052"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=157.423s" clip-end="npt=159.526s" id="audio_0053"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=159.526s" clip-end="npt=161.929s" id="audio_0054"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=161.929s" clip-end="npt=165.169s" id="audio_0055"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=165.169s" clip-end="npt=166.187s" id="audio_0056"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=166.187s" clip-end="npt=170.262s" id="audio_0057"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=170.262s" clip-end="npt=171.390s" id="audio_0058"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=171.390s" clip-end="npt=171.873s" id="audio_0059"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=171.873s" clip-end="npt=174.930s" id="audio_0060"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=174.930s" clip-end="npt=177.150s" id="audio_0061"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=177.150s" clip-end="npt=179.619s" id="audio_0062"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=179.619s" clip-end="npt=181.774s" id="audio_0063"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=181.774s" clip-end="npt=183.740s" id="audio_0064"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kduu_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0080" id="kduu_0009"/>
+				<seq>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=183.740s" clip-end="npt=183.900s" id="audio_0065"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kduu_000f">
+				<text src="ncc.html#upjx_0018" id="kduu_000a"/>
+				<seq>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=183.900s" clip-end="npt=184.318s" id="audio_0066"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=184.318s" clip-end="npt=189.242s" id="audio_0067"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=189.242s" clip-end="npt=192.246s" id="audio_0068"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=192.246s" clip-end="npt=194.166s" id="audio_0069"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=194.166s" clip-end="npt=195.185s" id="audio_0070"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=195.185s" clip-end="npt=197.288s" id="audio_0071"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=197.288s" clip-end="npt=200.462s" id="audio_0072"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=200.462s" clip-end="npt=205.686s" id="audio_0073"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=205.686s" clip-end="npt=207.188s" id="audio_0074"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=207.188s" clip-end="npt=211.498s" id="audio_0075"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=211.498s" clip-end="npt=213.000s" id="audio_0076"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=213.000s" clip-end="npt=214.986s" id="audio_0077"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=214.986s" clip-end="npt=217.711s" id="audio_0078"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=217.711s" clip-end="npt=218.495s" id="audio_0079"/>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=218.495s" clip-end="npt=222.755s" id="audio_0080"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kduu_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0081" id="kduu_000b"/>
+				<seq>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=222.755s" clip-end="npt=222.813s" id="audio_0081"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kduu_0010">
+				<text src="ncc.html#upjx_0018" id="kduu_000c"/>
+				<seq>
+					<audio src="25_Kapittel_20__G_for_gullpapir.mp3" clip-begin="npt=222.813s" clip-end="npt=225.623s" id="audio_0082"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

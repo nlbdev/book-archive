@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="I fjellet"/>
+		<meta name="ncc:totalElapsedTime" content="00:07:54"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:03"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="63.023s">
+			<par endsync="last" id="rgn_par_0011_0001">
+				<text src="ncc.html#mcor_000a" id="mcor_000a"/>
+				<seq>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=0.000s" clip-end="npt=3.028s" id="rgn_aud_0011_0001"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=3.028s" clip-end="npt=3.656s" id="rgn_aud_0011_0002"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=3.656s" clip-end="npt=6.961s" id="rgn_aud_0011_0003"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=6.961s" clip-end="npt=9.364s" id="rgn_aud_0011_0004"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=9.364s" clip-end="npt=12.773s" id="rgn_aud_0011_0005"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=12.773s" clip-end="npt=15.099s" id="rgn_aud_0011_0006"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=15.099s" clip-end="npt=18.765s" id="rgn_aud_0011_0007"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=18.765s" clip-end="npt=22.510s" id="rgn_aud_0011_0008"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=22.510s" clip-end="npt=22.994s" id="rgn_aud_0011_0009"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=22.994s" clip-end="npt=24.425s" id="rgn_aud_0011_0010"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=24.425s" clip-end="npt=25.018s" id="rgn_aud_0011_0011"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=25.018s" clip-end="npt=25.699s" id="rgn_aud_0011_0012"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=25.699s" clip-end="npt=29.186s" id="rgn_aud_0011_0013"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=29.186s" clip-end="npt=32.776s" id="rgn_aud_0011_0014"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=32.776s" clip-end="npt=35.115s" id="rgn_aud_0011_0015"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=35.115s" clip-end="npt=37.343s" id="rgn_aud_0011_0016"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=37.343s" clip-end="npt=37.883s" id="rgn_aud_0011_0017"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=37.883s" clip-end="npt=39.984s" id="rgn_aud_0011_0018"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=39.984s" clip-end="npt=45.621s" id="rgn_aud_0011_0019"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=45.621s" clip-end="npt=46.881s" id="rgn_aud_0011_0020"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=46.881s" clip-end="npt=48.289s" id="rgn_aud_0011_0021"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=48.289s" clip-end="npt=49.454s" id="rgn_aud_0011_0022"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=49.454s" clip-end="npt=50.578s" id="rgn_aud_0011_0023"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=50.578s" clip-end="npt=51.859s" id="rgn_aud_0011_0024"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=51.859s" clip-end="npt=55.930s" id="rgn_aud_0011_0025"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=55.930s" clip-end="npt=58.313s" id="rgn_aud_0011_0026"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=58.313s" clip-end="npt=59.097s" id="rgn_aud_0011_0027"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=59.097s" clip-end="npt=59.883s" id="rgn_aud_0011_0028"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=59.883s" clip-end="npt=60.667s" id="rgn_aud_0011_0029"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=60.667s" clip-end="npt=61.453s" id="rgn_aud_0011_0030"/>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=61.453s" clip-end="npt=61.908s" id="rgn_aud_0011_0031"/>
+				</seq>
+			</par>
+			<par endsync="last" id="vmyv_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0054" id="vmyv_0002"/>
+				<seq>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=61.908s" clip-end="npt=62.012s" id="rgn_aud_0011_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0011_0002">
+				<text src="ncc.html#mcor_000a" id="vmyv_0003"/>
+				<seq>
+					<audio src="11_I_fjellet.mp3" clip-begin="npt=62.012s" clip-end="npt=63.023s" id="rgn_aud_0011_0033"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

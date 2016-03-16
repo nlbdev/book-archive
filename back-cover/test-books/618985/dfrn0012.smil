@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:47:17.077"/>
+		<meta name="ncc:totalElapsedTime" content="09:26:32.435"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel tolv"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2837.077s">
+			<par endsync="last" id="kuix_0001">
+				<text src="ncc.html#dfrn_0011" id="dfrn_0011"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=0.000s" clip-end="npt=5.726s" id="audio_0001"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=5.726s" clip-end="npt=44.840s" id="audio_0002"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=44.840s" clip-end="npt=50.755s" id="audio_0003"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=50.755s" clip-end="npt=60.203s" id="audio_0004"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=60.203s" clip-end="npt=70.998s" id="audio_0005"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=70.998s" clip-end="npt=88.882s" id="audio_0006"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=88.882s" clip-end="npt=98.238s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0140" id="kuix_0018"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=98.238s" clip-end="npt=98.324s" id="audio_0008"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=98.324s" clip-end="npt=104.480s" id="audio_0009"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=104.480s" clip-end="npt=113.957s" id="audio_0010"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=113.957s" clip-end="npt=124.563s" id="audio_0011"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=124.563s" clip-end="npt=132.778s" id="audio_0012"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=132.778s" clip-end="npt=149.272s" id="audio_0013"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=149.272s" clip-end="npt=165.637s" id="audio_0014"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=165.637s" clip-end="npt=177.543s" id="audio_0015"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=177.543s" clip-end="npt=198.966s" id="audio_0016"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=198.966s" clip-end="npt=213.946s" id="audio_0017"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=213.946s" clip-end="npt=234.923s" id="audio_0018"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=234.923s" clip-end="npt=241.056s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0141" id="kuix_001a"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=241.056s" clip-end="npt=241.177s" id="audio_0020"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=241.177s" clip-end="npt=300.462s" id="audio_0021"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=300.462s" clip-end="npt=384.001s" id="audio_0022"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=384.001s" clip-end="npt=390.601s" id="audio_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0142" id="kuix_001c"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=390.601s" clip-end="npt=390.720s" id="audio_0024"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=390.720s" clip-end="npt=395.013s" id="audio_0025"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=395.013s" clip-end="npt=400.944s" id="audio_0026"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=400.944s" clip-end="npt=423.178s" id="audio_0027"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=423.178s" clip-end="npt=427.471s" id="audio_0028"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=427.471s" clip-end="npt=438.217s" id="audio_0029"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=438.217s" clip-end="npt=462.231s" id="audio_0030"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=462.231s" clip-end="npt=496.775s" id="audio_0031"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=496.775s" clip-end="npt=502.455s" id="audio_0032"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=502.455s" clip-end="npt=538.351s" id="audio_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0143" id="kuix_001e"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=538.351s" clip-end="npt=538.489s" id="audio_0034"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=538.489s" clip-end="npt=556.727s" id="audio_0035"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=556.727s" clip-end="npt=608.177s" id="audio_0036"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=608.177s" clip-end="npt=634.441s" id="audio_0037"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=634.441s" clip-end="npt=652.403s" id="audio_0038"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=652.403s" clip-end="npt=668.025s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0144" id="kuix_0020"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=668.025s" clip-end="npt=668.163s" id="audio_0040"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=668.163s" clip-end="npt=740.169s" id="audio_0041"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=740.169s" clip-end="npt=764.152s" id="audio_0042"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=764.152s" clip-end="npt=772.088s" id="audio_0043"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=772.088s" clip-end="npt=785.180s" id="audio_0044"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=785.180s" clip-end="npt=808.634s" id="audio_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0145" id="kuix_0022"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=808.634s" clip-end="npt=808.755s" id="audio_0046"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=808.755s" clip-end="npt=860.287s" id="audio_0047"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=860.287s" clip-end="npt=912.197s" id="audio_0048"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=912.197s" clip-end="npt=939.705s" id="audio_0049"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=939.705s" clip-end="npt=954.587s" id="audio_0050"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0146" id="kuix_0024"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=954.587s" clip-end="npt=954.743s" id="audio_0051"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=954.743s" clip-end="npt=990.954s" id="audio_0052"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=990.954s" clip-end="npt=1000.141s" id="audio_0053"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1000.141s" clip-end="npt=1004.646s" id="audio_0054"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1004.646s" clip-end="npt=1084.897s" id="audio_0055"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1084.897s" clip-end="npt=1094.495s" id="audio_0056"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0147" id="kuix_0026"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1094.495s" clip-end="npt=1094.650s" id="audio_0057"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1094.650s" clip-end="npt=1099.796s" id="audio_0058"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1099.796s" clip-end="npt=1142.335s" id="audio_0059"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1142.335s" clip-end="npt=1154.307s" id="audio_0060"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1154.307s" clip-end="npt=1181.153s" id="audio_0061"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1181.153s" clip-end="npt=1185.447s" id="audio_0062"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1185.447s" clip-end="npt=1229.168s" id="audio_0063"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1229.168s" clip-end="npt=1240.806s" id="audio_0064"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0148" id="kuix_0028"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1240.806s" clip-end="npt=1240.892s" id="audio_0065"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1240.892s" clip-end="npt=1275.345s" id="audio_0066"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1275.345s" clip-end="npt=1298.943s" id="audio_0067"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1298.943s" clip-end="npt=1310.190s" id="audio_0068"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1310.190s" clip-end="npt=1365.678s" id="audio_0069"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0149" id="kuix_002a"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1365.678s" clip-end="npt=1365.816s" id="audio_0070"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1365.816s" clip-end="npt=1374.959s" id="audio_0071"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1374.959s" clip-end="npt=1408.572s" id="audio_0072"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1408.572s" clip-end="npt=1427.014s" id="audio_0073"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1427.014s" clip-end="npt=1431.500s" id="audio_0074"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1431.500s" clip-end="npt=1458.886s" id="audio_0075"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1458.886s" clip-end="npt=1467.812s" id="audio_0076"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1467.812s" clip-end="npt=1474.566s" id="audio_0077"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1474.566s" clip-end="npt=1491.422s" id="audio_0078"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1491.422s" clip-end="npt=1496.595s" id="audio_0079"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_014a" id="kuix_002c"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1496.595s" clip-end="npt=1496.699s" id="audio_0080"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1496.699s" clip-end="npt=1511.985s" id="audio_0081"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1511.985s" clip-end="npt=1583.957s" id="audio_0082"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1583.957s" clip-end="npt=1606.868s" id="audio_0083"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1606.868s" clip-end="npt=1629.794s" id="audio_0084"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1629.794s" clip-end="npt=1644.309s" id="audio_0085"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_014b" id="kuix_002e"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1644.309s" clip-end="npt=1644.413s" id="audio_0086"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1644.413s" clip-end="npt=1655.653s" id="audio_0087"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1655.653s" clip-end="npt=1695.095s" id="audio_0088"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1695.095s" clip-end="npt=1705.036s" id="audio_0089"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1705.036s" clip-end="npt=1716.721s" id="audio_0090"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1716.721s" clip-end="npt=1737.685s" id="audio_0091"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1737.685s" clip-end="npt=1748.682s" id="audio_0092"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1748.682s" clip-end="npt=1770.658s" id="audio_0093"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1770.658s" clip-end="npt=1775.335s" id="audio_0094"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_014c" id="kuix_0030"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1775.335s" clip-end="npt=1775.508s" id="audio_0095"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1775.508s" clip-end="npt=1872.845s" id="audio_0096"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1872.845s" clip-end="npt=1898.730s" id="audio_0097"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_014d" id="kuix_0032"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1898.730s" clip-end="npt=1898.817s" id="audio_0098"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1898.817s" clip-end="npt=1908.302s" id="audio_0099"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1908.302s" clip-end="npt=1921.000s" id="audio_0100"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1921.000s" clip-end="npt=1928.698s" id="audio_0101"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1928.698s" clip-end="npt=1935.889s" id="audio_0102"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1935.889s" clip-end="npt=1953.809s" id="audio_0103"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1953.809s" clip-end="npt=1962.137s" id="audio_0104"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1962.137s" clip-end="npt=1966.200s" id="audio_0105"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1966.200s" clip-end="npt=1970.822s" id="audio_0106"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1970.822s" clip-end="npt=1984.337s" id="audio_0107"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=1984.337s" clip-end="npt=2011.058s" id="audio_0108"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2011.058s" clip-end="npt=2015.370s" id="audio_0109"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_014e" id="kuix_0034"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2015.370s" clip-end="npt=2015.456s" id="audio_0110"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2015.456s" clip-end="npt=2098.952s" id="audio_0111"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2098.952s" clip-end="npt=2145.920s" id="audio_0112"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2145.920s" clip-end="npt=2162.009s" id="audio_0113"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2162.009s" clip-end="npt=2167.777s" id="audio_0114"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_014f" id="kuix_0036"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2167.777s" clip-end="npt=2167.864s" id="audio_0115"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2167.864s" clip-end="npt=2200.079s" id="audio_0116"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2200.079s" clip-end="npt=2216.209s" id="audio_0117"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2216.209s" clip-end="npt=2220.341s" id="audio_0118"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2220.341s" clip-end="npt=2237.289s" id="audio_0119"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2237.289s" clip-end="npt=2243.793s" id="audio_0120"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2243.793s" clip-end="npt=2253.706s" id="audio_0121"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2253.706s" clip-end="npt=2260.209s" id="audio_0122"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2260.209s" clip-end="npt=2264.638s" id="audio_0123"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2264.638s" clip-end="npt=2287.481s" id="audio_0124"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2287.481s" clip-end="npt=2294.111s" id="audio_0125"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0150" id="kuix_0038"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2294.111s" clip-end="npt=2294.250s" id="audio_0126"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2294.250s" clip-end="npt=2328.501s" id="audio_0127"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2328.501s" clip-end="npt=2336.842s" id="audio_0128"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2336.842s" clip-end="npt=2346.354s" id="audio_0129"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2346.354s" clip-end="npt=2352.476s" id="audio_0130"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2352.476s" clip-end="npt=2382.199s" id="audio_0131"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2382.199s" clip-end="npt=2413.845s" id="audio_0132"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0151" id="kuix_003a"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2413.845s" clip-end="npt=2414.036s" id="audio_0133"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2414.036s" clip-end="npt=2440.640s" id="audio_0134"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2440.640s" clip-end="npt=2455.452s" id="audio_0135"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2455.452s" clip-end="npt=2461.590s" id="audio_0136"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2461.590s" clip-end="npt=2472.062s" id="audio_0137"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2472.062s" clip-end="npt=2518.108s" id="audio_0138"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2518.108s" clip-end="npt=2535.553s" id="audio_0139"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2535.553s" clip-end="npt=2544.154s" id="audio_0140"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0014" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0152" id="kuix_003c"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2544.154s" clip-end="npt=2544.206s" id="audio_0141"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2544.206s" clip-end="npt=2560.803s" id="audio_0142"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2560.803s" clip-end="npt=2584.777s" id="audio_0143"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2584.777s" clip-end="npt=2591.161s" id="audio_0144"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2591.161s" clip-end="npt=2638.637s" id="audio_0145"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2638.637s" clip-end="npt=2649.360s" id="audio_0146"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2649.360s" clip-end="npt=2654.161s" id="audio_0147"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2654.161s" clip-end="npt=2663.079s" id="audio_0148"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2663.079s" clip-end="npt=2678.930s" id="audio_0149"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0015" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0153" id="kuix_003e"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2678.930s" clip-end="npt=2679.155s" id="audio_0150"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2679.155s" clip-end="npt=2688.122s" id="audio_0151"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2688.122s" clip-end="npt=2718.234s" id="audio_0152"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2718.234s" clip-end="npt=2725.090s" id="audio_0153"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2725.090s" clip-end="npt=2744.434s" id="audio_0154"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2744.434s" clip-end="npt=2752.063s" id="audio_0155"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2752.063s" clip-end="npt=2769.932s" id="audio_0156"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2769.932s" clip-end="npt=2774.660s" id="audio_0157"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2774.660s" clip-end="npt=2780.924s" id="audio_0158"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2780.924s" clip-end="npt=2798.002s" id="audio_0159"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2798.002s" clip-end="npt=2813.571s" id="audio_0160"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0016" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0154" id="kuix_0040"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2813.571s" clip-end="npt=2813.709s" id="audio_0161"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2813.709s" clip-end="npt=2835.667s" id="audio_0162"/>
+				</seq>
+			</par>
+			<par endsync="last" id="kuix_0017" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0155" id="kuix_0042"/>
+				<seq>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2835.667s" clip-end="npt=2835.840s" id="audio_0163"/>
+					<audio src="20_Kapittel_tolv.mp3" clip-begin="npt=2835.840s" clip-end="npt=2837.077s" id="audio_0164"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

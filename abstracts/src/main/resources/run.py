@@ -64,12 +64,8 @@ def main(argv):
             book_title = ""
         else:
             book_title = " ("+book_title+")"
-        botname = "abstracts-bot"
-        channel = "#general"
-        if config["abstracts-botname"]:
-            botname = config["abstracts-botname"]
-        if config["abstracts-channel"]:
-            channel = config["abstracts-channel"]
+        botname = config.get("abstracts-botname", "abstracts-bot")
+        channel = config.get("abstracts-channel", "#general")
         slack.chat.post_message(
                                 channel,
                                 _('Audio abstract is ready for')+' '+book_id+book_title,

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Morskap"/>
+		<meta name="ncc:totalElapsedTime" content="00:49:12"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:58"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="57.734s">
+			<par endsync="last" id="rgn_par_0059_0001">
+				<text src="ncc.html#mcor_003a" id="mcor_003a"/>
+				<seq>
+					<audio src="59_Morskap.mp3" clip-begin="npt=0.000s" clip-end="npt=3.605s" id="rgn_aud_0059_0001"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=3.605s" clip-end="npt=6.727s" id="rgn_aud_0059_0002"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=6.727s" clip-end="npt=9.666s" id="rgn_aud_0059_0003"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=9.666s" clip-end="npt=11.885s" id="rgn_aud_0059_0004"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=11.885s" clip-end="npt=14.824s" id="rgn_aud_0059_0005"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=14.824s" clip-end="npt=16.786s" id="rgn_aud_0059_0006"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=16.786s" clip-end="npt=17.753s" id="rgn_aud_0059_0007"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=17.753s" clip-end="npt=25.484s" id="rgn_aud_0059_0008"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=25.484s" clip-end="npt=28.370s" id="rgn_aud_0059_0009"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=28.370s" clip-end="npt=31.609s" id="rgn_aud_0059_0010"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=31.609s" clip-end="npt=33.530s" id="rgn_aud_0059_0011"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=33.530s" clip-end="npt=35.450s" id="rgn_aud_0059_0012"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=35.450s" clip-end="npt=37.853s" id="rgn_aud_0059_0013"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=37.853s" clip-end="npt=42.347s" id="rgn_aud_0059_0014"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=42.347s" clip-end="npt=44.267s" id="rgn_aud_0059_0015"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=44.267s" clip-end="npt=46.603s" id="rgn_aud_0059_0016"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=46.603s" clip-end="npt=51.045s" id="rgn_aud_0059_0017"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=51.045s" clip-end="npt=53.030s" id="rgn_aud_0059_0018"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=53.030s" clip-end="npt=53.814s" id="rgn_aud_0059_0019"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=53.814s" clip-end="npt=54.597s" id="rgn_aud_0059_0020"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=54.597s" clip-end="npt=55.383s" id="rgn_aud_0059_0021"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=55.383s" clip-end="npt=56.167s" id="rgn_aud_0059_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="mhfv_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0085" id="mhfv_0002"/>
+				<seq>
+					<audio src="59_Morskap.mp3" clip-begin="npt=56.167s" clip-end="npt=56.366s" id="rgn_aud_0059_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0059_0002">
+				<text src="ncc.html#mcor_003a" id="mhfv_0003"/>
+				<seq>
+					<audio src="59_Morskap.mp3" clip-begin="npt=56.366s" clip-end="npt=56.951s" id="rgn_aud_0059_0024"/>
+					<audio src="59_Morskap.mp3" clip-begin="npt=56.951s" clip-end="npt=57.734s" id="rgn_aud_0059_0025"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

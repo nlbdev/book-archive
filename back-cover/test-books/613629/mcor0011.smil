@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Jeg henger over stolen"/>
+		<meta name="ncc:totalElapsedTime" content="00:12:59"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:39"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="38.658s">
+			<par endsync="last" id="rgn_par_0017_0001">
+				<text src="ncc.html#mcor_0010" id="mcor_0010"/>
+				<seq>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=0.000s" clip-end="npt=3.780s" id="rgn_aud_0017_0001"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=3.780s" clip-end="npt=6.065s" id="rgn_aud_0017_0002"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=6.065s" clip-end="npt=10.324s" id="rgn_aud_0017_0003"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=10.324s" clip-end="npt=13.215s" id="rgn_aud_0017_0004"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=13.215s" clip-end="npt=14.651s" id="rgn_aud_0017_0005"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=14.651s" clip-end="npt=16.753s" id="rgn_aud_0017_0006"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=16.753s" clip-end="npt=19.757s" id="rgn_aud_0017_0007"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=19.757s" clip-end="npt=23.059s" id="rgn_aud_0017_0008"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=23.059s" clip-end="npt=23.387s" id="rgn_aud_0017_0009"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=23.387s" clip-end="npt=24.021s" id="rgn_aud_0017_0010"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=24.021s" clip-end="npt=27.157s" id="rgn_aud_0017_0011"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=27.157s" clip-end="npt=27.625s" id="rgn_aud_0017_0012"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=27.625s" clip-end="npt=30.199s" id="rgn_aud_0017_0013"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=30.199s" clip-end="npt=32.378s" id="rgn_aud_0017_0014"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=32.378s" clip-end="npt=33.161s" id="rgn_aud_0017_0015"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=33.161s" clip-end="npt=33.948s" id="rgn_aud_0017_0016"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=33.948s" clip-end="npt=34.731s" id="rgn_aud_0017_0017"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=34.731s" clip-end="npt=35.518s" id="rgn_aud_0017_0018"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=35.518s" clip-end="npt=36.302s" id="rgn_aud_0017_0019"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=36.302s" clip-end="npt=37.088s" id="rgn_aud_0017_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="zlhq_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_005a" id="zlhq_0002"/>
+				<seq>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=37.088s" clip-end="npt=37.392s" id="rgn_aud_0017_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0017_0002">
+				<text src="ncc.html#mcor_0010" id="zlhq_0003"/>
+				<seq>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=37.392s" clip-end="npt=37.872s" id="rgn_aud_0017_0022"/>
+					<audio src="17_Jeg_henger_ov.mp3" clip-begin="npt=37.872s" clip-end="npt=38.658s" id="rgn_aud_0017_0023"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

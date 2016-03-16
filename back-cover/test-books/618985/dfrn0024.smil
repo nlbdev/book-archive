@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:55:45.491"/>
+		<meta name="ncc:totalElapsedTime" content="20:18:43.394"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Møt Fifty Shades"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="3345.491s">
+			<par endsync="last" id="dfrn_0024">
+				<text src="ncc.html#dfrn_0023" id="dfrn_0023"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=0.000s" clip-end="npt=4.073s" id="audio_0001"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=4.073s" clip-end="npt=9.314s" id="audio_0002"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=9.314s" clip-end="npt=14.572s" id="audio_0003"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=14.572s" clip-end="npt=19.159s" id="audio_0004"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=19.159s" clip-end="npt=36.191s" id="audio_0005"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=36.191s" clip-end="npt=44.380s" id="audio_0006"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=44.380s" clip-end="npt=52.718s" id="audio_0007"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=52.718s" clip-end="npt=86.837s" id="audio_0008"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=86.837s" clip-end="npt=94.333s" id="audio_0009"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=94.333s" clip-end="npt=101.516s" id="audio_0010"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=101.516s" clip-end="npt=107.676s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0001" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0280" id="znfv_0019"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=107.676s" clip-end="npt=107.746s" id="audio_0012"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=107.746s" clip-end="npt=167.873s" id="audio_0013"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=167.873s" clip-end="npt=182.541s" id="audio_0014"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=182.541s" clip-end="npt=188.945s" id="audio_0015"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=188.945s" clip-end="npt=230.129s" id="audio_0016"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=230.129s" clip-end="npt=246.616s" id="audio_0017"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=246.616s" clip-end="npt=258.277s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0281" id="znfv_001b"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=258.277s" clip-end="npt=258.401s" id="audio_0019"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=258.401s" clip-end="npt=264.303s" id="audio_0020"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=264.303s" clip-end="npt=275.994s" id="audio_0021"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=275.994s" clip-end="npt=292.089s" id="audio_0022"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=292.089s" clip-end="npt=301.940s" id="audio_0023"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=301.940s" clip-end="npt=307.761s" id="audio_0024"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=307.761s" clip-end="npt=361.219s" id="audio_0025"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=361.219s" clip-end="npt=378.308s" id="audio_0026"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=378.308s" clip-end="npt=383.772s" id="audio_0027"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=383.772s" clip-end="npt=397.032s" id="audio_0028"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=397.032s" clip-end="npt=405.814s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0282" id="znfv_001d"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=405.814s" clip-end="npt=405.935s" id="audio_0030"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=405.935s" clip-end="npt=409.937s" id="audio_0031"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=409.937s" clip-end="npt=446.516s" id="audio_0032"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=446.516s" clip-end="npt=487.188s" id="audio_0033"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=487.188s" clip-end="npt=496.709s" id="audio_0034"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=496.709s" clip-end="npt=501.826s" id="audio_0035"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=501.826s" clip-end="npt=516.480s" id="audio_0036"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=516.480s" clip-end="npt=536.661s" id="audio_0037"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=536.661s" clip-end="npt=544.027s" id="audio_0038"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=544.027s" clip-end="npt=550.144s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0283" id="znfv_001f"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=550.144s" clip-end="npt=550.250s" id="audio_0040"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=550.250s" clip-end="npt=572.362s" id="audio_0041"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=572.362s" clip-end="npt=577.884s" id="audio_0042"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=577.884s" clip-end="npt=582.686s" id="audio_0043"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=582.686s" clip-end="npt=590.818s" id="audio_0044"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=590.818s" clip-end="npt=603.976s" id="audio_0045"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=603.976s" clip-end="npt=627.306s" id="audio_0046"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=627.306s" clip-end="npt=637.710s" id="audio_0047"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=637.710s" clip-end="npt=653.005s" id="audio_0048"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=653.005s" clip-end="npt=664.878s" id="audio_0049"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=664.878s" clip-end="npt=682.019s" id="audio_0050"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=682.019s" clip-end="npt=694.795s" id="audio_0051"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=694.795s" clip-end="npt=700.003s" id="audio_0052"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0284" id="znfv_0021"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=700.003s" clip-end="npt=700.109s" id="audio_0053"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=700.109s" clip-end="npt=724.284s" id="audio_0054"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=724.284s" clip-end="npt=757.782s" id="audio_0055"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=757.782s" clip-end="npt=765.960s" id="audio_0056"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=765.960s" clip-end="npt=783.267s" id="audio_0057"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=783.267s" clip-end="npt=792.704s" id="audio_0058"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=792.704s" clip-end="npt=816.173s" id="audio_0059"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=816.173s" clip-end="npt=828.620s" id="audio_0060"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=828.620s" clip-end="npt=833.027s" id="audio_0061"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=833.027s" clip-end="npt=838.092s" id="audio_0062"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=838.092s" clip-end="npt=846.936s" id="audio_0063"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0285" id="znfv_0023"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=846.936s" clip-end="npt=847.007s" id="audio_0064"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=847.007s" clip-end="npt=862.673s" id="audio_0065"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=862.673s" clip-end="npt=868.451s" id="audio_0066"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=868.451s" clip-end="npt=893.784s" id="audio_0067"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=893.784s" clip-end="npt=910.659s" id="audio_0068"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=910.659s" clip-end="npt=925.987s" id="audio_0069"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=925.987s" clip-end="npt=951.447s" id="audio_0070"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=951.447s" clip-end="npt=982.432s" id="audio_0071"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0286" id="znfv_0025"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=982.432s" clip-end="npt=982.503s" id="audio_0072"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=982.503s" clip-end="npt=1005.042s" id="audio_0073"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1005.042s" clip-end="npt=1062.437s" id="audio_0074"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1062.437s" clip-end="npt=1073.652s" id="audio_0075"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1073.652s" clip-end="npt=1089.132s" id="audio_0076"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1089.132s" clip-end="npt=1101.295s" id="audio_0077"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1101.295s" clip-end="npt=1109.370s" id="audio_0078"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1109.370s" clip-end="npt=1117.938s" id="audio_0079"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1117.938s" clip-end="npt=1124.168s" id="audio_0080"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0287" id="znfv_0027"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1124.168s" clip-end="npt=1124.328s" id="audio_0081"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1124.328s" clip-end="npt=1131.739s" id="audio_0082"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1131.739s" clip-end="npt=1145.136s" id="audio_0083"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1145.136s" clip-end="npt=1154.781s" id="audio_0084"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1154.781s" clip-end="npt=1201.341s" id="audio_0085"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1201.341s" clip-end="npt=1206.561s" id="audio_0086"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1206.561s" clip-end="npt=1212.279s" id="audio_0087"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1212.279s" clip-end="npt=1259.904s" id="audio_0088"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1259.904s" clip-end="npt=1263.923s" id="audio_0089"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0288" id="znfv_0029"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1263.923s" clip-end="npt=1264.011s" id="audio_0090"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1264.011s" clip-end="npt=1292.754s" id="audio_0091"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1292.754s" clip-end="npt=1300.029s" id="audio_0092"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1300.029s" clip-end="npt=1320.186s" id="audio_0093"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1320.186s" clip-end="npt=1358.479s" id="audio_0094"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1358.479s" clip-end="npt=1382.998s" id="audio_0095"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1382.998s" clip-end="npt=1406.357s" id="audio_0096"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1406.357s" clip-end="npt=1411.565s" id="audio_0097"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0289" id="znfv_002b"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1411.565s" clip-end="npt=1411.724s" id="audio_0098"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1411.724s" clip-end="npt=1427.562s" id="audio_0099"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1427.562s" clip-end="npt=1483.010s" id="audio_0100"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1483.010s" clip-end="npt=1553.622s" id="audio_0101"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1553.622s" clip-end="npt=1558.575s" id="audio_0102"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_028a" id="znfv_002d"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1558.575s" clip-end="npt=1558.770s" id="audio_0103"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1558.770s" clip-end="npt=1612.720s" id="audio_0104"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1612.720s" clip-end="npt=1619.988s" id="audio_0105"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1619.988s" clip-end="npt=1645.727s" id="audio_0106"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1645.727s" clip-end="npt=1653.979s" id="audio_0107"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1653.979s" clip-end="npt=1676.845s" id="audio_0108"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1676.845s" clip-end="npt=1694.541s" id="audio_0109"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_028b" id="znfv_002f"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1694.541s" clip-end="npt=1694.630s" id="audio_0110"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1694.630s" clip-end="npt=1700.103s" id="audio_0111"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1700.103s" clip-end="npt=1731.051s" id="audio_0112"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1731.051s" clip-end="npt=1743.873s" id="audio_0113"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1743.873s" clip-end="npt=1748.226s" id="audio_0114"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1748.226s" clip-end="npt=1754.221s" id="audio_0115"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1754.221s" clip-end="npt=1761.574s" id="audio_0116"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1761.574s" clip-end="npt=1765.891s" id="audio_0117"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1765.891s" clip-end="npt=1798.437s" id="audio_0118"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1798.437s" clip-end="npt=1803.580s" id="audio_0119"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1803.580s" clip-end="npt=1836.332s" id="audio_0120"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_028c" id="znfv_0031"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1836.332s" clip-end="npt=1836.402s" id="audio_0121"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1836.402s" clip-end="npt=1843.394s" id="audio_0122"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1843.394s" clip-end="npt=1855.079s" id="audio_0123"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1855.079s" clip-end="npt=1873.700s" id="audio_0124"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_028d" id="znfv_0033"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1873.700s" clip-end="npt=1873.895s" id="audio_0125"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1873.895s" clip-end="npt=1898.611s" id="audio_0126"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1898.611s" clip-end="npt=1913.483s" id="audio_0127"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1913.483s" clip-end="npt=1928.735s" id="audio_0128"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1928.735s" clip-end="npt=1932.915s" id="audio_0129"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1932.915s" clip-end="npt=1939.100s" id="audio_0130"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1939.100s" clip-end="npt=1944.992s" id="audio_0131"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1944.992s" clip-end="npt=1950.353s" id="audio_0132"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1950.353s" clip-end="npt=1956.903s" id="audio_0133"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1956.903s" clip-end="npt=1967.560s" id="audio_0134"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1967.560s" clip-end="npt=1985.933s" id="audio_0135"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=1985.933s" clip-end="npt=2018.919s" id="audio_0136"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2018.919s" clip-end="npt=2054.587s" id="audio_0137"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_028e" id="znfv_0035"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2054.587s" clip-end="npt=2054.658s" id="audio_0138"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2054.658s" clip-end="npt=2115.839s" id="audio_0139"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2115.839s" clip-end="npt=2145.326s" id="audio_0140"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2145.326s" clip-end="npt=2166.285s" id="audio_0141"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2166.285s" clip-end="npt=2171.573s" id="audio_0142"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2171.573s" clip-end="npt=2195.495s" id="audio_0143"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2195.495s" clip-end="npt=2207.492s" id="audio_0144"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2207.492s" clip-end="npt=2215.179s" id="audio_0145"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_028f" id="znfv_0037"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2215.179s" clip-end="npt=2215.303s" id="audio_0146"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2215.303s" clip-end="npt=2225.111s" id="audio_0147"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2225.111s" clip-end="npt=2233.870s" id="audio_0148"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2233.870s" clip-end="npt=2250.743s" id="audio_0149"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2250.743s" clip-end="npt=2261.787s" id="audio_0150"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2261.787s" clip-end="npt=2312.378s" id="audio_0151"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2312.378s" clip-end="npt=2328.361s" id="audio_0152"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2328.361s" clip-end="npt=2364.625s" id="audio_0153"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0290" id="znfv_0039"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2364.625s" clip-end="npt=2364.766s" id="audio_0154"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2364.766s" clip-end="npt=2396.696s" id="audio_0155"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2396.696s" clip-end="npt=2401.350s" id="audio_0156"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2401.350s" clip-end="npt=2422.908s" id="audio_0157"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2422.908s" clip-end="npt=2431.101s" id="audio_0158"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2431.101s" clip-end="npt=2498.876s" id="audio_0159"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2498.876s" clip-end="npt=2505.102s" id="audio_0160"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2505.102s" clip-end="npt=2512.899s" id="audio_0161"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0291" id="znfv_003b"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2512.899s" clip-end="npt=2513.076s" id="audio_0162"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2513.076s" clip-end="npt=2537.881s" id="audio_0163"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2537.881s" clip-end="npt=2579.276s" id="audio_0164"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2579.276s" clip-end="npt=2615.652s" id="audio_0165"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2615.652s" clip-end="npt=2622.005s" id="audio_0166"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2622.005s" clip-end="npt=2627.202s" id="audio_0167"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2627.202s" clip-end="npt=2645.360s" id="audio_0168"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2645.360s" clip-end="npt=2651.780s" id="audio_0169"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0292" id="znfv_003d"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2651.780s" clip-end="npt=2651.887s" id="audio_0170"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2651.887s" clip-end="npt=2678.045s" id="audio_0171"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2678.045s" clip-end="npt=2682.487s" id="audio_0172"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2682.487s" clip-end="npt=2688.451s" id="audio_0173"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2688.451s" clip-end="npt=2695.196s" id="audio_0174"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2695.196s" clip-end="npt=2700.572s" id="audio_0175"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2700.572s" clip-end="npt=2707.251s" id="audio_0176"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2707.251s" clip-end="npt=2741.745s" id="audio_0177"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2741.745s" clip-end="npt=2782.326s" id="audio_0178"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0014" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0293" id="znfv_003f"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2782.326s" clip-end="npt=2782.486s" id="audio_0179"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2782.486s" clip-end="npt=2800.641s" id="audio_0180"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2800.641s" clip-end="npt=2808.355s" id="audio_0181"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2808.355s" clip-end="npt=2837.113s" id="audio_0182"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2837.113s" clip-end="npt=2843.410s" id="audio_0183"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2843.410s" clip-end="npt=2848.572s" id="audio_0184"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2848.572s" clip-end="npt=2855.748s" id="audio_0185"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2855.748s" clip-end="npt=2928.834s" id="audio_0186"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0015" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0294" id="znfv_0041"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2928.834s" clip-end="npt=2928.958s" id="audio_0187"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2928.958s" clip-end="npt=2947.928s" id="audio_0188"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2947.928s" clip-end="npt=2982.759s" id="audio_0189"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2982.759s" clip-end="npt=2990.528s" id="audio_0190"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2990.528s" clip-end="npt=2994.975s" id="audio_0191"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=2994.975s" clip-end="npt=3001.283s" id="audio_0192"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3001.283s" clip-end="npt=3022.073s" id="audio_0193"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3022.073s" clip-end="npt=3031.458s" id="audio_0194"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3031.458s" clip-end="npt=3039.529s" id="audio_0195"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3039.529s" clip-end="npt=3044.098s" id="audio_0196"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3044.098s" clip-end="npt=3055.804s" id="audio_0197"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3055.804s" clip-end="npt=3065.311s" id="audio_0198"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3065.311s" clip-end="npt=3071.212s" id="audio_0199"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0016" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0295" id="znfv_0043"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3071.212s" clip-end="npt=3071.336s" id="audio_0200"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3071.336s" clip-end="npt=3080.982s" id="audio_0201"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3080.982s" clip-end="npt=3088.914s" id="audio_0202"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3088.914s" clip-end="npt=3093.354s" id="audio_0203"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3093.354s" clip-end="npt=3166.403s" id="audio_0204"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3166.403s" clip-end="npt=3195.411s" id="audio_0205"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3195.411s" clip-end="npt=3201.149s" id="audio_0206"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3201.149s" clip-end="npt=3208.362s" id="audio_0207"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3208.362s" clip-end="npt=3212.496s" id="audio_0208"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3212.496s" clip-end="npt=3218.321s" id="audio_0209"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0017" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0296" id="znfv_0045"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3218.321s" clip-end="npt=3218.445s" id="audio_0210"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3218.445s" clip-end="npt=3272.529s" id="audio_0211"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3272.529s" clip-end="npt=3286.182s" id="audio_0212"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3286.182s" clip-end="npt=3299.318s" id="audio_0213"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3299.318s" clip-end="npt=3326.967s" id="audio_0214"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3326.967s" clip-end="npt=3334.866s" id="audio_0215"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3334.866s" clip-end="npt=3343.247s" id="audio_0216"/>
+				</seq>
+			</par>
+			<par endsync="last" id="znfv_0018" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0297" id="znfv_0047"/>
+				<seq>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3343.247s" clip-end="npt=3343.424s" id="audio_0217"/>
+					<audio src="38_M_t_Fifty_Sha.mp3" clip-begin="npt=3343.424s" clip-end="npt=3345.491s" id="audio_0218"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

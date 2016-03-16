@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Andres barn"/>
+		<meta name="ncc:totalElapsedTime" content="00:39:58"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:42"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="41.889s">
+			<par endsync="last" id="rgn_par_0050_0001">
+				<text src="ncc.html#mcor_0031" id="mcor_0031"/>
+				<seq>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=0.000s" clip-end="npt=2.169s" id="rgn_aud_0050_0001"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=2.169s" clip-end="npt=2.953s" id="rgn_aud_0050_0002"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=2.953s" clip-end="npt=6.675s" id="rgn_aud_0050_0003"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=6.675s" clip-end="npt=8.712s" id="rgn_aud_0050_0004"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=8.712s" clip-end="npt=11.769s" id="rgn_aud_0050_0005"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=11.769s" clip-end="npt=16.274s" id="rgn_aud_0050_0006"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=16.274s" clip-end="npt=23.824s" id="rgn_aud_0050_0007"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=23.824s" clip-end="npt=37.185s" id="rgn_aud_0050_0008"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=37.185s" clip-end="npt=37.969s" id="rgn_aud_0050_0009"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=37.969s" clip-end="npt=38.753s" id="rgn_aud_0050_0010"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=38.753s" clip-end="npt=39.536s" id="rgn_aud_0050_0011"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=39.536s" clip-end="npt=40.320s" id="rgn_aud_0050_0012"/>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=40.320s" clip-end="npt=41.103s" id="rgn_aud_0050_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aahb_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_007b" id="aahb_0002"/>
+				<seq>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=41.103s" clip-end="npt=41.329s" id="rgn_aud_0050_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0050_0002">
+				<text src="ncc.html#mcor_0031" id="aahb_0003"/>
+				<seq>
+					<audio src="50_Andres_barn.mp3" clip-begin="npt=41.329s" clip-end="npt=41.889s" id="rgn_aud_0050_0015"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

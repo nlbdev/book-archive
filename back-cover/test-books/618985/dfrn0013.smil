@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:46:34.912"/>
+		<meta name="ncc:totalElapsedTime" content="10:13:49.512"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel tretten"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2794.912s">
+			<par endsync="last" id="dfrn_0013">
+				<text src="ncc.html#dfrn_0012" id="dfrn_0012"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=0.000s" clip-end="npt=11.177s" id="audio_0001"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=11.177s" clip-end="npt=15.689s" id="audio_0002"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=15.689s" clip-end="npt=21.366s" id="audio_0003"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=21.366s" clip-end="npt=26.069s" id="audio_0004"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=26.069s" clip-end="npt=36.456s" id="audio_0005"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=36.456s" clip-end="npt=42.804s" id="audio_0006"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=42.804s" clip-end="npt=50.720s" id="audio_0007"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=50.720s" clip-end="npt=60.176s" id="audio_0008"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=60.176s" clip-end="npt=71.485s" id="audio_0009"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=71.485s" clip-end="npt=82.177s" id="audio_0010"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=82.177s" clip-end="npt=92.990s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0001" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0156" id="aosj_0018"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=92.990s" clip-end="npt=93.042s" id="audio_0012"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=93.042s" clip-end="npt=153.294s" id="audio_0013"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=153.294s" clip-end="npt=158.381s" id="audio_0014"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=158.381s" clip-end="npt=200.851s" id="audio_0015"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=200.851s" clip-end="npt=225.183s" id="audio_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0157" id="aosj_001a"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=225.183s" clip-end="npt=225.305s" id="audio_0017"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=225.305s" clip-end="npt=255.057s" id="audio_0018"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=255.057s" clip-end="npt=260.809s" id="audio_0019"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=260.809s" clip-end="npt=297.150s" id="audio_0020"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=297.150s" clip-end="npt=327.290s" id="audio_0021"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=327.290s" clip-end="npt=359.120s" id="audio_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0158" id="aosj_001c"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=359.120s" clip-end="npt=359.276s" id="audio_0023"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=359.276s" clip-end="npt=380.716s" id="audio_0024"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=380.716s" clip-end="npt=429.173s" id="audio_0025"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=429.173s" clip-end="npt=460.471s" id="audio_0026"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=460.471s" clip-end="npt=464.789s" id="audio_0027"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=464.789s" clip-end="npt=475.048s" id="audio_0028"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=475.048s" clip-end="npt=479.699s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0159" id="aosj_001e"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=479.699s" clip-end="npt=479.803s" id="audio_0030"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=479.803s" clip-end="npt=488.723s" id="audio_0031"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=488.723s" clip-end="npt=497.248s" id="audio_0032"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=497.248s" clip-end="npt=509.319s" id="audio_0033"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=509.319s" clip-end="npt=553.129s" id="audio_0034"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=553.129s" clip-end="npt=563.558s" id="audio_0035"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=563.558s" clip-end="npt=594.628s" id="audio_0036"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=594.628s" clip-end="npt=618.616s" id="audio_0037"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_015a" id="aosj_0020"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=618.616s" clip-end="npt=618.789s" id="audio_0038"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=618.789s" clip-end="npt=646.960s" id="audio_0039"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=646.960s" clip-end="npt=684.685s" id="audio_0040"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=684.685s" clip-end="npt=732.735s" id="audio_0041"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_015b" id="aosj_0022"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=732.735s" clip-end="npt=732.789s" id="audio_0042"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=732.789s" clip-end="npt=740.827s" id="audio_0043"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=740.827s" clip-end="npt=764.652s" id="audio_0044"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=764.652s" clip-end="npt=772.841s" id="audio_0045"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=772.841s" clip-end="npt=781.183s" id="audio_0046"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=781.183s" clip-end="npt=795.629s" id="audio_0047"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=795.629s" clip-end="npt=816.943s" id="audio_0048"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=816.943s" clip-end="npt=821.795s" id="audio_0049"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=821.795s" clip-end="npt=850.169s" id="audio_0050"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=850.169s" clip-end="npt=854.250s" id="audio_0051"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=854.250s" clip-end="npt=859.756s" id="audio_0052"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_015c" id="aosj_0024"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=859.756s" clip-end="npt=859.842s" id="audio_0053"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=859.842s" clip-end="npt=871.237s" id="audio_0054"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=871.237s" clip-end="npt=887.324s" id="audio_0055"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=887.324s" clip-end="npt=891.714s" id="audio_0056"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=891.714s" clip-end="npt=904.941s" id="audio_0057"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=904.941s" clip-end="npt=926.432s" id="audio_0058"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=926.432s" clip-end="npt=970.066s" id="audio_0059"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=970.066s" clip-end="npt=976.748s" id="audio_0060"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=976.748s" clip-end="npt=984.317s" id="audio_0061"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_015d" id="aosj_0026"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=984.317s" clip-end="npt=984.421s" id="audio_0062"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=984.421s" clip-end="npt=1028.986s" id="audio_0063"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1028.986s" clip-end="npt=1070.195s" id="audio_0064"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1070.195s" clip-end="npt=1077.074s" id="audio_0065"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1077.074s" clip-end="npt=1107.726s" id="audio_0066"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_015e" id="aosj_0028"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1107.726s" clip-end="npt=1107.847s" id="audio_0067"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1107.847s" clip-end="npt=1135.812s" id="audio_0068"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1135.812s" clip-end="npt=1142.218s" id="audio_0069"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1142.218s" clip-end="npt=1146.843s" id="audio_0070"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1146.843s" clip-end="npt=1163.603s" id="audio_0071"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1163.603s" clip-end="npt=1172.502s" id="audio_0072"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1172.502s" clip-end="npt=1188.854s" id="audio_0073"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1188.854s" clip-end="npt=1197.734s" id="audio_0074"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1197.734s" clip-end="npt=1211.592s" id="audio_0075"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1211.592s" clip-end="npt=1216.087s" id="audio_0076"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1216.087s" clip-end="npt=1224.319s" id="audio_0077"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1224.319s" clip-end="npt=1231.694s" id="audio_0078"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_015f" id="aosj_002a"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1231.694s" clip-end="npt=1231.815s" id="audio_0079"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1231.815s" clip-end="npt=1276.161s" id="audio_0080"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1276.161s" clip-end="npt=1288.315s" id="audio_0081"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1288.315s" clip-end="npt=1293.642s" id="audio_0082"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1293.642s" clip-end="npt=1307.589s" id="audio_0083"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1307.589s" clip-end="npt=1314.219s" id="audio_0084"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1314.219s" clip-end="npt=1326.172s" id="audio_0085"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1326.172s" clip-end="npt=1350.531s" id="audio_0086"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1350.531s" clip-end="npt=1356.745s" id="audio_0087"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1356.745s" clip-end="npt=1360.917s" id="audio_0088"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1360.917s" clip-end="npt=1369.323s" id="audio_0089"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0160" id="aosj_002c"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1369.323s" clip-end="npt=1369.444s" id="audio_0090"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1369.444s" clip-end="npt=1396.678s" id="audio_0091"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1396.678s" clip-end="npt=1404.673s" id="audio_0092"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1404.673s" clip-end="npt=1409.044s" id="audio_0093"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1409.044s" clip-end="npt=1413.222s" id="audio_0094"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1413.222s" clip-end="npt=1432.671s" id="audio_0095"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1432.671s" clip-end="npt=1440.101s" id="audio_0096"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1440.101s" clip-end="npt=1459.170s" id="audio_0097"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1459.170s" clip-end="npt=1475.764s" id="audio_0098"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1475.764s" clip-end="npt=1501.906s" id="audio_0099"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1501.906s" clip-end="npt=1509.588s" id="audio_0100"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0161" id="aosj_002e"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1509.588s" clip-end="npt=1509.709s" id="audio_0101"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1509.709s" clip-end="npt=1516.978s" id="audio_0102"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1516.978s" clip-end="npt=1524.677s" id="audio_0103"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1524.677s" clip-end="npt=1537.248s" id="audio_0104"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1537.248s" clip-end="npt=1547.110s" id="audio_0105"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1547.110s" clip-end="npt=1552.715s" id="audio_0106"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1552.715s" clip-end="npt=1576.430s" id="audio_0107"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1576.430s" clip-end="npt=1582.007s" id="audio_0108"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1582.007s" clip-end="npt=1586.885s" id="audio_0109"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1586.885s" clip-end="npt=1591.586s" id="audio_0110"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1591.586s" clip-end="npt=1600.773s" id="audio_0111"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1600.773s" clip-end="npt=1621.329s" id="audio_0112"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0162" id="aosj_0030"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1621.329s" clip-end="npt=1621.468s" id="audio_0113"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1621.468s" clip-end="npt=1626.491s" id="audio_0114"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1626.491s" clip-end="npt=1633.206s" id="audio_0115"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1633.206s" clip-end="npt=1638.649s" id="audio_0116"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1638.649s" clip-end="npt=1642.805s" id="audio_0117"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1642.805s" clip-end="npt=1654.683s" id="audio_0118"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1654.683s" clip-end="npt=1659.339s" id="audio_0119"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1659.339s" clip-end="npt=1676.714s" id="audio_0120"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1676.714s" clip-end="npt=1698.170s" id="audio_0121"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1698.170s" clip-end="npt=1733.165s" id="audio_0122"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1733.165s" clip-end="npt=1741.440s" id="audio_0123"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0163" id="aosj_0032"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1741.440s" clip-end="npt=1741.578s" id="audio_0124"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1741.578s" clip-end="npt=1747.225s" id="audio_0125"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1747.225s" clip-end="npt=1758.660s" id="audio_0126"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1758.660s" clip-end="npt=1767.721s" id="audio_0127"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1767.721s" clip-end="npt=1773.084s" id="audio_0128"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1773.084s" clip-end="npt=1791.481s" id="audio_0129"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1791.481s" clip-end="npt=1803.856s" id="audio_0130"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1803.856s" clip-end="npt=1817.201s" id="audio_0131"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1817.201s" clip-end="npt=1828.089s" id="audio_0132"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1828.089s" clip-end="npt=1842.776s" id="audio_0133"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1842.776s" clip-end="npt=1857.530s" id="audio_0134"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0164" id="aosj_0034"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1857.530s" clip-end="npt=1857.634s" id="audio_0135"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1857.634s" clip-end="npt=1868.567s" id="audio_0136"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1868.567s" clip-end="npt=1883.763s" id="audio_0137"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1883.763s" clip-end="npt=1897.848s" id="audio_0138"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1897.848s" clip-end="npt=1916.864s" id="audio_0139"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1916.864s" clip-end="npt=1945.104s" id="audio_0140"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1945.104s" clip-end="npt=1950.630s" id="audio_0141"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1950.630s" clip-end="npt=1973.326s" id="audio_0142"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1973.326s" clip-end="npt=1980.154s" id="audio_0143"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0165" id="aosj_0036"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1980.154s" clip-end="npt=1980.249s" id="audio_0144"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1980.249s" clip-end="npt=1992.314s" id="audio_0145"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1992.314s" clip-end="npt=1999.121s" id="audio_0146"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=1999.121s" clip-end="npt=2029.688s" id="audio_0147"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2029.688s" clip-end="npt=2037.596s" id="audio_0148"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2037.596s" clip-end="npt=2064.854s" id="audio_0149"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2064.854s" clip-end="npt=2097.140s" id="audio_0150"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0166" id="aosj_0038"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2097.140s" clip-end="npt=2097.278s" id="audio_0151"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2097.278s" clip-end="npt=2113.674s" id="audio_0152"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2113.674s" clip-end="npt=2133.229s" id="audio_0153"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2133.229s" clip-end="npt=2143.539s" id="audio_0154"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2143.539s" clip-end="npt=2147.773s" id="audio_0155"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2147.773s" clip-end="npt=2160.302s" id="audio_0156"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2160.302s" clip-end="npt=2231.376s" id="audio_0157"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0167" id="aosj_003a"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2231.376s" clip-end="npt=2231.446s" id="audio_0158"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2231.446s" clip-end="npt=2240.210s" id="audio_0159"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2240.210s" clip-end="npt=2265.324s" id="audio_0160"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2265.324s" clip-end="npt=2321.350s" id="audio_0161"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2321.350s" clip-end="npt=2345.139s" id="audio_0162"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2345.139s" clip-end="npt=2361.812s" id="audio_0163"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0168" id="aosj_003c"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2361.812s" clip-end="npt=2361.916s" id="audio_0164"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2361.916s" clip-end="npt=2369.043s" id="audio_0165"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2369.043s" clip-end="npt=2386.528s" id="audio_0166"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2386.528s" clip-end="npt=2407.554s" id="audio_0167"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2407.554s" clip-end="npt=2415.997s" id="audio_0168"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0014" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0169" id="aosj_003e"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2415.997s" clip-end="npt=2416.101s" id="audio_0169"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2416.101s" clip-end="npt=2430.514s" id="audio_0170"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2430.514s" clip-end="npt=2438.224s" id="audio_0171"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2438.224s" clip-end="npt=2460.996s" id="audio_0172"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2460.996s" clip-end="npt=2482.963s" id="audio_0173"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2482.963s" clip-end="npt=2491.545s" id="audio_0174"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2491.545s" clip-end="npt=2496.949s" id="audio_0175"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2496.949s" clip-end="npt=2503.858s" id="audio_0176"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2503.858s" clip-end="npt=2511.069s" id="audio_0177"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2511.069s" clip-end="npt=2555.576s" id="audio_0178"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2555.576s" clip-end="npt=2563.439s" id="audio_0179"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0015" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_016a" id="aosj_0040"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2563.439s" clip-end="npt=2563.577s" id="audio_0180"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2563.577s" clip-end="npt=2585.180s" id="audio_0181"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2585.180s" clip-end="npt=2598.965s" id="audio_0182"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2598.965s" clip-end="npt=2604.505s" id="audio_0183"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2604.505s" clip-end="npt=2609.212s" id="audio_0184"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2609.212s" clip-end="npt=2623.840s" id="audio_0185"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2623.840s" clip-end="npt=2664.163s" id="audio_0186"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2664.163s" clip-end="npt=2679.933s" id="audio_0187"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2679.933s" clip-end="npt=2686.009s" id="audio_0188"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2686.009s" clip-end="npt=2697.688s" id="audio_0189"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0016" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_016b" id="aosj_0042"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2697.688s" clip-end="npt=2697.861s" id="audio_0190"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2697.861s" clip-end="npt=2792.738s" id="audio_0191"/>
+				</seq>
+			</par>
+			<par endsync="last" id="aosj_0017" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_016c" id="aosj_0044"/>
+				<seq>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2792.738s" clip-end="npt=2792.824s" id="audio_0192"/>
+					<audio src="21_Kapittel_tret.mp3" clip-begin="npt=2792.824s" clip-end="npt=2794.912s" id="audio_0193"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

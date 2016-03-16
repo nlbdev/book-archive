@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Pippi og Annika"/>
+		<meta name="ncc:totalElapsedTime" content="00:36:19"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:47"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="47.012s">
+			<par endsync="last" id="rgn_par_0045_0001">
+				<text src="ncc.html#mcor_002c" id="mcor_002c"/>
+				<seq>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=0.000s" clip-end="npt=3.547s" id="rgn_aud_0045_0001"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=3.547s" clip-end="npt=4.000s" id="rgn_aud_0045_0002"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=4.000s" clip-end="npt=8.022s" id="rgn_aud_0045_0003"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=8.022s" clip-end="npt=13.965s" id="rgn_aud_0045_0004"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=13.965s" clip-end="npt=18.966s" id="rgn_aud_0045_0005"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=18.966s" clip-end="npt=19.440s" id="rgn_aud_0045_0006"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=19.440s" clip-end="npt=20.431s" id="rgn_aud_0045_0007"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=20.431s" clip-end="npt=29.497s" id="rgn_aud_0045_0008"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=29.497s" clip-end="npt=32.683s" id="rgn_aud_0045_0009"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=32.683s" clip-end="npt=34.420s" id="rgn_aud_0045_0010"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=34.420s" clip-end="npt=38.744s" id="rgn_aud_0045_0011"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=38.744s" clip-end="npt=40.011s" id="rgn_aud_0045_0012"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=40.011s" clip-end="npt=42.314s" id="rgn_aud_0045_0013"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=42.314s" clip-end="npt=43.097s" id="rgn_aud_0045_0014"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=43.097s" clip-end="npt=43.881s" id="rgn_aud_0045_0015"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=43.881s" clip-end="npt=44.664s" id="rgn_aud_0045_0016"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=44.664s" clip-end="npt=45.518s" id="rgn_aud_0045_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="eveq_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0076" id="eveq_0002"/>
+				<seq>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=45.518s" clip-end="npt=45.578s" id="rgn_aud_0045_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0045_0002">
+				<text src="ncc.html#mcor_002c" id="eveq_0003"/>
+				<seq>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=45.578s" clip-end="npt=46.228s" id="rgn_aud_0045_0019"/>
+					<audio src="45_Pippi_og_Anni.mp3" clip-begin="npt=46.228s" clip-end="npt=47.012s" id="rgn_aud_0045_0020"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

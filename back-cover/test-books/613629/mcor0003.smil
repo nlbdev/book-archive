@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Bokinformasjon"/>
+		<meta name="ncc:totalElapsedTime" content="00:01:01"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:36"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="35.795s">
+			<par endsync="last" id="rgn_par_0003_0001">
+				<text src="ncc.html#mcor_0002" id="mcor_0002"/>
+				<seq>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=0.000s" clip-end="npt=2.312s" id="rgn_aud_0003_0001"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=2.312s" clip-end="npt=4.951s" id="rgn_aud_0003_0002"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=4.951s" clip-end="npt=8.070s" id="rgn_aud_0003_0003"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=8.070s" clip-end="npt=10.292s" id="rgn_aud_0003_0004"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=10.292s" clip-end="npt=15.321s" id="rgn_aud_0003_0005"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=15.321s" clip-end="npt=17.606s" id="rgn_aud_0003_0006"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=17.606s" clip-end="npt=19.930s" id="rgn_aud_0003_0007"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=19.930s" clip-end="npt=20.809s" id="rgn_aud_0003_0008"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=20.809s" clip-end="npt=26.568s" id="rgn_aud_0003_0009"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=26.568s" clip-end="npt=29.207s" id="rgn_aud_0003_0010"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=29.207s" clip-end="npt=31.114s" id="rgn_aud_0003_0011"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=31.114s" clip-end="npt=31.899s" id="rgn_aud_0003_0012"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=31.899s" clip-end="npt=32.683s" id="rgn_aud_0003_0013"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=32.683s" clip-end="npt=33.469s" id="rgn_aud_0003_0014"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=33.469s" clip-end="npt=34.253s" id="rgn_aud_0003_0015"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=34.253s" clip-end="npt=35.039s" id="rgn_aud_0003_0016"/>
+					<audio src="03_Bokinformasjo.mp3" clip-begin="npt=35.039s" clip-end="npt=35.795s" id="rgn_aud_0003_0017"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

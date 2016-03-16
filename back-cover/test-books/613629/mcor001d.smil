@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Med et skrik"/>
+		<meta name="ncc:totalElapsedTime" content="00:23:41"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:19"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="18.632s">
+			<par endsync="last" id="rgn_par_0029_0001">
+				<text src="ncc.html#mcor_001c" id="mcor_001c"/>
+				<seq>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=0.000s" clip-end="npt=3.357s" id="rgn_aud_0029_0001"/>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=3.357s" clip-end="npt=6.434s" id="rgn_aud_0029_0002"/>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=6.434s" clip-end="npt=11.858s" id="rgn_aud_0029_0003"/>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=11.858s" clip-end="npt=13.923s" id="rgn_aud_0029_0004"/>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=13.923s" clip-end="npt=14.708s" id="rgn_aud_0029_0005"/>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=14.708s" clip-end="npt=15.493s" id="rgn_aud_0029_0006"/>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=15.493s" clip-end="npt=16.277s" id="rgn_aud_0029_0007"/>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=16.277s" clip-end="npt=17.062s" id="rgn_aud_0029_0008"/>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=17.062s" clip-end="npt=17.402s" id="rgn_aud_0029_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="wtct_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0066" id="wtct_0002"/>
+				<seq>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=17.402s" clip-end="npt=17.515s" id="rgn_aud_0029_0010"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0029_0002">
+				<text src="ncc.html#mcor_001c" id="wtct_0003"/>
+				<seq>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=17.515s" clip-end="npt=17.847s" id="rgn_aud_0029_0011"/>
+					<audio src="29_Med_et_skrik.mp3" clip-begin="npt=17.847s" clip-end="npt=18.632s" id="rgn_aud_0029_0012"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

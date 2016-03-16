@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:55.806"/>
+		<meta name="ncc:totalElapsedTime" content="00:28:45.986"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 8: K for kebabgryte"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="235.806s">
+			<par endsync="last" id="upjx_000d">
+				<text src="ncc.html#upjx_000c" id="upjx_000c"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=0.000s" clip-end="npt=1.802s" id="audio_0001"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=1.802s" clip-end="npt=4.689s" id="audio_0002"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=4.689s" clip-end="npt=8.947s" id="audio_0003"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=8.947s" clip-end="npt=10.749s" id="audio_0004"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=10.749s" clip-end="npt=14.106s" id="audio_0005"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=14.106s" clip-end="npt=16.078s" id="audio_0006"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=16.078s" clip-end="npt=18.349s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lvpd_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0045" id="lvpd_0006"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=18.349s" clip-end="npt=18.483s" id="audio_0008"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lvpd_0010">
+				<text src="ncc.html#upjx_000c" id="lvpd_0007"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=18.483s" clip-end="npt=18.966s" id="audio_0009"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=18.966s" clip-end="npt=22.323s" id="audio_0010"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=22.323s" clip-end="npt=25.810s" id="audio_0011"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=25.810s" clip-end="npt=32.792s" id="audio_0012"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=32.792s" clip-end="npt=33.341s" id="audio_0013"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=33.341s" clip-end="npt=35.914s" id="audio_0014"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=35.914s" clip-end="npt=38.134s" id="audio_0015"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=38.134s" clip-end="npt=43.594s" id="audio_0016"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=43.594s" clip-end="npt=48.100s" id="audio_0017"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=48.100s" clip-end="npt=50.673s" id="audio_0018"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=50.673s" clip-end="npt=54.212s" id="audio_0019"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=54.212s" clip-end="npt=60.273s" id="audio_0020"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=60.273s" clip-end="npt=64.061s" id="audio_0021"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=64.061s" clip-end="npt=69.089s" id="audio_0022"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=69.089s" clip-end="npt=73.060s" id="audio_0023"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=73.060s" clip-end="npt=75.999s" id="audio_0024"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=75.999s" clip-end="npt=78.336s" id="audio_0025"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=78.336s" clip-end="npt=81.994s" id="audio_0026"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=81.994s" clip-end="npt=85.533s" id="audio_0027"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=85.533s" clip-end="npt=87.336s" id="audio_0028"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=87.336s" clip-end="npt=88.868s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lvpd_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0046" id="lvpd_0008"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=88.868s" clip-end="npt=89.068s" id="audio_0030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lvpd_0011">
+				<text src="ncc.html#upjx_000c" id="lvpd_0009"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=89.068s" clip-end="npt=89.556s" id="audio_0031"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=89.556s" clip-end="npt=91.587s" id="audio_0032"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=91.587s" clip-end="npt=97.896s" id="audio_0033"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=97.896s" clip-end="npt=99.933s" id="audio_0034"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=99.933s" clip-end="npt=104.126s" id="audio_0035"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=104.126s" clip-end="npt=109.167s" id="audio_0036"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=109.167s" clip-end="npt=116.913s" id="audio_0037"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=116.913s" clip-end="npt=122.673s" id="audio_0038"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=122.673s" clip-end="npt=124.495s" id="audio_0039"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=124.495s" clip-end="npt=125.279s" id="audio_0040"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=125.279s" clip-end="npt=131.039s" id="audio_0041"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=131.039s" clip-end="npt=136.733s" id="audio_0042"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=136.733s" clip-end="npt=138.653s" id="audio_0043"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=138.653s" clip-end="npt=141.357s" id="audio_0044"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=141.357s" clip-end="npt=144.714s" id="audio_0045"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=144.714s" clip-end="npt=146.764s" id="audio_0046"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=146.764s" clip-end="npt=149.272s" id="audio_0047"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=149.272s" clip-end="npt=151.192s" id="audio_0048"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=151.192s" clip-end="npt=153.360s" id="audio_0049"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=153.360s" clip-end="npt=155.698s" id="audio_0050"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=155.698s" clip-end="npt=158.337s" id="audio_0051"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=158.337s" clip-end="npt=160.039s" id="audio_0052"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lvpd_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0047" id="lvpd_000a"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=160.039s" clip-end="npt=160.307s" id="audio_0053"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lvpd_0012">
+				<text src="ncc.html#upjx_000c" id="lvpd_000b"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=160.307s" clip-end="npt=160.973s" id="audio_0054"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=160.973s" clip-end="npt=164.996s" id="audio_0055"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=164.996s" clip-end="npt=168.287s" id="audio_0056"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=168.287s" clip-end="npt=170.167s" id="audio_0057"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=170.167s" clip-end="npt=170.650s" id="audio_0058"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=170.650s" clip-end="npt=175.902s" id="audio_0059"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=175.902s" clip-end="npt=179.089s" id="audio_0060"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=179.089s" clip-end="npt=182.511s" id="audio_0061"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=182.511s" clip-end="npt=187.004s" id="audio_0062"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=187.004s" clip-end="npt=189.590s" id="audio_0063"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=189.590s" clip-end="npt=193.216s" id="audio_0064"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=193.216s" clip-end="npt=199.344s" id="audio_0065"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lvpd_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0048" id="lvpd_000c"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=199.344s" clip-end="npt=199.571s" id="audio_0066"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lvpd_0013">
+				<text src="ncc.html#upjx_000c" id="lvpd_000d"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=199.571s" clip-end="npt=200.054s" id="audio_0067"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=200.054s" clip-end="npt=207.969s" id="audio_0068"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=207.969s" clip-end="npt=210.973s" id="audio_0069"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=210.973s" clip-end="npt=215.297s" id="audio_0070"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=215.297s" clip-end="npt=219.189s" id="audio_0071"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=219.189s" clip-end="npt=222.141s" id="audio_0072"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=222.141s" clip-end="npt=223.995s" id="audio_0073"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=223.995s" clip-end="npt=227.235s" id="audio_0074"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=227.235s" clip-end="npt=232.511s" id="audio_0075"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=232.511s" clip-end="npt=234.428s" id="audio_0076"/>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=234.428s" clip-end="npt=235.425s" id="audio_0077"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lvpd_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0049" id="lvpd_000e"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=235.425s" clip-end="npt=235.599s" id="audio_0078"/>
+				</seq>
+			</par>
+			<par endsync="last" id="lvpd_0014">
+				<text src="ncc.html#upjx_000c" id="lvpd_000f"/>
+				<seq>
+					<audio src="13_Kapittel_8__K_for_kebabgryte.mp3" clip-begin="npt=235.599s" clip-end="npt=235.806s" id="audio_0079"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

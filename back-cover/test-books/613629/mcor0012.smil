@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Takk til epiduralen "/>
+		<meta name="ncc:totalElapsedTime" content="00:13:38"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:45"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="45.417s">
+			<par endsync="last" id="rgn_par_0018_0001">
+				<text src="ncc.html#mcor_0011" id="mcor_0011"/>
+				<seq>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=0.000s" clip-end="npt=3.084s" id="rgn_aud_0018_0001"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=3.084s" clip-end="npt=7.342s" id="rgn_aud_0018_0002"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=7.342s" clip-end="npt=11.900s" id="rgn_aud_0018_0003"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=11.900s" clip-end="npt=15.153s" id="rgn_aud_0018_0004"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=15.153s" clip-end="npt=19.332s" id="rgn_aud_0018_0005"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=19.332s" clip-end="npt=21.253s" id="rgn_aud_0018_0006"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=21.253s" clip-end="npt=24.021s" id="rgn_aud_0018_0007"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=24.021s" clip-end="npt=29.414s" id="rgn_aud_0018_0008"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=29.414s" clip-end="npt=32.103s" id="rgn_aud_0018_0009"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=32.103s" clip-end="npt=33.286s" id="rgn_aud_0018_0010"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=33.286s" clip-end="npt=37.744s" id="rgn_aud_0018_0011"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=37.744s" clip-end="npt=39.871s" id="rgn_aud_0018_0012"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=39.871s" clip-end="npt=40.655s" id="rgn_aud_0018_0013"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=40.655s" clip-end="npt=41.441s" id="rgn_aud_0018_0014"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=41.441s" clip-end="npt=42.225s" id="rgn_aud_0018_0015"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=42.225s" clip-end="npt=43.011s" id="rgn_aud_0018_0016"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=43.011s" clip-end="npt=43.972s" id="rgn_aud_0018_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nsdj_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_005b" id="nsdj_0002"/>
+				<seq>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=43.972s" clip-end="npt=44.277s" id="rgn_aud_0018_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0018_0002">
+				<text src="ncc.html#mcor_0011" id="nsdj_0003"/>
+				<seq>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=44.277s" clip-end="npt=44.581s" id="rgn_aud_0018_0019"/>
+					<audio src="18_Takk_til_epid.mp3" clip-begin="npt=44.581s" clip-end="npt=45.417s" id="rgn_aud_0018_0020"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

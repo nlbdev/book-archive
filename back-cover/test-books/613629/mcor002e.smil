@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="O!"/>
+		<meta name="ncc:totalElapsedTime" content="00:37:06"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:46"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="45.801s">
+			<par endsync="last" id="rgn_par_0046_0001">
+				<text src="ncc.html#mcor_002d" id="mcor_002d"/>
+				<seq>
+					<audio src="46_O_.mp3" clip-begin="npt=0.000s" clip-end="npt=3.079s" id="rgn_aud_0046_0001"/>
+					<audio src="46_O_.mp3" clip-begin="npt=3.079s" clip-end="npt=10.060s" id="rgn_aud_0046_0002"/>
+					<audio src="46_O_.mp3" clip-begin="npt=10.060s" clip-end="npt=11.497s" id="rgn_aud_0046_0003"/>
+					<audio src="46_O_.mp3" clip-begin="npt=11.497s" clip-end="npt=13.782s" id="rgn_aud_0046_0004"/>
+					<audio src="46_O_.mp3" clip-begin="npt=13.782s" clip-end="npt=18.158s" id="rgn_aud_0046_0005"/>
+					<audio src="46_O_.mp3" clip-begin="npt=18.158s" clip-end="npt=20.678s" id="rgn_aud_0046_0006"/>
+					<audio src="46_O_.mp3" clip-begin="npt=20.678s" clip-end="npt=23.734s" id="rgn_aud_0046_0007"/>
+					<audio src="46_O_.mp3" clip-begin="npt=23.734s" clip-end="npt=30.396s" id="rgn_aud_0046_0008"/>
+					<audio src="46_O_.mp3" clip-begin="npt=30.396s" clip-end="npt=33.636s" id="rgn_aud_0046_0009"/>
+					<audio src="46_O_.mp3" clip-begin="npt=33.636s" clip-end="npt=41.097s" id="rgn_aud_0046_0010"/>
+					<audio src="46_O_.mp3" clip-begin="npt=41.097s" clip-end="npt=41.881s" id="rgn_aud_0046_0011"/>
+					<audio src="46_O_.mp3" clip-begin="npt=41.881s" clip-end="npt=42.664s" id="rgn_aud_0046_0012"/>
+					<audio src="46_O_.mp3" clip-begin="npt=42.664s" clip-end="npt=43.448s" id="rgn_aud_0046_0013"/>
+					<audio src="46_O_.mp3" clip-begin="npt=43.448s" clip-end="npt=44.231s" id="rgn_aud_0046_0014"/>
+					<audio src="46_O_.mp3" clip-begin="npt=44.231s" clip-end="npt=44.664s" id="rgn_aud_0046_0015"/>
+				</seq>
+			</par>
+			<par endsync="last" id="outj_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0077" id="outj_0002"/>
+				<seq>
+					<audio src="46_O_.mp3" clip-begin="npt=44.664s" clip-end="npt=44.872s" id="rgn_aud_0046_0016"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0046_0002">
+				<text src="ncc.html#mcor_002d" id="outj_0003"/>
+				<seq>
+					<audio src="46_O_.mp3" clip-begin="npt=44.872s" clip-end="npt=45.801s" id="rgn_aud_0046_0017"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

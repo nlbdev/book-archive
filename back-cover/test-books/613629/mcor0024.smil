@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Tiltale"/>
+		<meta name="ncc:totalElapsedTime" content="00:28:46"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:56"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="55.746s">
+			<par endsync="last" id="rgn_par_0036_0001">
+				<text src="ncc.html#mcor_0023" id="mcor_0023"/>
+				<seq>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=0.000s" clip-end="npt=1.948s" id="rgn_aud_0036_0001"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=1.948s" clip-end="npt=2.896s" id="rgn_aud_0036_0002"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=2.896s" clip-end="npt=5.900s" id="rgn_aud_0036_0003"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=5.900s" clip-end="npt=7.485s" id="rgn_aud_0036_0004"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=7.485s" clip-end="npt=7.927s" id="rgn_aud_0036_0005"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=7.927s" clip-end="npt=8.554s" id="rgn_aud_0036_0006"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=8.554s" clip-end="npt=13.490s" id="rgn_aud_0036_0007"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=13.490s" clip-end="npt=17.039s" id="rgn_aud_0036_0008"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=17.039s" clip-end="npt=17.523s" id="rgn_aud_0036_0009"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=17.523s" clip-end="npt=21.846s" id="rgn_aud_0036_0010"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=21.846s" clip-end="npt=22.643s" id="rgn_aud_0036_0011"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=22.643s" clip-end="npt=26.849s" id="rgn_aud_0036_0012"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=26.849s" clip-end="npt=31.224s" id="rgn_aud_0036_0013"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=31.224s" clip-end="npt=36.317s" id="rgn_aud_0036_0014"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=36.317s" clip-end="npt=39.856s" id="rgn_aud_0036_0015"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=39.856s" clip-end="npt=43.462s" id="rgn_aud_0036_0016"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=43.462s" clip-end="npt=45.564s" id="rgn_aud_0036_0017"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=45.564s" clip-end="npt=48.503s" id="rgn_aud_0036_0018"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=48.503s" clip-end="npt=51.042s" id="rgn_aud_0036_0019"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=51.042s" clip-end="npt=51.826s" id="rgn_aud_0036_0020"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=51.826s" clip-end="npt=52.609s" id="rgn_aud_0036_0021"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=52.609s" clip-end="npt=53.393s" id="rgn_aud_0036_0022"/>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=53.393s" clip-end="npt=54.457s" id="rgn_aud_0036_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oknn_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_006d" id="oknn_0002"/>
+				<seq>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=54.457s" clip-end="npt=54.664s" id="rgn_aud_0036_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0036_0002">
+				<text src="ncc.html#mcor_0023" id="oknn_0003"/>
+				<seq>
+					<audio src="36_Tiltale.mp3" clip-begin="npt=54.664s" clip-end="npt=55.746s" id="rgn_aud_0036_0025"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

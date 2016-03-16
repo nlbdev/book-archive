@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:33.672"/>
+		<meta name="ncc:totalElapsedTime" content="00:44:32.833"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 12: H for Hunden"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="213.672s">
+			<par endsync="last" id="upjx_0011">
+				<text src="ncc.html#upjx_0010" id="upjx_0010"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=0.000s" clip-end="npt=2.220s" id="audio_0001"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=2.220s" clip-end="npt=4.206s" id="audio_0002"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=4.206s" clip-end="npt=12.487s" id="audio_0003"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=12.487s" clip-end="npt=18.664s" id="audio_0004"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=18.664s" clip-end="npt=19.785s" id="audio_0005"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=19.785s" clip-end="npt=20.151s" id="audio_0006"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=20.151s" clip-end="npt=23.325s" id="audio_0007"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=23.325s" clip-end="npt=25.545s" id="audio_0008"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=25.545s" clip-end="npt=29.934s" id="audio_0009"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=29.934s" clip-end="npt=35.863s" id="audio_0010"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=35.863s" clip-end="npt=38.267s" id="audio_0011"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=38.267s" clip-end="npt=42.890s" id="audio_0012"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=42.890s" clip-end="npt=47.867s" id="audio_0013"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=47.867s" clip-end="npt=50.152s" id="audio_0014"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=50.152s" clip-end="npt=51.589s" id="audio_0015"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=51.589s" clip-end="npt=55.494s" id="audio_0016"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=55.494s" clip-end="npt=59.452s" id="audio_0017"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=59.452s" clip-end="npt=63.614s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xpvs_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0059" id="xpvs_0006"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=63.614s" clip-end="npt=63.841s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xpvs_0010">
+				<text src="ncc.html#upjx_0010" id="xpvs_0007"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=63.841s" clip-end="npt=64.625s" id="audio_0020"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=64.625s" clip-end="npt=68.465s" id="audio_0021"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=68.465s" clip-end="npt=71.103s" id="audio_0022"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=71.103s" clip-end="npt=73.323s" id="audio_0023"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=73.323s" clip-end="npt=75.609s" id="audio_0024"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=75.609s" clip-end="npt=80.102s" id="audio_0025"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=80.102s" clip-end="npt=84.661s" id="audio_0026"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=84.661s" clip-end="npt=87.900s" id="audio_0027"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=87.900s" clip-end="npt=92.040s" id="audio_0028"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=92.040s" clip-end="npt=94.378s" id="audio_0029"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=94.378s" clip-end="npt=98.519s" id="audio_0030"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=98.519s" clip-end="npt=101.219s" id="audio_0031"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=101.219s" clip-end="npt=101.702s" id="audio_0032"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=101.702s" clip-end="npt=106.170s" id="audio_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xpvs_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_005a" id="xpvs_0008"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=106.170s" clip-end="npt=106.317s" id="audio_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xpvs_0011">
+				<text src="ncc.html#upjx_0010" id="xpvs_0009"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=106.317s" clip-end="npt=106.918s" id="audio_0035"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=106.918s" clip-end="npt=109.138s" id="audio_0036"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=109.138s" clip-end="npt=111.724s" id="audio_0037"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=111.724s" clip-end="npt=117.537s" id="audio_0038"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=117.537s" clip-end="npt=119.705s" id="audio_0039"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=119.705s" clip-end="npt=122.226s" id="audio_0040"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=122.226s" clip-end="npt=125.700s" id="audio_0041"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=125.700s" clip-end="npt=128.704s" id="audio_0042"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=128.704s" clip-end="npt=130.624s" id="audio_0043"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=130.624s" clip-end="npt=132.962s" id="audio_0044"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=132.962s" clip-end="npt=135.182s" id="audio_0045"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=135.182s" clip-end="npt=137.638s" id="audio_0046"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=137.638s" clip-end="npt=141.896s" id="audio_0047"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=141.896s" clip-end="npt=143.646s" id="audio_0048"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=143.646s" clip-end="npt=146.101s" id="audio_0049"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=146.101s" clip-end="npt=147.786s" id="audio_0050"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=147.786s" clip-end="npt=151.261s" id="audio_0051"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=151.261s" clip-end="npt=156.302s" id="audio_0052"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=156.302s" clip-end="npt=159.124s" id="audio_0053"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=159.124s" clip-end="npt=162.781s" id="audio_0054"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=162.781s" clip-end="npt=164.583s" id="audio_0055"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=164.583s" clip-end="npt=167.104s" id="audio_0056"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=167.104s" clip-end="npt=169.442s" id="audio_0057"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=169.442s" clip-end="npt=172.929s" id="audio_0058"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=172.929s" clip-end="npt=179.708s" id="audio_0059"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=179.708s" clip-end="npt=180.864s" id="audio_0060"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xpvs_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_005b" id="xpvs_000a"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=180.864s" clip-end="npt=181.098s" id="audio_0061"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xpvs_0012">
+				<text src="ncc.html#upjx_0010" id="xpvs_000b"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=181.098s" clip-end="npt=181.699s" id="audio_0062"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=181.699s" clip-end="npt=184.167s" id="audio_0063"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=184.167s" clip-end="npt=188.007s" id="audio_0064"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=188.007s" clip-end="npt=190.228s" id="audio_0065"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=190.228s" clip-end="npt=192.318s" id="audio_0066"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=192.318s" clip-end="npt=195.322s" id="audio_0067"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=195.322s" clip-end="npt=198.200s" id="audio_0068"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xpvs_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_005c" id="xpvs_000c"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=198.200s" clip-end="npt=198.454s" id="audio_0069"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xpvs_0013">
+				<text src="ncc.html#upjx_0010" id="xpvs_000d"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=198.454s" clip-end="npt=199.120s" id="audio_0070"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=199.120s" clip-end="npt=204.162s" id="audio_0071"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=204.162s" clip-end="npt=206.983s" id="audio_0072"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=206.983s" clip-end="npt=209.138s" id="audio_0073"/>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=209.138s" clip-end="npt=213.037s" id="audio_0074"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xpvs_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_005d" id="xpvs_000e"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=213.037s" clip-end="npt=213.211s" id="audio_0075"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xpvs_0014">
+				<text src="ncc.html#upjx_0010" id="xpvs_000f"/>
+				<seq>
+					<audio src="17_Kapittel_12__H_for_Hunden.mp3" clip-begin="npt=213.211s" clip-end="npt=213.672s" id="audio_0076"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

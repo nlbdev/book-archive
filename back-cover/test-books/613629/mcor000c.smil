@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Du er for liten til å ta et så stort valg alene"/>
+		<meta name="ncc:totalElapsedTime" content="00:08:57"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:36"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="35.716s">
+			<par endsync="last" id="rgn_par_0012_0001">
+				<text src="ncc.html#mcor_000b" id="mcor_000b"/>
+				<seq>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=0.000s" clip-end="npt=6.609s" id="rgn_aud_0012_0001"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=6.609s" clip-end="npt=9.129s" id="rgn_aud_0012_0002"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=9.129s" clip-end="npt=10.984s" id="rgn_aud_0012_0003"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=10.984s" clip-end="npt=13.987s" id="rgn_aud_0012_0004"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=13.987s" clip-end="npt=16.077s" id="rgn_aud_0012_0005"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=16.077s" clip-end="npt=17.946s" id="rgn_aud_0012_0006"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=17.946s" clip-end="npt=19.329s" id="rgn_aud_0012_0007"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=19.329s" clip-end="npt=21.331s" id="rgn_aud_0012_0008"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=21.331s" clip-end="npt=21.815s" id="rgn_aud_0012_0009"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=21.815s" clip-end="npt=22.719s" id="rgn_aud_0012_0010"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=22.719s" clip-end="npt=23.204s" id="rgn_aud_0012_0011"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=23.204s" clip-end="npt=24.495s" id="rgn_aud_0012_0012"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=24.495s" clip-end="npt=28.518s" id="rgn_aud_0012_0013"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=28.518s" clip-end="npt=29.181s" id="rgn_aud_0012_0014"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=29.181s" clip-end="npt=30.109s" id="rgn_aud_0012_0015"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=30.109s" clip-end="npt=30.895s" id="rgn_aud_0012_0016"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=30.895s" clip-end="npt=31.680s" id="rgn_aud_0012_0017"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=31.680s" clip-end="npt=32.465s" id="rgn_aud_0012_0018"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=32.465s" clip-end="npt=33.250s" id="rgn_aud_0012_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sena_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_0055" id="sena_0002"/>
+				<seq>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=33.250s" clip-end="npt=33.375s" id="rgn_aud_0012_0020"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0012_0002">
+				<text src="ncc.html#mcor_000b" id="sena_0003"/>
+				<seq>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=33.375s" clip-end="npt=34.033s" id="rgn_aud_0012_0021"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=34.033s" clip-end="npt=34.820s" id="rgn_aud_0012_0022"/>
+					<audio src="12_Du_er_for_lit.mp3" clip-begin="npt=34.820s" clip-end="npt=35.716s" id="rgn_aud_0012_0023"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

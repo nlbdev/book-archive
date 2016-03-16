@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:41:37.917"/>
+		<meta name="ncc:totalElapsedTime" content="13:35:25.260"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel atten"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2497.917s">
+			<par endsync="last" id="pxkz_0001">
+				<text src="ncc.html#dfrn_0017" id="dfrn_0017"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=0.000s" clip-end="npt=37.061s" id="audio_0001"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=37.061s" clip-end="npt=50.209s" id="audio_0002"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=50.209s" clip-end="npt=59.621s" id="audio_0003"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=59.621s" clip-end="npt=94.722s" id="audio_0004"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=94.722s" clip-end="npt=107.102s" id="audio_0005"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01be" id="pxkz_0017"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=107.102s" clip-end="npt=107.171s" id="audio_0006"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=107.171s" clip-end="npt=117.063s" id="audio_0007"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=117.063s" clip-end="npt=126.184s" id="audio_0008"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=126.184s" clip-end="npt=184.523s" id="audio_0009"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=184.523s" clip-end="npt=221.309s" id="audio_0010"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=221.309s" clip-end="npt=238.869s" id="audio_0011"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01bf" id="pxkz_0019"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=238.869s" clip-end="npt=239.086s" id="audio_0012"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=239.086s" clip-end="npt=265.594s" id="audio_0013"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=265.594s" clip-end="npt=286.957s" id="audio_0014"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=286.957s" clip-end="npt=296.245s" id="audio_0015"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=296.245s" clip-end="npt=303.195s" id="audio_0016"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=303.195s" clip-end="npt=349.908s" id="audio_0017"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=349.908s" clip-end="npt=357.830s" id="audio_0018"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01c0" id="pxkz_001b"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=357.830s" clip-end="npt=357.923s" id="audio_0019"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=357.923s" clip-end="npt=362.715s" id="audio_0020"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=362.715s" clip-end="npt=366.883s" id="audio_0021"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=366.883s" clip-end="npt=386.379s" id="audio_0022"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=386.379s" clip-end="npt=414.588s" id="audio_0023"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=414.588s" clip-end="npt=439.479s" id="audio_0024"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=439.479s" clip-end="npt=483.443s" id="audio_0025"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=483.443s" clip-end="npt=489.003s" id="audio_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01c1" id="pxkz_001d"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=489.003s" clip-end="npt=489.177s" id="audio_0027"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=489.177s" clip-end="npt=503.544s" id="audio_0028"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=503.544s" clip-end="npt=523.062s" id="audio_0029"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=523.062s" clip-end="npt=573.711s" id="audio_0030"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=573.711s" clip-end="npt=592.490s" id="audio_0031"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=592.490s" clip-end="npt=610.204s" id="audio_0032"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01c2" id="pxkz_001f"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=610.204s" clip-end="npt=610.275s" id="audio_0033"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=610.275s" clip-end="npt=647.448s" id="audio_0034"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=647.448s" clip-end="npt=663.729s" id="audio_0035"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=663.729s" clip-end="npt=719.239s" id="audio_0036"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=719.239s" clip-end="npt=729.513s" id="audio_0037"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=729.513s" clip-end="npt=753.768s" id="audio_0038"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01c3" id="pxkz_0021"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=753.768s" clip-end="npt=753.927s" id="audio_0039"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=753.927s" clip-end="npt=800.054s" id="audio_0040"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=800.054s" clip-end="npt=842.125s" id="audio_0041"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=842.125s" clip-end="npt=847.528s" id="audio_0042"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=847.528s" clip-end="npt=872.849s" id="audio_0043"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=872.849s" clip-end="npt=882.198s" id="audio_0044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01c4" id="pxkz_0023"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=882.198s" clip-end="npt=882.322s" id="audio_0045"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=882.322s" clip-end="npt=906.170s" id="audio_0046"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=906.170s" clip-end="npt=967.634s" id="audio_0047"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=967.634s" clip-end="npt=978.641s" id="audio_0048"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=978.641s" clip-end="npt=998.610s" id="audio_0049"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01c5" id="pxkz_0025"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=998.610s" clip-end="npt=998.796s" id="audio_0050"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=998.796s" clip-end="npt=1002.828s" id="audio_0051"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1002.828s" clip-end="npt=1011.885s" id="audio_0052"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1011.885s" clip-end="npt=1061.395s" id="audio_0053"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1061.395s" clip-end="npt=1084.617s" id="audio_0054"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1084.617s" clip-end="npt=1091.035s" id="audio_0055"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1091.035s" clip-end="npt=1114.361s" id="audio_0056"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1114.361s" clip-end="npt=1126.415s" id="audio_0057"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01c6" id="pxkz_0027"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1126.415s" clip-end="npt=1126.539s" id="audio_0058"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1126.539s" clip-end="npt=1177.806s" id="audio_0059"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1177.806s" clip-end="npt=1185.652s" id="audio_0060"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1185.652s" clip-end="npt=1226.445s" id="audio_0061"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1226.445s" clip-end="npt=1237.688s" id="audio_0062"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01c7" id="pxkz_0029"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1237.688s" clip-end="npt=1237.927s" id="audio_0063"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1237.927s" clip-end="npt=1243.491s" id="audio_0064"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1243.491s" clip-end="npt=1249.131s" id="audio_0065"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1249.131s" clip-end="npt=1280.593s" id="audio_0066"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1280.593s" clip-end="npt=1297.223s" id="audio_0067"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1297.223s" clip-end="npt=1318.249s" id="audio_0068"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1318.249s" clip-end="npt=1343.444s" id="audio_0069"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1343.444s" clip-end="npt=1355.237s" id="audio_0070"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01c8" id="pxkz_002b"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1355.237s" clip-end="npt=1355.320s" id="audio_0071"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1355.320s" clip-end="npt=1362.439s" id="audio_0072"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1362.439s" clip-end="npt=1373.659s" id="audio_0073"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1373.659s" clip-end="npt=1378.757s" id="audio_0074"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1378.757s" clip-end="npt=1420.096s" id="audio_0075"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1420.096s" clip-end="npt=1424.390s" id="audio_0076"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1424.390s" clip-end="npt=1456.582s" id="audio_0077"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1456.582s" clip-end="npt=1462.408s" id="audio_0078"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1462.408s" clip-end="npt=1472.636s" id="audio_0079"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01c9" id="pxkz_002d"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1472.636s" clip-end="npt=1472.729s" id="audio_0080"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1472.729s" clip-end="npt=1478.677s" id="audio_0081"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1478.677s" clip-end="npt=1504.385s" id="audio_0082"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1504.385s" clip-end="npt=1556.403s" id="audio_0083"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1556.403s" clip-end="npt=1596.139s" id="audio_0084"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01ca" id="pxkz_002f"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1596.139s" clip-end="npt=1596.294s" id="audio_0085"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1596.294s" clip-end="npt=1602.504s" id="audio_0086"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1602.504s" clip-end="npt=1621.186s" id="audio_0087"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1621.186s" clip-end="npt=1633.386s" id="audio_0088"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1633.386s" clip-end="npt=1672.272s" id="audio_0089"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1672.272s" clip-end="npt=1690.860s" id="audio_0090"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1690.860s" clip-end="npt=1723.613s" id="audio_0091"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1723.613s" clip-end="npt=1730.161s" id="audio_0092"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01cb" id="pxkz_0031"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1730.161s" clip-end="npt=1730.285s" id="audio_0093"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1730.285s" clip-end="npt=1752.831s" id="audio_0094"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1752.831s" clip-end="npt=1779.245s" id="audio_0095"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1779.245s" clip-end="npt=1787.487s" id="audio_0096"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1787.487s" clip-end="npt=1810.853s" id="audio_0097"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1810.853s" clip-end="npt=1822.297s" id="audio_0098"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1822.297s" clip-end="npt=1848.619s" id="audio_0099"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01cc" id="pxkz_0033"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1848.619s" clip-end="npt=1848.690s" id="audio_0100"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1848.690s" clip-end="npt=1857.161s" id="audio_0101"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1857.161s" clip-end="npt=1878.808s" id="audio_0102"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1878.808s" clip-end="npt=1887.426s" id="audio_0103"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1887.426s" clip-end="npt=1909.143s" id="audio_0104"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1909.143s" clip-end="npt=1922.708s" id="audio_0105"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1922.708s" clip-end="npt=1930.960s" id="audio_0106"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1930.960s" clip-end="npt=1973.260s" id="audio_0107"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1973.260s" clip-end="npt=1980.981s" id="audio_0108"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01cd" id="pxkz_0035"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1980.981s" clip-end="npt=1981.059s" id="audio_0109"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=1981.059s" clip-end="npt=2062.822s" id="audio_0110"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2062.822s" clip-end="npt=2079.643s" id="audio_0111"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2079.643s" clip-end="npt=2084.989s" id="audio_0112"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01ce" id="pxkz_0037"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2084.989s" clip-end="npt=2085.162s" id="audio_0113"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2085.162s" clip-end="npt=2106.160s" id="audio_0114"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2106.160s" clip-end="npt=2131.097s" id="audio_0115"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2131.097s" clip-end="npt=2165.515s" id="audio_0116"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2165.515s" clip-end="npt=2179.328s" id="audio_0117"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2179.328s" clip-end="npt=2195.453s" id="audio_0118"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01cf" id="pxkz_0039"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2195.453s" clip-end="npt=2195.583s" id="audio_0119"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2195.583s" clip-end="npt=2214.994s" id="audio_0120"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2214.994s" clip-end="npt=2221.657s" id="audio_0121"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2221.657s" clip-end="npt=2231.813s" id="audio_0122"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2231.813s" clip-end="npt=2254.148s" id="audio_0123"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2254.148s" clip-end="npt=2263.524s" id="audio_0124"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2263.524s" clip-end="npt=2271.395s" id="audio_0125"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2271.395s" clip-end="npt=2294.332s" id="audio_0126"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2294.332s" clip-end="npt=2318.745s" id="audio_0127"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0014" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01d0" id="pxkz_003b"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2318.745s" clip-end="npt=2318.883s" id="audio_0128"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2318.883s" clip-end="npt=2326.853s" id="audio_0129"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2326.853s" clip-end="npt=2333.301s" id="audio_0130"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2333.301s" clip-end="npt=2350.942s" id="audio_0131"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2350.942s" clip-end="npt=2397.501s" id="audio_0132"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2397.501s" clip-end="npt=2434.958s" id="audio_0133"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0015" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01d1" id="pxkz_003d"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2434.958s" clip-end="npt=2435.131s" id="audio_0134"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2435.131s" clip-end="npt=2465.518s" id="audio_0135"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2465.518s" clip-end="npt=2473.016s" id="audio_0136"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2473.016s" clip-end="npt=2483.179s" id="audio_0137"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2483.179s" clip-end="npt=2495.327s" id="audio_0138"/>
+				</seq>
+			</par>
+			<par endsync="last" id="pxkz_0016" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_01d2" id="pxkz_003f"/>
+				<seq>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2495.327s" clip-end="npt=2495.430s" id="audio_0139"/>
+					<audio src="26_Kapittel_atte.mp3" clip-begin="npt=2495.430s" clip-end="npt=2497.917s" id="audio_0140"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

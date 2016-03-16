@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:06.652"/>
+		<meta name="ncc:totalElapsedTime" content="00:02:38.696"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 1: H for håndsvette"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="186.652s">
+			<par endsync="last" id="upjx_0006">
+				<text src="ncc.html#upjx_0005" id="upjx_0005"/>
+				<seq>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=0.000s" clip-end="npt=2.038s" id="audio_0001"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=2.038s" clip-end="npt=4.989s" id="audio_0002"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=4.989s" clip-end="npt=6.727s" id="audio_0003"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=6.727s" clip-end="npt=10.567s" id="audio_0004"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=10.567s" clip-end="npt=12.722s" id="audio_0005"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=12.722s" clip-end="npt=16.356s" id="audio_0006"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=16.356s" clip-end="npt=16.774s" id="audio_0007"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=16.774s" clip-end="npt=22.782s" id="audio_0008"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=22.782s" clip-end="npt=24.454s" id="audio_0009"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=24.454s" clip-end="npt=25.838s" id="audio_0010"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=25.838s" clip-end="npt=30.096s" id="audio_0011"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=30.096s" clip-end="npt=32.918s" id="audio_0012"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=32.918s" clip-end="npt=40.093s" id="audio_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nojr_0001" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0023" id="nojr_0005"/>
+				<seq>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=40.093s" clip-end="npt=40.333s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nojr_000d">
+				<text src="ncc.html#upjx_0005" id="nojr_0006"/>
+				<seq>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=40.333s" clip-end="npt=40.816s" id="audio_0015"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=40.816s" clip-end="npt=42.436s" id="audio_0016"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=42.436s" clip-end="npt=44.173s" id="audio_0017"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=44.173s" clip-end="npt=48.731s" id="audio_0018"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=48.731s" clip-end="npt=54.740s" id="audio_0019"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=54.740s" clip-end="npt=58.462s" id="audio_0020"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=58.462s" clip-end="npt=62.837s" id="audio_0021"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=62.837s" clip-end="npt=66.795s" id="audio_0022"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=66.795s" clip-end="npt=71.171s" id="audio_0023"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=71.171s" clip-end="npt=75.047s" id="audio_0024"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=75.047s" clip-end="npt=80.058s" id="audio_0025"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=80.058s" clip-end="npt=82.696s" id="audio_0026"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=82.696s" clip-end="npt=84.865s" id="audio_0027"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=84.865s" clip-end="npt=89.606s" id="audio_0028"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=89.606s" clip-end="npt=92.545s" id="audio_0029"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=92.545s" clip-end="npt=94.282s" id="audio_0030"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=94.282s" clip-end="npt=95.666s" id="audio_0031"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=95.666s" clip-end="npt=99.323s" id="audio_0032"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=99.323s" clip-end="npt=101.057s" id="audio_0033"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nojr_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0024" id="nojr_0007"/>
+				<seq>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=101.057s" clip-end="npt=101.217s" id="audio_0034"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nojr_000e">
+				<text src="ncc.html#upjx_0005" id="nojr_0008"/>
+				<seq>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=101.217s" clip-end="npt=101.818s" id="audio_0035"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=101.818s" clip-end="npt=106.742s" id="audio_0036"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=106.742s" clip-end="npt=108.784s" id="audio_0037"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=108.784s" clip-end="npt=111.422s" id="audio_0038"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=111.422s" clip-end="npt=116.882s" id="audio_0039"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=116.882s" clip-end="npt=121.453s" id="audio_0040"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=121.453s" clip-end="npt=122.741s" id="audio_0041"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=122.741s" clip-end="npt=128.619s" id="audio_0042"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=128.619s" clip-end="npt=132.524s" id="audio_0043"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=132.524s" clip-end="npt=137.215s" id="audio_0044"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nojr_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0025" id="nojr_0009"/>
+				<seq>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=137.215s" clip-end="npt=137.362s" id="audio_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nojr_000f">
+				<text src="ncc.html#upjx_0005" id="nojr_000a"/>
+				<seq>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=137.362s" clip-end="npt=138.028s" id="audio_0046"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=138.028s" clip-end="npt=141.568s" id="audio_0047"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=141.568s" clip-end="npt=144.624s" id="audio_0048"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=144.624s" clip-end="npt=149.365s" id="audio_0049"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=149.365s" clip-end="npt=152.787s" id="audio_0050"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=152.787s" clip-end="npt=155.191s" id="audio_0051"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=155.191s" clip-end="npt=161.186s" id="audio_0052"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=161.186s" clip-end="npt=163.471s" id="audio_0053"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=163.471s" clip-end="npt=169.726s" id="audio_0054"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=169.726s" clip-end="npt=170.444s" id="audio_0055"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=170.444s" clip-end="npt=176.335s" id="audio_0056"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=176.335s" clip-end="npt=180.893s" id="audio_0057"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=180.893s" clip-end="npt=182.748s" id="audio_0058"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=182.748s" clip-end="npt=184.578s" id="audio_0059"/>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=184.578s" clip-end="npt=186.084s" id="audio_0060"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nojr_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_0026" id="nojr_000b"/>
+				<seq>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=186.084s" clip-end="npt=186.204s" id="audio_0061"/>
+				</seq>
+			</par>
+			<par endsync="last" id="nojr_0010">
+				<text src="ncc.html#upjx_0005" id="nojr_000c"/>
+				<seq>
+					<audio src="06_Kapittel_1__H_for_h_ndsvette.mp3" clip-begin="npt=186.204s" clip-end="npt=186.652s" id="audio_0062"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

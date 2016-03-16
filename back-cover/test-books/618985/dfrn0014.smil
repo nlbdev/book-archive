@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:33:31.594"/>
+		<meta name="ncc:totalElapsedTime" content="11:00:24.424"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel fjorten"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="2011.594s">
+			<par endsync="last" id="gxgv_0001">
+				<text src="ncc.html#dfrn_0013" id="dfrn_0013"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=0.000s" clip-end="npt=25.966s" id="audio_0001"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=25.966s" clip-end="npt=40.725s" id="audio_0002"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=40.725s" clip-end="npt=60.670s" id="audio_0003"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=60.670s" clip-end="npt=65.864s" id="audio_0004"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=65.864s" clip-end="npt=98.060s" id="audio_0005"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=98.060s" clip-end="npt=102.728s" id="audio_0006"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=102.728s" clip-end="npt=111.599s" id="audio_0007"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=111.599s" clip-end="npt=118.265s" id="audio_0008"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=118.265s" clip-end="npt=130.550s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_016d" id="gxgv_0012"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=130.550s" clip-end="npt=130.620s" id="audio_0010"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=130.620s" clip-end="npt=145.560s" id="audio_0011"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=145.560s" clip-end="npt=152.580s" id="audio_0012"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=152.580s" clip-end="npt=160.923s" id="audio_0013"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=160.923s" clip-end="npt=191.941s" id="audio_0014"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=191.941s" clip-end="npt=206.625s" id="audio_0015"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=206.625s" clip-end="npt=211.533s" id="audio_0016"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=211.533s" clip-end="npt=272.056s" id="audio_0017"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_016e" id="gxgv_0014"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=272.056s" clip-end="npt=272.142s" id="audio_0018"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=272.142s" clip-end="npt=304.340s" id="audio_0019"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=304.340s" clip-end="npt=347.122s" id="audio_0020"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=347.122s" clip-end="npt=362.340s" id="audio_0021"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=362.340s" clip-end="npt=366.512s" id="audio_0022"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=366.512s" clip-end="npt=377.735s" id="audio_0023"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=377.735s" clip-end="npt=385.870s" id="audio_0024"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_016f" id="gxgv_0016"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=385.870s" clip-end="npt=385.939s" id="audio_0025"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=385.939s" clip-end="npt=398.983s" id="audio_0026"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=398.983s" clip-end="npt=409.740s" id="audio_0027"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=409.740s" clip-end="npt=414.667s" id="audio_0028"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=414.667s" clip-end="npt=439.573s" id="audio_0029"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=439.573s" clip-end="npt=446.852s" id="audio_0030"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=446.852s" clip-end="npt=453.867s" id="audio_0031"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=453.867s" clip-end="npt=458.189s" id="audio_0032"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=458.189s" clip-end="npt=462.685s" id="audio_0033"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=462.685s" clip-end="npt=472.278s" id="audio_0034"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=472.278s" clip-end="npt=476.588s" id="audio_0035"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=476.588s" clip-end="npt=481.352s" id="audio_0036"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=481.352s" clip-end="npt=486.559s" id="audio_0037"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=486.559s" clip-end="npt=491.608s" id="audio_0038"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=491.608s" clip-end="npt=510.957s" id="audio_0039"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=510.957s" clip-end="npt=519.846s" id="audio_0040"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0170" id="gxgv_0018"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=519.846s" clip-end="npt=519.948s" id="audio_0041"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=519.948s" clip-end="npt=524.431s" id="audio_0042"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=524.431s" clip-end="npt=588.810s" id="audio_0043"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=588.810s" clip-end="npt=610.437s" id="audio_0044"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=610.437s" clip-end="npt=638.463s" id="audio_0045"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=638.463s" clip-end="npt=645.136s" id="audio_0046"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0171" id="gxgv_001a"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=645.136s" clip-end="npt=645.240s" id="audio_0047"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=645.240s" clip-end="npt=665.478s" id="audio_0048"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=665.478s" clip-end="npt=739.914s" id="audio_0049"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=739.914s" clip-end="npt=753.751s" id="audio_0050"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=753.751s" clip-end="npt=761.155s" id="audio_0051"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0172" id="gxgv_001c"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=761.155s" clip-end="npt=761.311s" id="audio_0052"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=761.311s" clip-end="npt=767.089s" id="audio_0053"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=767.089s" clip-end="npt=774.562s" id="audio_0054"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=774.562s" clip-end="npt=830.377s" id="audio_0055"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=830.377s" clip-end="npt=855.283s" id="audio_0056"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=855.283s" clip-end="npt=860.619s" id="audio_0057"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=860.619s" clip-end="npt=884.030s" id="audio_0058"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0173" id="gxgv_001e"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=884.030s" clip-end="npt=884.082s" id="audio_0059"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=884.082s" clip-end="npt=894.044s" id="audio_0060"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=894.044s" clip-end="npt=898.809s" id="audio_0061"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=898.809s" clip-end="npt=921.222s" id="audio_0062"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=921.222s" clip-end="npt=959.723s" id="audio_0063"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=959.723s" clip-end="npt=971.509s" id="audio_0064"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=971.509s" clip-end="npt=1004.295s" id="audio_0065"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1004.295s" clip-end="npt=1027.848s" id="audio_0066"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0174" id="gxgv_0020"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1027.848s" clip-end="npt=1027.917s" id="audio_0067"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1027.917s" clip-end="npt=1034.873s" id="audio_0068"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1034.873s" clip-end="npt=1064.643s" id="audio_0069"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1064.643s" clip-end="npt=1093.332s" id="audio_0070"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1093.332s" clip-end="npt=1098.015s" id="audio_0071"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1098.015s" clip-end="npt=1103.831s" id="audio_0072"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1103.831s" clip-end="npt=1112.898s" id="audio_0073"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1112.898s" clip-end="npt=1129.994s" id="audio_0074"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1129.994s" clip-end="npt=1135.765s" id="audio_0075"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1135.765s" clip-end="npt=1141.484s" id="audio_0076"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1141.484s" clip-end="npt=1151.838s" id="audio_0077"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1151.838s" clip-end="npt=1159.443s" id="audio_0078"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0175" id="gxgv_0022"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1159.443s" clip-end="npt=1159.598s" id="audio_0079"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1159.598s" clip-end="npt=1165.492s" id="audio_0080"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1165.492s" clip-end="npt=1173.100s" id="audio_0081"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1173.100s" clip-end="npt=1185.820s" id="audio_0082"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1185.820s" clip-end="npt=1238.109s" id="audio_0083"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1238.109s" clip-end="npt=1244.365s" id="audio_0084"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1244.365s" clip-end="npt=1249.487s" id="audio_0085"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1249.487s" clip-end="npt=1262.710s" id="audio_0086"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1262.710s" clip-end="npt=1287.437s" id="audio_0087"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1287.437s" clip-end="npt=1293.153s" id="audio_0088"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0176" id="gxgv_0024"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1293.153s" clip-end="npt=1293.257s" id="audio_0089"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1293.257s" clip-end="npt=1316.552s" id="audio_0090"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1316.552s" clip-end="npt=1328.728s" id="audio_0091"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1328.728s" clip-end="npt=1334.921s" id="audio_0092"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1334.921s" clip-end="npt=1378.217s" id="audio_0093"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1378.217s" clip-end="npt=1383.098s" id="audio_0094"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1383.098s" clip-end="npt=1396.666s" id="audio_0095"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1396.666s" clip-end="npt=1425.575s" id="audio_0096"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0177" id="gxgv_0026"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1425.575s" clip-end="npt=1425.662s" id="audio_0097"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1425.662s" clip-end="npt=1468.868s" id="audio_0098"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1468.868s" clip-end="npt=1504.845s" id="audio_0099"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1504.845s" clip-end="npt=1525.485s" id="audio_0100"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1525.485s" clip-end="npt=1532.693s" id="audio_0101"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1532.693s" clip-end="npt=1548.026s" id="audio_0102"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1548.026s" clip-end="npt=1556.135s" id="audio_0103"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0178" id="gxgv_0028"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1556.135s" clip-end="npt=1556.222s" id="audio_0104"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1556.222s" clip-end="npt=1583.548s" id="audio_0105"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1583.548s" clip-end="npt=1620.489s" id="audio_0106"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1620.489s" clip-end="npt=1637.580s" id="audio_0107"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1637.580s" clip-end="npt=1648.704s" id="audio_0108"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1648.704s" clip-end="npt=1668.206s" id="audio_0109"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_0179" id="gxgv_002a"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1668.206s" clip-end="npt=1668.258s" id="audio_0110"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1668.258s" clip-end="npt=1769.811s" id="audio_0111"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1769.811s" clip-end="npt=1784.116s" id="audio_0112"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1784.116s" clip-end="npt=1792.957s" id="audio_0113"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_017a" id="gxgv_002c"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1792.957s" clip-end="npt=1793.044s" id="audio_0114"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1793.044s" clip-end="npt=1798.652s" id="audio_0115"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1798.652s" clip-end="npt=1803.943s" id="audio_0116"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1803.943s" clip-end="npt=1820.942s" id="audio_0117"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1820.942s" clip-end="npt=1846.162s" id="audio_0118"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1846.162s" clip-end="npt=1853.250s" id="audio_0119"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1853.250s" clip-end="npt=1884.635s" id="audio_0120"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1884.635s" clip-end="npt=1913.543s" id="audio_0121"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_017b" id="gxgv_002e"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1913.543s" clip-end="npt=1913.664s" id="audio_0122"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1913.664s" clip-end="npt=1924.136s" id="audio_0123"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1924.136s" clip-end="npt=1942.564s" id="audio_0124"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1942.564s" clip-end="npt=1965.458s" id="audio_0125"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1965.458s" clip-end="npt=1980.640s" id="audio_0126"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1980.640s" clip-end="npt=1999.649s" id="audio_0127"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=1999.649s" clip-end="npt=2009.331s" id="audio_0128"/>
+				</seq>
+			</par>
+			<par endsync="last" id="gxgv_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_017c" id="gxgv_0030"/>
+				<seq>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=2009.331s" clip-end="npt=2009.486s" id="audio_0129"/>
+					<audio src="22_Kapittel_fjor.mp3" clip-begin="npt=2009.486s" clip-end="npt=2011.594s" id="audio_0130"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

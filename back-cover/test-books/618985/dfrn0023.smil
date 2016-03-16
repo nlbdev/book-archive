@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:11:34.411"/>
+		<meta name="ncc:totalElapsedTime" content="20:07:08.983"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Fiftys første jul"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="694.411s">
+			<par endsync="last" id="dfrn_0023">
+				<text src="ncc.html#dfrn_0022" id="dfrn_0022"/>
+				<seq>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=0.000s" clip-end="npt=25.095s" id="audio_0001"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=25.095s" clip-end="npt=60.386s" id="audio_0002"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=60.386s" clip-end="npt=69.649s" id="audio_0003"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=69.649s" clip-end="npt=137.428s" id="audio_0004"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oghl_0001" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_027b" id="oghl_0006"/>
+				<seq>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=137.428s" clip-end="npt=137.552s" id="audio_0005"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=137.552s" clip-end="npt=157.924s" id="audio_0006"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=157.924s" clip-end="npt=245.324s" id="audio_0007"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=245.324s" clip-end="npt=284.422s" id="audio_0008"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=284.422s" clip-end="npt=293.086s" id="audio_0009"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oghl_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_027c" id="oghl_0008"/>
+				<seq>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=293.086s" clip-end="npt=293.175s" id="audio_0010"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=293.175s" clip-end="npt=406.774s" id="audio_0011"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=406.774s" clip-end="npt=435.247s" id="audio_0012"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=435.247s" clip-end="npt=441.871s" id="audio_0013"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=441.871s" clip-end="npt=454.198s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oghl_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_027d" id="oghl_000a"/>
+				<seq>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=454.198s" clip-end="npt=454.340s" id="audio_0015"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=454.340s" clip-end="npt=608.038s" id="audio_0016"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=608.038s" clip-end="npt=613.041s" id="audio_0017"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=613.041s" clip-end="npt=634.378s" id="audio_0018"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=634.378s" clip-end="npt=639.540s" id="audio_0019"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oghl_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_027e" id="oghl_000c"/>
+				<seq>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=639.540s" clip-end="npt=639.664s" id="audio_0020"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=639.664s" clip-end="npt=686.690s" id="audio_0021"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=686.690s" clip-end="npt=691.823s" id="audio_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="oghl_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_027f" id="oghl_000e"/>
+				<seq>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=691.823s" clip-end="npt=692.017s" id="audio_0023"/>
+					<audio src="37_Fiftys_f_rste.mp3" clip-begin="npt=692.017s" clip-end="npt=694.411s" id="audio_0024"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

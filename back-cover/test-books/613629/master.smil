@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:55:39.692"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<ref src="mcor0001.smil" title="Jeg satte mitt håp til verden" id="rgn_smil_0001"/>
+		<ref src="nlb_norge_annonsering.smil" title="Lydbokavtalen" id="rgn_smil_0002"/>
+		<ref src="mcor0003.smil" title="Bokinformasjon" id="rgn_smil_0003"/>
+		<ref src="mcor0004.smil" title="Baksidetekst og forfatteromtale" id="rgn_smil_0004"/>
+		<ref src="mcor0005.smil" title="Dedikasjon" id="rgn_smil_0005"/>
+		<ref src="mcor0006.smil" title="Sitat" id="rgn_smil_0006"/>
+		<ref src="mcor0007.smil" title="Dagens dikt" id="rgn_smil_0007"/>
+		<ref src="mcor0008.smil" title="Et eventyr" id="rgn_smil_0008"/>
+		<ref src="mcor0009.smil" title="Fødeavdelingen" id="rgn_smil_0009"/>
+		<ref src="mcor000a.smil" title="År null" id="rgn_smil_0010"/>
+		<ref src="mcor000b.smil" title="I fjellet" id="rgn_smil_0011"/>
+		<ref src="mcor000c.smil" title="Du er for liten til å ta et så stort valg alene" id="rgn_smil_0012"/>
+		<ref src="mcor000d.smil" title="Hemmelig agent" id="rgn_smil_0013"/>
+		<ref src="mcor000e.smil" title="Heliumballonger" id="rgn_smil_0014"/>
+		<ref src="mcor000f.smil" title="Den natta sov jeg ikke" id="rgn_smil_0015"/>
+		<ref src="mcor0010.smil" title="Besøk på barselavdelingen" id="rgn_smil_0016"/>
+		<ref src="mcor0011.smil" title="Jeg henger over stolen" id="rgn_smil_0017"/>
+		<ref src="mcor0012.smil" title="Takk til epiduralen" id="rgn_smil_0018"/>
+		<ref src="mcor0013.smil" title="Drømmerollen" id="rgn_smil_0019"/>
+		<ref src="mcor0014.smil" title="En hel landsby" id="rgn_smil_0020"/>
+		<ref src="mcor0015.smil" title="Baby love" id="rgn_smil_0021"/>
+		<ref src="mcor0016.smil" title="Et alminnelig mirakel" id="rgn_smil_0022"/>
+		<ref src="mcor0017.smil" title="I trafikken" id="rgn_smil_0023"/>
+		<ref src="mcor0018.smil" title="Det nyfødte" id="rgn_smil_0024"/>
+		<ref src="mcor0019.smil" title="Hva skal jeg med strømper og skjørt?" id="rgn_smil_0025"/>
+		<ref src="mcor001a.smil" title="Ny morgen" id="rgn_smil_0026"/>
+		<ref src="mcor001b.smil" title="Sove som et barn" id="rgn_smil_0027"/>
+		<ref src="mcor001c.smil" title="Til Vladivostok" id="rgn_smil_0028"/>
+		<ref src="mcor001d.smil" title="Med et skrik" id="rgn_smil_0029"/>
+		<ref src="mcor001e.smil" title="Tilvenning" id="rgn_smil_0030"/>
+		<ref src="mcor001f.smil" title="Bak kommandolinjene" id="rgn_smil_0031"/>
+		<ref src="mcor0020.smil" title="Det var enklere å være en ørkenrose" id="rgn_smil_0032"/>
+		<ref src="mcor0021.smil" title="Ingenting" id="rgn_smil_0033"/>
+		<ref src="mcor0022.smil" title="Jeg vil at du skal være vanlig" id="rgn_smil_0034"/>
+		<ref src="mcor0023.smil" title="Mitt kompetente barn" id="rgn_smil_0035"/>
+		<ref src="mcor0024.smil" title="Tiltale" id="rgn_smil_0036"/>
+		<ref src="mcor0025.smil" title="Jeg skriker" id="rgn_smil_0037"/>
+		<ref src="mcor0026.smil" title="Ingen engel her i huset" id="rgn_smil_0038"/>
+		<ref src="mcor0043.smil" title="Som om du skulle være et barn" id="rgn_smil_0039"/>
+		<ref src="mcor0028.smil" title="Valgtale" id="rgn_smil_0040"/>
+		<ref src="mcor0029.smil" title="Jeg sier det nå" id="rgn_smil_0041"/>
+		<ref src="mcor002a.smil" title="Mammarazzi" id="rgn_smil_0042"/>
+		<ref src="mcor002b.smil" title="Bare din mamma" id="rgn_smil_0043"/>
+		<ref src="mcor002c.smil" title="En plass i skyggen" id="rgn_smil_0044"/>
+		<ref src="mcor002d.smil" title="Pippi og Annika" id="rgn_smil_0045"/>
+		<ref src="mcor002e.smil" title="O!" id="rgn_smil_0046"/>
+		<ref src="mcor002f.smil" title="Ingen shopping" id="rgn_smil_0047"/>
+		<ref src="mcor0030.smil" title="Barna i Afrika" id="rgn_smil_0048"/>
+		<ref src="mcor0031.smil" title="Et vanlig måltid" id="rgn_smil_0049"/>
+		<ref src="mcor0032.smil" title="Andres barn" id="rgn_smil_0050"/>
+		<ref src="mcor0033.smil" title="Det største i verden" id="rgn_smil_0051"/>
+		<ref src="mcor0034.smil" title="Værelse nr. 19" id="rgn_smil_0052"/>
+		<ref src="mcor0035.smil" title="Stengt for ombygging" id="rgn_smil_0053"/>
+		<ref src="mcor0036.smil" title="Et siste måltid" id="rgn_smil_0054"/>
+		<ref src="mcor0037.smil" title="Mor, far og unge" id="rgn_smil_0055"/>
+		<ref src="mcor0038.smil" title="Lykken" id="rgn_smil_0056"/>
+		<ref src="mcor0039.smil" title="En hilsen fra vaskemaskinen" id="rgn_smil_0057"/>
+		<ref src="mcor003a.smil" title="Verdens mest konkrete dikt" id="rgn_smil_0058"/>
+		<ref src="mcor003b.smil" title="Morskap" id="rgn_smil_0059"/>
+		<ref src="mcor003c.smil" title="Hjem til det surrealistiske manifest" id="rgn_smil_0060"/>
+		<ref src="mcor003d.smil" title="Etterlysning" id="rgn_smil_0061"/>
+		<ref src="mcor003e.smil" title="Prisen for et dikt" id="rgn_smil_0062"/>
+		<ref src="mcor003f.smil" title="En alle tiders mor" id="rgn_smil_0063"/>
+		<ref src="mcor0040.smil" title="Simone" id="rgn_smil_0064"/>
+		<ref src="mcor0041.smil" title="Dikt for barn" id="rgn_smil_0065"/>
+		<ref src="mcor0042.smil" title="Bok, slutt." id="rgn_smil_0066"/>
+	</body>
+</smil>

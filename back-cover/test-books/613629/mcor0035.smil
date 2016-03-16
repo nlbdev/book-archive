@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Stengt for ombygging"/>
+		<meta name="ncc:totalElapsedTime" content="00:42:39"/>
+		<meta name="ncc:timeInThisSmil" content="00:01:05"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="64.87s">
+			<par endsync="last" id="rgn_par_0053_0001">
+				<text src="ncc.html#mcor_0034" id="mcor_0034"/>
+				<seq>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=0.000s" clip-end="npt=3.958s" id="rgn_aud_0053_0001"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=3.958s" clip-end="npt=7.928s" id="rgn_aud_0053_0002"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=7.928s" clip-end="npt=12.957s" id="rgn_aud_0053_0003"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=12.957s" clip-end="npt=15.661s" id="rgn_aud_0053_0004"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=15.661s" clip-end="npt=19.318s" id="rgn_aud_0053_0005"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=19.318s" clip-end="npt=21.721s" id="rgn_aud_0053_0006"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=21.721s" clip-end="npt=24.175s" id="rgn_aud_0053_0007"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=24.175s" clip-end="npt=27.126s" id="rgn_aud_0053_0008"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=27.126s" clip-end="npt=29.518s" id="rgn_aud_0053_0009"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=29.518s" clip-end="npt=30.719s" id="rgn_aud_0053_0010"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=30.719s" clip-end="npt=32.704s" id="rgn_aud_0053_0011"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=32.704s" clip-end="npt=35.997s" id="rgn_aud_0053_0012"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=35.997s" clip-end="npt=41.155s" id="rgn_aud_0053_0013"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=41.155s" clip-end="npt=44.106s" id="rgn_aud_0053_0014"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=44.106s" clip-end="npt=46.744s" id="rgn_aud_0053_0015"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=46.744s" clip-end="npt=49.984s" id="rgn_aud_0053_0016"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=49.984s" clip-end="npt=51.079s" id="rgn_aud_0053_0017"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=51.079s" clip-end="npt=53.636s" id="rgn_aud_0053_0018"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=53.636s" clip-end="npt=54.188s" id="rgn_aud_0053_0019"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=54.188s" clip-end="npt=55.207s" id="rgn_aud_0053_0020"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=55.207s" clip-end="npt=57.127s" id="rgn_aud_0053_0021"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=57.127s" clip-end="npt=60.164s" id="rgn_aud_0053_0022"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=60.164s" clip-end="npt=60.950s" id="rgn_aud_0053_0023"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=60.950s" clip-end="npt=61.734s" id="rgn_aud_0053_0024"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=61.734s" clip-end="npt=62.518s" id="rgn_aud_0053_0025"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=62.518s" clip-end="npt=63.302s" id="rgn_aud_0053_0026"/>
+				</seq>
+			</par>
+			<par endsync="last" id="uwti_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_007e" id="uwti_0002"/>
+				<seq>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=63.302s" clip-end="npt=63.634s" id="rgn_aud_0053_0027"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0053_0002">
+				<text src="ncc.html#mcor_0034" id="uwti_0003"/>
+				<seq>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=63.634s" clip-end="npt=64.084s" id="rgn_aud_0053_0028"/>
+					<audio src="53_Stengt_for_om.mp3" clip-begin="npt=64.084s" clip-end="npt=64.870s" id="rgn_aud_0053_0029"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

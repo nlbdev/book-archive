@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:03:44.394"/>
+		<meta name="ncc:totalElapsedTime" content="00:09:44.764"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Kapittel 3: E for ekkel figur"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="224.394s">
+			<par endsync="last" id="ywbl_0001">
+				<text src="ncc.html#upjx_0007" id="upjx_0007"/>
+				<seq>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=0.000s" clip-end="npt=2.521s" id="audio_0001"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=2.521s" clip-end="npt=5.577s" id="audio_0002"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=5.577s" clip-end="npt=7.144s" id="audio_0003"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=7.144s" clip-end="npt=11.938s" id="audio_0004"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=11.938s" clip-end="npt=12.970s" id="audio_0005"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=12.970s" clip-end="npt=14.824s" id="audio_0006"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=14.824s" clip-end="npt=19.082s" id="audio_0007"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=19.082s" clip-end="npt=24.607s" id="audio_0008"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=24.607s" clip-end="npt=27.239s" id="audio_0009"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=27.239s" clip-end="npt=27.722s" id="audio_0010"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=27.722s" clip-end="npt=30.109s" id="audio_0011"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=30.109s" clip-end="npt=30.592s" id="audio_0012"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=30.592s" clip-end="npt=32.132s" id="audio_0013"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=32.132s" clip-end="npt=34.235s" id="audio_0014"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=34.235s" clip-end="npt=42.516s" id="audio_0015"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=42.516s" clip-end="npt=47.492s" id="audio_0016"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=47.492s" clip-end="npt=51.097s" id="audio_0017"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=51.097s" clip-end="npt=53.970s" id="audio_0018"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=53.970s" clip-end="npt=58.411s" id="audio_0019"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=58.411s" clip-end="npt=60.814s" id="audio_0020"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=60.814s" clip-end="npt=64.045s" id="audio_0021"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ywbl_0002" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_002c" id="ywbl_0006"/>
+				<seq>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=64.045s" clip-end="npt=64.232s" id="audio_0022"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ywbl_000e">
+				<text src="ncc.html#upjx_0007" id="ywbl_0007"/>
+				<seq>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=64.232s" clip-end="npt=65.133s" id="audio_0023"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=65.133s" clip-end="npt=71.442s" id="audio_0024"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=71.442s" clip-end="npt=75.334s" id="audio_0025"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=75.334s" clip-end="npt=80.441s" id="audio_0026"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=80.441s" clip-end="npt=90.459s" id="audio_0027"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=90.459s" clip-end="npt=93.199s" id="audio_0028"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ywbl_0003" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_002d" id="ywbl_0008"/>
+				<seq>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=93.199s" clip-end="npt=93.466s" id="audio_0029"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ywbl_000f">
+				<text src="ncc.html#upjx_0007" id="ywbl_0009"/>
+				<seq>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=93.466s" clip-end="npt=93.949s" id="audio_0030"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=93.949s" clip-end="npt=98.873s" id="audio_0031"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=98.873s" clip-end="npt=100.728s" id="audio_0032"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=100.728s" clip-end="npt=103.915s" id="audio_0033"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=103.915s" clip-end="npt=105.835s" id="audio_0034"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=105.835s" clip-end="npt=108.408s" id="audio_0035"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=108.408s" clip-end="npt=111.295s" id="audio_0036"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=111.295s" clip-end="npt=115.553s" id="audio_0037"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=115.553s" clip-end="npt=118.426s" id="audio_0038"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=118.426s" clip-end="npt=119.928s" id="audio_0039"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=119.928s" clip-end="npt=121.730s" id="audio_0040"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=121.730s" clip-end="npt=123.415s" id="audio_0041"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=123.415s" clip-end="npt=129.828s" id="audio_0042"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=129.828s" clip-end="npt=134.086s" id="audio_0043"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=134.086s" clip-end="npt=139.193s" id="audio_0044"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=139.193s" clip-end="npt=143.386s" id="audio_0045"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=143.386s" clip-end="npt=145.972s" id="audio_0046"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=145.972s" clip-end="npt=153.352s" id="audio_0047"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=153.352s" clip-end="npt=159.830s" id="audio_0048"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=159.830s" clip-end="npt=164.624s" id="audio_0049"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=164.624s" clip-end="npt=166.243s" id="audio_0050"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=166.243s" clip-end="npt=169.012s" id="audio_0051"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=169.012s" clip-end="npt=171.962s" id="audio_0052"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ywbl_0004" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_002e" id="ywbl_000a"/>
+				<seq>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=171.962s" clip-end="npt=172.242s" id="audio_0053"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ywbl_0010">
+				<text src="ncc.html#upjx_0007" id="ywbl_000b"/>
+				<seq>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=172.242s" clip-end="npt=173.561s" id="audio_0054"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=173.561s" clip-end="npt=178.786s" id="audio_0055"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=178.786s" clip-end="npt=184.546s" id="audio_0056"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=184.546s" clip-end="npt=190.240s" id="audio_0057"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=190.240s" clip-end="npt=194.564s" id="audio_0058"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=194.564s" clip-end="npt=199.840s" id="audio_0059"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=199.840s" clip-end="npt=207.951s" id="audio_0060"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=207.951s" clip-end="npt=211.008s" id="audio_0061"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=211.008s" clip-end="npt=215.200s" id="audio_0062"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=215.200s" clip-end="npt=217.852s" id="audio_0063"/>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=217.852s" clip-end="npt=223.933s" id="audio_0064"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ywbl_0005" system-required="pagenumber-on">
+				<text src="ncc.html#upjx_002f" id="ywbl_000c"/>
+				<seq>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=223.933s" clip-end="npt=224.133s" id="audio_0065"/>
+				</seq>
+			</par>
+			<par endsync="last" id="ywbl_0011">
+				<text src="ncc.html#upjx_0007" id="ywbl_000d"/>
+				<seq>
+					<audio src="08_Kapittel_3__E_for_ekkel_figur.mp3" clip-begin="npt=224.133s" clip-end="npt=224.394s" id="audio_0066"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

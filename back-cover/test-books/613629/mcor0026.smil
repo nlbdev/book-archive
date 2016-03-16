@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:identifier" content="613629"/>
+		<meta name="dc:title" content="Jeg satte mitt håp til verden"/>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="title" content="Ingen engel her i huset"/>
+		<meta name="ncc:totalElapsedTime" content="00:30:27"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:28"/>
+		<meta name="ncc:generator" content="Regenerator 1.0.28"/>
+		<layout>
+			<region id="txtView"/>
+		</layout>
+	</head>
+	<body>
+		<seq dur="27.677s">
+			<par endsync="last" id="rgn_par_0038_0001">
+				<text src="ncc.html#mcor_0025" id="mcor_0025"/>
+				<seq>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=0.000s" clip-end="npt=2.139s" id="rgn_aud_0038_0001"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=2.139s" clip-end="npt=5.460s" id="rgn_aud_0038_0002"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=5.460s" clip-end="npt=8.882s" id="rgn_aud_0038_0003"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=8.882s" clip-end="npt=12.840s" id="rgn_aud_0038_0004"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=12.840s" clip-end="npt=16.745s" id="rgn_aud_0038_0005"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=16.745s" clip-end="npt=22.140s" id="rgn_aud_0038_0006"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=22.140s" clip-end="npt=23.079s" id="rgn_aud_0038_0007"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=23.079s" clip-end="npt=23.864s" id="rgn_aud_0038_0008"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=23.864s" clip-end="npt=24.649s" id="rgn_aud_0038_0009"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=24.649s" clip-end="npt=25.433s" id="rgn_aud_0038_0010"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=25.433s" clip-end="npt=26.216s" id="rgn_aud_0038_0011"/>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=26.216s" clip-end="npt=26.573s" id="rgn_aud_0038_0012"/>
+				</seq>
+			</par>
+			<par endsync="last" id="xhni_0001" system-required="pagenumber-on">
+				<text src="ncc.html#mcor_006f" id="xhni_0002"/>
+				<seq>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=26.573s" clip-end="npt=26.728s" id="rgn_aud_0038_0013"/>
+				</seq>
+			</par>
+			<par endsync="last" id="rgn_par_0038_0002">
+				<text src="ncc.html#mcor_0025" id="xhni_0003"/>
+				<seq>
+					<audio src="38_Ingen_engel_h.mp3" clip-begin="npt=26.728s" clip-end="npt=27.677s" id="rgn_aud_0038_0014"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

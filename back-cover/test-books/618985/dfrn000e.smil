@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="01:09:14.972"/>
+		<meta name="ncc:totalElapsedTime" content="05:55:31.560"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089099"/>
+        <meta name="title" content="Kapittel åtte"/>
+        <meta name="dc:title" content="Fifty Shades: Fri"/>
+        <meta name="dc:identifier" content="618985"/>
+    </head>
+	<body>
+		<seq dur="4154.972s">
+			<par endsync="last" id="sqim_0001">
+				<text src="ncc.html#dfrn_000d" id="dfrn_000d"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=0.000s" clip-end="npt=6.949s" id="audio_0001"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=6.949s" clip-end="npt=27.837s" id="audio_0002"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=27.837s" clip-end="npt=45.568s" id="audio_0003"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=45.568s" clip-end="npt=52.517s" id="audio_0004"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=52.517s" clip-end="npt=58.648s" id="audio_0005"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=58.648s" clip-end="npt=64.268s" id="audio_0006"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=64.268s" clip-end="npt=112.361s" id="audio_0007"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0002" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00d7" id="sqim_0022"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=112.361s" clip-end="npt=112.465s" id="audio_0008"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=112.465s" clip-end="npt=134.329s" id="audio_0009"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=134.329s" clip-end="npt=141.144s" id="audio_0010"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=141.144s" clip-end="npt=167.177s" id="audio_0011"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=167.177s" clip-end="npt=200.077s" id="audio_0012"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=200.077s" clip-end="npt=214.404s" id="audio_0013"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=214.404s" clip-end="npt=244.521s" id="audio_0014"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0003" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00d8" id="sqim_0024"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=244.521s" clip-end="npt=244.625s" id="audio_0015"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=244.625s" clip-end="npt=264.389s" id="audio_0016"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=264.389s" clip-end="npt=277.539s" id="audio_0017"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=277.539s" clip-end="npt=285.227s" id="audio_0018"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=285.227s" clip-end="npt=305.282s" id="audio_0019"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=305.282s" clip-end="npt=322.261s" id="audio_0020"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=322.261s" clip-end="npt=342.956s" id="audio_0021"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=342.956s" clip-end="npt=347.062s" id="audio_0022"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=347.062s" clip-end="npt=369.208s" id="audio_0023"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0004" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00d9" id="sqim_0026"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=369.208s" clip-end="npt=369.329s" id="audio_0024"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=369.329s" clip-end="npt=387.331s" id="audio_0025"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=387.331s" clip-end="npt=397.230s" id="audio_0026"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=397.230s" clip-end="npt=416.670s" id="audio_0027"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=416.670s" clip-end="npt=445.684s" id="audio_0028"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=445.684s" clip-end="npt=510.564s" id="audio_0029"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=510.564s" clip-end="npt=519.205s" id="audio_0030"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0005" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00da" id="sqim_0028"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=519.205s" clip-end="npt=519.361s" id="audio_0031"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=519.361s" clip-end="npt=528.634s" id="audio_0032"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=528.634s" clip-end="npt=537.169s" id="audio_0033"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=537.169s" clip-end="npt=562.455s" id="audio_0034"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=562.455s" clip-end="npt=570.048s" id="audio_0035"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=570.048s" clip-end="npt=606.422s" id="audio_0036"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=606.422s" clip-end="npt=614.626s" id="audio_0037"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=614.626s" clip-end="npt=630.310s" id="audio_0038"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=630.310s" clip-end="npt=643.444s" id="audio_0039"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0006" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00db" id="sqim_002a"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=643.444s" clip-end="npt=643.565s" id="audio_0040"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=643.565s" clip-end="npt=679.781s" id="audio_0041"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=679.781s" clip-end="npt=693.519s" id="audio_0042"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=693.519s" clip-end="npt=764.432s" id="audio_0043"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=764.432s" clip-end="npt=769.632s" id="audio_0044"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=769.632s" clip-end="npt=775.653s" id="audio_0045"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0007" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00dc" id="sqim_002c"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=775.653s" clip-end="npt=775.791s" id="audio_0046"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=775.791s" clip-end="npt=818.703s" id="audio_0047"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=818.703s" clip-end="npt=833.886s" id="audio_0048"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=833.886s" clip-end="npt=854.289s" id="audio_0049"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=854.289s" clip-end="npt=894.881s" id="audio_0050"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0008" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00dd" id="sqim_002e"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=894.881s" clip-end="npt=895.054s" id="audio_0051"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=895.054s" clip-end="npt=903.233s" id="audio_0052"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=903.233s" clip-end="npt=947.012s" id="audio_0053"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=947.012s" clip-end="npt=964.973s" id="audio_0054"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=964.973s" clip-end="npt=1006.154s" id="audio_0055"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1006.154s" clip-end="npt=1035.155s" id="audio_0056"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0009" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00de" id="sqim_0030"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1035.155s" clip-end="npt=1035.321s" id="audio_0057"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1035.321s" clip-end="npt=1051.002s" id="audio_0058"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1051.002s" clip-end="npt=1088.788s" id="audio_0059"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1088.788s" clip-end="npt=1096.057s" id="audio_0060"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1096.057s" clip-end="npt=1102.591s" id="audio_0061"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1102.591s" clip-end="npt=1108.539s" id="audio_0062"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1108.539s" clip-end="npt=1173.647s" id="audio_0063"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_000a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00df" id="sqim_0032"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1173.647s" clip-end="npt=1173.752s" id="audio_0064"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1173.752s" clip-end="npt=1191.567s" id="audio_0065"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1191.567s" clip-end="npt=1195.649s" id="audio_0066"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1195.649s" clip-end="npt=1237.244s" id="audio_0067"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1237.244s" clip-end="npt=1248.482s" id="audio_0068"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1248.482s" clip-end="npt=1254.211s" id="audio_0069"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1254.211s" clip-end="npt=1285.362s" id="audio_0070"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1285.362s" clip-end="npt=1293.112s" id="audio_0071"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1293.112s" clip-end="npt=1304.170s" id="audio_0072"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_000b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00e0" id="sqim_0034"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1304.170s" clip-end="npt=1304.291s" id="audio_0073"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1304.291s" clip-end="npt=1322.385s" id="audio_0074"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1322.385s" clip-end="npt=1330.935s" id="audio_0075"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1330.935s" clip-end="npt=1338.850s" id="audio_0076"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1338.850s" clip-end="npt=1344.021s" id="audio_0077"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1344.021s" clip-end="npt=1352.957s" id="audio_0078"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1352.957s" clip-end="npt=1367.882s" id="audio_0079"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1367.882s" clip-end="npt=1390.464s" id="audio_0080"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1390.464s" clip-end="npt=1416.863s" id="audio_0081"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1416.863s" clip-end="npt=1432.715s" id="audio_0082"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1432.715s" clip-end="npt=1437.598s" id="audio_0083"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_000c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00e1" id="sqim_0036"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1437.598s" clip-end="npt=1437.685s" id="audio_0084"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1437.685s" clip-end="npt=1454.487s" id="audio_0085"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1454.487s" clip-end="npt=1477.013s" id="audio_0086"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1477.013s" clip-end="npt=1486.305s" id="audio_0087"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1486.305s" clip-end="npt=1514.020s" id="audio_0088"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1514.020s" clip-end="npt=1530.030s" id="audio_0089"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1530.030s" clip-end="npt=1543.650s" id="audio_0090"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1543.650s" clip-end="npt=1549.152s" id="audio_0091"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1549.152s" clip-end="npt=1562.519s" id="audio_0092"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_000d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00e2" id="sqim_0038"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1562.519s" clip-end="npt=1562.641s" id="audio_0093"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1562.641s" clip-end="npt=1575.119s" id="audio_0094"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1575.119s" clip-end="npt=1586.958s" id="audio_0095"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1586.958s" clip-end="npt=1602.778s" id="audio_0096"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1602.778s" clip-end="npt=1662.425s" id="audio_0097"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1662.425s" clip-end="npt=1696.543s" id="audio_0098"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_000e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00e3" id="sqim_003a"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1696.543s" clip-end="npt=1696.698s" id="audio_0099"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1696.698s" clip-end="npt=1754.650s" id="audio_0100"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1754.650s" clip-end="npt=1759.031s" id="audio_0101"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1759.031s" clip-end="npt=1769.050s" id="audio_0102"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1769.050s" clip-end="npt=1774.356s" id="audio_0103"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1774.356s" clip-end="npt=1827.382s" id="audio_0104"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1827.382s" clip-end="npt=1832.455s" id="audio_0105"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_000f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00e4" id="sqim_003c"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1832.455s" clip-end="npt=1832.623s" id="audio_0106"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1832.623s" clip-end="npt=1842.872s" id="audio_0107"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1842.872s" clip-end="npt=1846.881s" id="audio_0108"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1846.881s" clip-end="npt=1898.921s" id="audio_0109"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1898.921s" clip-end="npt=1906.571s" id="audio_0110"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1906.571s" clip-end="npt=1925.977s" id="audio_0111"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1925.977s" clip-end="npt=1953.751s" id="audio_0112"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0010" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00e5" id="sqim_003e"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1953.751s" clip-end="npt=1953.833s" id="audio_0113"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1953.833s" clip-end="npt=1958.769s" id="audio_0114"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1958.769s" clip-end="npt=1965.706s" id="audio_0115"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1965.706s" clip-end="npt=1989.506s" id="audio_0116"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=1989.506s" clip-end="npt=2003.773s" id="audio_0117"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2003.773s" clip-end="npt=2008.457s" id="audio_0118"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2008.457s" clip-end="npt=2055.494s" id="audio_0119"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2055.494s" clip-end="npt=2078.985s" id="audio_0120"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0011" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00e6" id="sqim_0040"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2078.985s" clip-end="npt=2079.037s" id="audio_0121"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2079.037s" clip-end="npt=2107.083s" id="audio_0122"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2107.083s" clip-end="npt=2116.074s" id="audio_0123"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2116.074s" clip-end="npt=2133.773s" id="audio_0124"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2133.773s" clip-end="npt=2140.320s" id="audio_0125"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2140.320s" clip-end="npt=2170.213s" id="audio_0126"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2170.213s" clip-end="npt=2175.103s" id="audio_0127"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2175.103s" clip-end="npt=2197.095s" id="audio_0128"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2197.095s" clip-end="npt=2212.869s" id="audio_0129"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0012" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00e7" id="sqim_0042"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2212.869s" clip-end="npt=2285.183s" id="audio_0130"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2285.183s" clip-end="npt=2294.553s" id="audio_0131"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2294.553s" clip-end="npt=2320.585s" id="audio_0132"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2320.585s" clip-end="npt=2348.713s" id="audio_0133"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0013" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00e8" id="sqim_0044"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2348.713s" clip-end="npt=2348.799s" id="audio_0134"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2348.799s" clip-end="npt=2356.901s" id="audio_0135"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2356.901s" clip-end="npt=2361.365s" id="audio_0136"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2361.365s" clip-end="npt=2383.392s" id="audio_0137"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2383.392s" clip-end="npt=2421.706s" id="audio_0138"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2421.706s" clip-end="npt=2442.825s" id="audio_0139"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2442.825s" clip-end="npt=2483.820s" id="audio_0140"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2483.820s" clip-end="npt=2495.586s" id="audio_0141"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0014" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00e9" id="sqim_0046"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2495.586s" clip-end="npt=2495.690s" id="audio_0142"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2495.690s" clip-end="npt=2516.296s" id="audio_0143"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2516.296s" clip-end="npt=2564.935s" id="audio_0144"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2564.935s" clip-end="npt=2609.927s" id="audio_0145"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2609.927s" clip-end="npt=2635.525s" id="audio_0146"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0015" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ea" id="sqim_0048"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2635.525s" clip-end="npt=2635.612s" id="audio_0147"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2635.612s" clip-end="npt=2653.871s" id="audio_0148"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2653.871s" clip-end="npt=2667.311s" id="audio_0149"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2667.311s" clip-end="npt=2712.590s" id="audio_0150"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2712.590s" clip-end="npt=2720.623s" id="audio_0151"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2720.623s" clip-end="npt=2736.054s" id="audio_0152"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2736.054s" clip-end="npt=2743.787s" id="audio_0153"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2743.787s" clip-end="npt=2778.149s" id="audio_0154"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0016" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00eb" id="sqim_004a"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2778.149s" clip-end="npt=2778.236s" id="audio_0155"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2778.236s" clip-end="npt=2821.254s" id="audio_0156"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2821.254s" clip-end="npt=2844.116s" id="audio_0157"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2844.116s" clip-end="npt=2867.366s" id="audio_0158"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2867.366s" clip-end="npt=2883.745s" id="audio_0159"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2883.745s" clip-end="npt=2917.892s" id="audio_0160"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0017" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ec" id="sqim_004c"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2917.892s" clip-end="npt=2917.962s" id="audio_0161"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2917.962s" clip-end="npt=2925.574s" id="audio_0162"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2925.574s" clip-end="npt=2979.619s" id="audio_0163"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=2979.619s" clip-end="npt=3030.135s" id="audio_0164"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3030.135s" clip-end="npt=3049.316s" id="audio_0165"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3049.316s" clip-end="npt=3054.983s" id="audio_0166"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0018" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ed" id="sqim_004e"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3054.983s" clip-end="npt=3055.035s" id="audio_0167"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3055.035s" clip-end="npt=3098.740s" id="audio_0168"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3098.740s" clip-end="npt=3103.395s" id="audio_0169"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3103.395s" clip-end="npt=3127.652s" id="audio_0170"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3127.652s" clip-end="npt=3165.986s" id="audio_0171"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3165.986s" clip-end="npt=3187.973s" id="audio_0172"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3187.973s" clip-end="npt=3197.363s" id="audio_0173"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0019" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ee" id="sqim_0050"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3197.363s" clip-end="npt=3197.491s" id="audio_0174"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3197.491s" clip-end="npt=3243.860s" id="audio_0175"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3243.860s" clip-end="npt=3252.395s" id="audio_0176"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3252.395s" clip-end="npt=3279.473s" id="audio_0177"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3279.473s" clip-end="npt=3291.557s" id="audio_0178"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3291.557s" clip-end="npt=3296.473s" id="audio_0179"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3296.473s" clip-end="npt=3310.943s" id="audio_0180"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3310.943s" clip-end="npt=3317.801s" id="audio_0181"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_001a" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00ef" id="sqim_0052"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3317.801s" clip-end="npt=3317.905s" id="audio_0182"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3317.905s" clip-end="npt=3369.492s" id="audio_0183"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3369.492s" clip-end="npt=3410.805s" id="audio_0184"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3410.805s" clip-end="npt=3470.411s" id="audio_0185"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_001b" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00f0" id="sqim_0054"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3470.411s" clip-end="npt=3470.549s" id="audio_0186"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3470.549s" clip-end="npt=3500.385s" id="audio_0187"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3500.385s" clip-end="npt=3596.522s" id="audio_0188"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3596.522s" clip-end="npt=3602.311s" id="audio_0189"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_001c" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00f1" id="sqim_0056"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3602.311s" clip-end="npt=3602.397s" id="audio_0190"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3602.397s" clip-end="npt=3619.434s" id="audio_0191"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3619.434s" clip-end="npt=3628.560s" id="audio_0192"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3628.560s" clip-end="npt=3652.141s" id="audio_0193"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3652.141s" clip-end="npt=3717.431s" id="audio_0194"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_001d" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00f2" id="sqim_0058"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3717.431s" clip-end="npt=3717.535s" id="audio_0195"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3717.535s" clip-end="npt=3727.783s" id="audio_0196"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3727.783s" clip-end="npt=3753.705s" id="audio_0197"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3753.705s" clip-end="npt=3775.248s" id="audio_0198"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3775.248s" clip-end="npt=3785.493s" id="audio_0199"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3785.493s" clip-end="npt=3804.258s" id="audio_0200"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3804.258s" clip-end="npt=3808.321s" id="audio_0201"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3808.321s" clip-end="npt=3824.936s" id="audio_0202"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3824.936s" clip-end="npt=3841.410s" id="audio_0203"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_001e" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00f3" id="sqim_005a"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3841.410s" clip-end="npt=3841.600s" id="audio_0204"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3841.600s" clip-end="npt=3857.879s" id="audio_0205"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3857.879s" clip-end="npt=3863.922s" id="audio_0206"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3863.922s" clip-end="npt=3922.651s" id="audio_0207"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3922.651s" clip-end="npt=3930.290s" id="audio_0208"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3930.290s" clip-end="npt=3948.278s" id="audio_0209"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3948.278s" clip-end="npt=3964.060s" id="audio_0210"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_001f" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00f4" id="sqim_005c"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3964.060s" clip-end="npt=3964.181s" id="audio_0211"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3964.181s" clip-end="npt=3968.565s" id="audio_0212"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=3968.565s" clip-end="npt=4009.148s" id="audio_0213"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=4009.148s" clip-end="npt=4045.522s" id="audio_0214"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=4045.522s" clip-end="npt=4065.924s" id="audio_0215"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=4065.924s" clip-end="npt=4098.108s" id="audio_0216"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0020" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00f5" id="sqim_005e"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=4098.108s" clip-end="npt=4098.264s" id="audio_0217"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=4098.264s" clip-end="npt=4142.883s" id="audio_0218"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=4142.883s" clip-end="npt=4153.723s" id="audio_0219"/>
+				</seq>
+			</par>
+			<par endsync="last" id="sqim_0021" system-required="pagenumber-on">
+				<text src="ncc.html#dfrn_00f6" id="sqim_0060"/>
+				<seq>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=4153.723s" clip-end="npt=4153.871s" id="audio_0220"/>
+					<audio src="16_Kapittel__tte.mp3" clip-begin="npt=4153.871s" clip-end="npt=4154.972s" id="audio_0221"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

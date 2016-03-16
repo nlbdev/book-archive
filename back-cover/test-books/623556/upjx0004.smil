@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "SMIL10.dtd">
+<smil>
+	<head>
+		<meta name="dc:format" content="Daisy 2.02"/>
+		<meta name="ncc:timeInThisSmil" content="00:00:21.067"/>
+		<meta name="ncc:totalElapsedTime" content="00:01:28.419"/>
+		<layout>
+			<region id="txt-view"/>
+		</layout>
+		<meta name="ncc:generator" content="Publisher 3.03 Build 244 # 044FSI300089108"/>
+    <meta name="title" content="Navigering i DAISY-boka"/>
+    <meta name="dc:title" content="M for mistet"/>
+    <meta name="dc:identifier" content="623556"/>
+  </head>
+	<body>
+		<seq dur="21.067s">
+			<par endsync="last" id="wnrn_0001">
+				<text src="ncc.html#upjx_0003" id="upjx_0003"/>
+				<seq>
+					<audio src="04_Navigering_i_DAISY-boka.mp3" clip-begin="npt=0.000s" clip-end="npt=3.187s" id="audio_0001"/>
+					<audio src="04_Navigering_i_DAISY-boka.mp3" clip-begin="npt=3.187s" clip-end="npt=6.439s" id="audio_0002"/>
+					<audio src="04_Navigering_i_DAISY-boka.mp3" clip-begin="npt=6.439s" clip-end="npt=10.279s" id="audio_0003"/>
+					<audio src="04_Navigering_i_DAISY-boka.mp3" clip-begin="npt=10.279s" clip-end="npt=12.917s" id="audio_0004"/>
+					<audio src="04_Navigering_i_DAISY-boka.mp3" clip-begin="npt=12.917s" clip-end="npt=15.673s" id="audio_0005"/>
+					<audio src="04_Navigering_i_DAISY-boka.mp3" clip-begin="npt=15.673s" clip-end="npt=21.067s" id="audio_0006"/>
+				</seq>
+			</par>
+		</seq>
+	</body>
+</smil>

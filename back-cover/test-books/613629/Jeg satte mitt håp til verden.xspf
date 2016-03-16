@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='utf-8'?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+<trackList>
+<track>
+<location>01_Jeg_satte_mit.mp3</location>
+<title>Jeg satte mitt håp til verden</title>
+<trackNum>1</trackNum>
+<duration>9012</duration>
+</track>
+<track>
+<location>nlb_norge_annonsering.mp3</location>
+<title>Lydbokavtalen</title>
+<trackNum>2</trackNum>
+<duration>51696</duration>
+</track>
+<track>
+<location>03_Bokinformasjo.mp3</location>
+<title>Bokinformasjon</title>
+<trackNum>3</trackNum>
+<duration>35422</duration>
+</track>
+<track>
+<location>04_Baksidetekst_.mp3</location>
+<title>Baksidetekst og forfatteromtale</title>
+<trackNum>4</trackNum>
+<duration>98298</duration>
+</track>
+<track>
+<location>05_Dedikasjon.mp3</location>
+<title>Dedikasjon</title>
+<trackNum>5</trackNum>
+<duration>10161</duration>
+</track>
+<track>
+<location>06_Sitat.mp3</location>
+<title>Sitat</title>
+<trackNum>6</trackNum>
+<duration>46053</duration>
+</track>
+<track>
+<location>07_Dagens_dikt.mp3</location>
+<title>Dagens dikt</title>
+<trackNum>7</trackNum>
+<duration>49972</duration>
+</track>
+<track>
+<location>08_Et_eventyr.mp3</location>
+<title>Et eventyr</title>
+<trackNum>8</trackNum>
+<duration>54909</duration>
+</track>
+<track>
+<location>09_F_deavdelinge.mp3</location>
+<title>Fødeavdelingen</title>
+<trackNum>9</trackNum>
+<duration>78942</duration>
+</track>
+<track>
+<location>10__r_null.mp3</location>
+<title>År null</title>
+<trackNum>10</trackNum>
+<duration>35735</duration>
+</track>
+<track>
+<location>11_I_fjellet.mp3</location>
+<title>I fjellet</title>
+<trackNum>11</trackNum>
+<duration>62720</duration>
+</track>
+<track>
+<location>12_Du_er_for_lit.mp3</location>
+<title>Du er for liten til å ta et så stort valg alene</title>
+<trackNum>12</trackNum>
+<duration>35343</duration>
+</track>
+<track>
+<location>13_Hemmelig_agen.mp3</location>
+<title>Hemmelig agent</title>
+<trackNum>13</trackNum>
+<duration>60212</duration>
+</track>
+<track>
+<location>14_Heliumballong.mp3</location>
+<title>Heliumballonger</title>
+<trackNum>14</trackNum>
+<duration>31921</duration>
+</track>
+<track>
+<location>15_Den_natta_sov.mp3</location>
+<title>Den natta sov jeg ikke</title>
+<trackNum>15</trackNum>
+<duration>56816</duration>
+</track>
+<track>
+<location>16_Bes_k_p__bars.mp3</location>
+<title>Besøk på barselavdelingen</title>
+<trackNum>16</trackNum>
+<duration>56320</duration>
+</track>
+<track>
+<location>17_Jeg_henger_ov.mp3</location>
+<title>Jeg henger over stolen</title>
+<trackNum>17</trackNum>
+<duration>38295</duration>
+</track>
+<track>
+<location>18_Takk_til_epid.mp3</location>
+<title>Takk til epiduralen</title>
+<trackNum>18</trackNum>
+<duration>45061</duration>
+</track>
+<track>
+<location>19_Dr_mmerollen.mp3</location>
+<title>Drømmerollen</title>
+<trackNum>19</trackNum>
+<duration>51774</duration>
+</track>
+<track>
+<location>20_En_hel_landsb.mp3</location>
+<title>En hel landsby</title>
+<trackNum>20</trackNum>
+<duration>74945</duration>
+</track>
+<track>
+<location>21_Baby_love.mp3</location>
+<title>Baby love</title>
+<trackNum>21</trackNum>
+<duration>27898</duration>
+</track>
+<track>
+<location>22_Et_alminnelig.mp3</location>
+<title>Et alminnelig mirakel</title>
+<trackNum>22</trackNum>
+<duration>45087</duration>
+</track>
+<track>
+<location>23_I_trafikken.mp3</location>
+<title>I trafikken</title>
+<trackNum>23</trackNum>
+<duration>65227</duration>
+</track>
+<track>
+<location>24_Det_nyf_dte.mp3</location>
+<title>Det nyfødte</title>
+<trackNum>24</trackNum>
+<duration>63373</duration>
+</track>
+<track>
+<location>25_Hva_skal_jeg_.mp3</location>
+<title>Hva skal jeg med strømper og skjørt?</title>
+<trackNum>25</trackNum>
+<duration>63033</duration>
+</track>
+<track>
+<location>26_Ny_morgen.mp3</location>
+<title>Ny morgen</title>
+<trackNum>26</trackNum>
+<duration>61701</duration>
+</track>
+<track>
+<location>27_Sove_som_et_b.mp3</location>
+<title>Sove som et barn</title>
+<trackNum>27</trackNum>
+<duration>56502</duration>
+</track>
+<track>
+<location>28_Til_Vladivost.mp3</location>
+<title>Til Vladivostok</title>
+<trackNum>28</trackNum>
+<duration>44669</duration>
+</track>
+<track>
+<location>29_Med_et_skrik.mp3</location>
+<title>Med et skrik</title>
+<trackNum>29</trackNum>
+<duration>18207</duration>
+</track>
+<track>
+<location>30_Tilvenning.mp3</location>
+<title>Tilvenning</title>
+<trackNum>30</trackNum>
+<duration>42553</duration>
+</track>
+<track>
+<location>31_Bak_kommandol.mp3</location>
+<title>Bak kommandolinjene</title>
+<trackNum>31</trackNum>
+<duration>48169</duration>
+</track>
+<track>
+<location>32_Det_var_enkle.mp3</location>
+<title>Det var enklere å være en ørkenrose</title>
+<trackNum>32</trackNum>
+<duration>61544</duration>
+</track>
+<track>
+<location>33_Ingenting.mp3</location>
+<title>Ingenting</title>
+<trackNum>33</trackNum>
+<duration>41769</duration>
+</track>
+<track>
+<location>34_Jeg_vil_at_du.mp3</location>
+<title>Jeg vil at du skal være vanlig</title>
+<trackNum>34</trackNum>
+<duration>48666</duration>
+</track>
+<track>
+<location>35_Mitt_kompeten.mp3</location>
+<title>Mitt kompetente barn</title>
+<trackNum>35</trackNum>
+<duration>42004</duration>
+</track>
+<track>
+<location>36_Tiltale.mp3</location>
+<title>Tiltale</title>
+<trackNum>36</trackNum>
+<duration>55405</duration>
+</track>
+<track>
+<location>37_Jeg_skriker.mp3</location>
+<title>Jeg skriker</title>
+<trackNum>37</trackNum>
+<duration>45061</duration>
+</track>
+<track>
+<location>38_Ingen_engel_h.mp3</location>
+<title>Ingen engel her i huset</title>
+<trackNum>38</trackNum>
+<duration>27297</duration>
+</track>
+<track>
+<location>39_Som_om_du_sku.mp3</location>
+<title>Som om du skulle være et barn</title>
+<trackNum>39</trackNum>
+<duration>61675</duration>
+</track>
+<track>
+<location>40_Valgtale.mp3</location>
+<title>Valgtale</title>
+<trackNum>40</trackNum>
+<duration>57991</duration>
+</track>
+<track>
+<location>41_Jeg_sier_det_.mp3</location>
+<title>Jeg sier det nå</title>
+<trackNum>41</trackNum>
+<duration>50703</duration>
+</track>
+<track>
+<location>42_Mammarazzi.mp3</location>
+<title>Mammarazzi</title>
+<trackNum>42</trackNum>
+<duration>48640</duration>
+</track>
+<track>
+<location>43_Bare_din_mamm.mp3</location>
+<title>Bare din mamma</title>
+<trackNum>43</trackNum>
+<duration>63712</duration>
+</track>
+<track>
+<location>44_En_plass_i_sk.mp3</location>
+<title>En plass i skyggen</title>
+<trackNum>44</trackNum>
+<duration>39549</duration>
+</track>
+<track>
+<location>45_Pippi_og_Anni.mp3</location>
+<title>Pippi og Annika</title>
+<trackNum>45</trackNum>
+<duration>46680</duration>
+</track>
+<track>
+<location>46_O_.mp3</location>
+<title>O!</title>
+<trackNum>46</trackNum>
+<duration>45426</duration>
+</track>
+<track>
+<location>47_Ingen_shoppin.mp3</location>
+<title>Ingen shopping</title>
+<trackNum>47</trackNum>
+<duration>37172</duration>
+</track>
+<track>
+<location>48_Barna_i_Afrik.mp3</location>
+<title>Barna i Afrika</title>
+<trackNum>48</trackNum>
+<duration>42240</duration>
+</track>
+<track>
+<location>49_Et_vanlig_m_l.mp3</location>
+<title>Et vanlig måltid</title>
+<trackNum>49</trackNum>
+<duration>45479</duration>
+</track>
+<track>
+<location>50_Andres_barn.mp3</location>
+<title>Andres barn</title>
+<trackNum>50</trackNum>
+<duration>41534</duration>
+</track>
+<track>
+<location>51_Det_st_rste_i.mp3</location>
+<title>Det største i verden</title>
+<trackNum>51</trackNum>
+<duration>41613</duration>
+</track>
+<track>
+<location>52_V_relse_nr__1.mp3</location>
+<title>Værelse nr. 19</title>
+<trackNum>52</trackNum>
+<duration>77087</duration>
+</track>
+<track>
+<location>53_Stengt_for_om.mp3</location>
+<title>Stengt for ombygging</title>
+<trackNum>53</trackNum>
+<duration>64548</duration>
+</track>
+<track>
+<location>54_Et_siste_m_lt.mp3</location>
+<title>Et siste måltid</title>
+<trackNum>54</trackNum>
+<duration>52506</duration>
+</track>
+<track>
+<location>55_Mor__far_og_u.mp3</location>
+<title>Mor, far og unge</title>
+<trackNum>55</trackNum>
+<duration>38112</duration>
+</track>
+<track>
+<location>56_Lykken.mp3</location>
+<title>Lykken</title>
+<trackNum>56</trackNum>
+<duration>128496</duration>
+</track>
+<track>
+<location>57_En_hilsen_fra.mp3</location>
+<title>En hilsen fra vaskemaskinen</title>
+<trackNum>57</trackNum>
+<duration>52271</duration>
+</track>
+<track>
+<location>58_Verdens_mest_.mp3</location>
+<title>Verdens mest konkrete dikt</title>
+<trackNum>58</trackNum>
+<duration>55562</duration>
+</track>
+<track>
+<location>59_Morskap.mp3</location>
+<title>Morskap</title>
+<trackNum>59</trackNum>
+<duration>57417</duration>
+</track>
+<track>
+<location>60_Hjem_til_det_.mp3</location>
+<title>Hjem til det surrealistiske manifest</title>
+<trackNum>60</trackNum>
+<duration>58122</duration>
+</track>
+<track>
+<location>61_Etterlysning.mp3</location>
+<title>Etterlysning</title>
+<trackNum>61</trackNum>
+<duration>38243</duration>
+</track>
+<track>
+<location>62_Prisen_for_et.mp3</location>
+<title>Prisen for et dikt</title>
+<trackNum>62</trackNum>
+<duration>46001</duration>
+</track>
+<track>
+<location>63_En_alle_tider.mp3</location>
+<title>En alle tiders mor</title>
+<trackNum>63</trackNum>
+<duration>97436</duration>
+</track>
+<track>
+<location>64_Simone.mp3</location>
+<title>Simone</title>
+<trackNum>64</trackNum>
+<duration>58540</duration>
+</track>
+<track>
+<location>65_Dikt_for_barn.mp3</location>
+<title>Dikt for barn</title>
+<trackNum>65</trackNum>
+<duration>26618</duration>
+</track>
+<track>
+<location>66_Bok__slutt_.mp3</location>
+<title>Bok, slutt.</title>
+<trackNum>66</trackNum>
+<duration>2246</duration>
+</track>
+</trackList>
+</playlist>
