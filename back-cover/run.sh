@@ -3,6 +3,9 @@
 MASTER_DIR=$1
 BACK_COVER_DIR=$2
 BOOK_ID=$3
+if [ "$NOTIFY_SLACK_WHEN_NOT_AVAILABLE" = "" ];
+    NOTIFY_SLACK_WHEN_NOT_AVAILABLE="true"
+fi
 
 if [ "$MASTER_DIR" = "" ] || [ "$BACK_COVER_DIR" = "" ] || [ "$BOOK_ID" = "" ] ; then
     echo "usage: ./`basename "$0"` MASTER_DIR BACK_COVER_DIR BOOK_ID"
@@ -19,4 +22,5 @@ docker run \
     -v "$DIR/src/main/resources":"/tmp/script" \
     -v "$MASTER_DIR/$BOOK_ID":"/tmp/input/$BOOK_ID" \
     -v "$BACK_COVER_DIR":"/tmp/output" \
+    -e NOTIFY_SLACK_WHEN_NOT_AVAILABLE=$NOTIFY_SLACK_WHEN_NOT_AVAILABLE
     nlbdev/docker-nlb-base

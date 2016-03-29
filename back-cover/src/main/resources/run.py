@@ -72,11 +72,12 @@ def main(argv):
             book_title = " ("+book_title+")"
         botname = config.get("back-cover-botname", "back-cover-bot")
         channel = config.get("back-cover-channel", "#general")
-        slack.chat.post_message(
-                                channel,
-                                (_('Audio back cover is ready for') if source_audio != None else _('Audio back cover is not available for'))+' '+book_id+book_title,
-                                botname
-                                )
+        if not 'NOTIFY_SLACK_WHEN_NOT_AVAILABLE' in os.environ or str(os.environ['NOTIFY_SLACK_WHEN_NOT_AVAILABLE']).lower() != "false":
+            slack.chat.post_message(
+                                    channel,
+                                    (_('Audio back cover is ready for') if source_audio != None else _('Audio back cover is not available for'))+' '+book_id+book_title,
+                                    botname
+                                    )
     else:
         print("(no slack token in /tmp/config/slack.token; won't post to slack)")
 

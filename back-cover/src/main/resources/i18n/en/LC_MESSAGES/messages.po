@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-16 16:11+0100\n"
+"POT-Creation-Date: 2016-03-29 10:45+0200\n"
 "PO-Revision-Date: 2015-07-30 22:58+0200\n"
 "Last-Translator: Jostein Austvik Jacobsen <josteinaj@gmail.com>\n"
 "Language-Team: Engelsk <>\n"
@@ -33,14 +33,14 @@ msgstr " will be used as input"
 msgid "Unable to find a back cover for"
 msgstr "Unable to find a back cover for"
 
-#: run.py:77
+#: run.py:78
 msgid "Audio back cover is ready for"
 msgstr "Audio back cover is ready for"
 
-#: run.py:77
+#: run.py:78
 msgid "Audio back cover is not available for"
 msgstr "Audio back cover is not available for"
 
-#: run.py:100
+#: run.py:101
 msgid "XSLT failed"
 msgstr "XSLT failed"
