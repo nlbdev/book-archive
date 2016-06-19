@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -x
 # This script finds a DAISY 2.02 book in /tmp/input/{bookid}/,
 # and extracts an mp3 containing the book title into /tmp/output/{bookid}.mp3
 # The ncc must have an element with class="title" for the script to be able to find the mp3.
@@ -33,7 +33,7 @@ cd "`echo "$NCC" | sed 's/\/[^\/]*$//'`"
 NCC="`echo "$NCC" | sed 's/.*\///'`"
 
 # find smil reference in ncc
-SMIL="`cat "$NCC" | tr -d "\n" | sed 's/^.*\?class="title"//' | grep 'class="title"' | sed 's/</\n</g' | grep href | head -n 1 | sed 's/.*href="//' | sed 's/".*//'`"
+SMIL="`cat "$NCC" | tr -d "\n" | sed 's/^.*\?class="title"/class="title"/' | grep 'class="title"' | sed 's/</\n</g' | grep href | head -n 1 | sed 's/.*href="//' | sed 's/".*//'`"
 if [ "$SMIL" = "" ]; then
     echo "Title was not found for $BOOK_ID"
     exit

@@ -15,8 +15,8 @@ DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
 docker run \
     -e LANG=C.UTF-8 \
-    -v "$HOME/config":"/tmp/config" \
-    -v "$DIR/src/main/resources":"/tmp/script" \
-    -v "$MASTER_DIR/$BOOK_ID":"/tmp/input/$BOOK_ID" \
+    -v "$HOME/config":"/tmp/config":ro \
+    -v "$DIR/src/main/resources":"/tmp/script":ro \
+    -v "$MASTER_DIR/$BOOK_ID":"/tmp/input/$BOOK_ID":ro \
     -v "$ABSTRACTS_DIR":"/tmp/output" \
     nlbdev/docker-nlb-base
