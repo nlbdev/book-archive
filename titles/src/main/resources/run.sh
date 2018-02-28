@@ -47,7 +47,7 @@ MP3_HREF="`cat "$SMIL_HREF" | tr -d "\n" | sed "s/^.*\?id=\"$SMIL_ID\"//" | sed 
 # get audio
 MP3_LENGTH="`mp3info -p "%S\n" "$MP3_HREF"`"
 if [ "$MP3_LENGTH" -lt 60 ]; then
-    "$MP3_HREF is less than a minute; just use the whole mp3, it probably only contains the title"
+    echo "$MP3_HREF is less than a minute; just use the whole mp3, it probably only contains the title"
     cp "$MP3_HREF" "/tmp/output/$BOOK_ID.mp3"
     
 else
